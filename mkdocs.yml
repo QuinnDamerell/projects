@@ -1,0 +1,187 @@
+
+# Inspired by the MkDocs Material mkdocs.yml
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+
+site_name: Quinn Damerell Project Archive
+site_url: https://projects.quinn.space
+site_author: Quinn Damerell
+site_description: >-
+  A collection of software projects by Quinn Damerell through the years.
+
+# Copyright
+copyright: Copyright &copy; 2025 Quinn Damerell
+
+theme:
+  name: material
+  language: en
+
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    #- navigation.indexes Disabled so that the header doesn't eat the index page.
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.path
+    #- navigation.sections
+    #- navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
+  # Setup a dark and light theme.
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+  # Setup the font and logos.
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/logo.png
+
+
+plugins:
+  - mkdocs-video:
+      video_autoplay: false
+      video_muted: True
+  - glightbox:
+      touchNavigation: true
+      loop: true
+      effect: zoom
+      slide_effect: slide
+      auto_caption: false
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+  # Allows use to use nav.yml files per dir to control the nav order
+  # https://lukasgeiter.github.io/mkdocs-awesome-nav/
+  - awesome-nav:
+  - social:
+      cards: false
+
+# Additional configuration
+extra:
+  homepage: https://quinn.space
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  analytics:
+    provider: google
+    property: G-5XSHMJFZC8
+  social:
+    - icon: octicons/globe-24
+      link: https://quinn.space
+    - icon: fontawesome/brands/github
+      link: https://github.com/QuinnDamerell
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/quinndamerell.bsky.social
+
+
+# A lot of these are from other pages I liked, I don't use them all.
+markdown_extensions:
+    - abbr
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - pymdownx.blocks.caption
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
+    - pymdownx.saneheaders
+    - pymdownx.blocks.admonition
+    - pymdownx.blocks.details:
+        types:
+        - name: details-new
+          class: new
+        - name: details-settings
+          class: settings
+        - name: details-note
+          class: note
+        - name: details-abstract
+          class: abstract
+        - name: details-info
+          class: info
+        - name: details-tip
+          class: tip
+        - name: details-success
+          class: success
+        - name: details-question
+          class: question
+        - name: details-warning
+          class: warning
+        - name: details-failure
+          class: failure
+        - name: details-danger
+          class: danger
+        - name: details-bug
+          class: bug
+        - name: details-example
+          class: example
+        - name: details-quote
+          class: quote
+        - name: api-example-response
+          class: example
+          title: "Response Example"
+        - name: api-response-spec
+          class: info
+          title: "Response Specification"
+        - name: api-parameters
+          class: info
+          title: "Parameters"
+        - name: api-notification-spec
+          class: info
+          title: "Notification Parameter Specification"
+    - tables

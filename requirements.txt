@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-get-deps
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-minify-plugin
+mkdocs-awesome-nav
+mkdocs-glightbox
+mkdocs-video

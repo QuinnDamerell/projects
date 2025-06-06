@@ -1,6 +1,10 @@
 # Prism
 
-**Created In: 2016**
+
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2016    | No      | [GitHub](https://github.com/QuinnDamerell/Prism) |
+
 
 ## Description
 
@@ -17,7 +21,3 @@ Quinn used Microsoft Garage’s laser cutter to fabricate the acrylic componen
 <!-- These are hosted on CloudFlare's R2 object storage since Pages can only take up to 25MB -->
 ![type:video](https://projects-storage.quinn.space/prism-final.mp4)
 ![type:video](https://projects-storage.quinn.space/prism-prototype.mp4)
-
-## Code Git Repo
-
-[GitHub Repo](https://github.com/QuinnDamerell/Prism)

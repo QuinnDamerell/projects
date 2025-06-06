@@ -1,6 +1,9 @@
 # Mixer Carl
 
-**Created In: 2019 - Now Defunct**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2019    | Yes      | [Github](https://github.com/QuinnDamerell/mixer-carl) |
+
 
 ## Description
 
@@ -8,6 +11,3 @@ Mixer Carl was a playful bot that let Mixer users interact across channels. It
 
 Beloved by many streamers—but irritating to others—Carl was eventually disabled. Not long afterward, Mixer.com shut down.
 
-## Repo
-
-[GitHub Repo](https://github.com/QuinnDamerell/mixer-carl)

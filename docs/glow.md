@@ -1,6 +1,8 @@
 # Glow - Home Decor Ambient Lighting
 
-**Created In: 2015**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2015    | No      | [Github](https://github.com/QuinnDamerell/Glow) |
 
 ## Description
 
@@ -12,9 +14,4 @@ The software visualizes data by changing the lantern colors—for example, showi
 
 <!-- These are hosted on CloudFlare's R2 object storage since Pages can only take up to 25MB -->
 ![type:video](https://projects-storage.quinn.space/glow-demo.mp4)
-
-## Code Git Repo
-
-[GitHub Repo](https://github.com/QuinnDamerell/Glow)
-
 

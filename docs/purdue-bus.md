@@ -1,6 +1,8 @@
 # PurdueBus - A CityBus App for Android
 
-**Created In: 2010 - Now Defunct**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2010    | Yes      | None |
 
 **Developed By: Quinn Damerell & Bryan Ehrlich**
 

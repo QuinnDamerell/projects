@@ -1,8 +1,9 @@
 # QWorld
 
-**Created In: 2013**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2013    | Yes      | None |
 
-**Developed By: Quinn Damerell**
 
 ## Description
 

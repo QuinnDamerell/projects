@@ -1,6 +1,8 @@
 # CrossTxT
 
-**Created In: 2010 - Defunct**
+| Created | Defunct | Domain |
+| ------- | ------- | --------- |
+| 2010    | Yes     | CrossTxT.com |
 
 **Created By: Quinn Damerell & Bryan Ehrlich**
 

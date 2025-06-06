@@ -1,6 +1,8 @@
-# PurdueBus - A CityBus App for Windows Phone
+# Next Bus - A CityBus App for Windows Phone
 
-**Created In: 2011 - Now Defunct**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2011    | Yes      | None |
 
 ## Description
 

@@ -1,6 +1,8 @@
 # Reddit Time Machine
 
-**Created In: 2008 - Now Defunct**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2008    | Yes      | None |
 
 ## Description
 

@@ -1,6 +1,8 @@
 # Thinking Of You
 
-**Created In: 2011 - Now Defunct**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2011    | Yes      | None |
 
 **Created For: Marilyn 🥰**
 

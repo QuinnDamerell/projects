@@ -1,6 +1,8 @@
 # Kokka Koro
 
-**Created In: 2019**
+| Created | Defunct | Code Repo |
+| ------- | ------- | --------- |
+| 2019    | Yes      | [Github](https://github.com/QuinnDamerell/KokkaKoro) |
 
 ## Description
 
@@ -8,6 +10,4 @@ Kokka Koro is an Azure App Service that lets users create bots (via an SDK) to
 
 Quinn built the project while on leave with his infant twins, coding during nap times in the midst of the COVID lockdowns—when there wasn’t much else to do.
 
-## Repo
 
-[GitHub Repo](https://github.com/QuinnDamerell/KokkaKoro)

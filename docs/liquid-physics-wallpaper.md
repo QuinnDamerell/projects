@@ -8,7 +8,8 @@ Liquid Physics Live Wallpaper is a highly customizable live background for And
 
 ## Videos
 
-![type:video](./assets/liquid-physics/demo.mp4)
+<!-- These are hosted on CloudFlare's R2 object storage since Pages can only take up to 25MB -->
+![type:video](https://projects-storage.quinn.space/liquid-physics-demo.mp4)
 
 ## Screenshots
 

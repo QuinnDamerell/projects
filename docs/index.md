@@ -4,11 +4,9 @@ hide:
   - toc
 ---
 
-# Quinn Damerell Project Archive
+# Project Archive
 
-A collection of projects created by Quinn Damerell over the years, listed roughly in chronological order.
-
-Tap the titles to learn more. 🖱️
+This is a collection of projects created by Quinn Damerell, listed roughly in chronological order.
 
 ## [🏠 Homeway.io](./homeway.md)
 Leveling up Home Assistants with powerful cloud tools like a life-like voice assistant powered by ChatGPT, remote access, and more.

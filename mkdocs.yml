@@ -99,7 +99,7 @@ extra:
     deprecated: Deprecated
   analytics:
     provider: google
-    property: G-5XSHMJFZC8
+    property: G-HY33DGEY4B
   social:
     - icon: octicons/globe-24
       link: https://quinn.space

@@ -1,4 +1,5 @@
 nav:
+  - Project Index: index.md
   - Homeway.io: homeway.md
   - OctoEverywhere.com: octoeverywhere.md
   - Baconit: baconit.md
@@ -9,7 +10,10 @@ nav:
   - Q World: qworld.md
   - Mixer Carl: mixer-carl.md
   - MixTok: mix-tok.md
+  - Loyalty: loyalty.md
   - Thinking Of You: thinking-of-you.md
+  - Crack The Whip: crack-the-whip.md
+  - Instemote: instemote.md
   - Liquid Physics Wallpaper: liquid-physics-wallpaper.md
   - Next Bus: next-bus.md
   - Purdue Bus: purdue-bus.md

@@ -1,18 +1,20 @@
 # TxTBack
 
+
+## Facts
+
 | Created | Defunct | Code Repo |
 | ------- | ------- | --------- |
-| 2009    | Yes      | None |
+| 2009    | Yes     | None      |
 
-
-
-**Created In: 2009 - Now Defunct**
 
 ## Description
 
-The idea of TxTBack was to create a social experience in which users anonymously texted a single phone number, with their messages forwarded to another participant. The pair remained connected until one chose to switch, enabling extended conversations.
+The concept behind TxTBack was to create a social experience where users could anonymously text a single phone number, with their messages being forwarded to another participant. The two users remained connected until one chose to switch, allowing for extended conversations.
 
-After being posted on Reddit, the project gained traction, but its Google Voice implementation soon hit rate‑limit restrictions and the project was shutdown. The only alternative to Google Voice at the time were SMS API services, which were very expensive.
+This idea was inspired by the early days of Omegle.
+
+After being posted on Reddit, the project gained popularity; however, its use of Google Voice soon faced rate-limit restrictions, leading to its shutdown. At that time, the only alternative to Google Voice was SMS API services, which were quite expensive.
 
 ## Screenshots
 

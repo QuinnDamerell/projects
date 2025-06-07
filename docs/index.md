@@ -4,57 +4,66 @@ hide:
   - toc
 ---
 
-# Project Archive
+# Project Index
 
 This is a collection of projects created by Quinn Damerell, listed roughly in chronological order.
 
-## [🏠 Homeway.io](./homeway.md)
-Leveling up Home Assistants with powerful cloud tools like a life-like voice assistant powered by ChatGPT, remote access, and more.
+### [🏠 Homeway.io](./homeway.md)
+Level up your Home Assistant with powerful cloud tools, including a lifelike ChatGPT‑powered voice assistant, remote access, and more
 
-## [🚀 OctoEverywhere.com](./octoeverywhere.md)
-A 3D printing community project that aims to empower makers worldwide  with awesome cloud tools.
+### [🚀 OctoEverywhere.com](./octoeverywhere.md)
+A 3D‑printing community project empowering makers worldwide with awesome cloud tools.
 
-## [🥓 Baconit](./baconit.md)
-The top-rated Reddit app for Windows and Windows Phone.
+### [🥓 Baconit](./baconit.md)
+The top‑rated Reddit app for Windows and Windows Phone.
 
-## [📲 CrossTxT](./baconit.md)
-A cloud text message solution for Android enables a web UI that can send and receive texts via the user's phone.
+### [📲 CrossTxT](./crosstxt.md)
+A cloud‑based Android texting solution that lets a web UI send and receive messages through the user’s phone.
 
-## [🌈 Prism](./prism.md)
-An acrylic, multicolor LED, 3D pattern generating desktop display.
+### [🌈 Prism](./prism.md)
+An acrylic desktop display with a multicolor LED grid that generates 3‑D light patterns.
 
-## [🔵 Glow](./glow.md)
-A room atmosphere decoration IOT art piece that features 5 paper balls that would glow colors depending on the weather, notifications, and more.
+### [🔵 Glow](./glow.md)
+An IoT art piece featuring five paper lanterns that change color based on weather, notifications, and more.
 
-## [🏙️ Kokka Koro](./kokka-koro.md)
-A simple Azure service that allowed for Python and C3 bots to play a Machi Koro style game against each other.
+### [🏙️ Kokka Koro](./kokka-koro.md)
+An Azure service that lets Python and C# bots compete in a Machi Koro‑style game.
 
-## [🎮 Q World](./qworld.md)
-A Discord based, DND-ish, escape room-ish, multiplayer game created for my Birthday and played by my friends.
+### [🎮 Q World](./qworld.md)
+A Discord‑based, D&D‑meets‑escape‑room multiplayer game Quinn created for his birthday and ran for friends.
 
-## [🙊 Mixer Carl](./mixer-carl.md)
-Mixer Carl was a fun bot for the website Mixer.com. It kept track of what channel users were watching and allowed for other users to find them and summon them.
+### [🙊 Mixer Carl](./mixer-carl.md)
+A playful Mixer.com bot that tracked which channels users were watching and let others locate or summon them.
 
-## [🎶 MixTok](./mix-tok.md)
-MixTok was a simple project to use video clips from Mixer.com streamers and present them in a TikTok style scrolling list.
+### [🎶 MixTok](./mix-tok.md)
+A project that repackaged Mixer.com streamer clips into a TikTok‑style scrolling feed.
 
-## [💖 Thinking Of You](./baconit.md)
-A simple Windows Phone app that only pairs with one other and allows you to send "thinking of you" notifications and text messages.
+### [💳 Loyalty](./loyalty.md)
+A loyalty‑rewards app built for Microsoft Commons.
 
-## [🧪 Liquid Physics Live Wallpaper](./baconit.md)
-A top-rated Android live wallpaper with a full dynamic fluid physics simulation that's very customizable.
+### [💖 Thinking Of You](./thinking-of-you.md)
+A Windows Phone app that pairs one‑to‑one, letting users send “thinking of you” notifications and messages.
 
-## [🚌 Next Bus](./baconit.md)
-A realtime Purdue bus information app for Windows Phone.
+### [💥 Crack The Whip](./crack-the-whip.md)
+A novelty Windows Phone app that plays a whip‑crack sound with a tap or a whip‑like swing.
 
-## [🚍 Purdue Bus](./baconit.md)
-A realtime Purdue bus information app for Android.
+### [💡 Instemote](./instemote.md)
+An Insteon lighting‑control app for Windows Phone.
 
-## [😋 Purdue Food Court Menu](./baconit.md)
-An Android app to view the Purdue food court menus.
+### [🧪 Liquid Physics Live Wallpaper](./liquid-physics-wallpaper.md)
+A top‑rated Android live wallpaper featuring a fully customizable fluid‑physics simulation.
 
-## [💬 TxTBack](./txtback.md)
-A social network that paired users one to one via text messages.
+### [🚌 Next Bus](./next-bus.md)
+A real‑time Purdue bus info app for Windows Phone.
 
-## [👽 Reddit Time Machine](./reddit-time-machine.md)
-A very simple website that archived the front page of reddit daily.
+### [🚍 Purdue Bus](./purdue-bus.md)
+A real‑time Purdue bus info app for Android.
+
+### [😋 Purdue Food Court Menu](./purdue-menu.md)
+An Android app for browsing Purdue food‑court menus.
+
+### [💬 TxTBack](./txtback.md)
+A social network that paired users one‑to‑one via text messages.
+
+### [👽 Reddit Time Machine](./reddit-time-machine.md)
+A simple website that archived Reddit’s front page each day.

@@ -1,14 +1,17 @@
 # CrossTxT
 
+## Facts
+
+**Created By: Quinn Damerell & Bryan Ehrlich**
+
 | Created | Defunct | Domain |
 | ------- | ------- | --------- |
 | 2010    | Yes     | CrossTxT.com |
 
-**Created By: Quinn Damerell & Bryan Ehrlich**
 
 ## Description
 
-CrossTxT is a cloud‑based text‑messaging system that lets users send texts from any computer with an internet connection. Benefits include sending messages from the user’s own phone number, full inbox synchronization between phone and web, and automatic message backups—delivering a truly cloud‑native experience.
+CrossTxT is a cloud‑based text‑messaging system that lets users send texts from any computer with an internet connection. Benefits include sending messages from the user’s phone number, full inbox synchronization between phone and web, and automatic message backups—delivering a truly cloud‑native experience.
 
 CrossTxT was created to make viewing and responding to texts on a computer effortless. When a message arrives, a desktop pop‑up appears within seconds, and the user can reply directly from the notification. Conversations can also be initiated and browsed on the website exactly as on the phone.
 

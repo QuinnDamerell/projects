@@ -1,5 +1,7 @@
 # Purdue Food Court Menu
 
+## Facts
+
 | Created | Defunct | Code Repo |
 | ------- | ------- | --------- |
 | 2010    | Yes      | None |

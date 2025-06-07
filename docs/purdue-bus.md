@@ -1,14 +1,17 @@
 # PurdueBus - A CityBus App for Android
 
+## Facts
+
+**Developed By: Quinn Damerell & Bryan Ehrlich**
+
 | Created | Defunct | Code Repo |
 | ------- | ------- | --------- |
 | 2010    | Yes      | None |
 
-**Developed By: Quinn Damerell & Bryan Ehrlich**
 
 ## Description
 
-PurdueBus is an Android app that helps Purdue students quickly find their next bus. For GPS‑enabled phones, it pinpoints the user’s location on campus and displays all nearby CityBus stops. Selecting a stop reveals the scheduled arrival times for every bus.
+PurdueBus is an Android app that lets Purdue students quickly locate their next CityBus. GPS‑enabled phones automatically pinpoint the user’s location on campus and list all nearby stops. Tapping a stop displays the scheduled arrival times for each bus.
 
 ## Screenshots
 

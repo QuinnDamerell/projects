@@ -3,6 +3,26 @@
 {% block scripts %}
   <!-- Add scripts that need to run before here -->
   {{ super() }}
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="f74f43c8-5730-442e-8c0c-2c5c7112efe1"></script>
+
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.quinn.space"]);
+    _paq.push(['setDomains', '*.quinn.space']);
+    _paq.push(["setCampaignNameKey", "source"]);
+    _paq.push(["setExcludedQueryParams", ["account","accountnum","address","address1","address2","address3","addressline1","addressline2","adres","adresse","age","alter","auth","authpw","bic","billingaddress","billingaddress1","billingaddress2","calle","cardnumber","cc","ccc","cccsc","cccvc","cccvv","ccexpiry","ccexpmonth","ccexpyear","ccname","ccnumber","cctype","cell","cellphone","city","clientid","clientsecret","company","consumerkey","consumersecret","contrasenya","contrase\u00f1a","creditcard","creditcardnumber","cvc","cvv","dateofbirth","debitcard","direcci\u00f3n","dob","domain","ebost","email","emailaddress","emailadresse","epos","epost","eposta","exp","familyname","firma","firstname","formlogin","fullname","gender","geschlecht","gst","gstnumber","handynummer","has\u0142o","heslo","iban","ibanaccountnum","ibanaccountnumber","id","identifier","indirizzo","kartakredytowa","kennwort","keyconsumerkey","keyconsumersecret","konto","kontonr","kontonummer","kredietkaart","kreditkarte","kreditkort","lastname","login","mail","mobiili","mobile","mobilne","nachname","name","nickname","false","osoite","parole","pass","passord","password","passwort","pasword","paswort","paword","phone","pin","plz","postalcode","postcode","postleitzahl","privatekey","publickey","pw","pwd","pword","pwrd","rue","secret","secretq","secretquestion","shippingaddress","shippingaddress1","shippingaddress2","socialsec","socialsecuritynumber","socsec","sokak","ssn","steuernummer","strasse","street","surname","swift","tax","taxnumber","tel","telefon","telefonnr","telefonnummer","telefono","telephone","token","token_auth","tokenauth","t\u00e9l\u00e9phone","ulica","user","username","vat","vatnumber","via","vorname","wachtwoord","wagwoord","webhooksecret","website","zip","zipcode","source"]]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//oe-users.octoeverywhere.com/";
+      _paq.push(['setTrackerUrl', u+'user.php']);
+      _paq.push(['setSiteId', '2']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'user.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+
 {% endblock %}
 

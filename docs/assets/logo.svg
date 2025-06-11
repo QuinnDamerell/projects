@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Inter-SemiBold, Inter;
+        font-size: 831.11px;
+        font-variation-settings: 'opsz' 14, 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="1000" height="1000" rx="238" ry="238"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="256.17" y1="1103.5" x2="743.83" y2="-103.5" gradientTransform="translate(0 1000) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4cff"/>
+      <stop offset=".25" stop-color="#694bfb"/>
+      <stop offset=".47" stop-color="#6547f1"/>
+      <stop offset=".66" stop-color="#5d42df"/>
+      <stop offset=".85" stop-color="#533bc7"/>
+      <stop offset=".91" stop-color="#5039bf"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g class="cls-4">
+      <g id="Layer_4" data-name="Layer 4">
+        <rect class="cls-3" width="1000" height="1000"/>
+      </g>
+      <text class="cls-2" transform="translate(131.51 798.02) scale(1.15 1)"><tspan x="0" y="0">Q</tspan></text>
+    </g>
+  </g>
+</svg>

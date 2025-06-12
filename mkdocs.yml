@@ -73,7 +73,8 @@ theme:
 
 plugins:
   - mkdocs-video:
-      video_autoplay: false
+      is_video: True
+      video_autoplay: False
       video_muted: True
   - glightbox:
       touchNavigation: true

@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/Android/comments/g2rxw/android_testers_needed_epically_xoom_users/",
+  "original_urls": [
+    "https://www.reddit.com/r/Android/comments/g2rxw/"
+  ],
+  "title": "Android Testers Needed!! - Epically Xoom Users",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.026858+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1299966606,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 31,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 31,
+  "recorded_comment_count": 31,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=g2rxw",
+      "fetched_utc": "2026-10-18T17:06:24.178127+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 2207,
+      "sha256": "56cf7a1aceb26650bea9c75806725c99b10fb222e88f72c9895535f8fc96f241",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=g2rxw",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=g2rxw&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:26.149847+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 21722,
+      "sha256": "f6f32edfba7190f716bc6f6dd5aedff00856279d02c6174e52c0f9074023b6a2",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=g2rxw&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "988710d88379fb63222994a8bc7b01b3d1e195a9a4f51680fd3c4b0568080f41"
+}

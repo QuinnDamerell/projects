@@ -1,0 +1,34 @@
+{
+  "video_id": "HinYfH2TJiw",
+  "title": "12 MUST-HAVE Octoprint Plugins for Happier 3D Printing",
+  "channel": "The Next Layer",
+  "channel_url": "https://www.youtube.com/@thenextlayer",
+  "published": "2023-01-31",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=HinYfH2TJiw",
+  "filename": "youtube-next-layer-octoprint-plugins-2023.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-next-layer-octoprint-plugins-2023.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 768.766259,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 97625478,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/HinYfH2TJiw/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": [
+    {
+      "anchor": "octoeverywhere",
+      "seconds": 255,
+      "label": "OctoEverywhere at 4:15"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "video_id": "sIpWVP-TPM4",
+  "title": "OctoEverywhere Gives Your 3D Printer Failure Detection, Remote Access, Live Streaming and More!",
+  "channel": "Figure Feedback",
+  "channel_url": "https://www.youtube.com/@FigureFeedback",
+  "published": "2024-03-18",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=sIpWVP-TPM4",
+  "filename": "youtube-figure-feedback-octoeverywhere-2024.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-figure-feedback-octoeverywhere-2024.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1063.822222,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 244112973,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/sIpWVP-TPM4/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://www.reddit.com/r/windowsphone/comments/ulxfp/100000_apps_published_to_windows_phone_marketplace/",
+  "original_urls": [
+    "https://www.reddit.com/r/windowsphone/comments/ulxfp/comment/c4wkt3k/",
+    "https://www.reddit.com/r/windowsphone/comments/ulxfp/"
+  ],
+  "title": "100,000 apps published to Windows Phone Marketplace",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:05.926803+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1338896220,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 20,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 20,
+  "recorded_comment_count": 18,
+  "required_comment_ids": [
+    "c4wkt3k"
+  ],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [
+    "c4wzhha",
+    "c4wrz2w"
+  ],
+  "missing_parent_ids": [],
+  "gaps": [
+    "Recovered 20 comment records; the archived post reports 18. Counts come from different archive observations and cannot establish complete recovery.",
+    "2 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=ulxfp",
+      "fetched_utc": "2026-10-18T17:06:07.366912+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 971,
+      "sha256": "c13081977c3d3a16cfef4b0d659cdeee0eb3675cdc0291d047e533bb98bcc6fe",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=ulxfp",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=ulxfp&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:09.645124+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 13141,
+      "sha256": "0d2f453e4cdbba0b416986f5a6a3d2bb33b6001f698ac29e25320e4e4f37a078",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=ulxfp&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "1fc3df6a89d353218f4213c3482d5a4776e49f427eefa92f3bec4b6177d5340f"
+}

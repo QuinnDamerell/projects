@@ -1,0 +1,15 @@
+<html>
+<title>Thunder Dome Fireworks</title>
+<frameset rows="20%,80%">
+
+<frame name="title" src="title_move.swf" frameborder="0" scrolling="no noresize="false" >
+
+<frameset cols="15%,85%">
+<frame name="list" src="list.html"  frameborder="0" >
+<frame name="product" src="home.html"   frameborder="0"  >
+</frameset>
+
+</frameset>
+
+</html>
+

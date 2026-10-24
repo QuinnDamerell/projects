@@ -1,0 +1,13 @@
+{
+  "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1cjh8qv&limit=25000&start_breadth=1000&start_depth=1000",
+  "fetched_utc": "2026-10-18T17:06:39.548421+00:00",
+  "http_status": "200",
+  "curl_exit": 0,
+  "attempt": 1,
+  "bytes": 583742,
+  "sha256": "cefeeef8171f43701bfba72bff3d179254c6b27bf6e2d5ac432ed0b1b01ae993",
+  "raw_file": "raw/comments-tree.json",
+  "valid_archive_json": true,
+  "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1cjh8qv&limit=25000&start_breadth=1000&start_depth=1000",
+  "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+}

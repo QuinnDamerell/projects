@@ -1,0 +1,28 @@
+{
+  "video_id": "JvU89-9s-3w",
+  "title": "Access Your 3D Printer Octoprint ANYWHERE... on ANY DEVICE!",
+  "channel": "The Next Layer",
+  "channel_url": "https://www.youtube.com/@thenextlayer",
+  "published": "2022-09-05",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=JvU89-9s-3w",
+  "filename": "youtube-next-layer-octoeverywhere-remote-access-2022.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-next-layer-octoeverywhere-remote-access-2022.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1015.408617,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 152405130,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/JvU89-9s-3w/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setSiteSpeedSampleRate',100]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Liquid Physics, Liquid Physics Live Wallpaper, Live Wallpaper, Android, Android application, Android Live Wallpaper">
+<META NAME="description" CONTENT="Liquid Physics Live Wallpaper is a mesmerizing and fully customizable liquid simulation live wallpaper for any Android 2.0+ device.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several">
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="../css/lightbox.css" type="text/css" media="screen"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<title>Liquid Physics Live Wallpaper - QuinnDamerell.com</title>
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/prototype.js"></script>
+<script type="text/javascript" src="../Scripts/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="../Scripts/lightbox.js"></script>
+<script type="text/javascript" src="../Scripts/effects.js"></script>
+<script type="text/javascript" src="../Scripts/builder.js"></script>
+<script language="Javascript">var img_over;if(document.images){img_over=new Image();img_over.src="http://www.quinndamerell.com/images/navBar/rollBack.png";}
+var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();function mouseOverNav(divId){var element=document.getElementById(divId);element.style.backgroundImage="url('http://www.quinndamerell.com/images/navBar/rollBack.png')";element.style.color="#FFFFFF";}
+function mouseOutNav(divId){var element=document.getElementById(divId);element.style.backgroundImage="none";element.style.color="";}</script>
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(../images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.downlaodlink {
+	font-size: 16px;
+	padding-left: 15px;
+	padding-right: 20px;
+}
+-->
+</style>
+<style type="text/css">.style6{color:#003a7f;font-size:18px;font-weight:bold}.pad{padding-left:25px;padding-right:10px}</style>
+</head>
+<body><div class="holder"><div class="top_bar">
+<div class="top_bar_left"></div>
+<div class="top_bar_main">
+<div class="sign_in">
+</div>
+</div>
+<div class="top_bar_right"></div>
+</div>
+<div class="title_bar"><img name="title_pic" src="../images/title_pic.png" width="447" height="63" border="0" id="title_pic" alt="QuinnDamerell.com"/></div>
+<div class="main_menu">
+<div class="nav_bar_element" id="nav_home" onmouseover="mouseOverNav('nav_home')" onmouseout="mouseOutNav('nav_home')" onclick="location.href='http://www.QuinnDamerell.com';">Home</div>
+<div class="nav_bar_element" id="nav_me" onmouseover="mouseOverNav('nav_me')" onmouseout="mouseOutNav('nav_me')" onclick="location.href='http://www.QuinnDamerell.com/about_me.php';">About Me</div>
+<div class="nav_bar_element" id="nav_proj" onmouseover="mouseOverNav('nav_proj')" onmouseout="mouseOutNav('nav_proj')" onclick="location.href='http://www.QuinnDamerell.com/projects.php';">Projects</div>
+<div class="nav_bar_element" id="nav_prof" onmouseover="mouseOverNav('nav_prof')" onmouseout="mouseOutNav('nav_prof')" onclick="location.href='http://www.QuinnDamerell.com/professional.php';">Professional</div>
+<div class="nav_bar_element" id="nav_pic" onmouseover="mouseOverNav('nav_pic')" onmouseout="mouseOutNav('nav_pic')" onclick="location.href='http://www.QuinnDamerell.com/pictures.php';">Photos</div>
+</div>
+<div class="main_body">
+<div class="main_left"><span class="welcome">CrossTxT - Android / PC</span></div>
+<div class="pad">
+<div class="downlaodlink">
+<p>CrossTxT is a project created by Bryan Ehrlich and I. It is a cloud based text messing system that allows users to send text messages from any computer with an internet connection. Advantages of CrossTxT include text messaging from your phone's phone number, full inbox synchronization between the phone and website, and full text message backup. CrossTxT is a true cloud based text messing solution.<br/>
+<br/>
+We created CrossTxT because we wanted an easy way to view and respond to text messages while on the computer. With CrossTxT, when a text message is received, the user will see a popup on their computer screen within seconds. They can also choose to reply directly from the notification. Users can also start conversations and view text messages from the website just as they would on a phone. <br/><br/>
+The CrossTxT backend is written in PHP using MySQL, and an phone application written in Java for Android.<br/><br/>
+For more information or to sign up, visit <a href="http://www.crosstxt.com" class="nounderline">CrossTxT.com</a></p>
+</div>
+<p class="style6">Screenshots</p>
+<div class="downlaodlink"><a rel="lightbox[CrossTxT]" title="CrossTxT App" href="Signin_large.png"><img src="Signin_thumb.png" alt="Manage Favorites" width="104" height="173" hspace="10" border="0"/></a><a rel="lightbox[CrossTxT]" title="CrossTxT App" href="Settings_large.png"><img src="Settings_thumb.png" alt="Manage Favorites" width="103" height="172" hspace="10" border="0"/></a><a rel="lightbox[CrossTxT]" title="CrossTxT Website" href="texting_large.png"><img src="texting_thumb.png" alt="Manage Favorites" width="287" height="179" hspace="10" border="0"/></a></div>
+<p><span class="style6">Download<br/>
+</span></p>
+<div class="downlaodlink"><a href="market://search?q=Damerell"><img src="../images/damerellQuery.png" alt="Android Market" width="111" height="111" border="0"/></a><br/>
+&nbsp;&nbsp;(<a href="market://search?q=Damerell" class="nounderline">Link</a>) (<a href="https://market.android.com/details?id=com.lozingo.crosstxt" class="nounderline">Market</a>)</div>
+<p><span class="style6">How To Use</span>
+<div class="downlaodlink">
+Go to the CrossTxT website to sign up. Further instructions can be found here.</div>
+<br/>
+</div>
+</div>
+<div class="footer">
+Copyright 2012 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br/>
+Last Updated
+<!-- #BeginDate format:fcAm1a -->Tuesday, February 7, 2012 12:28 PM<!-- #EndDate -->
+</div>
+</div>
+</body>
+</html>

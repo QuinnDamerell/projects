@@ -1,0 +1,94 @@
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style8 {font-size: 110%}
+-->
+</style>
+<title>Crazy Horse - Appetizer</title><META  name="description" content="Crazy Horse - for great food, fun, and great music!">
+<META  name="keywords" content="Crazy Horse, food, fun, Californa, restrunt"><body onLoad="MM_preloadImages('images/navbar_reviews_high.gif','images/navbar_menus_high.gif','images/navbar_concerts_high.gif','images/navbar_find_us_high.gif','images/navbar_calendar_high.gif')"><table width="744" height="1270" border="0" align="center">
+  <tr>
+    <td height="136" colspan="3"><div align="center" class="style2">
+      <p align="center"><img src="images/concerts_header.gif" alt="Crazy Horse" width="400" height="128" /></p>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="40" colspan="3"><div align="center" class="style2">
+      <div align="center"><a href="reviews.html"></a><a href="reviews.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Reviews','','images/navbar_reviews_high.gif',1)"><img src="images/navbar_reviews.gif" alt="Reviews" name="Reviews" width="90" height="30" border="0" id="Reviews" /></a><a href="menus.html"></a><a href="concerts.html"></a><a href="find_us.html"></a><a href="menus.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Menus','','images/navbar_menus_high.gif',1)"><img src="images/navbar_menus.gif" alt="Menus" name="Menus" width="90" height="30" border="0" id="Menus" /></a><a href="calendar.html"></a><a href="concerts.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Concerts','','images/navbar_concerts_high.gif',1)"><img src="images/navbar_concerts.gif" alt="Concerts" name="Concerts" width="90" height="30" border="0" id="Concerts" /></a><a href="find_us.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Find Us','','images/navbar_find_us_high.gif',1)"><img src="images/navbar_find_us.gif" alt="Find Us" name="Find Us" width="90" height="30" border="0" id="Find Us" /></a><a href="calendar.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Calendar','','images/navbar_calendar_high.gif',1)"><img src="images/navbar_calendar.gif" alt="Calendar" name="Calendar" width="90" height="30" border="0" id="Calendar" /></a></div>
+    </div></td>
+  </tr>
+  <tr>
+    <td width="22" height="1086">&nbsp;</td>
+    <td width="673"><table width="672" border="2" align="center" bordercolor="#660000" background="images/wood.gif">
+      <tr>
+        <td width="666" height="1000" background="concerts.html"><p align="center"><span class="style8"> <a href="menus.html">Menu</a> | <a href="appetizer.html">Kicken Appetizers</a> | <a href="salads.html">Garden Salads</a> | <a href="main_corces.html">Dinners</a> | <a href="side_orders.html">Side Kicks</a> | <a href="deserts.html">Dessersts</a> | <a href="beverages.html">Beverages</a></span> </p>
+          <p align="center"><img src="images/menu_header_kickin_appetizers.gif" alt="appetizers" width="231" height="27"></p>
+          <blockquote>
+            <p><span class="menu_item">CRZY HORSE SHRIMP </span><br />
+              Large shrimp buterflied,  dusted in special seasonings A&amp; sauteed in garlic butter <br />
+              8.95&nbsp; </p>
+            <p><span class="menu_item">LONE STAR WINGS </span><br />
+              Jumbo chicken wings, basted  with fiery pepper sauce and served with bleu cheese for dippin'. Helps to cool  'em down, pardner. <br />
+              5.95</p>
+            <p><span class="menu_item">ARMADILLO EGGS </span><br />
+              Jalapeno peppers stuffed  with cream cheese and lightly breaded, served with honey jalapeno dressing. <br />
+              5.75</p>
+            <p><span class="menu_item">BABY BACK PORK RIBS </span><br />
+              Tender and juicy baby back  ribs cooked to perfection in our own Crazy Horse Bar-B-Que Sauce... Finger  Lickin' Good! <br />
+              8.95</p>
+            <p><span class="menu_item">ABILENE ONION RINGS </span><br />
+              Texas-size brick of colossal  onions lightly fried in our special bunkhouse beer batter. Served with our own  Bar-B-Que Sauce. <br />
+              Half- brick 5.50 <br />
+              Full-brick 7.95&nbsp;&nbsp; </p>
+            <p><span class="menu_item">AMARILLO STYLE POTATO SKINS </span><br />
+              A meal in themselves...our  famous chili beans topped with fresh Chedder Cheese, real sour cream, freshly  diced tomatoes, chopped olives and homemade <br />
+              guacamole. <br />
+              5.95</p>
+            <p><span class="menu_item">CALAMARI SAUTEED STRIPS </span><br />
+              Tender filets of calamari  strips lightly breaded and sauteed with fresh lemon seasoning. <br />
+              6.95&nbsp; </p>
+            <p><span class="menu_item">CRAZY HORSE MUSHROOMS </span><br />
+              Fresh California mushrooms sauteed in a hot  sizzling skillet with our special combination of wine and herbs. <br />
+              5.75 </p>
+            <p align="left"><span class="menu_item">SAMPLER PLATTER</span><br />
+              A wonderful combination of  our <br />
+              Ribs, Wings, Shrimp, Onion  Rings <br />
+              and Armadillo Eggs. <br />
+              15.95 <br />
+              SERVES FOUR  &nbsp;</p>
+          </blockquote>          <p align="center"><span class="style8"><a href="menus.html">Menu</a> | <a href="appetizer.html">Kicken Appetizers</a> | <a href="salads.html">Garden Salads</a> | <a href="main_corces.html">Dinners</a> | <a href="side_orders.html">Side Kicks</a> | <a href="deserts.html">Dessersts</a> | <a href="beverages.html">Beverages</a></span></p>          </td>
+      </tr>
+    </table>
+        <p align="center"><a href="index.html">Home</a> | <a href="reviews.html">Reviews</a> | <a href="menus.html">Menus</a> | <a href="concerts.html">Concerts</a> | <a href="find_us.html">Find Us</a> | <a href="calendar.html">Calendar</a> | <a href="site_map.html">Site Map</a> <br />
+          &copy; 2007<br />
+          Last Updated on
+          <!-- #BeginDate format:fcAm1a -->Saturday, February 13, 2010 5:53 PM<!-- #EndDate -->
+        </p></td>
+    <td width="35">&nbsp;</td>
+  </tr>
+</table>

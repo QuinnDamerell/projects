@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setSiteSpeedSampleRate',100]);</script>
+<!-- new -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<title>Quinn Damerell.com - Live. Laugh. Code.</title>
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Purdue Student, Windows Phone Developer, Android Developer, and Future Microsoft Employee on Windows Phone">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="http://www.quinndamerell.com/A.style.css.pagespeed.cf.8KPx1swibJ.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function(){if($.browser.safari){document.getElementById('backTile').style.marginTop="-15px";setTimeout("FlipTile()",3000);}});var isFliped=0;var firstTime=1;var ImageNum=0;function FlipTile()
+{var tile=document.getElementById('livetile');var backTile=document.getElementById('backTile');var property=getTransformProperty(tile);if(isFliped==0)
+{backTile.style.backgroundImage="url(http://www.quinndamerell.com/Images/TilePic4.jpg)";isFliped=1;tile.style[property]="rotateX(-180deg)";tile.style.zIndex=0;}
+else
+{isFliped=0;tile.style[property]="rotateX(0)";tile.style.zIndex=10;}
+if(firstTime==1)
+{firstTime=0;setInterval("FlipTile()",8000);}}
+function getTransformProperty(elm){var properties=['transform','WebkitTransform','MozTransform','msTransform','OTransform'];while(p=properties.shift()){if(typeof elm.style[p]!='undefined'){return p;}}
+return false;}
+//]]></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+<body class="gradient">
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<a href="https://live.xbox.com/en-US/Profile?gamertag=Mr Quinninator" target="_blank"><div id="avatar"><img src="http://avatar.xboxlive.com/avatar/Mr Quinninator/avatar-body.png" border="0" pagespeed_url_hash="1208193548"/></div></a>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About Me</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container" style="min-height:600px">
+<div id="main" class="grid-24">
+<div class="grid-6">
+<a href="http://www.quinndamerell.com/Baconit/" id="slot-a" class="tile" onclick="GridClick();">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="http://www.quinndamerell.com/Images/Index/235x176xBaconit.png.pagespeed.ic.rJtxNQ1JS6.jpg" width="235" height="176" alt="" border="0" pagespeed_url_hash="3788556393"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/PurdueBus/" id="slot-b" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="http://www.quinndamerell.com/Images/Index/235x176xPurdueBus.png.pagespeed.ic.E3hj-AyllX.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="3866730772"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6">
+<a href="http://www.windowsphone.com/s?appid=5b4643d0-df36-4ebc-a0ce-b8729ac34d36" id="slot-c" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xNextBus.png.pagespeed.ic.K0QDwH6PTO.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="276615700"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/PurdueMenu/" id="slot-d" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xPurdueMenu.png.pagespeed.ic._60b1fJns7.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="2991820661"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6">
+<a href="http://www.quinndamerell.com/ThinkingOfYou/" id="slot-f" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xThinkingOfYou.png.pagespeed.ic.r6Y3F7Dpci.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="1357153323"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/CrossTxT/" id="slot-e" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xCrossTxT.png.pagespeed.ic.0WWYLD0tl7.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="1437235179"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6 last">
+<a href="http://www.quinndamerell.com/LiquidPhysics/" id="slot-g" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xLiquidPhysics.png.pagespeed.ic.WrKA5SvHI6.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="1603145962"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/s?appid=37ce9ea8-0c67-48b6-bd2a-ab055855eb49" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xNinjaCam.png.pagespeed.ic.NF-Go7vLNy.jpg" width="235" height="176" alt="" BORDER="0" pagespeed_url_hash="2387458460"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<div id="bottom_nav">
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="portfolio.html">Recent Projects</a></h3>
+<p>Interested in my recent projects for Windows Phone or Andriod? Look here for more.</p>
+</div>
+</div>
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="about.html">Learn About Me</a></h3>
+<p>I'm a developer at Microsoft on the Windows Phone platform and I love to code.</p>
+</div>
+</div>
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="contact.php">Contact Me</a></h3>
+<p>Want more information on one of my projects or simply want to chat? You can contact me <a class="SiteLink" href="http://www.quinndamerell.com/contact.html">here</a>!</p>
+</div>
+</div>
+<div class="grid-6 last">
+<div class="text">
+<h3>Follow Me</h3>
+<p>You can find me on many social network sites: <a class="SiteLink" href="http://www.twitter.com/QuinnDamerell">Twitter</a>, <a class="SiteLink" href="http://www.linkedin.com/in/quinndamerell">LinkedIn</a>, <a class="SiteLink" href="http://www.facebook.com/QuinnDamerell">Facebook</a>, <a class="SiteLink" href="http://steamcommunity.com/profiles/76561197984522794">Steam</a>, and <a class="SiteLink" href="http://www.reddit.com/user/quinbd/">reddit</a>!</p>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+<script type="text/javascript">//<![CDATA[
+(function(){var d=encodeURIComponent,f=window,g=document,h="documentElement",k="length",l="prototype",m="body",p="&",s="&ci=",t=",",u="?",v="Content-Type",w="Microsoft.XMLHTTP",x="Msxml2.XMLHTTP",y="POST",z="application/x-www-form-urlencoded",A="img",B="input",C="load",D="oh=",E="on",F="pagespeed_url_hash",G="url=";f.pagespeed=f.pagespeed||{};var H=f.pagespeed,I=function(a,b,c){this.c=a;this.e=b;this.d=c;this.b=this.f();this.a={}};I[l].f=function(){return{height:f.innerHeight||g[h].clientHeight||g[m].clientHeight,width:f.innerWidth||g[h].clientWidth||g[m].clientWidth}};I[l].g=function(a){a=a.getBoundingClientRect();return{top:a.top+(void 0!==f.pageYOffset?f.pageYOffset:(g[h]||g[m].parentNode||g[m]).scrollTop),left:a.left+(void 0!==f.pageXOffset?f.pageXOffset:(g[h]||g[m].parentNode||g[m]).scrollLeft)}};I[l].h=function(a){if(0>=a.offsetWidth&&0>=a.offsetHeight)return!1;a=this.g(a);var b=a.top.toString()+t+a.left.toString();if(this.a.hasOwnProperty(b))return!1;this.a[b]=!0;return a.top<=this.b.height&&a.left<=this.b.width};I[l].i=function(a){var b;if(f.XMLHttpRequest)b=new XMLHttpRequest;else if(f.ActiveXObject)try{b=new ActiveXObject(x)}catch(c){try{b=new ActiveXObject(w)}catch(e){}}if(!b)return!1;b.open(y,this.c+(-1==this.c.indexOf(u)?u:p)+G+d(this.e));b.setRequestHeader(v,z);b.send(a);return!0};I[l].k=function(){for(var a=[A,B],b=[],c={},e=0;e<a[k];++e)for(var q=g.getElementsByTagName(a[e]),n=0;n<q[k];++n){var r=q[n].getAttribute(F);r&&(q[n].getBoundingClientRect&&this.h(q[n]))&&!(r in c)&&(b.push(r),c[r]=!0)}if(0!=b[k]){a=D+this.d;a+=s+d(b[0]);for(e=1;e<b[k];++e){c=t+d(b[e]);if(131072<a[k]+c[k])break;a+=c}H.criticalImagesBeaconData=a;this.i(a)}};H.j=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(E+b,c);else{var e=a[E+b];a[E+b]=function(){c.call(this);e&&e.call(this)}}};H.l=function(a,b,c){var e=new I(a,b,c);H.j(f,C,function(){f.setTimeout(function(){e.k()},0)})};H.criticalImagesBeaconInit=H.l;})();pagespeed.criticalImagesBeaconInit('/mod_pagespeed_beacon','http://www.quinndamerell.com/','ETIaQShSla');
+//]]></script></body>
+</html>

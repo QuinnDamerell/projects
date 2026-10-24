@@ -1,0 +1,133 @@
+
+<html>
+<head>
+<title>stick_movie</title>
+
+<meta name="generator" content="Microsoft FrontPage 4.0">
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+<body bgcolor="#000000" link="#0000FF" vlink="#FF0000" text="#000000"
+>
+<!-- following code added by server. PLEASE REMOVE -->
+<!-- preceding code added by server. PLEASE REMOVE -->
+
+<table border=0 cellspacing=0 cellpadding=0 width=529>
+<tr valign="top" align="left">
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=112></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=50></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=75></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=183></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=76></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=29></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+</tr>
+<tr valign="top">
+	<td colspan=9 height=19></td>
+</tr>
+<tr valign="top">
+	<td colspan=3 height=248></td>
+	<td colspan=3 rowspan=1 width=334><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,42,0"
+  id="webbeginging" width="400" height="350">
+  <param name="_cx" value="2646">
+  <param name="_cy" value="2646">
+  <param name="FlashVars" value="-1">
+  <param name="Movie" value="http://www.freewebs.com/quinbd/animations/movies/BadDay1.swf">
+  <param name="Src" value="http://www.freewebs.com/quinbd/animations/movies/BadDay1.swf">
+  <param name="WMode" value="Window">
+  <param name="Play" value="-1">
+  <param name="Loop" value="-1">
+  <param name="Quality" value="High">
+  <param name="SAlign" value>
+  <param name="Menu" value="-1">
+  <param name="Base" value="http://www.freewebs.com/quinbd/animations/movies/BadDay1.swf">
+  <param name="AllowScriptAccess" value="always">
+  <param name="Scale" value="ShowAll">
+  <param name="DeviceFont" value="0">
+  <param name="EmbedMovie" value="0">
+  <param name="BGColor" value="000000">
+  <param name="SWRemote" value><embed name="webbeginging" src="webbeginging.swf" quality="high" bgcolor="#000000" swLiveConnect="true" width="100" height="100" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object></td>
+	<td colspan=3 height=248></td>
+</tr>
+<tr valign="top">
+	<td colspan=9 height=56></td>
+</tr>
+<tr valign="top">
+	<td colspan=4 height=24></td>
+	<td colspan=1 rowspan=1 width=183><a href="http://www.freewebs.com/quinbd/animations/sick_figures.htm"><b><font color="#00FF00" size="+1"><span style="font-size:18">Click here to go back</span></font></b></a></td>
+	<td colspan=4 height=24></td>
+</tr>
+<tr valign="top">
+	<td colspan=9 height=111></td>
+</tr>
+<tr valign="top">
+	<td colspan=1 height=19></td>
+
+</tr>
+<tr valign="top">
+	<td colspan=9 height=12></td>
+</tr>
+<tr valign="top">
+	<td colspan=2 height=19></td>
+	<td align="center" colspan=6 rowspan=1 width=415><a href="http://http:\\www.lostmarble.com"><font color="#00FF00"><span style="font-size:14">These were all created in mono the coolest program ever!</span></font></a></td>
+	<td colspan=1 height=19></td>
+</tr>
+</table>
+<img src="http://visit.webhosting.yahoo.com/visit.gif?us1108047014" alt="setstats" border="0"></noscript>
+<IMG SRC="http://geo.yahoo.com/serv?s=76001078&t=1108047014" ALT=1>
+<!--FreeWebs FreeBar Code Begin-->
+<br />
+<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td bgcolor="#EEEEEE" align="center">
+      <font size="2" color="#000000" face="verdana, arial">
+        This website is hosted for free by <a href="http://members.freewebs.com/" rel="nofollow"><img style="border:0px; width:71px; height:16px;vertical-align:bottom;" src="http://images.freewebs.com/Images/logo-tm.gif" alt="Freewebs.com - free website"></a>.
+      </font>
+        <font size=2 color="#0000FF">
+
+      Get your own<a href="http://members.freewebs.com/" target="_blank" rel="nofollow">
+           Free Website</a> now!
+        </font>
+    </td>
+  </tr>
+</table>
+
+<!--FreeWebs FreeBar Code End-->
+<!-- --><script type="text/javascript" src="/i.js"></script></body>
+</html>
+<!-- text below generated by server. PLEASE REMOVE --></noscript></script><script language="JavaScript" src="http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="http://geocities.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript>
+
+
+
+

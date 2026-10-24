@@ -1,0 +1,152 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<title>Baconit - A Metro Reddit App</title>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Baconit is a modern metro Reddit app for Windows Phone. Baconit fully supports Mango, and provides a beautiful , clean, fast, and easy interface to reddit.">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/A.style.css.pagespeed.cf.KFcif5lmGF.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function(){if($.browser.safari){document.getElementById('backTile').style.marginTop="-15px";setTimeout("FlipTile()",3000);}});var isFliped=0;var firstTime=1;var ImageNum=0;function FlipTile()
+{var tile=document.getElementById('livetile');var backTile=document.getElementById('backTile');var property=getTransformProperty(tile);if(isFliped==0)
+{backTile.style.backgroundImage="url(http://www.quinndamerell.com/Images/TilePic4.jpg)";isFliped=1;tile.style[property]="rotateX(-180deg)";tile.style.zIndex=0;}
+else
+{isFliped=0;tile.style[property]="rotateX(0)";tile.style.zIndex=10;}
+if(firstTime==1)
+{firstTime=0;setInterval("FlipTile()",8000);}}
+function getTransformProperty(elm){var properties=['transform','WebkitTransform','MozTransform','msTransform','OTransform'];while(p=properties.shift()){if(typeof elm.style[p]!='undefined'){return p;}}
+return false;}
+//]]></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();function goToByScroll(id)
+{$('html,body').animate({scrollTop:$("#"+id).offset().top},'slow');}
+$(document).ready(function(){$("a[rel=ScreenShots]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over"><strong>Image '+(currentIndex+1)+' / '+currentArray.length+':</strong> '+(title.length?' &nbsp; '+title:'')+'</span>';}});});$(document).ready(function(){$('#submit').click(function(){var Name=$('input[name=name]');var LiveID=$('input[name=liveID]');if(Name.val()==''){alert("You must supply your name.");return;}
+if(LiveID.val()==''){alert("You must supply Live ID.");return;}
+if(LiveID.val().indexOf("@")==-1||LiveID.val().indexOf(".")==-1)
+{alert("Please enter a valid email address.");return;}
+var data='Name='+encodeURIComponent(Name.val())+'&LiveID='+encodeURIComponent(LiveID.val());$('.form').fadeOut();$('.sending').fadeIn();$.ajax({url:"beta.php",type:"GET",data:data,cache:false,success:function(html){$('.sending').fadeOut();$('.response').fadeIn();if(html=="success"){$('.response').text("Done! We will let you know when space is available!");}
+else if(html=="user exists")
+{$('.response').text("Your Live ID is already on the list.");}
+else
+{$('.response').text("We can't submit your entry at this time, please try again later.");}}});return false;});});</script>
+<script type="text/javascript" src="/LightBox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/LightBox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/LightBox/jquery.fancybox-1.3.4.css" media="screen"/>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<style type="text/css">#formHeaders{text-align:right;width:100px;vertical-align:middle;padding-top:10px;padding-right:12px;padding-bottom:14px;padding-left:12px}#submitButton{text-align:right;padding-top:5px}#submit{display:block;background-color:#fff;border:2px solid #848589;color:#848589;font-family:"Segoe UI","Lato",sans-serif;font-size:12px;line-height:130%;text-decoration:none;font-weight:bold;color:#565656;cursor:pointer;margin-top:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:10px;padding-bottom:6px;padding-left:7px}</style>
+</head>
+<body class="gradient">
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about.html">About Me</a></li>
+<li><a href="/portfolio.html">Portfolio</a></li>
+<li><a href="/contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container">
+<div id="main" class="grid-24">
+<div class="grid-6" style="margin-top:4px">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/WindowsPhone.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+<a href="index.html" id="slot-b" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/ScreenShots.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-large">
+<a href="index.html" class="SiteLink">
+<div style="display: block; height: 355px; background-color: #158CC4;">
+<img src="Images/MainTile.jpg" alt="" border="0"/>
+</div>
+</a>
+</div>
+<div class="grid-6 last">
+<a href="index.html" id="slot-g" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Reviews.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/en-US/apps/fa4e749a-a521-43f1-b2cd-40bd1a0a8875" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Marketplace.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<header style="padding-top:24px; clear:both;">
+<h1 class="title">Baconit</h1>
+<div class="descriptions"></div>
+</header>
+<h2 id="Features">Beta</h2>
+<div style="margin-left:22px;">
+<p>Do you want to help make Baconit awesome? Do you want to get the latest and greatest release of Baconit before anyone else? Do you like trying to break code? Then you are a Baconit beta tester.</p>
+<p>Important Beta Tester Notes: </p>
+<ul>
+<li>
+You are the front line against bugs and crashes. During the process of testing, push Baconit to its limits, exercise every feature, and monitor Baconit&rsquo;s performance.
+</li>
+<li>Feature requests? Thoughts and feelings about new features? That you also. Being a beta tester you get all of the new goodies before anyone else. Your thoughts and feeling are critical to Baconit&rsquo;s development. </li>
+<li> Feedback is critical. Baconit&rsquo;s success relies on the beta tester&rsquo;s feedback, bug reports, and crash reports. I encourage testers to email me about anything they are think, experience, love, or hate. </li>
+</ul>
+</div>
+<h2 id="Features">Think You're Ready?</h2>
+<div style="margin-left:22px; margin-top:5px">
+<p>If you think you&rsquo;re up to the task, submit the Windows Live ID that is associated with your phone. This is the email address that you used to first setup your phone, and that the marketplace uses to make purchases.</p>
+<p> Once submitted, your name will be added to the list of testers. Windows phone has a 100 person tester limit, when space become available you will be notified with the next beta.</p>
+<div class="form">
+<form method="get">
+<table width="637" border="0">
+<tr>
+<td width="245">
+Your Name <input type="text" name="name"/>
+</td>
+<td width="256">
+Your Live ID <input type="text" name="liveID"/>
+</td>
+<td width="122">
+<input type="submit" id="submit" value="Submit"/>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<span style="color:#000000; font-weight:bold">
+<div class="sending" style="display:none;">
+Sending...
+</div>
+<div class="response"></div>
+</span>
+</div>
+<div style="height:100px"></div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+</body>
+</html>

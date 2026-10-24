@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setSiteSpeedSampleRate',100]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Purdue Menu, Purdue Food Court, Purdue Food, Android, Android application food, menu">
+<META NAME="description" CONTENT="Purdue Food Court Application for Android, easily access the Purdue food menus in a clean and quick manner!">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several">
+<link href="http://www.quinndamerell.com/css/A.style.css.pagespeed.cf.yaXGmARLa0.css" rel="stylesheet" type="text/css"/>
+<style media="screen">#lightbox{position:absolute;left:0;width:100%;z-index:100;text-align:center;line-height:0}#lightbox img{width:auto;height:auto}#lightbox a img{border:none}#outerImageContainer{position:relative;background-color:#fff;width:250px;height:250px;margin:0 auto}#imageContainer{padding:10px}#loading{position:absolute;top:40%;left:0%;height:25%;width:100%;text-align:center;line-height:0}#hoverNav{position:absolute;top:0;left:0;height:100%;width:100%;z-index:10}#imageContainer>#hoverNav{left:0}#hoverNav a{outline:none}#prevLink,#nextLink{width:49%;height:100%;background-image:url(data:image/gif;base64,AAAA);display:block}#prevLink{left:0;float:left}#nextLink{right:0;float:right}#prevLink:hover,#prevLink:visited:hover{background:url(/images/picture_page/picture_viewer/prevlabel.gif) left 15% no-repeat}#nextLink:hover,#nextLink:visited:hover{background:url(/images/picture_page/picture_viewer/nextlabel.gif) right 15% no-repeat}#imageDataContainer{font:10px Verdana,Helvetica,sans-serif;background-color:#fff;margin:0 auto;line-height:1.4em;overflow:auto;width:100%}#imageData{padding:0 10px;color:#666}#imageData #imageDetails{width:70%;float:left;text-align:left}#imageData #caption{font-weight:bold}#imageData #numberDisplay{display:block;clear:left;padding-bottom:1.0em}#imageData #bottomNavClose{width:66px;float:right;padding-bottom:.7em;outline:none}#overlay{position:absolute;top:0;left:0;z-index:90;width:100%;height:500px;background-color:#000}</style>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<title>PurdueBus - A CityBus App for Android</title>
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/prototype.js"></script>
+<script type="text/javascript" src="../Scripts/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="../Scripts/lightbox.js"></script>
+<script type="text/javascript" src="../Scripts/effects.js"></script>
+<script type="text/javascript" src="../Scripts/builder.js"></script>
+<script language="Javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();var img_over;if(document.images){img_over=new Image();img_over.src="http://www.quinndamerell.com/images/navBar/rollBack.png";}
+function mouseOverNav(divId){var element=document.getElementById(divId);element.style.backgroundImage="url('http://www.quinndamerell.com/images/navBar/rollBack.png')";element.style.color="#FFFFFF";}
+function mouseOutNav(divId){var element=document.getElementById(divId);element.style.backgroundImage="none";element.style.color="";}</script>
+<style type="text/css">.main_left{width:560px;padding-top:10px;padding-right:10px;padding-left:10px}.text_left{float:right;width:198px;background-color:#dbdbdb;height:600px;overflow:hidden}.bar_left{float:left;width:2px;background-color:#bbb;height:600px;overflow:hidden}.links{background-image:url(http://www.quinndamerell.com/images/stripe.png);margin:8px;padding:5px;font-size:15px;color:#fff}.links_header{font-size:20px}.links_sites{line-height:25px;padding-top:10px;padding-right:0px;padding-bottom:0px;padding-left:0px}.main_right{float:right;width:200px;background-color:#f1f1f1;text-align:left}.welcome{font-size:25px;color:#003a7f}a.white:link{color:#fff;text-decoration:none}a.white:visited{color:#fff;text-decoration:none}a.page_links:link{color:#003a95;text-decoration:none;font-size:17px}a.page_links:visited{color:#003a95;text-decoration:none;font-size:17px}.downlaodlink{font-size:16px;padding-left:15px;padding-right:20px}</style>
+<style type="text/css">.style6{color:#003a7f;font-size:18px;font-weight:bold}.pad{padding-left:25px;padding-right:10px}</style>
+</head>
+<body><div class="holder"><div class="top_bar">
+<div class="top_bar_left"></div>
+<div class="top_bar_main">
+<div class="sign_in">
+</div>
+</div>
+<div class="top_bar_right"></div>
+</div>
+<div class="title_bar"><img name="title_pic" src="../images/title_pic.png" width="447" height="63" border="0" id="title_pic" alt="QuinnDamerell.com"/></div>
+<div class="main_menu">
+<div class="nav_bar_element" id="nav_home" onmouseover="mouseOverNav('nav_home')" onmouseout="mouseOutNav('nav_home')" onclick="location.href='http://www.QuinnDamerell.com';">Home</div>
+<div class="nav_bar_element" id="nav_me" onmouseover="mouseOverNav('nav_me')" onmouseout="mouseOutNav('nav_me')" onclick="location.href='http://www.QuinnDamerell.com/about_me.php';">About Me</div>
+<div class="nav_bar_element" id="nav_proj" onmouseover="mouseOverNav('nav_proj')" onmouseout="mouseOutNav('nav_proj')" onclick="location.href='http://www.QuinnDamerell.com/projects.php';">Projects</div>
+<div class="nav_bar_element" id="nav_prof" onmouseover="mouseOverNav('nav_prof')" onmouseout="mouseOutNav('nav_prof')" onclick="location.href='http://www.QuinnDamerell.com/professional.php';">Professional</div>
+<div class="nav_bar_element" id="nav_pic" onmouseover="mouseOverNav('nav_pic')" onmouseout="mouseOutNav('nav_pic')" onclick="location.href='http://www.QuinnDamerell.com/pictures.php';">Photos</div>
+</div>
+<div class="main_body">
+<div class="main_left"><span class="welcome">PurdueBus - A CityBus Interface App for Android</span></div>
+<div class="pad">
+<div class="downlaodlink">
+<p>Are you a Purdue student waiting on a bus? Unable to navigate CityBus’s website? This is the app for you! PurdueBus will find where you are on campus (for GPS enabled phones) and show you all the bus stops near you. Once found, you can see all the scheduled stop times for any bus.</p>
+<p>Developers: Quinn Damerell, Bryan Ehrlich</p>
+<p> Feedback is more than welcome! Email it to us at <a href="mailto:quinn@quinndamerell.com" class="nounderline">Quinn@QuinnDamerell.com</a></p>
+</div>
+<p class="style6">Screenshots</p>
+<div class="downlaodlink">
+<a rel="lightbox[PurdueMenu]" title="Main View" href="http://quinndamerell.com/PurdueBus/main_screen.png"><img src="http://www.quinndamerell.com/PurdueBus/116x183xmain_screen_thumb.png.pagespeed.ic.gS9vPPp_VT.jpg" alt="Main View" width="116" height="183" hspace="10" border="0"/></a>
+<a rel="lightbox[PurdueMenu]" title="CityBus Loop Selection" href="http://quinndamerell.com/PurdueBus/loop.png"><img src="http://www.quinndamerell.com/PurdueBus/116x182xloop_thumb.png.pagespeed.ic.ndilvtPnDE.jpg" alt="Food Court Select" width="116" height="182" hspace="10" border="0"/></a>
+<a rel="lightbox[PurdueMenu]" title="Bus Stop" href="http://quinndamerell.com/PurdueBus/busStop.png"><img src="http://www.quinndamerell.com/PurdueBus/116x183xbusStop_thum.png.pagespeed.ic.ibjUC5O1eL.jpg" alt="Food Menu" width="116" height="183" hspace="10" border="0"/></a>
+<a rel="lightbox[PurdueMenu]" title="GPS lock, close up" href="http://quinndamerell.com/PurdueBus/close up.png"><img src="http://www.quinndamerell.com/PurdueBus/116x183xclose,P20up_thumb.png.pagespeed.ic.GxhMKFjg4S.jpg" alt="Favorites" width="116" height="183" hspace="10" border="0"/></a><a rel="lightbox[PurdueMenu]" title="Search stops and loops" href="../LiquidPhysics/manageFav.png"><a rel="lightbox[PurdueMenu]" title="Search stops and loops" href="http://quinndamerell.com/PurdueBus/search.png"><img src="http://www.quinndamerell.com/PurdueBus/116x183xsearch_thumb.png.pagespeed.ic.s8VhxWWVZm.jpg" alt="Manage Favorites" width="116" height="183" hspace="10" border="0"/></a></div>
+<p><span class="style6">Download<br/>
+</span></p>
+<div class="downlaodlink"><a href="market://search?q=Damerell"><img src="../images/damerellQuery.png" alt="Android Market" width="111" height="111" border="0"/></a><br/>
+&nbsp;&nbsp;(<a href="market://search?q=Damerell" class="nounderline">Link</a>) (<a href="https://market.android.com/details?id=com.ehrlichdamerell.purduebus" class="nounderline">Market</a>)</div>
+<p><span class="style6">How To Use</span>
+<div class="downlaodlink">
+<p>Install, then open the application form the application menu and read instructions :) </p>
+</div>
+*The developers of this application are in no way affiliated with CityBus, or with any employee/partner of CityBus.<br/>
+</div>
+</div>
+<div class="footer">
+Copyright 2012 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br/>
+Last Updated
+<!-- #BeginDate format:fcAm1a -->Tuesday, February 7, 2012 12:30 PM<!-- #EndDate -->
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "video_id": "4DpGPr4A5js",
+  "title": "OctoEverywhere: Free print failure detection for your Klipper 3D Printer!!",
+  "channel": "PrintsLeo3D",
+  "channel_url": "https://www.youtube.com/@PrintsLeo3D",
+  "published": "2024-09-01",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=4DpGPr4A5js",
+  "filename": "youtube-printsleo3d-octoeverywhere-klipper-2024.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-printsleo3d-octoeverywhere-klipper-2024.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1391.316463,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 288226084,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/4DpGPr4A5js/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

@@ -1,0 +1,29 @@
+{
+  "video_id": "FVVc6vpE2mU",
+  "title": "Hands On: Browsing Reddit with Baconit for Xbox One",
+  "channel": "Windows Central",
+  "channel_url": "https://www.youtube.com/@WindowsCentral",
+  "published": "2016-07-29",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=FVVc6vpE2mU",
+  "filename": "youtube-windows-central-baconit-xbox-one-2016.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-windows-central-baconit-xbox-one-2016.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 233.569524,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 59435506,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "Frame from archived video",
+    "frame_seconds": 12,
+    "width": 1920,
+    "height": 1080
+  },
+  "segments": []
+}

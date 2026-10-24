@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:195px; top:26px; width:435px; height:82px; z-index:0"><img src="images/logo_fire_crackers.jpg" border=0 width=435 height=82></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:93px; top:194px; width:123px; height:185px; z-index:1"><img src="images/fire_cracker.gif" border=0 width=123 height=185></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:91px; top:411px; width:296px; height:195px; z-index:2"><img src="images/firecracker.jpg" border=0 width=296 height=195></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:440px; top:408px; width:278px; height:201px; z-index:3"><img src="images/firecrackers.jpg" border=0 width=278 height=201></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:269px; top:680px; width:235px; height:75px; z-index:4">
+<div class="wpmd">
+<div>th</div>
+</div></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:290px; top:230px; width:434px; height:76px; z-index:5">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">The good old firecrackers. What can I really say um, you light and run, and then they blow up. They come in packs, rolls, and giant hanging things that have them all fused tougher.</font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:346px; top:310px; width:156px; height:25px; z-index:6">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Video of firecrackers:</font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+</div></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:500px; top:310px; width:127px; height:27px; z-index:7">
+<a href="Http://www.thunderdomefireworks.com/videos/firecracker.wmv" title="fountains"><div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">firecrackers.wmv</font></div>
+</div></a></div>
+
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.reddit.com/r/BambuLab/comments/1cjh8qv/announcing_octoeverywhere_for_bambu_lab_3d/",
+  "original_urls": [
+    "https://www.reddit.com/r/BambuLab/comments/1cjh8qv/announcing_octoeverywhere_for_bambu_lab_3d/"
+  ],
+  "title": "🚀 Announcing OctoEverywhere For Bambu Lab 3D Printers",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.119562+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1714764640,
+  "post_archive_observed_utc": 1714764657,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 309,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 309,
+  "recorded_comment_count": 213,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [
+    "l33ni3d",
+    "nq43dww"
+  ],
+  "missing_parent_ids": [],
+  "gaps": [
+    "Recovered 309 comment records; the archived post reports 213. Counts come from different archive observations and cannot establish complete recovery.",
+    "2 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1cjh8qv",
+      "fetched_utc": "2026-10-18T17:06:37.312499+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 6798,
+      "sha256": "f1ba82e4e38e90cb0db6455b90c39eb3c071ee1ffb3315692e84309dcb7bc238",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1cjh8qv",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1cjh8qv&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:39.548421+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 583742,
+      "sha256": "cefeeef8171f43701bfba72bff3d179254c6b27bf6e2d5ac432ed0b1b01ae993",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1cjh8qv&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "dfa0f10ab8e3391a723db784b7d1ca1222ee7470d33de81e0f80bfa49a942b83"
+}

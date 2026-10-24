@@ -1,0 +1,22 @@
+{
+  "url": "https://www.windowscentral.com/baconsync-beta-baconit-try-saying-it-five-times-fast-works",
+  "title": "BaconSync Beta for Baconit (try saying it five times fast) in the works",
+  "site": "Windows Central",
+  "published": "2012-06-28T23:25:06Z",
+  "captured": "2026-10-18T17:03:27.078Z",
+  "restoredImages": [],
+  "removed": [
+    ".wcp-item-content > section:not(.content-wrapper)",
+    ".ad-unit",
+    ".dfp-leaderboard-container",
+    "[id^=slice-container-newsletterForm]",
+    "#upnext-ribbon",
+    ".bordeaux-generated-container",
+    "[class*=bordeaux-skin]",
+    ".infinite-container",
+    "#pressboard-ad-sponsorship-msg"
+  ],
+  "youtube": [
+    "https://www.youtube.com/watch?v=jwzUfGh-vkA"
+  ]
+}

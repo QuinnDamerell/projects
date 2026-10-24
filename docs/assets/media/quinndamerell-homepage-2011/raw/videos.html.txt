@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Personal Site, Personal, Wii, video games, xbox 360, modding, Ds, DS lite, pictures, videos, funny videos, blog, social networking, mii, about me, anti virus, firewall, free, cheep, software, freeware, websites, deals, Personal, Web page, blog, webforms, fun, forms, computer, vidoe games, xbox, games, computers, What you thnk, myspace, youtube">
+<META NAME="description" CONTENT="The official website of Quinn Damerell. Pictures, Videos, Blogs, Mii, and a little social networking can be found here.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<script type="text/javascript" src="Scripts/contentDisplay.js">
+</script>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.style5 {color: #FFFFFF}
+.video_player_holder {
+	padding-top: 15px;
+}
+#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9{
+	display: none;
+	position: absolute;
+	z-index: 5;
+	padding-top: 10px;
+}
+.filler {
+	clear: both;
+}
+
+#box10{
+    display: block;
+	position: absolute;
+	z-index: 0;
+	padding-top: 10px;
+
+}
+.video_text {
+	font-family: "Times New Roman", Times, serif;
+	color: #0099FF;
+	font-size: 18px;
+	margin: 0px;
+	padding-left: 5px;
+	cursor: auto;
+	overflow: scroll;
+}
+.video_player_holder {
+	width: 658px;
+	background-image: url(images/picture_page/video_back.gif);
+	height: 377px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+.video_player_left {
+	width: 32%;
+	float: left;
+	height: 377px;
+}
+.video_player_right {
+	height: 370px;
+	width: 66%;
+	float: right;
+	padding-top: 7px;
+	padding-left: 10px;
+	padding-right: 1px;
+}
+.video_player_text {
+	color: #FFFFFF;
+	padding-top: 45px;
+	padding-left: 10px;
+	height: 326px;
+}
+#Main {
+  margin-left: 0%;
+}
+
+#Content1 {
+  border: none;
+  font-weight: bold;
+}
+.text_indent2 {
+
+	padding-right: 30px;
+}
+img {
+  border: none;
+}
+-->
+</style>
+<link rel="shortcut icon" href="favicon.ico" />
+<title>QuinnDamerell.com - Videos</title><script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         <a class='gray' href='signin.php'>Sign In or Register</a>      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>
+  
+  <div class="main_menu">
+    <div class="nav_bar_element"><center><a href="index.php" onmouseover="document.home.src=homeR.src" onmouseout="document.home.src=homeS.src"><img src="images/navBar/homeStandard.png" name="home" width="73" height="24" border=0></a></center></div>
+   <div class="nav_bar_element"><center><a href="about_me.php" onmouseover="document.about.src=aboutR.src" onmouseout="document.about.src=aboutS.src"><img src="images/navBar/aboutMeStandard.png" name="about" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="projects.php" onmouseover="document.proj.src=projectsR.src" onmouseout="document.proj.src=projectsS.src"><img src="images/navBar/projectsStandard.png" name="proj" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="websites.php" onmouseover="document.web.src=websitesR.src" onmouseout="document.web.src=websitesS.src"><img src="images/navBar/websitesStandard.png" name="web" width="94" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="pictures.php" onmouseover="document.pic.src=picturesR.src" onmouseout="document.pic.src=picturesS.src"><img src="images/navBar/picturesStandard.png" name="pic" width="88" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="videos.php" onmouseover="document.vid.src=videosR.src" onmouseout="document.vid.src=videosS.src"><img src="images/navBar/videosStandard.png" name="vid" width="88" height="24" border=0></a>
+   </center></div>
+     
+  </div>
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">Videos</span></div>
+    
+    
+    <div class="text_indent">
+      <div class="text_indent2">This is a collection of videos that I have either made myself, or that I have found and want to share with others.  </div>
+    </div>
+  
+  	<br />
+  	<div class="video_player_holder">
+
+      <div class="video_player_left">
+          
+        <div class="video_player_text" id="Main" >
+          <div align="center"><a onclick="hideall();showbox('box1')">English Final 08 Part 1</a></div>
+          <p align="center"><a  onclick="hideall();showbox('box2');">English Final 08 Part 2</a></p>
+          <p align="center"><a  onclick="hideall();showbox('box3');">English Final 08 Part 3</a></p>
+          <p align="center"><a  onclick="hideall();showbox('box4')">English Final 07</a></p>
+          <p align="center"> <a  onclick="hideall();showbox('box5')">PS3 Video</a></p>
+          <p align="center"> <a  onclick="hideall();showbox('box6')">Funny Wii Video</a> </p>
+          <p align="center"><a  onclick="hideall();showbox('box7')">The Real PacMan</a> </p>
+          <p align="center"><a onclick="hideall();showbox('box8')">The N64 Kid</a></p>
+          <p align="center"><a onclick="hideall();showbox('box9')">Halo 3 Hoedown</a></p>
+        </div>
+      </div>
+  	  <div class="video_player_right">
+  	    <div id="Content1">
+        <div id="box1">
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/9CDAWBQSoYI&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/9CDAWBQSoYI&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+        </div>
+        <div id="box2">
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Zte3l6EuaIc&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/Zte3l6EuaIc&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+        </div>
+        <div id="box3">
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/a4cTdxaSgeo&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/a4cTdxaSgeo&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+        </div>
+  	      <div id="box4">
+  	        <object width="425" height="350">
+  	          <param name="movie" value="http://www.youtube.com/v/4zJcmMbN1gI" />
+  	          <param name="wmode" value="transparent" />
+  	          <embed src="http://www.youtube.com/v/4zJcmMbN1gI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+            </object>
+  	        </div>
+                    <div id="box5">
+                        <object width="425" height="350">
+                          <param name="movie" value="http://www.youtube.com/v/R98qC0fd_1w" />
+                          <param name="wmode" value="transparent" />
+                          <embed src="http://www.youtube.com/v/R98qC0fd_1w" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+                        </object>
+                      </div>
+                    <div id="box6">
+                        <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/g_E79glEnj0"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/g_E79glEnj0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+                      </div>
+                    <div id="box7">
+                        <object width="425" height="350">
+                          <param name="movie" value="http://www.youtube.com/v/OS5VLab3kCk" />
+                          <param name="wmode" value="transparent" />
+                          <embed src="http://www.youtube.com/v/OS5VLab3kCk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+                        </object>
+                      </div>
+                    <div id="box8">
+                        <object width="425" height="350">
+                          <param name="movie" value="http://www.youtube.com/v/pFlcqWQVVuU" />
+                          </param>
+                          <param name="wmode" value="transparent" />
+                          </param>
+                          <embed src="http://www.youtube.com/v/pFlcqWQVVuU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+                        </object>
+                      </div>
+                    <div id="box9">
+                        <object width="425" height="350">
+                          <param name="movie" value="http://www.youtube.com/v/kvanJYOGlus" />
+                          </param>
+                          <param name="wmode" value="transparent" />
+                          </param>
+                          <embed src="http://www.youtube.com/v/kvanJYOGlus" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+                        </object>
+                      </div>
+                    <div id="box10">
+                      <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','425','height','344','title','Video','src','flash/video_opening','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/video_opening' ); //end AC code
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="425" height="344" title="Video">
+              <param name="movie" value="flash/video_opening.swf" />
+                        <param name="quality" value="high" />
+                        <embed src="flash/video_opening.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="425" height="344"></embed>
+                      </object></noscript>
+                      </div></div>
+      </div>
+    </div><p>&nbsp;</p>
+  	<div class="clear_float"></div>
+  	<br />
+  </div>
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, December 12, 2010 1:49 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

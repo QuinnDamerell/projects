@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.main_left {
+	float: left;
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 1015px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 1015px;
+	overflow: hidden;
+}
+.links {
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+	background-color: #333333;
+}
+.links_header {
+	font-size: 20px;
+	background-color: #4E4E4E;
+	padding-left: 4px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+-->
+</style>
+<title>QuinnDamerell.com - About Me</title><script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         <a class='gray' href='signin.php'>Sign In or Register</a>      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>
+  
+  <div class="main_menu">
+    <div class="nav_bar_element"><center><a href="index.php" onmouseover="document.home.src=homeR.src" onmouseout="document.home.src=homeS.src"><img src="images/navBar/homeStandard.png" name="home" width="73" height="24" border=0></a></center></div>
+   <div class="nav_bar_element"><center><a href="about_me.php" onmouseover="document.about.src=aboutR.src" onmouseout="document.about.src=aboutS.src"><img src="images/navBar/aboutMeStandard.png" name="about" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="projects.php" onmouseover="document.proj.src=projectsR.src" onmouseout="document.proj.src=projectsS.src"><img src="images/navBar/projectsStandard.png" name="proj" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="websites.php" onmouseover="document.web.src=websitesR.src" onmouseout="document.web.src=websitesS.src"><img src="images/navBar/websitesStandard.png" name="web" width="94" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="pictures.php" onmouseover="document.pic.src=picturesR.src" onmouseout="document.pic.src=picturesS.src"><img src="images/navBar/picturesStandard.png" name="pic" width="88" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="videos.php" onmouseover="document.vid.src=videosR.src" onmouseout="document.vid.src=videosS.src"><img src="images/navBar/videosStandard.png" name="vid" width="88" height="24" border=0></a>
+   </center></div>
+     
+  </div>
+  
+  <div class="main_body">
+    <div class="main_left">
+      <span class="welcome">About Me</span>
+      <blockquote>
+        <p>Welcome, my name is Quinn Damerell and I am currently  pursuing a degree in Computer Science at Purdue University. I currently know  Java, C, C++, HTML, CSS, and PHP. I thoroughly enjoy coding and have created a few  projects of my own, which can be found <a href="projects.php" class="nounderline">here</a>; along with my projects for school  that can be found <span class="nounderline"><a href="CS_Projects/" class="nounderline">here</a></span>.In the summer of 2010 I was very fortunate to receive   a Software  Engineering position at Raytheon in Fort Wayne Indiana. The experience was  amazing and really helped me prepare to work in a more corporate environment. I  also worked with amazingly intelligent group of people who I got along with  very well. For the summer of 2011, I have accepted an internship at Microsoft  as a Software Developer in Seattle Washington. I am really looking forward to  this opportunity and am very excited about the opportunity to live  in Seattle for a while.</p>
+        <p>I have been deeply involved with Android development recently.  I have written a few applications on my own that are currently on the Android  market, and a few with my friend Bryan Ehrlich. The first application I wrote for  Android was a Purdue food court menu app that can be found <a href="PurdueMenu/" class="nounderline">here</a>. Bryan  and I’s most recent Android app currently under development is PurdueBus.  PurdueBus provides GPS based real-time tracking of the bus system  at Purdue; more information  can be found <a href="PurdueBus/" class="nounderline">here</a>.</p>
+        <p> Beyond  school work and my own projects, I have  been very busy this semester. My friend Bryan Ehrlich and I won the State Farm  Coding Completion recently and took a really fun trip out to Bloomington Illinois to  compete against the top 5 winners. Bryan Ehrlich, Tyler Reid, and I also  recently won the ACM Google Coding Completion here at Purdue with and Android  application we call Gathr. We won a free trip to Google’s offices in Chicago to  tour and present our Android App to the employs at Google, it was a very fun experience :). Gathr is a social networking  based friend event scheduler that is still under heavy development; more  information on Gathr will be available later.</p>
+<p>          Beyond my school work I enjoy gaming  and  doing theater tech. My current list of top games includes Team Fortress 2, Call of Duty  4 MW2, Portal, Plants vs. Zombies, and Left 4 Dead 2. I also play a verity of other  arcade games through steam.<br />
+          <br />
+          My entire life I have had a passion for theater technology.  I was the soundboard technician for my first play, Snow White, when I was in  the fifth grade. From there on out I have pursued my joy in the theater. I have  done countless plays for the Children’s Theater in Fort Wayne, and through high  school was the head theater technician for all the plays and musicals. I am now  still currently involved with the Miss Indiana Pageant where I am a Technical  Director, overseeing and managing the entire lighting details of the production,  along with other backstage aspects of the production. Locally I also help with  our Miss Noble County and Miss Limberlost Pageant.</p>
+<p>Contact me at <a href="mailto:quinn@quinndamerell.com">Quinn@quinndamerell.com</a></p>
+      </blockquote>
+
+    </div>
+    
+    <div class="main_right">
+      <div class="bar_left"></div>
+      <div class="text_left">
+        <div class="links">
+          <div class="links_header">Pictures Of Me :)</div>
+          <div class="links_sites">
+            <div align="center">
+              
+            <a href="pictures.php"><img src="images/picture_page/senior/senior_picture.jpg" alt="Me Also" width="145" height="182" border="0" /></a>
+            <p><a href="pictures.php"><img src="images/picture_page/senior/senior_picture1.jpg" alt="Me" width="139" height="173" border="0" /></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clear_float"></div>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, December 12, 2010 1:39 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

@@ -1,0 +1,186 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Reddit Time Machine, Time Machine, Reddit, Reddit.com, Reddit home page, old reddits, old reddit, reddit logo, Past Reddits">
+<META NAME="description" CONTENT="Project Page for the Reddit Time Machine, a website that archives past home pages of Reddit.com and allows users to browse through them.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/prototype.js"></script>
+<script type="text/javascript" src="../Scripts/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="../Scripts/lightbox.js"></script>
+<script type="text/javascript" src="../Scripts/effects.js"></script>
+<script type="text/javascript" src="../Scripts/builder.js"></script>
+<link rel="stylesheet" href="../css/lightbox.css" type="text/css" media="screen" />
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(../images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.downlaodlink {
+	font-size: 16px;
+	padding-left: 15px;
+	padding-right: 20px;
+}
+-->
+</style>
+<link rel="shortcut icon" href="../favicon.ico" />
+<title>Reddit Time Machine - QuinnDamerell.com</title>
+<style type="text/css">
+<!--
+.style6 {
+	color: #003A7F;
+	font-size: 18px;
+	font-weight: bold;
+}
+.pad {
+	padding-left: 25px;
+}
+-->
+</style>
+<script language="Javascript">
+	// PRELOADING IMAGES
+	var img_over;
+	if (document.images) {
+	 img_over = new Image(); 
+	 img_over.src = "http://www.quinndamerell.com/images/navBar/rollBack.png"; 
+	}
+	
+	
+	function mouseOverNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "url('http://www.quinndamerell.com/images/navBar/rollBack.png')";
+		element.style.color = "#FFFFFF";
+	}
+	
+	function mouseOutNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "none";
+		element.style.color = "";
+	} 
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         
+      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="../images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>
+  
+      <div class="main_menu">
+   <div class="nav_bar_element" id="nav_home" onmouseover="mouseOverNav('nav_home')" onmouseout="mouseOutNav('nav_home')" onclick="location.href='http://www.QuinnDamerell.com';">Home</div>
+   <div class="nav_bar_element" id="nav_me" onmouseover="mouseOverNav('nav_me')" onmouseout="mouseOutNav('nav_me')" onclick="location.href='http://www.QuinnDamerell.com/about_me.php';">About Me</div>
+   <div class="nav_bar_element" id="nav_proj" onmouseover="mouseOverNav('nav_proj')" onmouseout="mouseOutNav('nav_proj')" onclick="location.href='http://www.QuinnDamerell.com/projects.php';">Projects</div>
+   <div class="nav_bar_element" id="nav_prof" onmouseover="mouseOverNav('nav_prof')" onmouseout="mouseOutNav('nav_prof')" onclick="location.href='http://www.QuinnDamerell.com/professional.php';">Professional</div>
+   <div class="nav_bar_element" id="nav_pic" onmouseover="mouseOverNav('nav_pic')" onmouseout="mouseOutNav('nav_pic')" onclick="location.href='http://www.QuinnDamerell.com/pictures.php';">Photos</div>
+   <div class="nav_bar_element" id="nav_web" onmouseover="mouseOverNav('nav_web')" onmouseout="mouseOutNav('nav_web')" onclick="location.href='http://www.QuinnDamerell.com/websites.php';">Websites</div>
+  </div> 
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">Reddit Time Machine</span></div>
+    <div class="pad">
+  
+      <div class="downlaodlink">
+        <p>Last year around this time I had a friend who loved Reddit.com,  but she had long periods where she could not access Reddit due to lack of  internet. Also, about this same time I realized that what gets to the top of  Reddit is often the best content on Reddit. Furthermore if someone were to  create a system of archiving and redisplaying the front page, when a user discovered  all of the good content on Reddit for that day, they could go back and look at  other days. These two ideas were the parents of my Reddit Time Machine, my  simple website that archives the Reddit main page twice a day, and then  displays them all back in an organized fashion. <a href="http://home.quinndamerell.com/RedditTimeMachine/">Check it out here.</a></p>
+</div>
+      <p class="style6">Screenshot</p>
+      <div class="downlaodlink"><a rel="lightbox[sample]" title="A sample view" href="RedditTimeMachineL.jpg"><img src="RedditTimeMachineS.jpg" alt="PicGen" width="339" height="223" border="0" /></a></div>
+      <p><span class="style6">Check it out now!<br />
+        </span></p>
+      <div class="downlaodlink"><a href="http://home.quinndamerell.com/RedditTimeMachine/" class="nounderline">http://home.quinndamerell.com/RedditTimeMachine/</a></div>
+      <p><span class="style6">How To Use</span>
+      <div class="downlaodlink">
+        <p>Simply browse through the year, month, and week to find the  home page you wish to view and click it. It is that simple!!</p>
+      </div>
+      &nbsp;
+    </div>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, September 18, 2011 5:17 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:219px; top:18px; width:305px; height:82px; z-index:0"><img src="images/logo_locations.jpg" border=0 width=305 height=82></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:59px; top:144px; width:638px; height:49px; z-index:1">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">We are located in several location around the Fort Wayne area for you convince. Here is a list of our stores bellow.</font></div>
+</div></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:100px; top:210px; width:149px; height:25px; z-index:2">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"><B>Fort Wayne, IN</B></font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:120px; top:240px; width:267px; height:96px; z-index:3">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Behind the Roller Dome North at:</font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+<div><font class="ws12" color="#FFFFFF">Roller Dome North</font></div>
+<div><font class="ws12" color="#FFFFFF">444 West Coliseum Blvd.</font></div>
+<div><font class="ws12" color="#FFFFFF">Fort Wayne, IN 46805</font></div>
+</div></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:120px; top:345px; width:151px; height:29px; z-index:4">
+<a href="http://www.mapquest.com/directions/main.adp?go=1&do=nw&rmm=1&un=m&cl=EN&ct=NA&rsres=1&1ffi=&1l=&1g=&1pl=&1v=&1n=&2ffi=&2l=&2g=&2pl=&2v=&2n=&1pn=&1a=&1c=&1s=&1z=&2pn=&2a=444+West+Coliseum+Blvd.+&2c=Fort+Wayne+&2s=IN&2z=46805&r=f" title="Directions" target="_top"><div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Get Directions</font></div>
+</div></a></div>
+
+<div id="text5" style="position:absolute; overflow:hidden; left:100px; top:425px; width:149px; height:25px; z-index:5">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"><B>Kendallville, IN</B></font></div>
+</div></div>
+
+<div id="text6" style="position:absolute; overflow:hidden; left:120px; top:460px; width:267px; height:61px; z-index:6">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Thunder Dome Fireworks</font></div>
+<div><font class="ws12" color="#FFFFFF">1450 Dowling St.</font></div>
+<div><font class="ws12" color="#FFFFFF">Kendallville, IN 46755</font></div>
+</div></div>
+
+<div id="text7" style="position:absolute; overflow:hidden; left:120px; top:530px; width:151px; height:29px; z-index:7">
+<a href="http://www.mapquest.com/directions/main.adp?go=1&do=nw&rmm=1&un=m&cl=EN&ct=NA&rsres=1&1ffi=&1l=&1g=&1pl=&1v=&1n=&2ffi=&2l=&2g=&2pl=&2v=&2n=&1pn=&1a=&1c=&1s=&1z=&2pn=&2a=1450+Dowling+St.&2c=Kendallville&2s=IN&2z=46755&r=f" title="Directions" target="_top"><div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Get Directions</font></div>
+</div></a></div>
+
+<div id="text8" style="position:absolute; overflow:hidden; left:290px; top:580px; width:179px; height:71px; z-index:8">
+<div class="wpmd">
+<div><font class="ws14" color="#FFFFFF">More Coming Soon!</font></div>
+</div></div>
+
+<div id="text9" style="position:absolute; overflow:hidden; left:170px; top:385px; width:475px; height:27px; z-index:9">
+<div class="wpmd">
+<div><font class="ws12" color="#FF0000">Stores bellow will be opening a few weeks before the Fourth Of July.</font></div>
+</div></div>
+
+
+</body>
+</html>

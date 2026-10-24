@@ -1,0 +1,39 @@
+{
+  "video_id": "PPOWzWYAi3s",
+  "title": "Nabu Casa vs Homeway: La alternativa que nadie te había contado",
+  "channel": "Home Assistant y Domótica Fácil",
+  "channel_url": "https://www.youtube.com/@HomeAssistantFacil",
+  "published": "2025-12-18",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=PPOWzWYAi3s",
+  "filename": "youtube-domotica-facil-homeway-comparison-2025.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-domotica-facil-homeway-comparison-2025.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 753.742948,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 158037014,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/PPOWzWYAi3s/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": [
+    {
+      "anchor": "quinn-story",
+      "seconds": 166,
+      "label": "Quinn's story at 2:46"
+    },
+    {
+      "anchor": "reto-quinn",
+      "seconds": 715,
+      "label": "Reto QUINN at 11:55"
+    }
+  ]
+}

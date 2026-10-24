@@ -1,0 +1,5 @@
+.cache/
+.venv/
+# Only the root build output; archived websites under docs/ also use site/.
+/site/
+__pycache__/

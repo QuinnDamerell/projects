@@ -1,0 +1,22 @@
+{
+  "url": "https://www.windowscentral.com/hands-baconit-xbox-one-one",
+  "title": "Hands on with Baconit for Xbox One, one of Windows 10's best Reddit apps",
+  "site": "Windows Central",
+  "published": "2016-07-30T15:23:50Z",
+  "captured": "2026-10-18T17:05:03.182Z",
+  "restoredImages": [],
+  "removed": [
+    ".wcp-item-content > section:not(.content-wrapper)",
+    ".ad-unit",
+    ".dfp-leaderboard-container",
+    "[id^=slice-container-newsletterForm]",
+    "#upnext-ribbon",
+    ".bordeaux-generated-container",
+    "[class*=bordeaux-skin]",
+    ".infinite-container",
+    "#pressboard-ad-sponsorship-msg"
+  ],
+  "youtube": [
+    "https://www.youtube.com/watch?v=FVVc6vpE2mU"
+  ]
+}

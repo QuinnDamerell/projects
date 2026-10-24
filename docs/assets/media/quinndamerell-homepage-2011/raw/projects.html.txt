@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.text_h {
+	padding-left: 10px;
+	color: #003A7F;
+	font-size: 17px;
+	padding-right: 10px;
+}
+
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 16px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 16px;
+}
+.text-wor {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+-->
+</style>
+<link rel="shortcut icon" href="favicon.ico" />
+<title>QuinnDamerell.com - Projects</title>
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         <a class='gray' href='signin.php'>Sign In or Register</a>      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>
+  
+  <div class="main_menu">
+    <div class="nav_bar_element"><center><a href="index.php" onmouseover="document.home.src=homeR.src" onmouseout="document.home.src=homeS.src"><img src="images/navBar/homeStandard.png" name="home" width="73" height="24" border=0></a></center></div>
+   <div class="nav_bar_element"><center><a href="about_me.php" onmouseover="document.about.src=aboutR.src" onmouseout="document.about.src=aboutS.src"><img src="images/navBar/aboutMeStandard.png" name="about" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="projects.php" onmouseover="document.proj.src=projectsR.src" onmouseout="document.proj.src=projectsS.src"><img src="images/navBar/projectsStandard.png" name="proj" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="websites.php" onmouseover="document.web.src=websitesR.src" onmouseout="document.web.src=websitesS.src"><img src="images/navBar/websitesStandard.png" name="web" width="94" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="pictures.php" onmouseover="document.pic.src=picturesR.src" onmouseout="document.pic.src=picturesS.src"><img src="images/navBar/picturesStandard.png" name="pic" width="88" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="videos.php" onmouseover="document.vid.src=videosR.src" onmouseout="document.vid.src=videosS.src"><img src="images/navBar/videosStandard.png" name="vid" width="88" height="24" border=0></a>
+   </center></div>
+     
+  </div>
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">Projects</span></div>
+    	<p class="text_h">The following is a compilation of projects that I have or are currently working on. Click the tittle of the project to find out more information.</p>
+    <p class="text-wor"><a href="PurdueBus/" class="page_links"><strong>PurdueBus - </strong></a>An Android application that provides users the real-time information on Purdue’s CityBus system which operate around Purdue University. Also includes several other features.</p>
+        <p class="text-wor"><a href="PurdueMenu/" class="page_links"><strong>Purdue Food Court Menu -</strong></a> An Android application that provides users Purdue food court menus, operation times, locations, and favorites.</p>
+   	<p class="text-wor"><a href="RedditTimeMachine/" class="page_links"><strong>Reddit Time Machine - </strong></a> The Reddit Time Machine is a web system that archives the home page of Reddit.com twice every day. And then displays all of the past homepages in an easy to browse fashion. </p>
+   	<p class="text-wor"><a href="ZuneShuffler/" class="page_links"><strong>Zune Playlist Shuffler - </strong></a> Zune Playlist Shuffler is a java based program that does just that, it shuffle manually made Zune playlists. The Zune software alone does not support this feature. </p>
+   	<p class="text-wor"><a href="http://www.txtback.mobi" class="page_links"><strong>TxtBack</strong></a> - TxtBack is the first major project I have done for the  public. Molded off Omegle, TxtBack is a free SMS service that anonymously pairs  two random users up for a conversation. Once they are done, the conversation is  broken and can be repeated. TxtBack is written in Java and runs on a local  server I have here in my drom.</p>
+    <p class="text-wor"><a href="CS_Projects/" class="page_links"><strong>PicGen</strong></a> - PicGen is a java application that can create any black and  white picture in the world. Once running, it generates every possible combination  of color combination with every other pixel every possible color. Thus it can generate  every picture that is nxn pixels.</p>
+   	<p class="text-wor"><a href="CS_Projects/" class="page_links"><strong>Purdue Java Projects</strong></a> - This is a directory that is filled with projects i have made in my CS classes at Purdue.</p>
+    <p class="text-wor"><a href="http://www.youtube.com/watch?v=9CDAWBQSoYI" class="page_links"><strong>English Final 2008</strong></a> - This is a collection of different pices that we made for our english final. It is in three parts.<br />
+      <br />
+      <span class="nounderline"><strong><a href="video.php" class="page_links">English Fina</a></strong></span><span class="page_links"><strong><a href="video.php" class="nounderline">l</a></strong></span><span class="nounderline"><strong><a href="video.php" class="nounderline"> 2007</a></strong></span> - This  is a Wii TV commercial, newspaper ad, and radio advertisement my friends and I made for our 2007 English final.    </p>
+    <p class="text-wor"><strong><a href="http://www.mediafire.com/?5kgb2lsd2dt" class="page_links">Atom Project</a></strong> - 2006, this is a atom project I made for chemisty. I was hard to make, but the outcome was very nice!<br />
+    </p>
+    <p class="text_h">The follow are some of my very first works, they are about seven years old now.<br />
+    *You cannot use Internet Explorer 7 to view these; it will block the applet from running. </p>
+                    
+    <p class="text-wor"><strong><a href="java_applets/Freezer/freezer.html" class="page_links">Freezer</a> -</strong> This Java applet that was an attempt at freezing a computer, but all it does is freeze the java platform and shuts down, but it is still cool looking.</p>
+    <p class="text-wor"><strong><a href="java_applets/PONG/pong.html" class="page_links">Pong</a> - </strong>A simple java game I completely made from scratch. Unfortunately is still has some flaws and glitches in it, but it is fun to play.</p>
+    <p class="text-wor"><strong><a href="java_applets/shooter/shooter.html" class="page_links">Shooter</a> - </strong>This is a gun game that I never finished. I really don't know if it works...</p>
+    <br>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, December 12, 2010 1:47 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

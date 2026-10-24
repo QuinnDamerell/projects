@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/Zune/comments/bxcwu/i_made_a_shuffler_for_myself_and_thought_i_would/",
+  "original_urls": [
+    "https://www.reddit.com/r/Zune/comments/bxcwu/"
+  ],
+  "title": "I made a shuffler for myself, and thought i would share it for others",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.187401+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1272476867,
+  "post_archive_observed_utc": 1522915110,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 1,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 1,
+  "recorded_comment_count": 1,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=bxcwu",
+      "fetched_utc": "2026-10-18T17:07:02.641740+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 1389,
+      "sha256": "b1952510bee6cee10e2afd34a0550b8c41f48708b379ef68e691f66e3ff7cd24",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=bxcwu",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=bxcwu&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:07:04.420490+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 499,
+      "sha256": "abd0919553364f47b30c0d9511f1ba143a2558c07665752b0dc2ddf9ea31ab56",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=bxcwu&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "cc82fa12d8de89dd8928163bdca65489e63a3bd0d36b0040e79bc1ac025889b9"
+}

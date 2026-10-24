@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, PicGen, picture generator, cool">
+<META NAME="description" CONTENT="The official website of Quinn Damerell. Pictures, Videos, Blogs, Mii, and a little social networking can be found here.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(../images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.downlaodlink {
+	font-size: 16px;
+	padding-left: 15px;
+	padding-right: 20px;
+}
+-->
+</style>
+<link rel="shortcut icon" href="../favicon.ico" />
+<title>QuinnDamerell.com - PicGen</title>
+<style type="text/css">
+<!--
+.style6 {
+	color: #003A7F;
+	font-size: 18px;
+	font-weight: bold;
+}
+.pad {
+	padding-left: 25px;
+}
+-->
+</style>
+<script language="Javascript">
+	// PRELOADING IMAGES
+	var img_over;
+	if (document.images) {
+	 img_over = new Image(); 
+	 img_over.src = "http://www.quinndamerell.com/images/navBar/rollBack.png"; 
+	}
+	
+	
+	function mouseOverNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "url('http://www.quinndamerell.com/images/navBar/rollBack.png')";
+		element.style.color = "#FFFFFF";
+	}
+	
+	function mouseOutNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "none";
+		element.style.color = "";
+	} 
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         
+      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="../images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>
+  
+  <div class="main_menu">
+    <div class="nav_bar_element"><center><a href="../index.php" onmouseover="document.home.src=homeR.src" onmouseout="document.home.src=homeS.src"><img src="../images/navBar/homeStandard.png" name="home" width="73" height="24" border=0></a>
+    </center></div>
+   <div class="nav_bar_element"><center><a href="../about_me.php" onmouseover="document.about.src=aboutR.src" onmouseout="document.about.src=aboutS.src"><img src="../images/navBar/aboutMeStandard.png" name="about" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../projects.php" onmouseover="document.proj.src=projectsR.src" onmouseout="document.proj.src=projectsS.src"><img src="../images/navBar/projectsStandard.png" name="proj" width="99" height="24" border=0 /></a>
+   </center></div>
+      <div class="nav_bar_element"><center>
+     <a href="../profesional.php" onmouseover="document.professional.src=professionalR.src" onmouseout="document.professional.src=professionalS.src"><img src="../images/navBar/professionalStandard.png" alt="Professional" name="professional" width="99" height="24" border="0" id="professional" /></a>
+      </center></div>
+
+   <div class="nav_bar_element"><center><a href="../pictures.php" onmouseover="document.pic.src=picturesR.src" onmouseout="document.pic.src=picturesS.src"><img src="../images/navBar/picturesStandard.png" name="pic" width="88" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../videos.php" onmouseover="document.vid.src=videosR.src" onmouseout="document.vid.src=videosS.src"><img src="../images/navBar/videosStandard.png" name="vid" width="88" height="24" border=0></a>
+   </center></div>
+      <div class="nav_bar_element"><center><a href="../websites.php" onmouseover="document.web.src=websitesR.src" onmouseout="document.web.src=websitesS.src"><img src="../images/navBar/websitesStandard.png" name="web" width="94" height="24" border=0></a>
+   </center></div>
+    </div>
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">PicGen</span></div>
+    <div class="pad">
+  
+      <div class="downlaodlink">
+        <p>PicGen is a small project I have made with a simple concept. One  day I thought about the idea that I could generate any picture in the world  with the right program and a huge amount of time. I then implemented this idea by creating a program that is able to  change every pixel on the screen to every color a computer can generate. At my first attempt  I found that it took about 8 seconds for my program to cycle through all the  colors it could make, which is RGB 0-255, for just one pixel. After  that I decided to make the program so that it could produce gray scale  pictures, greatly reducing the complexity thus greatly reducing the time required. I have written the program in java, but I realize that  this could be done more efficiently   in another language or by using another method,  but it mainly was just an interesting proof of concept for me. </p>
+      </div>
+      <p class="style6">Screenshot</p>
+      <div class="downlaodlink"><a href="PicGen.jpg"><img src="PicGen_thum.jpg" alt="PicGen" width="185" height="148" border="0" /></a></div>
+      <p><span class="style6">Download<br />
+        </span></p>
+      <div class="downlaodlink"><a href="PicGen.jar">PicGen.jar</a> - Java Executable   22.7KB</div>
+      <p><span class="style6">How To Use</span>
+      <div class="downlaodlink">
+        <p>Download and run, the first two values are the number of  pixels you would like to use horizontally and vertically. The more pixels the  more detail, but it will take a lot longer. The less pixels, the more you can  see it working but it will not make any real pictures. The next value is how  many shades you want each pixel to have before moving on to the next. Lower  looks better and will yield better results, but it also makes the time required  grow exponentially. And the last is to start with random pixels on the screen  this just gives it a head start.</p>
+  </div>
+  <p><span class="style6">Note: Java is Required to Use this Program</span><div class="downlaodlink">
+        <p>JRE or Java Runtime Environment is required to use this  program. Java is a widely used programing language that requires additional  downloads to work in windows. Please follow the <a href="http://www.java.com/en/download/manual.jsp">link</a> and select the version you  need. For most users, it will be first program under the Windows heading.</p>
+<p> <a href="http://www.java.com/en/download/manual.jsp">http://www.java.com/en/download/manual.jsp</a></p>
+ </div> 
+  <br />
+          </div>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, September 18, 2011 3:44 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

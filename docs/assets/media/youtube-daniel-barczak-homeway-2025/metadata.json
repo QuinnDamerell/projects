@@ -1,0 +1,39 @@
+{
+  "video_id": "ySNeVU1cJ_8",
+  "title": "Homeway HA Addon: Get FREE Remote Access, AI, & Alexa in SECONDS",
+  "channel": "Daniel Barczak",
+  "channel_url": "https://www.youtube.com/@tech4gods",
+  "published": "2025-03-16",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=ySNeVU1cJ_8",
+  "filename": "youtube-daniel-barczak-homeway-2025.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-daniel-barczak-homeway-2025.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1158.536417,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 189316478,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/ySNeVU1cJ_8/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": [
+    {
+      "anchor": "sage-setup",
+      "seconds": 512,
+      "label": "Sage setup at 8:32"
+    },
+    {
+      "anchor": "sage-testing",
+      "seconds": 744,
+      "label": "Sage testing at 12:24"
+    }
+  ]
+}

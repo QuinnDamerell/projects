@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="../favicon.ico"/>
+<title>Baconit - A Metro Reddit App</title>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Baconit is a modern metro Reddit app for Windows Phone. Baconit fully supports Mango, and provides a beautiful , clean, fast, and easy interface to reddit.">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/style.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/TileScript.js"></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();function goToByScroll(id)
+{$('html,body').animate({scrollTop:$("#"+id).offset().top},'slow');}
+$(document).ready(function(){$("a[rel=ScreenShots]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over"><strong>Image '+(currentIndex+1)+' / '+currentArray.length+':</strong> '+(title.length?' &nbsp; '+title:'')+'</span>';}});$("a[rel=FeatureVideo]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','type':'iframe','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over">'+(title.length?' &nbsp; '+title:'')+'</span>';}});});</script>
+<script type="text/javascript" src="/LightBox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/LightBox/jquery.fancybox-1.3.4.pack.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/LightBox/jquery.fancybox-1.3.4.css" media="screen"/>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+<body class="gradient">
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=174526289270922";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about.html">About Me</a></li>
+<li><a href="/portfolio.html">Portfolio</a></li>
+<li><a href="/contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container">
+<div id="main" class="grid-24">
+<div class="grid-6" style="margin-top:4px">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="../Images/WindowsPhone.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+<a onclick="goToByScroll('ScreenShots');" id="slot-b" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="../Images/ScreenShots.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-large">
+<div style="display: block; height: 355px; background-color: #158CC4;">
+<img src="../Images/MainTile.jpg" alt=""/>
+</div>
+</div>
+<div class="grid-6 last">
+<a onclick="goToByScroll('Reviews')" id="slot-g" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="../Images/Reviews.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/s?appid=fa4e749a-a521-43f1-b2cd-40bd1a0a8875" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="../Images/Marketplace.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<header style="padding-top:24px; clear:both;">
+<h1 class="title">BaconSync</h1>
+<div class="descriptions">
+<span> <a onclick="goToByScroll('Features');" class="SiteLink">Features.</a></span>
+<span><a onclick="goToByScroll('Extensions');" class="SiteLink">Extensions.</a></span>
+<span><a onclick="goToByScroll('API');" class="SiteLink">API.</a></span></div>
+</header>
+<div class="about">
+<h2 id="Features">Features</h2>
+<div style="margin-left:22px;">
+<p>BaconSync is an system of browser extensions that work with Baconit for Windows Phone that allows users to seamlessly synchronize visited links on reddit.com between their web browsers and their phones. </p>
+<p>Features Include: </p>
+<ul>
+<li>Seamless synchronization of visited link on reddit.com to and from all of your devices</li>
+<li>Synchronization across all of your web browsers and Windows Phones</li>
+<li>Ability to send web pages directly to your phone to be viewed instantly. </li>
+</ul>
+<p>BaconSync only works with Baconit for Windows Phone, and will soon be available for all major browsers.</p>
+</div>
+<h2 id="Extensions">Extensions</h2>
+<div style="margin-left:22px;">
+<p><a href="https://chrome.google.com/webstore/detail/hijjlippfjpgkjegmplnlidhoojojabp" class="SiteLink"><img style="padding-right:5px" src="chrome.png" alt="Chrome" border="0" align="bottom"/>Offical Chrome Extension - Created by Quinn Damerell</a></p>
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/baconsync/" class="SiteLink"><img style="padding-right:7px" src="firefox.png" alt="Opera" border="0" align="bottom"/>Firefox Extension - Created by Pradeek J.</a></p>
+<p><a href="https://addons.opera.com/en/extensions/details/baconsyncopera/?display=en" class="SiteLink"><img style="padding-right:7px" src="opera.png" alt="Opera" border="0" align="bottom"/>Opera Extension - Created by Ivan Kiselovs</a></p>
+</div>
+<h2 id="API">API</h2>
+<div style="margin-left:22px;">
+<p> If you are interested in developing an extension or adding BaconSync into your reddit app, please<a href="/contact.php" class="SiteLink"> contact me.</a></p>
+</div>
+<div style="height:100px">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+</body>
+</html>

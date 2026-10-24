@@ -1,0 +1,150 @@
+[project]
+site_name = "Quinn Damerell"
+site_url = "https://projects.quinn.space"
+site_author = "Quinn Damerell"
+site_description = "Projects, experiments, and stories from Quinn Damerell. A growing archive of things built and lessons learned."
+copyright = "Copyright &copy; 2026 Quinn Damerell"
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = ["javascripts/media-filters.js", "javascripts/story-details.js", "javascripts/recovered-media.js"]
+
+[project.theme]
+variant = "modern"
+language = "en"
+custom_dir = "overrides"
+font = false
+favicon = "favicon.ico"
+logo = "assets/logo.svg"
+features = [
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.instant.progress",
+  "navigation.top",
+  "navigation.footer",
+  "content.code.copy",
+  "toc.follow",
+  "search.highlight",
+]
+
+# Start in dark mode unless the visitor has saved a different preference.
+[[project.theme.palette]]
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to dark mode"
+
+# Zensical implements these plugins natively; no MkDocs packages are needed.
+# Project order and labels remain in docs/.nav.yml.
+[project.plugins.awesome-nav]
+
+[project.plugins.glightbox]
+auto_caption = false
+skip_classes = ["no-lightbox"]
+
+[project.plugins.mkdocs-video]
+is_video = true
+video_controls = true
+video_autoplay = false
+video_muted = true
+css_style = { width = "100%", height = "auto", aspect-ratio = "16 / 9" }
+
+[project.plugins.minify]
+minify_html = true
+
+[project.plugins.search]
+separator = '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+# llms.txt (https://llmstxt.org): /llms.txt indexes the pages below for AI
+# tools, each listed page also gets a Markdown copy linked from its <head>,
+# and /llms-full.txt joins them. Only pages matched by a section are included.
+[project.plugins.llmstxt]
+full_output = "llms-full.txt"
+markdown_description = """
+Quinn Damerell's project archive: apps, services and experiments, from early school projects and Windows Phone apps like Baconit to OctoEverywhere and Homeway. Each project page covers what it was, why it existed and how it went. The Career section covers jobs, patents and awards, and the Media section summarizes press coverage, interviews and talks, with archived copies hosted on this site.
+"""
+
+[project.plugins.llmstxt.sections]
+# One entry per project page, in docs/.nav.yml order. A pattern cannot be
+# used here: "*" also matches "/", so "*.md" would repeat every Career and
+# Media page. The home page is left out; its timeline is HTML links, which
+# the Markdown copy reduces to empty bullets.
+Projects = [
+  "plot.md",
+  "homeway.md",
+  "octoeverywhere.md",
+  "baconit.md",
+  "crosstxt.md",
+  "prism.md",
+  "glow.md",
+  "kokka-koro.md",
+  "qworld.md",
+  "mixer-karl.md",
+  "mix-tok.md",
+  "loyalty.md",
+  "thinking-of-you.md",
+  "crack-the-whip.md",
+  "instemote.md",
+  "liquid-physics-wallpaper.md",
+  "next-bus.md",
+  "purdue-bus.md",
+  "purdue-menu.md",
+  "txtback.md",
+  "reddit-time-machine.md",
+  "gathr.md",
+  "ninja-cam.md",
+  "zune-playlist-shuffler.md",
+  "picgen.md",
+  "early-experiments.md",
+]
+Career = ["career/*.md"]
+Media = ["media/*.md"]
+
+[project.extra.status]
+new = "Recently added"
+deprecated = "Deprecated"
+
+[project.extra.analytics]
+provider = "google"
+property = "G-HY33DGEY4B"
+
+[[project.extra.social]]
+icon = "octicons/globe-24"
+link = "https://quinn.space"
+name = "Quinn Damerell's website"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/QuinnDamerell"
+name = "Quinn Damerell on GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/bluesky"
+link = "https://bsky.app/profile/quinndamerell.bsky.social"
+name = "Quinn Damerell on Bluesky"
+
+[project.markdown_extensions]
+abbr = {}
+admonition = {}
+attr_list = {}
+def_list = {}
+footnotes = {}
+md_in_html = {}
+tables = {}
+toc.permalink = false
+toc.toc_depth = 2
+pymdownx.blocks.caption = {}
+pymdownx.details = {}
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.highlight = {}
+pymdownx.inlinehilite = {}
+pymdownx.superfences = {}
+pymdownx.tabbed.alternate_style = true
+pymdownx.tasklist.custom_checkbox = true

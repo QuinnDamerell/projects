@@ -1,0 +1,28 @@
+{
+  "video_id": "B-VudtbXSwo",
+  "title": "Wirelessly Control Your 3d Printer From Anywhere! (OctoEverywhere)",
+  "channel": "ModBot",
+  "channel_url": "https://www.youtube.com/@ModBotArmy",
+  "published": "2022-03-19",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=B-VudtbXSwo",
+  "filename": "youtube-modbot-octoeverywhere-2022.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-modbot-octoeverywhere-2022.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 847.946304,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 123295340,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/B-VudtbXSwo/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

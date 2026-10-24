@@ -1,0 +1,26 @@
+{
+  "url": "https://www.matthias-petrat.com/octoeverywhere-dieser-dienst-macht-octoprint-am-3d-drucker-weltweit-zugaenglich/",
+  "title": "OctoEverywhere - Dieser Dienst macht OctoPrint am 3D-Drucker weltweit zugänglich",
+  "site": "matthias-petrat.com",
+  "published": "2022-04-05T10:30:02+00:00",
+  "captured": "2026-10-18T17:14:09.539Z",
+  "restoredImages": [],
+  "removed": [
+    "#BorlabsCookieBox",
+    "#BorlabsCookieWidget",
+    ".aawp-product",
+    ".post-end-promotions",
+    ".artikel-banner-wrapper"
+  ],
+  "youtube": [],
+  "automaticResources": "Local or data URLs only; see resource-manifest.json",
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 5136
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  }
+}

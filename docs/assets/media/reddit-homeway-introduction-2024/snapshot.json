@@ -1,0 +1,63 @@
+{
+  "url": "https://www.reddit.com/r/selfhosted/comments/18xyenl/introducing_homeway_a_free_secure_tunnel_for/",
+  "original_urls": [
+    "https://www.reddit.com/r/selfhosted/comments/18xyenl/introducing_homeway_a_free_secure_tunnel_for/"
+  ],
+  "title": "Introducing Homeway - A free secure tunnel for self-hosted Home Assistants",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.012799+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1704326458,
+  "post_archive_observed_utc": 1704326472,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 94,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 94,
+  "recorded_comment_count": 42,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [
+    "The project source records that moderators later removed the Homeway introduction. This archive retains the earlier post body observed on 2024-01-04 00:01:12 UTC; it does not imply the original post remains visible today.",
+    "Recovered 94 comment records; the archived post reports 42. Counts come from different archive observations and cannot establish complete recovery."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=18xyenl",
+      "fetched_utc": "2026-10-18T17:06:19.930671+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 19070,
+      "sha256": "8ffd824ebf87a2bf34d5d252e42014e6e93f845abc9f90dc8059ff406e913e67",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=18xyenl",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=18xyenl&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:22.224620+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 213602,
+      "sha256": "b12ad0276baa0a8f7c7a7f0ec76ac631f136884fc8469889b400e44bdff6ffd7",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=18xyenl&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "d52fad6818f0bbe8d57a5a05110bb05222dbf496a46d4e8f90b7af8aa47b1058"
+}

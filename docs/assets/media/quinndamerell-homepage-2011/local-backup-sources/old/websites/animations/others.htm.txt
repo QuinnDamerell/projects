@@ -1,0 +1,310 @@
+
+<html>
+<head>
+<title>others</title>
+
+<meta name="generator" content="Microsoft FrontPage 4.0">
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+<body bgcolor="#000000" link="#0000FF" vlink="#FF0000" text="#000000"
+>
+<!-- following code added by server. PLEASE REMOVE -->
+<!-- preceding code added by server. PLEASE REMOVE -->
+
+<table border=0 cellspacing=0 cellpadding=0 width=638>
+<tr valign="top" align="left">
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=12></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=12></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=10></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=32></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=18></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=10></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=8></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=5></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=4></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=13></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=4></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=42></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=154></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=39></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=42></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=17></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=71></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=17></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=11></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=5></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=5></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=83></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=7></td>
+	<td><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td>
+</tr>
+<tr valign="top">
+	<td colspan=36 height=6></td>
+</tr>
+<tr valign="top">
+	<td colspan=1 height=2></td>
+	<td colspan=10 rowspan=4 width=90><!-- stick1 -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,42,0"
+  id="stick2" width="100" height="100">
+  <param name="movie" value="../../animations/stick2.swf">
+  <param name="quality" value="high">
+  <param name="bgcolor" value="#000000">
+    <embed name="stick2" src="../../animations/stick2.swf"
+     quality="high" bgcolor="#000000" swLiveConnect="true"
+     width="100" height="100"
+     type="application/x-shockwave-flash"
+     pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object></td>
+	<td colspan=25 height=2></td>
+</tr>
+<tr valign="top">
+	<td colspan=1 height=7></td>
+	<td colspan=22 height=7></td>
+	<td colspan=2 rowspan=4 width=90><!-- stick1 -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,42,0"
+  id="stick1" width="100" height="100">
+  <param name="movie" value="stick1.swf">
+  <param name="quality" value="high">
+  <param name="bgcolor" value="#000000">
+    <embed name="stick1" src="stick1.swf"
+     quality="high" bgcolor="#000000" swLiveConnect="true"
+     width="100" height="100"
+     type="application/x-shockwave-flash"
+     pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object></td>
+	<td colspan=1 height=7></td>
+</tr>
+<tr valign="top">
+	<td colspan=1 height=73></td>
+	<td colspan=3 height=73></td>
+	<td colspan=17 rowspan=1 width=425><font color="#00FF00" size="+4"><span style="font-size:48">Quincy's Movie Index</span></font></td>
+	<td colspan=2 height=73></td>
+	<td colspan=1 height=73></td>
+</tr>
+<tr valign="top">
+	<td colspan=1 height=8></td>
+	<td colspan=22 height=8></td>
+	<td colspan=1 height=8></td>
+</tr>
+<tr valign="top">
+	<td colspan=33 height=2></td>
+	<td colspan=1 height=2></td>
+</tr>
+<tr valign="top">
+	<td colspan=36 height=13></td>
+</tr>
+<tr valign="top">
+	<td colspan=6 height=4></td>
+	<td colspan=28 rowspan=1 width=601 align="center" valign="middle"><img height=4 width=601 src="http://www.geocities.com/clipart/pbi/hrules/Templates/aboutme_classic_horzline.gif" border=0 ></td>
+	<td colspan=2 height=4></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=26></td>
+	<td colspan=1 rowspan=25 width=4 align="center" valign="middle"><img height=480 width=4 src="http://www.geocities.com/clipart/pbi/vrules/Templates/aboutme_classic_vertline.gif" border=0 ></td>
+	<td colspan=18 height=26></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=15></td>
+	<td colspan=3 height=15></td>
+	<td valign="middle" colspan=5 rowspan=4 width=100><font color="#00FF00" size="+3"><span style="font-size:36">Others</span></font></td>
+	<td colspan=10 height=15></td>
+</tr>
+<tr valign="top">
+	<td colspan=5 height=22></td>
+	<td valign="middle" colspan=3 rowspan=1 width=44><a href="http://www.freewebs.com/quinbd/main.htm"><font color="#00FF00"><span style="font-size:14">Home</span></font></a></td>
+	<td colspan=9 height=22></td>
+	<td colspan=3 height=22></td>
+	<td colspan=10 height=22></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=9></td>
+	<td colspan=3 height=9></td>
+	<td colspan=10 height=9></td>
+</tr>
+<tr valign="top">
+	<td colspan=4 height=11></td>
+	<td valign="middle" colspan=6 rowspan=2 width=66><a href="http://www.freewebs.com/quinbd/animations/aminations.htm"><font color="#00FF00"><span style="font-size:14">Animations</span></font></a></td>
+	<td colspan=7 height=11></td>
+	<td colspan=3 height=11></td>
+	<td colspan=10 height=11></td>
+</tr>
+<tr valign="top">
+	<td colspan=4 height=11></td>
+	<td colspan=7 height=11></td>
+	<td colspan=18 height=11></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=10></td>
+	<td colspan=18 height=10></td>
+</tr>
+<tr valign="top">
+	<td colspan=7 height=15></td>
+	<td valign="middle" colspan=8 rowspan=2 width=78><a href="http://www.freewebs.com/quinbd/animations/sick_figures.html"><font color="#00FF00"><span style="font-size:14">Stick Figures</span></font></a></td>
+	<td colspan=2 height=15></td>
+	<td colspan=18 height=15></td>
+</tr>
+<tr valign="top">
+	<td colspan=7 height=7></td>
+	<td colspan=2 height=7></td>
+	<td colspan=2 height=7></td>
+	<td valign="middle" colspan=3 rowspan=8 width=194><font color="#00FF00"><span style="font-size:14">This is the very first animation that I ever made i look back at it and laugh at how poorly it is made. But I learned a lot.</span></font></td>
+	<td colspan=13 height=7></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=9></td>
+	<td colspan=2 height=9></td>
+	<td colspan=13 height=9></td>
+</tr>
+<tr valign="top">
+	<td colspan=7 height=6></td>
+	<td valign="middle" colspan=8 rowspan=2 width=78><a href="http://www.freewebs.com/quinbd/animations/others.html"><font color="#00FF00"><span style="font-size:14">Others</span></font></a></td>
+	<td colspan=2 height=6></td>
+	<td colspan=2 height=6></td>
+	<td colspan=13 height=6></td>
+</tr>
+<tr valign="top">
+	<td colspan=7 height=16></td>
+	<td colspan=2 height=16></td>
+	<td colspan=2 height=16></td>
+	<td colspan=2 height=16></td>
+	<td valign="middle" colspan=7 rowspan=3 width=124><a href="http://www.freewebs.com/quinbd/animations/movies/snowman_snow_fight.html"><font color="#00FF00"><span style="font-size:14">snowman snow fight</span></font></a></td>
+	<td colspan=4 height=16></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=13></td>
+	<td colspan=2 height=13></td>
+	<td colspan=2 height=13></td>
+	<td colspan=4 height=13></td>
+</tr>
+<tr valign="top">
+	<td colspan=2 height=3></td>
+	<td valign="middle" colspan=7 rowspan=2 width=66><a href="http://www.freewebs.com/quinbd/about_me.html"><font color="#00FF00"><span style="font-size:14">About Me</span></font></a></td>
+	<td colspan=8 height=3></td>
+	<td colspan=2 height=3></td>
+	<td colspan=2 height=3></td>
+	<td colspan=4 height=3></td>
+</tr>
+<tr valign="top">
+	<td colspan=2 height=19></td>
+	<td colspan=8 height=19></td>
+	<td colspan=2 height=19></td>
+	<td colspan=13 height=19></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=3></td>
+	<td colspan=2 height=3></td>
+	<td colspan=13 height=3></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=7></td>
+	<td colspan=18 height=7></td>
+</tr>
+<tr valign="top">
+	<td colspan=3 height=19></td>
+	<td valign="middle" colspan=13 rowspan=1 width=97><a href="http://www.freewebs.com/quinbd/credits_tips.html"><font color="#00FF00"><span style="font-size:14">Credits and Tips</span></font></a></td>
+	<td colspan=1 height=19></td>
+	<td colspan=18 height=19></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=8></td>
+	<td colspan=18 height=8></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=3></td>
+	<td colspan=1 height=3></td>
+	<td valign="middle" colspan=3 rowspan=4 width=194><font color="#00FF00"><span style="font-size:14">This is one I am currently working on. If you have any ideas please e-mail them to me.</span></font></td>
+	<td colspan=14 height=3></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=30></td>
+	<td colspan=1 height=30></td>
+	<td colspan=3 height=30></td>
+	<td valign="middle" colspan=3 rowspan=1 width=89><a href="http://www.freewebs.com/quinbd/animations/movies/ship.html"><font color="#00FF00"><span style="font-size:14">Ship</span></font></a></td>
+	<td colspan=8 height=30></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=14></td>
+	<td colspan=1 height=14></td>
+	<td colspan=14 height=14></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=29></td>
+	<td colspan=1 height=29></td>
+	<td colspan=2 height=29></td>
+	<td valign="middle" colspan=3 rowspan=2 width=89><a href="http://www.freewebs.com/quinbd/animations/movies/mainship.html"><font color="#00FF00"><span style="font-size:14">Main Ship</span></font></a></td>
+	<td colspan=9 height=29></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=1></td>
+	<td colspan=6 height=1></td>
+	<td colspan=9 height=1></td>
+</tr>
+<tr valign="top">
+	<td colspan=17 height=174></td>
+	<td colspan=18 height=174></td>
+</tr>
+<tr valign="top">
+	<td colspan=36 height=142></td>
+</tr>
+<tr valign="top">
+	<td colspan=12 height=19></td>
+	<td colspan=17 rowspan=1 width=415><a href="http://www.freewebs.com/"><font color="#00FF00"><span style="font-size:14">This site is hosted for free by free webs. Click here to sign your self up!</span></font></a></td>
+	<td colspan=7 height=19></td>
+</tr>
+<tr valign="top">
+	<td colspan=36 height=12></td>
+</tr>
+<tr valign="top">
+	<td colspan=13 height=19></td>
+	<td align="center" colspan=17 rowspan=1 width=415><a href="http://www.lostmarble.com/"><font color="#00FF00"><span style="font-size:14">These were all created in mono the coolest program ever!</span></font></a></td>
+	<td colspan=6 height=19></td>
+</tr>
+</table>
+<img src="http://visit.webhosting.yahoo.com/visit.gif?us1108046932" alt="setstats" border="0"></noscript>
+<IMG SRC="http://geo.yahoo.com/serv?s=76001078&t=1108046932" ALT=1>
+<!-- --><script type="text/javascript" src="/i.js"></script></body>
+</html>
+<!-- text below generated by server. PLEASE REMOVE --></noscript></script><script language="JavaScript" src="http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="http://geocities.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript>
+

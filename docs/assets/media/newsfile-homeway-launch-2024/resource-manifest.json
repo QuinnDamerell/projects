@@ -1,0 +1,610 @@
+{
+  "localized_at": "2026-10-18T17:15:20.167397+00:00",
+  "method": "Source fonts, background images, and icons saved as deduplicated local files; small data URLs remain inline. No article prose changed.",
+  "resources": [
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 11232,
+      "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "local_path": "resources/6e9e020a25f9b56d418f.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/gavel-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3825,
+      "sha256": "7cb429296ea33a1149cc67e2a95a53a922361bf7eb489900dde738ad6967280c",
+      "local_path": "resources/7cb429296ea33a1149cc.svg"
+    },
+    {
+      "url": "https://app.quotemedia.com/images/qmSortDesc.gif",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://app.quotemedia.com/images/qmSortDesc.gif"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/verified-handshake-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 12208,
+      "sha256": "64ad91921df029493ade28ef4e1bc2c98dd9b7d354a5d42a73ef80a2f64ec388",
+      "local_path": "resources/64ad91921df029493ade.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 25960,
+      "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "local_path": "resources/ca157063339ac4ad418f.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/handshake-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1654,
+      "sha256": "9ae9a7b453fc88f516aeee5dab05121ce9d8a3cba510d97d9558a0104cd2e327"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/automation-network-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 7862,
+      "sha256": "dff698026766a7e34719c406302638a3b2ca3d141655b0bfd1250d6d8468bec8",
+      "local_path": "resources/dff698026766a7e34719.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/shield-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2160,
+      "sha256": "312e5227beeba487cc2ac483e51f885abb619593bbd69ff8527c2c3fcd62f529"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/news-document-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3820,
+      "sha256": "08dc170c4e0887b1b3e6de184e5666cf8d7fa18e86ea745a9cc69aa2e5e87af7",
+      "local_path": "resources/08dc170c4e0887b1b3e6.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/target-check-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2729,
+      "sha256": "cfd8ef8ffcea683af0bc77292217d2f4250d96eedfe24fee4dcd01ef98a2c4bf"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_03.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 969521,
+      "sha256": "77e9c7ef694838da1839dfdbfe5a8c43a801ce529b8198ceab5ff399cb79f4de",
+      "local_path": "resources/77e9c7ef694838da1839.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/favicon.ico?v=2.0.0",
+      "status": "saved_local",
+      "mime_type": "image/x-icon",
+      "bytes": 38805,
+      "sha256": "951f8738bfd154eda09e8eee61f3ea432677bda5b161c163b365c1d338ca3b44",
+      "local_path": "resources/951f8738bfd154eda09e.ico"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-regular-400.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 25472,
+      "sha256": "e3456d1283b9d75337a773dfd147bf908fd02c01b4bf48576d8603a69b13cbe5",
+      "local_path": "resources/e3456d1283b9d75337a7.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/chart-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2845,
+      "sha256": "dc6c7c493918522abda801cc4259b6d8c00667d6d73deff3bb7c41efaca155db"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/clipboard-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4421,
+      "sha256": "3a14784f576a1bd3d737be45b1f7f186794f16d50a72c167bb2aebce0b3fc0ea",
+      "local_path": "resources/3a14784f576a1bd3d737.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/bolt-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1111,
+      "sha256": "744e85cb491246f1fdbc24e9e4718cc3739174e75c381794699d81ea9cf027b9"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/checklist-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3496,
+      "sha256": "8593475e62fe3fb3d376166fe918dd379713143f10783a9c6b795b3af61f07b4",
+      "local_path": "resources/8593475e62fe3fb3d376.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/quotetools/images/strike.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.newsfilecorp.com/quotetools/images/strike.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/knowledge-book-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 9210,
+      "sha256": "ade1966ce7437bdce55259112ce0eb86ce255d1501d78f02c26d9d971f24a4ae",
+      "local_path": "resources/ade1966ce7437bdce552.svg"
+    },
+    {
+      "url": "http://app.quotemedia.com/images/qmSortAsc.gif",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://app.quotemedia.com/images/qmSortAsc.gif"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_08.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 7915290,
+      "sha256": "bdde37b9cb64e35775bf3d89d1e3bc675c9c3c513439c3eab9259c2630ab9feb",
+      "local_path": "resources/bdde37b9cb64e35775bf.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/bg-constellation-network.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1001465,
+      "sha256": "b3f1d9bf60723dba831185095cfb76dfe219dac4e5ceab7026f8339a8dd09904",
+      "local_path": "resources/b3f1d9bf60723dba8311.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/certification-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2746,
+      "sha256": "bd8e1d16d42140f66df0ce8a05aed8e9c2622a4af02ec1fad0aab1cde19b15f6"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/globe-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2013,
+      "sha256": "193b19b6d2cec0e95899739213e73ea5f834bd714fc503dcd2cac463a37e7b14"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/book-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3692,
+      "sha256": "4fab6690a3267527157159f132a64389e379d4941548512d78f4d6ad607f2209",
+      "local_path": "resources/4fab6690a32675271571.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/dossier-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3331,
+      "sha256": "f0df9163e32f9424c1d7bbaff654d73b720614b280e5bf283e34c257e84b4c6f",
+      "local_path": "resources/f0df9163e32f9424c1d7.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_02.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 998379,
+      "sha256": "aa97f8444da52662a13f4ea1dcffe6728543cb483851631c0a57e554016ffac2",
+      "local_path": "resources/aa97f8444da52662a13f.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/pr_bg_01.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 4823044,
+      "sha256": "6bc1f10e9e736f97a0d184d5c4ec0524216d032bc94362a97045115b1e7229ae",
+      "local_path": "resources/6bc1f10e9e736f97a0d1.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/analytics-report-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3816,
+      "sha256": "48f2608a7a999a4b1b2e64e7f5b88cb4679c14c33f0f62624679a5878a0636d0",
+      "local_path": "resources/48f2608a7a999a4b1b2e.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/industry-hub-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4772,
+      "sha256": "badcaa20391491898ab8ac6c2855f82cf2fb61e6164b42666ccf357186af6951",
+      "local_path": "resources/badcaa20391491898ab8.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "local_path": "resources/3100e775e8616cd2611b.woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLfW-0fDON754.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 9720,
+      "sha256": "05931b6890bb1da6005d8e1ae6673f0aa8ffa8fa8094e586ddc98919b3de1b54",
+      "local_path": "resources/05931b6890bb1da6005d.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/support-agent-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3103,
+      "sha256": "c992691d79c0bc077b2aa4399f82a6a54fe0a02bbc4f79bc199871ddda8b28b6",
+      "local_path": "resources/c992691d79c0bc077b2a.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/headset-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2576,
+      "sha256": "b09a3df994ca3e6cb894c167c6dede344d32248ac264fcbfab68825db444b213"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/institution-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1811,
+      "sha256": "723962ed8401a5c0f84c37be84d00ebe2d7fda30caca190efd7d64802bbd35b1"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLfW-0eDON.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 15836,
+      "sha256": "e38feee1f469cfd4b964de4319044b21eb68fb5f307f7bd2e32b0b0b26121f0a",
+      "local_path": "resources/e38feee1f469cfd4b964.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/global-partnership-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 14306,
+      "sha256": "b64fef541fa3401efdc44464637f8c7dfb490f9f4498df8f2009eed2395881ed",
+      "local_path": "resources/b64fef541fa3401efdc4.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/slideshow/3416-newsfile-sliders-HEALTH.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 104189,
+      "sha256": "a4e8df5e0dd419b9d4b5ddd24dec52a82a44136b85ea96009a3c528a12785f54",
+      "local_path": "resources/a4e8df5e0dd419b9d4b5.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/slideshow/3416-newsfile-sliders-CANNABIS.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 281396,
+      "sha256": "f2c865a04ffca5e0614c9e4540ec49553f8cffd3ad298dff212239ba611d119e",
+      "local_path": "resources/f2c865a04ffca5e0614c.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/slideshow/3416-newsfile-sliders-TECHNOLOGY.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 332995,
+      "sha256": "21c0311ef1a5ca348969b10318462af124e84b28b8bac82e356cf04d7b45f956",
+      "local_path": "resources/21c0311ef1a5ca348969.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/slideshow/3416-newsfile-sliders-ENERGY.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 141538,
+      "sha256": "1147075f5bdd45f8780c6d877542aedcd8d5866f95506224007a12c80924ddc6",
+      "local_path": "resources/1147075f5bdd45f8780c.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/document-cursor-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4774,
+      "sha256": "dbf058ed6ddc2d31bb7317834c6ae9dbc5b21473e118100afe3867c0a2976c42",
+      "local_path": "resources/dbf058ed6ddc2d31bb73.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/qmSortAsc.gif",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.newsfilecorp.com/images/qmSortAsc.gif"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_07.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 1878609,
+      "sha256": "6ad5490858cbc6894eed3345b2427f2d6d5b83573144d3379610159a2a354edd",
+      "local_path": "resources/6ad5490858cbc6894eed.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/global-network-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3139,
+      "sha256": "211519867c5017f5fe82ed2e740c62c4a720faf185041e80a6859cdb997baffd",
+      "local_path": "resources/211519867c5017f5fe82.svg"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-brands-400.ttf",
+      "status": "saved_local",
+      "mime_type": "font/ttf",
+      "bytes": 210792,
+      "sha256": "808443ae6c8204395add8543da8a90a60b9376fb0f87ed8e8ea37d109596d805",
+      "local_path": "resources/808443ae6c8204395add.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 18748,
+      "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "local_path": "resources/71d5ee93cc1e9f1d520a.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/review-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 2234,
+      "sha256": "5bff02b1c4c6b21883aa509223a441751e7b88638e2a91138f3c50b549e5f4fe"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/media-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3804,
+      "sha256": "013c6f443e2d65347e4ac8e383f24f9cd5fb48a0e32bc6fbd9e815b2b52e7807",
+      "local_path": "resources/013c6f443e2d65347e4a.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/filing-form-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4853,
+      "sha256": "1be49269eb6a86b6a685a088b40483a7f95c1612372a84f5a1ed3fa261428a14",
+      "local_path": "resources/1be49269eb6a86b6a685.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/bg-cta-chevrons-teal.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 10768,
+      "sha256": "aa6620cde339252aa8fc6e155f21e04d70a0fad43524fe93f7bcac37d7be21b1",
+      "local_path": "resources/aa6620cde339252aa8fc.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 18996,
+      "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "local_path": "resources/1be3448e292fbf05ffe1.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/slideshow/3416-newsfile-sliders-MINING.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 399756,
+      "sha256": "20e181d5c50d89913c3be7156070a3192391ae539fc4bdde060a3cf5463a4194",
+      "local_path": "resources/20e181d5c50d89913c3b.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/qmSortDesc.gif",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.newsfilecorp.com/images/qmSortDesc.gif"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/document-review-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4358,
+      "sha256": "2f44dcebdb11b6d5022d2ab3fd4732817b49464523f01b4006ac3740358fe916",
+      "local_path": "resources/2f44dcebdb11b6d5022d.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 85068,
+      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "local_path": "resources/34b9c504cab7a73e37b7.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/tmx_logo_dark.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 43774,
+      "sha256": "fa0823cd58f12896dae023341b53c4c9cc9982a087a32c7303542141b6ba28df",
+      "local_path": "resources/fa0823cd58f12896dae0.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_09.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 432658,
+      "sha256": "90d7a0027eb11fbd6b998fd043d944904f4f0f6569d8827f9e85319d3198c442",
+      "local_path": "resources/90d7a0027eb11fbd6b99.png"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.ttf",
+      "status": "saved_local",
+      "mime_type": "font/ttf",
+      "bytes": 426112,
+      "sha256": "d2f0593540b0e33ba6de255a54f272d466e31144806956bea8cfdbf7edffc9bd",
+      "local_path": "resources/d2f0593540b0e33ba6de.ttf"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/calculator-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 4130,
+      "sha256": "bbdf21a19508ca581028e60439104dd9723479b7e04f7384a811f366b4896ecb",
+      "local_path": "resources/bbdf21a19508ca581028.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLfW-0ezON754.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 6168,
+      "sha256": "7d3c0f39478e73a29fd5d9edb6eaaab676b35ba36d8e8565b0c43febbf51c6d7",
+      "local_path": "resources/7d3c0f39478e73a29fd5.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_05.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 1750258,
+      "sha256": "3bb7866f1c99e33ca61ae1f849593d91f20fa200086b3502bb3aa4a1f5f3325e",
+      "local_path": "resources/3bb7866f1c99e33ca61a.jpg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_06.jpg",
+      "status": "saved_local",
+      "mime_type": "image/jpeg",
+      "bytes": 5436349,
+      "sha256": "3b88e98076c2c93e768844d6839f3fa127ea22023deedbf403f6d452b3f82a82",
+      "local_path": "resources/3b88e98076c2c93e7688.jpg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLfW-0dTON754.woff2",
+      "status": "embedded",
+      "mime_type": "font/woff2",
+      "bytes": 1656,
+      "sha256": "5335664b4c365a02d560c8dd717791659d7bc94d732dd8414a66374e5747454a"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/us-flag-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 16141,
+      "sha256": "f912214e508f266c3806b611cd4bc5d0dd242c64bceabc11316d787495816adb",
+      "local_path": "resources/f912214e508f266c3806.svg"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_04.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1425524,
+      "sha256": "5f9a2a92334647a27a812355a8656a245685897260d7bdcf2a88810452e9c73a",
+      "local_path": "resources/5f9a2a92334647a27a81.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/search-connection-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3475,
+      "sha256": "aa2aaea0fae673e98ad3a207dbf9042c51eb15014cfb49b620816063bd3e0118",
+      "local_path": "resources/aa2aaea0fae673e98ad3.svg"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 158220,
+      "sha256": "aa75998623a391e61c6901794ace832e3ecdd288b56d608f21bea0411acc0b8e",
+      "local_path": "resources/aa75998623a391e61c69.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/lock-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1444,
+      "sha256": "b2451249787d05f384458b88eb057d85a749a2392be021900ce58eb69486fc70"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-v4compatibility.ttf",
+      "status": "saved_local",
+      "mime_type": "font/ttf",
+      "bytes": 10836,
+      "sha256": "30f6abf6baa425825828793d6dfad1fb63765d0e5abaa7af6feafb9bfcece5a0",
+      "local_path": "resources/30f6abf6baa425825828.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLfW-0djON754.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 7844,
+      "sha256": "7829eca48a3fec6dfca2ba0e7bef90745ce0d5d08dcbedfb1ae84b6affc773d9",
+      "local_path": "resources/7829eca48a3fec6dfca2.woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 10252,
+      "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "local_path": "resources/5c66f9e07e90c6d4ac49.woff2"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-v4compatibility.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4796,
+      "sha256": "0ce9033c69dc714f5f45ef9bf17d55e4c46bcdfad6799a4e92b38e7781bf86bd",
+      "local_path": "resources/0ce9033c69dc714f5f45.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/banners/cta_bg_01.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 931148,
+      "sha256": "68c892ba870ea0f465a97a240ebfb39492eca0fdcaa1410b26042e9e6b4521a9",
+      "local_path": "resources/68c892ba870ea0f465a9.png"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/monitor-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 816,
+      "sha256": "db9ccff2b46d8e452fba4523e64081dbec0f18f7d365ad264c167aa37ed80083"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-brands-400.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 118684,
+      "sha256": "d7236a19bf23cbb2027280e8f51dc99d6c45976a2ed60de73382b034b18a2b68",
+      "local_path": "resources/d7236a19bf23cbb20272.woff2"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/analytics-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1622,
+      "sha256": "621394626fcb575f5a74e6ec6ba45ceddef8ebe1220e1d3daf922a118c489ed7"
+    },
+    {
+      "url": "https://www.newsfilecorp.com/images/icons/megaphone-icon.svg",
+      "status": "embedded",
+      "mime_type": "image/svg+xml",
+      "bytes": 1314,
+      "sha256": "4b2987228cf9fdc26e630f10df6b2c7e00c5799b2590292ccd8d311a259c28a9"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-regular-400.ttf",
+      "status": "saved_local",
+      "mime_type": "font/ttf",
+      "bytes": 68064,
+      "sha256": "54cf6086f7bb21f9d072ad494a19b4681fa516dd0a14cee52da01d3651a913a3",
+      "local_path": "resources/54cf6086f7bb21f9d072.ttf"
+    }
+  ],
+  "missing_images": [],
+  "disabled_unresolved_css_imports": []
+}

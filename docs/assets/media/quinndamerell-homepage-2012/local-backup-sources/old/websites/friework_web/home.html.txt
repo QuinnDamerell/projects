@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body Text="#FFFFFF" bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:270px; top:108px; width:235px; height:59px; z-index:0"><img src="images/logo_fireworks.jpg" border=0 width=235 height=59></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:168px; top:15px; width:456px; height:81px; z-index:1"><img src="images/logo -thunderdome.jpg" border=0 width=456 height=81></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:27px; top:20px; width:128px; height:128px; z-index:2"><img src="images/Fireworks-06-june.gif" border=0 width=128 height=128></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:671px; top:46px; width:128px; height:128px; z-index:4"><img src="images/Fireworks-05-june.gif" border=0 width=128 height=128></div>
+
+<div id="image5" style="position:absolute; overflow:hidden; left:72px; top:51px; width:100px; height:100px; z-index:5"><img src="images/Fireworks-01-june.gif" border=0 width=100 height=100></div>
+
+<div id="image6" style="position:absolute; overflow:hidden; left:627px; top:7px; width:100px; height:100px; z-index:3"><img src="images/Fireworks-10-june.gif" border=0 width=100 height=100></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:67px; top:243px; width:654px; height:341px; z-index:6">
+<div class="wpmd">
+<div align=center><font class="ws18">Welcome!</font></div>
+<div align=center><font class="ws18"><BR></font></div>
+<div><font class="ws14"></font><font class="ws14"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws14">You have found the best web site on the internet to purchase fireworks. We have every type of firework from small fountains that the kids will love, to the huge artillery shells and rockets for the real adventitious people in your family. We also offer the best selection of family suited fireworks that include a marvelous balance of color display and sound. And best of all, our fireworks are at extremely low prices, so you can get the most bang for your buck!</font></div>
+<div><font class="ws14"><BR></font></div>
+<div align=center><font class="ws16">*Please note: We have many more fireworks than the fireworks displayed on this website, when you contact us we will make a package suited for you.*</font></div>
+<div><font class="ws14"><BR></font></div>
+<div><font class="ws14"><BR></font></div>
+</div></div>
+
+
+</body>
+</html>

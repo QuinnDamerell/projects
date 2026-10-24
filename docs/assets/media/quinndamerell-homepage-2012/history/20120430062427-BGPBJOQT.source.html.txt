@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+<meta name = "viewport" content = "width = device-width">
+<title>Vote for Baconit!!</title>
+<style type="text/css">
+
+
+
+#title
+{
+	color: #646464;
+	font-family: "Segoe UI","Bitstream Vera Sans",'Lato',Candara, sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+#text
+{
+	padding-top: 25px;
+	padding-right: 10px;
+	color: #646464;
+	font-family: "Segoe UI","Bitstream Vera Sans",'Lato',Candara, sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+}
+</style>
+
+ <script type="text/javascript">
+		var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28975617-1']);
+		  _gaq.push(['_setDomainName', '.quinndamerell.com']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		  
+		  </script>
+</head>
+
+<body>
+
+<div id='title'>Vote for Baconit!</div>
+
+<div>
+    <div id='text' sytle="padding-top: 20px;">Voting has ended, thanks for voting! I will post the results via, <a href="https://twitter.com/#!/BaconitWP">twitter</a>, <a href="https://www.facebook.com/Baconit">facebook</a>, and <a href="http://www.reddit.com/r/Baconitwp">Baconit's subreddit</a>.</div>
+
+</div>
+
+
+</body>
+</html>

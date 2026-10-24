@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<title>Baconit - A Metro Reddit App</title>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Baconit is a modern metro Reddit app for Windows Phone. Baconit fully supports Mango, and provides a beautiful , clean, fast, and easy interface to reddit.">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/style.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/TileScript.js"></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();function goToByScroll(id)
+{$('html,body').animate({scrollTop:$("#"+id).offset().top},'slow');}
+$(document).ready(function(){$("a[rel=ScreenShots]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over"><strong>Image '+(currentIndex+1)+' / '+currentArray.length+':</strong> '+(title.length?' &nbsp; '+title:'')+'</span>';}});$("a[rel=FeatureVideo]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','type':'iframe','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over">'+(title.length?' &nbsp; '+title:'')+'</span>';}});});</script>
+<script type="text/javascript" src="/LightBox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/LightBox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/LightBox/jquery.fancybox-1.3.4.css" media="screen"/>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+<body class="gradient">
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=174526289270922";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="/index.html">Home</a></li>
+<li><a href="/about.html">About Me</a></li>
+<li><a href="/portfolio.html">Portfolio</a></li>
+<li><a href="/contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container">
+<div id="main" class="grid-24">
+<div class="grid-6" style="margin-top:4px">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/WindowsPhone.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+<a onclick="goToByScroll('ScreenShots');" id="slot-b" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/ScreenShots.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-large">
+<div style="display: block; height: 355px; background-color: #158CC4;">
+<img src="Images/MainTile.jpg" alt=""/>
+</div>
+</div>
+<div class="grid-6 last">
+<a onclick="goToByScroll('Reviews')" id="slot-g" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Reviews.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/en-US/apps/fa4e749a-a521-43f1-b2cd-40bd1a0a8875" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Marketplace.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<header style="padding-top:24px; clear:both;">
+<h1 class="title">Baconit</h1>
+<div class="descriptions">
+<span> <a onclick="goToByScroll('Features');" class="SiteLink">Features.</a></span>
+<span> <a onclick="goToByScroll('BaconSync');" class="SiteLink">BaconSync.</a></span>
+<span><a onclick="goToByScroll('ScreenShots');" class="SiteLink">Video &amp; Screen Shots.</a></span>
+<span><a onclick="goToByScroll('Follow');" class="SiteLink">Follow.</a></span>
+<span><a onclick="goToByScroll('Reviews');" class="SiteLink">Reviews.</a></span>
+<span><a onclick="goToByScroll('Beta');" class="SiteLink">Beta.</a></span>
+<span><a onclick="goToByScroll('ChangeList');" class="SiteLink">Change List.</a></span>
+</div>
+</header>
+<div class="about">
+<h2 id="Features">Features</h2>
+<p>Baconit is a modern metro reddit app for Windows Phone. Baconit fully supports Mango, and provides a beautiful , clean, fast, and easy interface to reddit.
+Features Include:
+<ul>
+<li>Beautiful, fast, animated interface</li>
+<li>Pinning of subreddits and stories with nightly updating</li>
+<li> Beautiful live tiles with full images from subreddits</li>
+<li>Flip View to easily browse full screen through a subreddits posts endlessly</li>
+<li>BaconSync - synchronized visited links between phones and browsers</li>
+<li> Instant loading of any subreddit / reddit url / or search</li>
+<li> Message inbox with automatic updates</li>
+<li> Unread message / karma live tile</li>
+<li> Ability to post / edit / and delete stories and comments</li>
+<li>Real-time formatting preview in post submit</li>
+<li>Ability to view user profiles</li>
+<li> Manage local and account subreddits</li>
+<li> Submit links / images to reddit</li>
+<li> Hide and save stories</li>
+<li>Reddit profile support</li>
+<li> Windows phone share picker support</li>
+<li> Great light theme support</li>
+<li> Endless subreddit scrolling</li>
+<li> Fast app switching / multitasking</li>
+<li> Local caching of all data</li>
+<li> And much, much more….</li>
+<li> <a href="ChangeList.html" class="SiteLink">Full change list here</a></li>
+</ul>
+<h2 id="BaconSync"><a href="BaconSync/index.html" class="SiteLink">BaconSync</a></h2>
+<p>BaconSync is a Baconit exclusive technology that synchronizes visited links across all of your devices and browsers. BaconSync also supports sending webpages directly to your phone.
+<p>
+<a href="BaconSync/" class="SiteLink">Click here for more information on BaconSync and the developer API. </a></p>
+<h2 id="ScreenShots">Video &amp; Screen Shots</h2>
+<div style="margin-left:8px; padding-bottom:20px; padding-top:10px">
+<div id="ScreenShot">
+<a rel="FeatureVideo" href="http://www.youtube.com/embed/NKBHt-jRYt0?autoplay=1" title="A quick feature overview of Baconit 1.6">
+<img src="Images/ScreenShots/Thumbs/Video.jpg"/>
+</a><br/>Baconit 1.6
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/1.jpg" title="This is the subreddit viewer in Baconit 1.6, from here the user can up vote, down vote, hide, or save a story. This page supports endless scrolling, and is also pinable to the start screen.">
+<img src="Images/ScreenShots/Thumbs/1.jpg"/>
+</a><br/>
+Baconit 2.3
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/11.jpg" title="This is the image mode new in Baconit 1.8. It provides quick swiping through images in any subreddit, pinch to zoom, drag to pan, save to phone, and much more!">
+<img src="Images/ScreenShots/Thumbs/11.jpg"/>
+</a><br/>Baconit 1.8
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/2.jpg" title="These are the new beautiful Live Tiles options in Baconit 1.6. There are many options for you tile icons, including 'image mode' were Baconit will grab images from subreddits you browse and put them on the live tile. Additionally, the main live tile will show user karma along with an unread message counter, pinned subreddits will show the latest story title on the back of the tiles, and pinned stories will show the stories karma points and number of comments on the back of the tile, which are all updated nightly. Icons, text on the back of tiles, and many more features are configurable in the app settings.">
+<img src="Images/ScreenShots/Thumbs/2.jpg"/>
+</a><br/>Baconit 1.6
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/8.jpg" title="This is the subreddit list in Baconit 1.6, fully customizable with favorite subreddits that remain at the top of the list. This is where all of your subreddits, both local and account, are shown.">
+<img src="Images/ScreenShots/Thumbs/8.jpg"/>
+</a><br/>Baconit 1.5
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/3.jpg" title="This is the new account view in Baconit 1.6, showing where users can check account information, submit a link, view messages, go to settings, manage subreddits, or go to the SmartBar.">
+<img src="Images/ScreenShots/Thumbs/3.jpg"/>
+</a><br/>
+Baconit 2.3
+</div>
+<div id="ScreenShot">
+<a rel="ScreenShots" href="Images/ScreenShots/4.jpg" title="This is the new comment view in Baconit 1.6, which presents the comments and self-text of a story in a beauty animated interface. This pages supports hiding / unhiding comments, expanding / collapsing the self-text box (which scrolls,) commenting on the story, pinning, saving, hiding the story and much more.">
+<img src="Images/ScreenShots/Thumbs/4.jpg"/>
+</a><br/>Baconit 2.0
+</div>
+<div id="ScreenShot" style="display:none">
+<a rel="ScreenShots" href="Images/ScreenShots/5.jpg" title="This is the web viewer in Baconit 1.6, which will now show the full story title at the top of the webpage is the small box of title text is tapped. The user can also save, up vote, and down vote the link from here, as well as open the comments.">
+<img src="Images/ScreenShots/Thumbs/5.jpg"/>
+</a><br/>Baconit 1.6
+</div>
+<div id="ScreenShot" style="display:none">
+<a rel="ScreenShots" href="Images/ScreenShots/6.jpg" title="This is the subreddit manager in Baconit 1.6. From here, a user can subscribe / unsubscribe to any subreddit on a reddit account or locally. Subscribing locally will add the subreddit to the list as normal in Baconit, but doesn’t subscribe the subreddit to the user's reddit account.">
+<img src="Images/ScreenShots/Thumbs/6.jpg"/>
+</a>
+</div>
+<div id="ScreenShot" style="display:none">
+<a rel="ScreenShots" href="Images/ScreenShots/7.jpg" title="This is the comment viewer in Baconit 1.6, which shows the full comment with formatted text and links, as well as up vote, down vote, comment, and share options. If the comment belongs to the user, they can also edit or delete the comment from here.">
+<img src="Images/ScreenShots/Thumbs/7.jpg"/>
+</a>
+</div>
+<div id="ScreenShot" style="display:none">
+<a rel="ScreenShots" href="Images/ScreenShots/9.jpg" title="This is the help screen for the SmartBar feature in Baconit 1.6. The SmarBar can take you instantly to any subreddit, take you instantly to any subreddit or story from a reddit url (e.g.http://www.reddit.com/r/funny/comments/ovw2q/how_big_is_it/) or preform a full reddit search for any search term.">
+</a>
+</div>
+<div id="ScreenShot" style="display:none">
+<a rel="ScreenShots" href="Images/ScreenShots/10.jpg" title="This is the SmartBar feature in Baconit 1.6. The SmarBar can take you instantly to any subreddit, take you instantly to any subreddit or story from a reddit url (e.g.http://www.reddit.com/r/funny/comments/ovw2q/how_big_is_it/) or preform a full reddit search for any search term.">
+</a>
+</div>
+<div style="clear:both"></div>
+</div>
+<h2 style="clear:both" id="Follow">Follow</h2>
+<div style="padding-left:22px">
+<p><a href="http://twitter.com/#!/Baconitwp" class="SiteLink"><img src="Images/twitter.png" width="14" height="14" align="bottom" style="margin-top:5px" border="0"/> Follow Baconit on Twitter</a>
+<div style="margin-top:10px"><a href="https://twitter.com/BaconitWP" class="twitter-follow-button" data-show-count="false">Follow @BaconitWP</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div></p>
+<p><a href="https://www.facebook.com/Baconit" class="SiteLink"><img src="Images/facebook.png" width="14" height="14" align="bottom" border="0"/> Like Baconit on Facebook</a><div class="fb-like" data-href="https://www.facebook.com/Baconit" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true"></div></p>
+<p><a href="http://www.reddit.com/r/baconitwp" class="SiteLink"><img src="Images/reddit-icon.png" width="16" height="16" border="0"/> Subscribe to the Baconit subreddit</a></p>
+</div>
+<h2 id="Reviews">Reviews</h2>
+<div style="margin-left:22px;">
+<p>
+<a href="http://www.windowsphone.com/en-US/apps/fa4e749a-a521-43f1-b2cd-40bd1a0a8875?wa=wsignin1.0" class="SiteLink">Check the Windows Phone Marketplace for the latest user reviews</a></p>
+<p><a href="http://appawards.wp7applist.com/c/app-of-the-year" class="SiteLink">Awarded '2012 App of The Year' from the Community App Awards for Windows Phone.</a></p>
+<p><a href="http://channel9.msdn.com/Shows/Hot-Apps/Hot-Apps-Civilization-Revolution-Baconit-Symmetry-Wikitude-Falling-Birds" class="SiteLink">"Baconit... gives you a beautiful, clean, and fast interface to reddit." - Channel 9's Hot Apps; Baconit 2.0</a></p>
+<p><a href="http://conversations.nokia.com/2012/04/24/five-ways-your-lumia-can-cure-your-boredom/" class="SiteLink">"</a>The best interface for Reddit on Windows Phone is the very well designed Baconit app." - Conversations by Nokia; Baconit 1.9</a></p>
+<p><a href="http://techin5.com/2012/04/top-10-apps-windows-phone-edition/" class="SiteLink">"...the best unofficial Reddit app on the marketplace." - TechIn5; Baconit 1.9</a></p>
+<p><a href="http://www.ubiquitense.com/lifestyle/baconit-nice-reddit-app-for-windows-phone-7/3906/" class="SiteLink">"I just started using it, and kinda’ loving it." - Ubiquitense; Baconit 1.9</a></p>
+<p><a href="http://wpaelite.wordpress.com/2012/03/23/baconit-app-review/" class="SiteLink">"The app is beautifully designed following the sleek and stylish Metro design of Windows Phone." - Elite News; Baconit 1.9</a></p>
+<p>
+<a href="http://www.wpcentral.com/reddit-app-baconit-goes-v16-gets-donation-version" class="SiteLink">"We're pretty sure that Baconit is the best Reddit.com app on the Windows Phone Marketplace today." - WP Central; Baconit 1.6</a></p>
+<p>
+<a href="http://allaboutwindowsphone.com/flow/item/14220_Better_speed_and_more_images_a.php" class="SiteLink">"Indie devs like Damerell, and the stories of their successes, are key to the future of Windows Phone" - All About Windows Phone; Baconit 1.6</a></p>
+<p>
+<a href="http://allaboutwindowsphone.com/reviews/item/14197_Baconit_Reddit_Client.php?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=aa_wp" class="SiteLink">"This has 'killer app' (for the Reddit users) written all over it." - All About Windows Phone; Baconit 1.5</a></p>
+<p>
+<a href="http://mobilitydigest.com/anyone-here-like-reddit-i-do-so-i-use-baconit/" class="SiteLink">"... Baconit takes it that one step further to make it truly embody the design values of Metro " - Mobility Digest; Baconit 1.5</a>
+</p>
+<p>
+<a href="http://www.addictivetips.com/mobile/baconit-a-comprehensive-reddit-reader-for-windows-phone-7/" class="SiteLink">"Baconit is a Reddit reader which might, in no time, become your number one stop for using Reddit." - Addictive Tips;</a>
+Baconit 1.4</p>
+<p>
+<a href="http://allaboutwindowsphone.com/reviews/item/14197_Baconit_Reddit_Client.php?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=aa_wp" class="SiteLink">"A nice little reddit app for Windows Phone" - 1800 Pocket PC;</a>
+Baconit 1.3</p>
+<p>
+<a href="http://www.wpcentral.com/reddit-users-your-baconit-here" class="SiteLink">"Damerell has made quite the killer Reddit app in our opinion." - WP Central; Baconit 1.3</a>
+Baconit 1.3</p>
+</div>
+<h2 id="Beta"><a href="beta.php" class="SiteLink">Beta</a></h2>
+<div style="margin-left:22px;">
+<p>
+Do you want to help make Baconit awesome? Do you want to get the latest and greatest release of Baconit before anyone else? Do you like trying to break code? Then you are a Baconit beta tester, <a href="beta.php" class="SiteLink">click here. </a> </p>
+</div>
+<h2 id="ChangeList">Change List</h2>
+<div style="margin-left:22px;">
+<p>
+<a href="ChangeList.html" class="SiteLink">The full Baconit change list can be found here</a>.
+</p>
+</div>
+<div style="height:100px">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+</body>
+</html>

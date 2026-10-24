@@ -1,0 +1,77 @@
+{
+  "localized_at": "2026-10-18T17:16:38.609252+00:00",
+  "method": "Saved source font and background/icon image bytes in deduplicated local resource files; unavailable automatic images receive explicit text placeholders. No article prose changed.",
+  "resources": [
+    {
+      "url": "https://fricklr.com/fonts/jetbrains-mono-var-latin-ext.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 10296,
+      "sha256": "4e90da4691df2b4fb2a20e11ae20678020fb3de3c2190bb249b1ab405472c19a",
+      "local_path": "resources/4e90da4691df2b4fb2a2.woff2"
+    },
+    {
+      "url": "https://fricklr.com/fonts/domine-400.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 26776,
+      "sha256": "79c8210a5f124dd6ecd58d2fbf3341dc9dc7f29a42fc475d4119bd2d188c8539",
+      "local_path": "resources/79c8210a5f124dd6ecd5.woff2"
+    },
+    {
+      "url": "https://fricklr.com/apple-touch-icon.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://fricklr.com/apple-touch-icon.png"
+    },
+    {
+      "url": "https://fricklr.com/fonts/jetbrains-mono-var-latin.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 37908,
+      "sha256": "1817e873ab67226054710831f684ca112b4b7feca0efa0d572f3449cc5c6aa16",
+      "local_path": "resources/1817e873ab6722605471.woff2"
+    },
+    {
+      "url": "https://fricklr.com/fonts/inter-var-latin.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 36812,
+      "sha256": "79acaa4b687b3613df630ea69d0fc8fb5f750760120ae0d17168232e6ce33799",
+      "local_path": "resources/79acaa4b687b3613df63.woff2"
+    },
+    {
+      "url": "https://fricklr.com/favicon-16x16.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 955,
+      "sha256": "e56104ae54387baf99da68d67c58dad4ae1d78d9c267b6216a680449c3633d85",
+      "local_path": "resources/e56104ae54387baf99da.png"
+    },
+    {
+      "url": "https://fricklr.com/fonts/inter-var-latin-ext.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 15144,
+      "sha256": "86c6ffef3dd81e86ad607840e1a8a0a671c3ee6b4ece60fceba5d1c817e685df",
+      "local_path": "resources/86c6ffef3dd81e86ad60.woff2"
+    },
+    {
+      "url": "https://fricklr.com/favicon-32x32.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 984,
+      "sha256": "fb5a690faa6bb9ce55394a302cffd18b72ac7dc6e190e8fa14b1476399da596f",
+      "local_path": "resources/fb5a690faa6bb9ce5539.png"
+    },
+    {
+      "url": "https://fricklr.com/favicon.ico",
+      "status": "saved_local",
+      "mime_type": "image/vnd.microsoft.icon",
+      "bytes": 4286,
+      "sha256": "0c5aeebdd6494641583809862689f24291b43fbf793736fb3eec63e4830e70be",
+      "local_path": "resources/0c5aeebdd64946415838.ico"
+    }
+  ],
+  "missing_images": [],
+  "disabled_unresolved_css_imports": []
+}

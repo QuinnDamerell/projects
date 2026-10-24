@@ -1,0 +1,3282 @@
+{
+  "added": "2026-10-21",
+  "collections": {
+    "old": "Website Archive/Websites/Backups/Personal/Personal",
+    "later": "Website Archive/Websites/Personal/2023"
+  },
+  "date_note": "Local backup folders are provenance, not publication dates. Wayback raw files remain unchanged.",
+  "gap_bridges": 51,
+  "gallery_links_restored": 39,
+  "files": [
+    {
+      "source_collection": "old",
+      "source_relative_path": "PicGen/PicGen.jar",
+      "source_sha256": "d22c25d2d6e28b16d71245f227663c33cc7d00abae379c2a3eba66713bc65915",
+      "source_bytes": 6797,
+      "published_path": "site/local-backup/old/picgen/picgen.jar",
+      "published_sha256": "d22c25d2d6e28b16d71245f227663c33cc7d00abae379c2a3eba66713bc65915",
+      "published_bytes": 6797,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "ZuneShuffler/Zune Playlist Shuffler 1.3.jar",
+      "source_sha256": "38325b35ab99a8ad1aa4e842455975f3b3c129a221552d97759709dd23b465ae",
+      "source_bytes": 18837,
+      "published_path": "site/local-backup/old/zuneshuffler/zune_playlist_shuffler_1.3.jar",
+      "published_sha256": "38325b35ab99a8ad1aa4e842455975f3b3c129a221552d97759709dd23b465ae",
+      "published_bytes": 18837,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/frezer/frezerApplet.class",
+      "source_sha256": "60629cb08bfd5b1f5530e4acfc7531354d06ef882753d4c96346764ff4aae65b",
+      "source_bytes": 3359,
+      "published_path": "site/local-backup/old/java_applets/freezer/frezer/frezerapplet.class",
+      "published_sha256": "60629cb08bfd5b1f5530e4acfc7531354d06ef882753d4c96346764ff4aae65b",
+      "published_bytes": 3359,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/frezer/frezerFrame.class",
+      "source_sha256": "faf34dc889998bb7a8eea0144e92d8e6a667fdc7d423133aa16827202fe79a4e",
+      "source_bytes": 436,
+      "published_path": "site/local-backup/old/java_applets/freezer/frezer/frezerframe.class",
+      "published_sha256": "faf34dc889998bb7a8eea0144e92d8e6a667fdc7d423133aa16827202fe79a4e",
+      "published_bytes": 436,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/ball/Ball.class",
+      "source_sha256": "0888842c06e1bd881db23f78f700cf326f1868298e0fe9c3cffba948c1cbbf6d",
+      "source_bytes": 8461,
+      "published_path": "site/local-backup/old/java_applets/pong/ball/ball.class",
+      "published_sha256": "0888842c06e1bd881db23f78f700cf326f1868298e0fe9c3cffba948c1cbbf6d",
+      "published_bytes": 8461,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/ball/ballFrame.class",
+      "source_sha256": "45cd8ff2fdedff3fa0489fe8acc2459ff4b1c2555bb6ce100ccca65db53aa752",
+      "source_bytes": 1102,
+      "published_path": "site/local-backup/old/java_applets/pong/ball/ballframe.class",
+      "published_sha256": "45cd8ff2fdedff3fa0489fe8acc2459ff4b1c2555bb6ce100ccca65db53aa752",
+      "published_bytes": 1102,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/ball/ballMove.class",
+      "source_sha256": "f3f2265c9512f16285ac2609fc97d8a06c9cce591f558ed3f12a91f73c825383",
+      "source_bytes": 1633,
+      "published_path": "site/local-backup/old/java_applets/pong/ball/ballmove.class",
+      "published_sha256": "f3f2265c9512f16285ac2609fc97d8a06c9cce591f558ed3f12a91f73c825383",
+      "published_bytes": 1633,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/shooter/main.class",
+      "source_sha256": "5785318f0c53b599903f425e8949cf71f05656d494f2190898b57e7667ea666d",
+      "source_bytes": 1397,
+      "published_path": "site/local-backup/old/java_applets/shooter/shooter/main.class",
+      "published_sha256": "5785318f0c53b599903f425e8949cf71f05656d494f2190898b57e7667ea666d",
+      "published_bytes": 1397,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/shooter/main2.class",
+      "source_sha256": "3e6aa71c9cb86a5dab48f1afd44c5b621da8372d8f928f11b8280d41ec41fb9b",
+      "source_bytes": 6694,
+      "published_path": "site/local-backup/old/java_applets/shooter/shooter/main2.class",
+      "published_sha256": "3e6aa71c9cb86a5dab48f1afd44c5b621da8372d8f928f11b8280d41ec41fb9b",
+      "published_bytes": 6694,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites.php",
+      "source_sha256": "700be5400fb0fbfe4f0c63a9312e6f52fcf7ce65ff78718020df7c11b39ea012",
+      "source_bytes": 12000,
+      "published_path": "local-backup-sources/old/websites.php.public-html.txt",
+      "published_sha256": "23b2d432a7b0dab6cbae13507b04ca0c4f784b55596887e2d2ad419f9936e210",
+      "published_bytes": 10187,
+      "transformation": "Public HTML extracted; all PHP blocks omitted. Original source hash records the private input, which is not distributed."
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/top_bar_main.png",
+      "source_sha256": "9b3690d6b1ca70db45e53b5df6d02539c9f582a244ee7fcbb7e24ae1c43fdea9",
+      "source_bytes": 74,
+      "published_path": "site/local-backup/old/images/top_bar_main.png",
+      "published_sha256": "9b3690d6b1ca70db45e53b5df6d02539c9f582a244ee7fcbb7e24ae1c43fdea9",
+      "published_bytes": 74,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/title_back.png",
+      "source_sha256": "062913ab21c16351a8878779e6415da33c3dc36c4f934c5b3507f9f0887d8732",
+      "source_bytes": 114,
+      "published_path": "site/local-backup/old/images/title_back.png",
+      "published_sha256": "062913ab21c16351a8878779e6415da33c3dc36c4f934c5b3507f9f0887d8732",
+      "published_bytes": 114,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/top_bar_left.png",
+      "source_sha256": "10f0e16f0ef6b6bde2622fd59c57660aa0fe7ee0254d4e004c407e3ad3d233a7",
+      "source_bytes": 227,
+      "published_path": "site/local-backup/old/images/top_bar_left.png",
+      "published_sha256": "10f0e16f0ef6b6bde2622fd59c57660aa0fe7ee0254d4e004c407e3ad3d233a7",
+      "published_bytes": 227,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/top_bar_right.png",
+      "source_sha256": "ffce8862e09a3f84c02b1ac6d4e095ab04f3316b01c2089aa6feb824886127b7",
+      "source_bytes": 231,
+      "published_path": "site/local-backup/old/images/top_bar_right.png",
+      "published_sha256": "ffce8862e09a3f84c02b1ac6d4e095ab04f3316b01c2089aa6feb824886127b7",
+      "published_bytes": 231,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "css/style.css",
+      "source_sha256": "14943ea276541cb306fe1d0f3e825f436a9354451b8a526bb53a232bda380dfc",
+      "source_bytes": 2628,
+      "published_path": "site/local-backup/old/css/style.css",
+      "published_sha256": "e5afda1ce054a647044b9246ea5658172aa32a4120c72fc25e76d26c20b9be6c",
+      "published_bytes": 2678,
+      "transformation": "CSS resource URLs rewritten locally; imports and expressions removed"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "favicon.ico",
+      "source_sha256": "5e85fd473b60827dd9b37b307625656bd60f96e62581b22fc810b0e102a24cc6",
+      "source_bytes": 15086,
+      "published_path": "site/local-backup/later/favicon.ico",
+      "published_sha256": "5e85fd473b60827dd9b37b307625656bd60f96e62581b22fc810b0e102a24cc6",
+      "published_bytes": 15086,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/title_pic.png",
+      "source_sha256": "21d50c134ab92dda3a5303769642e5847072a7258c80958d4a8d4defba78effd",
+      "source_bytes": 9304,
+      "published_path": "site/local-backup/old/images/title_pic.png",
+      "published_sha256": "21d50c134ab92dda3a5303769642e5847072a7258c80958d4a8d4defba78effd",
+      "published_bytes": 9304,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/stripe.png",
+      "source_sha256": "ef65c3c2755b83a36ce83557715a11a52652097302e4e635cff6e7ea1dbb790d",
+      "source_bytes": 152,
+      "published_path": "site/local-backup/old/images/stripe.png",
+      "published_sha256": "ef65c3c2755b83a36ce83557715a11a52652097302e4e635cff6e7ea1dbb790d",
+      "published_bytes": 152,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/crosstxt.png",
+      "source_sha256": "aa7155f4913d8518d0cad75622b5b9a6f1cfca010f299dad3088058901150eb2",
+      "source_bytes": 80220,
+      "published_path": "site/local-backup/old/images/website_pics/crosstxt.png",
+      "published_sha256": "aa7155f4913d8518d0cad75622b5b9a6f1cfca010f299dad3088058901150eb2",
+      "published_bytes": 80220,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/page_pics/darken.png",
+      "source_sha256": "207a22f59d4370437a5c880ca3bcffee253c0bf2446544242ec3a07f76d49415",
+      "source_bytes": 87,
+      "published_path": "site/local-backup/old/images/page_pics/darken.png",
+      "published_sha256": "207a22f59d4370437a5c880ca3bcffee253c0bf2446544242ec3a07f76d49415",
+      "published_bytes": 87,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/fwdc.jpg",
+      "source_sha256": "58769c330e01c752634154bfac139cad3145857cc5555db7b5e7811f4ffa7457",
+      "source_bytes": 28600,
+      "published_path": "site/local-backup/old/images/website_pics/fwdc.jpg",
+      "published_sha256": "58769c330e01c752634154bfac139cad3145857cc5555db7b5e7811f4ffa7457",
+      "published_bytes": 28600,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/atom.jpg",
+      "source_sha256": "da4af5c106cc603ec737fba69ba2959fa0f8b1ac88ace46d70b9d40f2b967bbd",
+      "source_bytes": 4322,
+      "published_path": "site/local-backup/old/images/website_pics/atom.jpg",
+      "published_sha256": "da4af5c106cc603ec737fba69ba2959fa0f8b1ac88ace46d70b9d40f2b967bbd",
+      "published_bytes": 4322,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/fireworks_page.jpg",
+      "source_sha256": "0567c00974f2e390f104741185808266d7a5d200aca9b29b96c8ca8eab4e305d",
+      "source_bytes": 6767,
+      "published_path": "site/local-backup/old/images/website_pics/fireworks_page.jpg",
+      "published_sha256": "0567c00974f2e390f104741185808266d7a5d200aca9b29b96c8ca8eab4e305d",
+      "published_bytes": 6767,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/animation_page.jpg",
+      "source_sha256": "0aadda6024a7483c5df805c3bd4a849dfdd830bc6009f879c185c3abd894ae55",
+      "source_bytes": 5281,
+      "published_path": "site/local-backup/old/images/website_pics/animation_page.jpg",
+      "published_sha256": "0aadda6024a7483c5df805c3bd4a849dfdd830bc6009f879c185c3abd894ae55",
+      "published_bytes": 5281,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/crazy_page.jpg",
+      "source_sha256": "20fb6dd962ec26d87dd02d4b27838df2d64d585022320abf2564a5322868d1dd",
+      "source_bytes": 7478,
+      "published_path": "site/local-backup/old/images/website_pics/crazy_page.jpg",
+      "published_sha256": "20fb6dd962ec26d87dd02d4b27838df2d64d585022320abf2564a5322868d1dd",
+      "published_bytes": 7478,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites.php",
+      "source_sha256": "700be5400fb0fbfe4f0c63a9312e6f52fcf7ce65ff78718020df7c11b39ea012",
+      "source_bytes": 12000,
+      "published_path": "site/local-backup/old/websites.html",
+      "published_sha256": "e1ed3d86a9035934b7fbb18aed084ae0744c84fd8ddcb5b5798e3ffd1773beed",
+      "published_bytes": 8639,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "projects.php",
+      "source_sha256": "29a2de444bd7f6d005084ae83eca41bbf4b3c25615d06f550ce7e96e0e5f8fbd",
+      "source_bytes": 12538,
+      "published_path": "local-backup-sources/old/projects.php.public-html.txt",
+      "published_sha256": "14da2abdda8e207a2daaf932012f6c4724d20b8aa796e09d9a326f5caa44f5cb",
+      "published_bytes": 10730,
+      "transformation": "Public HTML extracted; all PHP blocks omitted. Original source hash records the private input, which is not distributed."
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "projects.php",
+      "source_sha256": "29a2de444bd7f6d005084ae83eca41bbf4b3c25615d06f550ce7e96e0e5f8fbd",
+      "source_bytes": 12538,
+      "published_path": "site/local-backup/old/projects.html",
+      "published_sha256": "1ddf0746d4acc933b1cd15665c41717e169b721a2adcc0f71de1dd0419ba3ad1",
+      "published_bytes": 10187,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "PicGen/index.php",
+      "source_sha256": "8e421f247bd0cb3305e985a431bbde97e2627629fad59e9cd931717044b70234",
+      "source_bytes": 10541,
+      "published_path": "local-backup-sources/old/picgen/index.php.public-html.txt",
+      "published_sha256": "fa8a4330eceb1ed7e44ec44b6176cf962f6d5d3a097490b5ef17cc4104809652",
+      "published_bytes": 8726,
+      "transformation": "Public HTML extracted; all PHP blocks omitted. Original source hash records the private input, which is not distributed."
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "PicGen/PicGen.jpg",
+      "source_sha256": "0fd2504c94cc73cf9be1c92c19223f42ffba5a2806ed4851ea3bcb2931c3c97c",
+      "source_bytes": 51239,
+      "published_path": "site/local-backup/old/picgen/picgen.jpg",
+      "published_sha256": "0fd2504c94cc73cf9be1c92c19223f42ffba5a2806ed4851ea3bcb2931c3c97c",
+      "published_bytes": 51239,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "PicGen/PicGen_thum.jpg",
+      "source_sha256": "09a6b116026460bb5439928d1d8fc032136f6b8995def46aed1f05e3dcbbf316",
+      "source_bytes": 17658,
+      "published_path": "site/local-backup/old/picgen/picgen_thum.jpg",
+      "published_sha256": "09a6b116026460bb5439928d1d8fc032136f6b8995def46aed1f05e3dcbbf316",
+      "published_bytes": 17658,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "PicGen/index.php",
+      "source_sha256": "8e421f247bd0cb3305e985a431bbde97e2627629fad59e9cd931717044b70234",
+      "source_bytes": 10541,
+      "published_path": "site/local-backup/old/picgen/index.html",
+      "published_sha256": "9643f7c72967078bb5e6dd54b8975b56c286d9ced7bc4d795aa3f97c998e8df1",
+      "published_bytes": 7951,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "ZuneShuffler/index.php",
+      "source_sha256": "64c6e440f3ab8b926914526b1b6861d84ce08d89b35f5ec7ac920a5631562908",
+      "source_bytes": 9717,
+      "published_path": "local-backup-sources/old/zuneshuffler/index.php.public-html.txt",
+      "published_sha256": "835389b204f4a619606c100fa267da88814ae799cfbacdabc026b7374523c0ff",
+      "published_bytes": 7902,
+      "transformation": "Public HTML extracted; all PHP blocks omitted. Original source hash records the private input, which is not distributed."
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/picture_viewer/prevlabel.gif",
+      "source_sha256": "3e09bb95e77b5b39a5ea910aeb9a42c0df873987ef19ece3ac139d5c9edf0868",
+      "source_bytes": 1264,
+      "published_path": "site/local-backup/old/images/picture_page/picture_viewer/prevlabel.gif",
+      "published_sha256": "3e09bb95e77b5b39a5ea910aeb9a42c0df873987ef19ece3ac139d5c9edf0868",
+      "published_bytes": 1264,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/picture_viewer/nextlabel.gif",
+      "source_sha256": "d9aa91f4861910a57585174889311e156dcca5d33fb3f30d633befafb8cfa987",
+      "source_bytes": 1252,
+      "published_path": "site/local-backup/old/images/picture_page/picture_viewer/nextlabel.gif",
+      "published_sha256": "d9aa91f4861910a57585174889311e156dcca5d33fb3f30d633befafb8cfa987",
+      "published_bytes": 1252,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "css/lightbox.css",
+      "source_sha256": "0b7368bbba886a2c0b783cc41156def461eae7cd55658abfc4c385ee2d39a69b",
+      "source_bytes": 1731,
+      "published_path": "site/local-backup/old/css/lightbox.css",
+      "published_sha256": "cf4e8095f434d178ee8e2424f5e739f14770e6e56bbe3a7f20b9dd689b22fe2b",
+      "published_bytes": 1737,
+      "transformation": "CSS resource URLs rewritten locally; imports and expressions removed"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "ZuneShuffler/zuneplaylist.png",
+      "source_sha256": "172f6b525e64b40b6df1248e324b6847bf9db7fcf6ecebb26de5b424bc0f260a",
+      "source_bytes": 24359,
+      "published_path": "site/local-backup/old/zuneshuffler/zuneplaylist.png",
+      "published_sha256": "172f6b525e64b40b6df1248e324b6847bf9db7fcf6ecebb26de5b424bc0f260a",
+      "published_bytes": 24359,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "ZuneShuffler/zuneplaylist_thumb.png",
+      "source_sha256": "73fb1dd08aaf3890aca166789d478c28542286a637ea24c32408c01cfb64012e",
+      "source_bytes": 23990,
+      "published_path": "site/local-backup/old/zuneshuffler/zuneplaylist_thumb.png",
+      "published_sha256": "73fb1dd08aaf3890aca166789d478c28542286a637ea24c32408c01cfb64012e",
+      "published_bytes": 23990,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "ZuneShuffler/index.php",
+      "source_sha256": "64c6e440f3ab8b926914526b1b6861d84ce08d89b35f5ec7ac920a5631562908",
+      "source_bytes": 9717,
+      "published_path": "site/local-backup/old/zuneshuffler/index.html",
+      "published_sha256": "b25d8c9b5d048fdb74fcf21cb374303c4f7735a0662038966c4518c8fd1c5577",
+      "published_bytes": 6476,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "RedditTimeMachine/index.php",
+      "source_sha256": "c2d76810ccdedc193d3e529a96785293614e3a2ad71f6a08a039168986cc0bd0",
+      "source_bytes": 9316,
+      "published_path": "local-backup-sources/old/reddittimemachine/index.php.public-html.txt",
+      "published_sha256": "97d0c497d17d6d66bf937b506225752adc6f7c4ee57eb91102f1fae3c05ea556",
+      "published_bytes": 7501,
+      "transformation": "Public HTML extracted; all PHP blocks omitted. Original source hash records the private input, which is not distributed."
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "RedditTimeMachine/RedditTimeMachineL.jpg",
+      "source_sha256": "79e137dd4c53b889bc2a3160fa61bd7675b4e39a5ca3457f1a7701151f3c912f",
+      "source_bytes": 73890,
+      "published_path": "site/local-backup/old/reddittimemachine/reddittimemachinel.jpg",
+      "published_sha256": "79e137dd4c53b889bc2a3160fa61bd7675b4e39a5ca3457f1a7701151f3c912f",
+      "published_bytes": 73890,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "RedditTimeMachine/RedditTimeMachineS.jpg",
+      "source_sha256": "f1fdea519cefe4a2ef4bfd261dd902ddd91554a7bb7932aae1471bada050fa4c",
+      "source_bytes": 22065,
+      "published_path": "site/local-backup/old/reddittimemachine/reddittimemachines.jpg",
+      "published_sha256": "f1fdea519cefe4a2ef4bfd261dd902ddd91554a7bb7932aae1471bada050fa4c",
+      "published_bytes": 22065,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "RedditTimeMachine/index.php",
+      "source_sha256": "c2d76810ccdedc193d3e529a96785293614e3a2ad71f6a08a039168986cc0bd0",
+      "source_bytes": 9316,
+      "published_path": "site/local-backup/old/reddittimemachine/index.html",
+      "published_sha256": "1cc8d624379c2fbdc71304ab9b0f1074d28d768bab29df297aa95baa5c2cf2a1",
+      "published_bytes": 6100,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "NextBus/index.html",
+      "source_sha256": "70de32c2079b4562c195c2b9e8f4dab3d9529611e6d32a65a41eb373d8d0000f",
+      "source_bytes": 2982,
+      "published_path": "local-backup-sources/later/nextbus/index.html.txt",
+      "published_sha256": "70de32c2079b4562c195c2b9e8f4dab3d9529611e6d32a65a41eb373d8d0000f",
+      "published_bytes": 2982,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "Images/TilePic4.jpg",
+      "source_sha256": "b0cf1762851a41990d6f9a7c62580f4e290aba1365a30cf88eb98cdc0bd98fb1",
+      "source_bytes": 34592,
+      "published_path": "site/local-backup/later/images/tilepic4.jpg",
+      "published_sha256": "b0cf1762851a41990d6f9a7c62580f4e290aba1365a30cf88eb98cdc0bd98fb1",
+      "published_bytes": 34592,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "style.css",
+      "source_sha256": "bc9f5124264d5c670ad941df94e098729b3125a0d26f3ebab36fdf2059979330",
+      "source_bytes": 6950,
+      "published_path": "site/local-backup/later/style.css",
+      "published_sha256": "53797e8904a7ceb018eb54977e0b0ec009326c6ca4b3d297a79a83904b0d45e5",
+      "published_bytes": 6925,
+      "transformation": "CSS resource URLs rewritten locally; imports and expressions removed"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "NextBus/index.html",
+      "source_sha256": "70de32c2079b4562c195c2b9e8f4dab3d9529611e6d32a65a41eb373d8d0000f",
+      "source_bytes": 2982,
+      "published_path": "site/local-backup/later/nextbus/index.html",
+      "published_sha256": "69bc1c65fbfe8981ab66f937760a355fc34be453e7963ac9ea981e8003787469",
+      "published_bytes": 2556,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "TxTBack/index.html",
+      "source_sha256": "05ad833fc605fbaada531ad1c47192492948340053978bbe9f8ec3c1e3abc32b",
+      "source_bytes": 2734,
+      "published_path": "local-backup-sources/later/txtback/index.html.txt",
+      "published_sha256": "05ad833fc605fbaada531ad1c47192492948340053978bbe9f8ec3c1e3abc32b",
+      "published_bytes": 2734,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "TxTBack/index.html",
+      "source_sha256": "05ad833fc605fbaada531ad1c47192492948340053978bbe9f8ec3c1e3abc32b",
+      "source_bytes": 2734,
+      "published_path": "site/local-backup/later/txtback/index.html",
+      "published_sha256": "80b797d1b207dc45b342f34278b3978c66c3eacb1501eb3d21e0245ed5f6d18d",
+      "published_bytes": 2243,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/index.html",
+      "source_sha256": "c23e9b8497ed6e783d2d0b72e41a951e170491841db5fce3ccacd452b2c6dcd9",
+      "source_bytes": 11396,
+      "published_path": "local-backup-sources/later/thinkingofyou/index.html.txt",
+      "published_sha256": "c23e9b8497ed6e783d2d0b72e41a951e170491841db5fce3ccacd452b2c6dcd9",
+      "published_bytes": 11396,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/WindowsPhone.png",
+      "source_sha256": "22689bdc5ce2ac8a98518cce20d53681b3b373c45cfe6599269615391d5823c9",
+      "source_bytes": 4919,
+      "published_path": "site/local-backup/later/thinkingofyou/images/windowsphone.png",
+      "published_sha256": "22689bdc5ce2ac8a98518cce20d53681b3b373c45cfe6599269615391d5823c9",
+      "published_bytes": 4919,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots.png",
+      "source_sha256": "c9bdffcfa61d944294e3a50ae8bea313d0811a7d25be8ce8fb1076e1e51fe787",
+      "source_bytes": 1100,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots.png",
+      "published_sha256": "c9bdffcfa61d944294e3a50ae8bea313d0811a7d25be8ce8fb1076e1e51fe787",
+      "published_bytes": 1100,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/Reviews.png",
+      "source_sha256": "b7fe21994d643cc53e9c643046703306aa5293d06f48b649d1211ebef1080abb",
+      "source_bytes": 107189,
+      "published_path": "site/local-backup/later/thinkingofyou/images/reviews.png",
+      "published_sha256": "b7fe21994d643cc53e9c643046703306aa5293d06f48b649d1211ebef1080abb",
+      "published_bytes": 107189,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/Marketplace.png",
+      "source_sha256": "e7b90ef90d4952677ab04024be851cbba49f9be97c2e50c2648050fc9f68e9bc",
+      "source_bytes": 6517,
+      "published_path": "site/local-backup/later/thinkingofyou/images/marketplace.png",
+      "published_sha256": "e7b90ef90d4952677ab04024be851cbba49f9be97c2e50c2648050fc9f68e9bc",
+      "published_bytes": 6517,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/1.jpg",
+      "source_sha256": "9e865b2cab24c387531cec25b28ecbb2df985e533a5512f4668f2ed9ed96ca95",
+      "source_bytes": 65232,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/1.jpg",
+      "published_sha256": "9e865b2cab24c387531cec25b28ecbb2df985e533a5512f4668f2ed9ed96ca95",
+      "published_bytes": 65232,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/Thumbs/1.jpg",
+      "source_sha256": "36d71d60a2889666a04b0be9c87428ec0b8a70a2c9c0c013c493e0a5446ad2aa",
+      "source_bytes": 13972,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/thumbs/1.jpg",
+      "published_sha256": "36d71d60a2889666a04b0be9c87428ec0b8a70a2c9c0c013c493e0a5446ad2aa",
+      "published_bytes": 13972,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/2.jpg",
+      "source_sha256": "eb4f63a9987ac87fbfd9d4fc965100c1fca5c39f8d52a400402a6b3e853e8b3a",
+      "source_bytes": 56508,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/2.jpg",
+      "published_sha256": "eb4f63a9987ac87fbfd9d4fc965100c1fca5c39f8d52a400402a6b3e853e8b3a",
+      "published_bytes": 56508,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/Thumbs/2.jpg",
+      "source_sha256": "20840879e62f7a2a37f30d8b8f6dccaea45ead1f9d38fd5640d205172f825a03",
+      "source_bytes": 10642,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/thumbs/2.jpg",
+      "published_sha256": "20840879e62f7a2a37f30d8b8f6dccaea45ead1f9d38fd5640d205172f825a03",
+      "published_bytes": 10642,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/3.jpg",
+      "source_sha256": "ac243c0d3db92f807eb7e4e5185141af434078e15f91930e1f11f6419f9358fd",
+      "source_bytes": 29369,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/3.jpg",
+      "published_sha256": "ac243c0d3db92f807eb7e4e5185141af434078e15f91930e1f11f6419f9358fd",
+      "published_bytes": 29369,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/Thumbs/3.jpg",
+      "source_sha256": "3b577f7d4cf0074f1c94a8849c4d03fb9f7a2fe5aa791f35a28b39b05f3b9eec",
+      "source_bytes": 4839,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/thumbs/3.jpg",
+      "published_sha256": "3b577f7d4cf0074f1c94a8849c4d03fb9f7a2fe5aa791f35a28b39b05f3b9eec",
+      "published_bytes": 4839,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/4.jpg",
+      "source_sha256": "ba2f4ae7c50ffc3c00f249901f5bf757d4ea4aea2329adc3591723a7ec42a362",
+      "source_bytes": 32403,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/4.jpg",
+      "published_sha256": "ba2f4ae7c50ffc3c00f249901f5bf757d4ea4aea2329adc3591723a7ec42a362",
+      "published_bytes": 32403,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/Thumbs/4.jpg",
+      "source_sha256": "87fc5e6b65e9e7e537191cd79f22053c787d7440dbba2164250dd424289311f0",
+      "source_bytes": 6490,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/thumbs/4.jpg",
+      "published_sha256": "87fc5e6b65e9e7e537191cd79f22053c787d7440dbba2164250dd424289311f0",
+      "published_bytes": 6490,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/5.jpg",
+      "source_sha256": "cce28528673e52abeae12fb027aa2bcb71c91f36c3e612df71b8bb71e45ed869",
+      "source_bytes": 49431,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/5.jpg",
+      "published_sha256": "cce28528673e52abeae12fb027aa2bcb71c91f36c3e612df71b8bb71e45ed869",
+      "published_bytes": 49431,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/ScreenShots/Thumbs/5.jpg",
+      "source_sha256": "b045c07613b87b002217f62b4701c19d017469c1ccfd46085fc69cad160c44a2",
+      "source_bytes": 9901,
+      "published_path": "site/local-backup/later/thinkingofyou/images/screenshots/thumbs/5.jpg",
+      "published_sha256": "b045c07613b87b002217f62b4701c19d017469c1ccfd46085fc69cad160c44a2",
+      "published_bytes": 9901,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/twitter.png",
+      "source_sha256": "620592a6a7cea8b3dee4910fbe9a67123c9088f64820a41cd0f4be927d133df9",
+      "source_bytes": 637,
+      "published_path": "site/local-backup/later/thinkingofyou/images/twitter.png",
+      "published_sha256": "620592a6a7cea8b3dee4910fbe9a67123c9088f64820a41cd0f4be927d133df9",
+      "published_bytes": 637,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/facebook.png",
+      "source_sha256": "fe3bb63af9d419e511921189d2705a610c841fb469be529b48ffe7fd2443c387",
+      "source_bytes": 129,
+      "published_path": "site/local-backup/later/thinkingofyou/images/facebook.png",
+      "published_sha256": "fe3bb63af9d419e511921189d2705a610c841fb469be529b48ffe7fd2443c387",
+      "published_bytes": 129,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/Images/reddit-icon.png",
+      "source_sha256": "3490be9c25dcd4a59023629646e1638f3693225066a200ed176d642f17ef16ba",
+      "source_bytes": 369,
+      "published_path": "site/local-backup/later/thinkingofyou/images/reddit-icon.png",
+      "published_sha256": "3490be9c25dcd4a59023629646e1638f3693225066a200ed176d642f17ef16ba",
+      "published_bytes": 369,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "ThinkingOfYou/index.html",
+      "source_sha256": "c23e9b8497ed6e783d2d0b72e41a951e170491841db5fce3ccacd452b2c6dcd9",
+      "source_bytes": 11396,
+      "published_path": "site/local-backup/later/thinkingofyou/index.html",
+      "published_sha256": "8e21348a68cf4dfaa264f76e48cb24576866ce72a9f6b9598e301da983d67b27",
+      "published_bytes": 7590,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/appetizer.html",
+      "source_sha256": "05cc56a1b3ecf28db81e2054ff28a6b8aa794b76fa8d10482c4b1c9535875bd5",
+      "source_bytes": 7417,
+      "published_path": "local-backup-sources/old/websites/final/appetizer.html.txt",
+      "published_sha256": "05cc56a1b3ecf28db81e2054ff28a6b8aa794b76fa8d10482c4b1c9535875bd5",
+      "published_bytes": 7417,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/css/style.css",
+      "source_sha256": "57801af100e4db1ae7c7df9a44f47eac53a2ffb0fc05159101f914c061fb5b06",
+      "source_bytes": 838,
+      "published_path": "site/local-backup/old/websites/final/css/style.css",
+      "published_sha256": "57801af100e4db1ae7c7df9a44f47eac53a2ffb0fc05159101f914c061fb5b06",
+      "published_bytes": 838,
+      "transformation": "CSS resource URLs rewritten locally; imports and expressions removed"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_header.gif",
+      "source_sha256": "4b9d42df578ee7de3e2c9623db3168e9a593d7898820a514fb77961c953324ef",
+      "source_bytes": 8072,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_header.gif",
+      "published_sha256": "4b9d42df578ee7de3e2c9623db3168e9a593d7898820a514fb77961c953324ef",
+      "published_bytes": 8072,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/navbar_reviews.gif",
+      "source_sha256": "ef7e20a49ba5b1591e46b43fad54cba7ecc00a23e635c1828cc5b12bdc633688",
+      "source_bytes": 1117,
+      "published_path": "site/local-backup/old/websites/final/images/navbar_reviews.gif",
+      "published_sha256": "ef7e20a49ba5b1591e46b43fad54cba7ecc00a23e635c1828cc5b12bdc633688",
+      "published_bytes": 1117,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/navbar_menus.gif",
+      "source_sha256": "dfd4fe15c2529c1e85f22f78c0b3665cfd378d988f77768c019a95895712ea14",
+      "source_bytes": 1104,
+      "published_path": "site/local-backup/old/websites/final/images/navbar_menus.gif",
+      "published_sha256": "dfd4fe15c2529c1e85f22f78c0b3665cfd378d988f77768c019a95895712ea14",
+      "published_bytes": 1104,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/navbar_concerts.gif",
+      "source_sha256": "38a7bd9fdcfb814a10f3ea649ec2c3934d4cc3899dc6f2a8ac8eb05bbb949126",
+      "source_bytes": 1043,
+      "published_path": "site/local-backup/old/websites/final/images/navbar_concerts.gif",
+      "published_sha256": "38a7bd9fdcfb814a10f3ea649ec2c3934d4cc3899dc6f2a8ac8eb05bbb949126",
+      "published_bytes": 1043,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/navbar_find_us.gif",
+      "source_sha256": "4a7eb89419efe4fe0ddef6786081750b4327c941b92e343f4d426b127e3d8b3b",
+      "source_bytes": 1005,
+      "published_path": "site/local-backup/old/websites/final/images/navbar_find_us.gif",
+      "published_sha256": "4a7eb89419efe4fe0ddef6786081750b4327c941b92e343f4d426b127e3d8b3b",
+      "published_bytes": 1005,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/navbar_calendar.gif",
+      "source_sha256": "9fd9d095f388b56e464808b98426a7fd54d361df9dd8af0a1710473bb9740a16",
+      "source_bytes": 1070,
+      "published_path": "site/local-backup/old/websites/final/images/navbar_calendar.gif",
+      "published_sha256": "9fd9d095f388b56e464808b98426a7fd54d361df9dd8af0a1710473bb9740a16",
+      "published_bytes": 1070,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/wood.gif",
+      "source_sha256": "2172d11d7c3f5128ff6f53716396629e620f8c0332df8c84d5cc89529cc8d459",
+      "source_bytes": 26717,
+      "published_path": "site/local-backup/old/websites/final/images/wood.gif",
+      "published_sha256": "2172d11d7c3f5128ff6f53716396629e620f8c0332df8c84d5cc89529cc8d459",
+      "published_bytes": 26717,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_kickin_appetizers.gif",
+      "source_sha256": "27144b0ee794e660a6ef6715025fbfe9f6cffb645b748410f3ac422ac8b00b3c",
+      "source_bytes": 730,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_kickin_appetizers.gif",
+      "published_sha256": "27144b0ee794e660a6ef6715025fbfe9f6cffb645b748410f3ac422ac8b00b3c",
+      "published_bytes": 730,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/appetizer.html",
+      "source_sha256": "05cc56a1b3ecf28db81e2054ff28a6b8aa794b76fa8d10482c4b1c9535875bd5",
+      "source_bytes": 7417,
+      "published_path": "site/local-backup/old/websites/final/appetizer.html",
+      "published_sha256": "1447cb4c94329bb1ddeb88e695e94b02a6b42064c85a8631f5798af9c09a6151",
+      "published_bytes": 6124,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/beverages.html",
+      "source_sha256": "2744a09c31e56c954dafc58d492f272b1c71f4d4e36f4ea1d29affe786bbe866",
+      "source_bytes": 7999,
+      "published_path": "local-backup-sources/old/websites/final/beverages.html.txt",
+      "published_sha256": "2744a09c31e56c954dafc58d492f272b1c71f4d4e36f4ea1d29affe786bbe866",
+      "published_bytes": 7999,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_beverages.gif",
+      "source_sha256": "5124f4d6681b5c6c966f4dd5ba82fb55d88cdcf8b04c5844867fd3af896da8cd",
+      "source_bytes": 701,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_beverages.gif",
+      "published_sha256": "5124f4d6681b5c6c966f4dd5ba82fb55d88cdcf8b04c5844867fd3af896da8cd",
+      "published_bytes": 701,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_expresso_cappuccino.gif",
+      "source_sha256": "a7d4cc5c433180d9e6ae18c07f4a22977f581b769450b6b95bf9ef25e7f2f11d",
+      "source_bytes": 939,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_expresso_cappuccino.gif",
+      "published_sha256": "a7d4cc5c433180d9e6ae18c07f4a22977f581b769450b6b95bf9ef25e7f2f11d",
+      "published_bytes": 939,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/beverages.html",
+      "source_sha256": "2744a09c31e56c954dafc58d492f272b1c71f4d4e36f4ea1d29affe786bbe866",
+      "source_bytes": 7999,
+      "published_path": "site/local-backup/old/websites/final/beverages.html",
+      "published_sha256": "dc80d442c3fbe5adf99743912959ef0ae1d21ca94d008ffebd330a66434e323c",
+      "published_bytes": 5648,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/calendar.html",
+      "source_sha256": "29c094ed097bdd8815407880b2791110eeaaaabd0bac6a0c4ad3a6ec2a408955",
+      "source_bytes": 5982,
+      "published_path": "local-backup-sources/old/websites/final/calendar.html.txt",
+      "published_sha256": "29c094ed097bdd8815407880b2791110eeaaaabd0bac6a0c4ad3a6ec2a408955",
+      "published_bytes": 5982,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/calendar_header.gif",
+      "source_sha256": "46f70fd50fd43e27b7f7e08b2ee02cda17d1043826ba52ce1135640d1baeed8d",
+      "source_bytes": 8190,
+      "published_path": "site/local-backup/old/websites/final/images/calendar_header.gif",
+      "published_sha256": "46f70fd50fd43e27b7f7e08b2ee02cda17d1043826ba52ce1135640d1baeed8d",
+      "published_bytes": 8190,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/calendar.html",
+      "source_sha256": "29c094ed097bdd8815407880b2791110eeaaaabd0bac6a0c4ad3a6ec2a408955",
+      "source_bytes": 5982,
+      "published_path": "site/local-backup/old/websites/final/calendar.html",
+      "published_sha256": "1ccfbb68c815d5c6aa49f50b9ce290cafec27a329df455f64db0714c13a4634a",
+      "published_bytes": 3684,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/concerts.html",
+      "source_sha256": "b389e43a400d6edf2f12c7724a8e593f9b02bb5b7a47609bc94495a5f50dda43",
+      "source_bytes": 11379,
+      "published_path": "local-backup-sources/old/websites/final/concerts.html.txt",
+      "published_sha256": "b389e43a400d6edf2f12c7724a8e593f9b02bb5b7a47609bc94495a5f50dda43",
+      "published_bytes": 11379,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_marc_corey_lee.jpg",
+      "source_sha256": "4793d6c07c484be472ef64465a6a900958e8a85dbf1f46f9430e1c2af4040105",
+      "source_bytes": 2106,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_marc_corey_lee.jpg",
+      "published_sha256": "4793d6c07c484be472ef64465a6a900958e8a85dbf1f46f9430e1c2af4040105",
+      "published_bytes": 2106,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_brenda_lee.jpg",
+      "source_sha256": "deb0daaa99181a9f32b3c82b86ac891b27063fa9d69a8d10cb9599010241927d",
+      "source_bytes": 1924,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_brenda_lee.jpg",
+      "published_sha256": "deb0daaa99181a9f32b3c82b86ac891b27063fa9d69a8d10cb9599010241927d",
+      "published_bytes": 1924,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_ron_stein.jpg",
+      "source_sha256": "b8e851db2c604a684d8d7f7f0220ca082b8471b1e18554547940651ce7829584",
+      "source_bytes": 2703,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_ron_stein.jpg",
+      "published_sha256": "b8e851db2c604a684d8d7f7f0220ca082b8471b1e18554547940651ce7829584",
+      "published_bytes": 2703,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_rhett_akins.jpg",
+      "source_sha256": "0689e7d51361aab9e39b6d2ff53f64198805ebc9687c4646bd2f45b624a58771",
+      "source_bytes": 1971,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_rhett_akins.jpg",
+      "published_sha256": "0689e7d51361aab9e39b6d2ff53f64198805ebc9687c4646bd2f45b624a58771",
+      "published_bytes": 1971,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_chris_ledoux.jpg",
+      "source_sha256": "5ab9527190dcf529dd380594e15e3499aec807d50613418fb84dc32a2f9ff7d7",
+      "source_bytes": 1766,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_chris_ledoux.jpg",
+      "published_sha256": "5ab9527190dcf529dd380594e15e3499aec807d50613418fb84dc32a2f9ff7d7",
+      "published_bytes": 1766,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_ray_price.jpg",
+      "source_sha256": "90e4f3981c29e2b11e272a774ea096c33903cda7891fe1cd9da2cdb7e581d8a1",
+      "source_bytes": 1960,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_ray_price.jpg",
+      "published_sha256": "90e4f3981c29e2b11e272a774ea096c33903cda7891fe1cd9da2cdb7e581d8a1",
+      "published_bytes": 1960,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_don_williams.jpg",
+      "source_sha256": "53aa0d5c87b9a4b2d5de6b1641d5a83fb42f54ed2ff0de471fea4d77df9a5def",
+      "source_bytes": 1763,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_don_williams.jpg",
+      "published_sha256": "53aa0d5c87b9a4b2d5de6b1641d5a83fb42f54ed2ff0de471fea4d77df9a5def",
+      "published_bytes": 1763,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/concerts_glen_campbell.jpg",
+      "source_sha256": "dd9b804f4691e0a6dc74ba0598ca9853fa74963e3d6f1f7beba6f23aeba81470",
+      "source_bytes": 2136,
+      "published_path": "site/local-backup/old/websites/final/images/concerts_glen_campbell.jpg",
+      "published_sha256": "dd9b804f4691e0a6dc74ba0598ca9853fa74963e3d6f1f7beba6f23aeba81470",
+      "published_bytes": 2136,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/concerts.html",
+      "source_sha256": "b389e43a400d6edf2f12c7724a8e593f9b02bb5b7a47609bc94495a5f50dda43",
+      "source_bytes": 11379,
+      "published_path": "site/local-backup/old/websites/final/concerts.html",
+      "published_sha256": "77069d2d7b44e6acd4faab4bd45906ec9883dd56b87799bf804b1f34d756d441",
+      "published_bytes": 7702,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/deserts.html",
+      "source_sha256": "811200dd10ee3410af789ca7a08faa71f24898173e3f7133b49bfef809f2f781",
+      "source_bytes": 7870,
+      "published_path": "local-backup-sources/old/websites/final/deserts.html.txt",
+      "published_sha256": "811200dd10ee3410af789ca7a08faa71f24898173e3f7133b49bfef809f2f781",
+      "published_bytes": 7870,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_desserts.gif",
+      "source_sha256": "219eb724e53800b09bb77fa4607848ffcd9eb18759de4462ef41096499cad84f",
+      "source_bytes": 418,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_desserts.gif",
+      "published_sha256": "219eb724e53800b09bb77fa4607848ffcd9eb18759de4462ef41096499cad84f",
+      "published_bytes": 418,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/deserts.html",
+      "source_sha256": "811200dd10ee3410af789ca7a08faa71f24898173e3f7133b49bfef809f2f781",
+      "source_bytes": 7870,
+      "published_path": "site/local-backup/old/websites/final/deserts.html",
+      "published_sha256": "486eb40bfe66b70cf074faaca6893505cbb83a9e2f66284bb7a0ac93c56ab373",
+      "published_bytes": 5603,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/find_us.html",
+      "source_sha256": "09d2d8482fc9461fe283aa5243756ed206325d45089b1c68c66dd56ab7bf0fc4",
+      "source_bytes": 6027,
+      "published_path": "local-backup-sources/old/websites/final/find_us.html.txt",
+      "published_sha256": "09d2d8482fc9461fe283aa5243756ed206325d45089b1c68c66dd56ab7bf0fc4",
+      "published_bytes": 6027,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/findus_map.gif",
+      "source_sha256": "fe90a7ff32e6996da156294def236685b56119af69eab4f49d93c92f30aebdb1",
+      "source_bytes": 18349,
+      "published_path": "site/local-backup/old/websites/final/images/findus_map.gif",
+      "published_sha256": "fe90a7ff32e6996da156294def236685b56119af69eab4f49d93c92f30aebdb1",
+      "published_bytes": 18349,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/find_us.html",
+      "source_sha256": "09d2d8482fc9461fe283aa5243756ed206325d45089b1c68c66dd56ab7bf0fc4",
+      "source_bytes": 6027,
+      "published_path": "site/local-backup/old/websites/final/find_us.html",
+      "published_sha256": "0766649761e600070a3729cda51f3ac86b1ee72999dceed8ba2673cc739903e0",
+      "published_bytes": 3885,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/index.html",
+      "source_sha256": "48f48265b01e5534cdc84cd40c8723991aac420f287ea0f9283198560db50ebd",
+      "source_bytes": 6741,
+      "published_path": "local-backup-sources/old/websites/final/index.html.txt",
+      "published_sha256": "48f48265b01e5534cdc84cd40c8723991aac420f287ea0f9283198560db50ebd",
+      "published_bytes": 6741,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/index.html",
+      "source_sha256": "48f48265b01e5534cdc84cd40c8723991aac420f287ea0f9283198560db50ebd",
+      "source_bytes": 6741,
+      "published_path": "site/local-backup/old/websites/final/index.html",
+      "published_sha256": "650b6674a3b0a700ba5f81f3435bb6ffbd2c84ffda79228259fee25fd3adc6b8",
+      "published_bytes": 4450,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/main_corces.html",
+      "source_sha256": "c8974ac8b0855f86c4d753423f08a1aa8570a83f905922ed2ed781b6b44492ee",
+      "source_bytes": 14763,
+      "published_path": "local-backup-sources/old/websites/final/main_corces.html.txt",
+      "published_sha256": "c8974ac8b0855f86c4d753423f08a1aa8570a83f905922ed2ed781b6b44492ee",
+      "published_bytes": 14763,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_chicken_dinners.gif",
+      "source_sha256": "595103ab78c0ea36ccbae5bb8b5f3b67fd859b0a92c6c42e1f8c4f30bfb15a11",
+      "source_bytes": 450,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_chicken_dinners.gif",
+      "published_sha256": "595103ab78c0ea36ccbae5bb8b5f3b67fd859b0a92c6c42e1f8c4f30bfb15a11",
+      "published_bytes": 450,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_chicken_dinners_real.gif",
+      "source_sha256": "fa9aa1643e167af47023e835cca2c21070d87acd9c2cb96a591065a97d16569c",
+      "source_bytes": 775,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_chicken_dinners_real.gif",
+      "published_sha256": "fa9aa1643e167af47023e835cca2c21070d87acd9c2cb96a591065a97d16569c",
+      "published_bytes": 775,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_seafood_dinners.gif",
+      "source_sha256": "df26bef80cddf7f8e59ca314f384864744e9a11f194c15e555603b80a4bfed28",
+      "source_bytes": 843,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_seafood_dinners.gif",
+      "published_sha256": "df26bef80cddf7f8e59ca314f384864744e9a11f194c15e555603b80a4bfed28",
+      "published_bytes": 843,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_bronco_sandwiches.gif",
+      "source_sha256": "9c9a63f2a58ae652ae43c7fb6c85b9e9de656d940779c96e56ea15b6d18bc767",
+      "source_bytes": 929,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_bronco_sandwiches.gif",
+      "published_sha256": "9c9a63f2a58ae652ae43c7fb6c85b9e9de656d940779c96e56ea15b6d18bc767",
+      "published_bytes": 929,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/main_corces.html",
+      "source_sha256": "c8974ac8b0855f86c4d753423f08a1aa8570a83f905922ed2ed781b6b44492ee",
+      "source_bytes": 14763,
+      "published_path": "site/local-backup/old/websites/final/main_corces.html",
+      "published_sha256": "f70283aae3015ee254840ae80731b2ee84dc7bd8f56ce634a2d341302e931003",
+      "published_bytes": 11771,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/menus.html",
+      "source_sha256": "17e6cf870166ab29690167d84af202352a57632eac2507d3de573e71df11523a",
+      "source_bytes": 7419,
+      "published_path": "local-backup-sources/old/websites/final/menus.html.txt",
+      "published_sha256": "17e6cf870166ab29690167d84af202352a57632eac2507d3de573e71df11523a",
+      "published_bytes": 7419,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_banner_6.gif",
+      "source_sha256": "646412e9a247a1e45c82d5d30e29e5f25ddc33270ebe536faee89f3025d5163b",
+      "source_bytes": 423,
+      "published_path": "site/local-backup/old/websites/final/images/menu_banner_6.gif",
+      "published_sha256": "646412e9a247a1e45c82d5d30e29e5f25ddc33270ebe536faee89f3025d5163b",
+      "published_bytes": 423,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_fresh_garden_salad_.gif",
+      "source_sha256": "a482db86d3d7e6a8b44629f5e8bb91e26d0f2413afc5e56de5c33c21cbad9a17",
+      "source_bytes": 1218,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_fresh_garden_salad_.gif",
+      "published_sha256": "a482db86d3d7e6a8b44629f5e8bb91e26d0f2413afc5e56de5c33c21cbad9a17",
+      "published_bytes": 1218,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/menu_header_side_kicks.gif",
+      "source_sha256": "0df1414f69f79c56bac665529da5b19967dcc23cf9d180016d88ab6f42fa5d9a",
+      "source_bytes": 555,
+      "published_path": "site/local-backup/old/websites/final/images/menu_header_side_kicks.gif",
+      "published_sha256": "0df1414f69f79c56bac665529da5b19967dcc23cf9d180016d88ab6f42fa5d9a",
+      "published_bytes": 555,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/menus.html",
+      "source_sha256": "17e6cf870166ab29690167d84af202352a57632eac2507d3de573e71df11523a",
+      "source_bytes": 7419,
+      "published_path": "site/local-backup/old/websites/final/menus.html",
+      "published_sha256": "244661c260c477530f45bd418f12e59f19ccd6876cb1e560d93b5251b4b64731",
+      "published_bytes": 4927,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/reviews.html",
+      "source_sha256": "c84112ffc030691e9b39fd94b29ef72ffc79b6730496f88df18f6b0ecb3c2ff5",
+      "source_bytes": 5878,
+      "published_path": "local-backup-sources/old/websites/final/reviews.html.txt",
+      "published_sha256": "c84112ffc030691e9b39fd94b29ef72ffc79b6730496f88df18f6b0ecb3c2ff5",
+      "published_bytes": 5878,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/reviews.html",
+      "source_sha256": "c84112ffc030691e9b39fd94b29ef72ffc79b6730496f88df18f6b0ecb3c2ff5",
+      "source_bytes": 5878,
+      "published_path": "site/local-backup/old/websites/final/reviews.html",
+      "published_sha256": "c8be9b88de1c7672567fab1f905b2b831750275f8c73f4a7abd604335eaf8b6b",
+      "published_bytes": 3756,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/salads.html",
+      "source_sha256": "8aeb1333d7176c3c4974ac7a83e2ae25db66a6184454b8a477f254e34e8e314d",
+      "source_bytes": 7987,
+      "published_path": "local-backup-sources/old/websites/final/salads.html.txt",
+      "published_sha256": "8aeb1333d7176c3c4974ac7a83e2ae25db66a6184454b8a477f254e34e8e314d",
+      "published_bytes": 7987,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/salads.html",
+      "source_sha256": "8aeb1333d7176c3c4974ac7a83e2ae25db66a6184454b8a477f254e34e8e314d",
+      "source_bytes": 7987,
+      "published_path": "site/local-backup/old/websites/final/salads.html",
+      "published_sha256": "93927335f5b6c53ce99d486dee209a6b6ccd2560766b3d2ff563eaac5005e0d5",
+      "published_bytes": 5761,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/side_orders.html",
+      "source_sha256": "6d9a64c7855abfdccffaf0453dd0e8fc311fadf4f921a04633f4fb153f788818",
+      "source_bytes": 7576,
+      "published_path": "local-backup-sources/old/websites/final/side_orders.html.txt",
+      "published_sha256": "6d9a64c7855abfdccffaf0453dd0e8fc311fadf4f921a04633f4fb153f788818",
+      "published_bytes": 7576,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/side_orders.html",
+      "source_sha256": "6d9a64c7855abfdccffaf0453dd0e8fc311fadf4f921a04633f4fb153f788818",
+      "source_bytes": 7576,
+      "published_path": "site/local-backup/old/websites/final/side_orders.html",
+      "published_sha256": "3cca9b917955290acf810db0386bcc2a3e2dc77227e7c189fc3c2fc6447f3cbf",
+      "published_bytes": 5255,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/site_map.html",
+      "source_sha256": "5b085e6a35c5e48c205f0fabac86e07bdc97e0d865921b0865453d9ef6215b19",
+      "source_bytes": 6456,
+      "published_path": "local-backup-sources/old/websites/final/site_map.html.txt",
+      "published_sha256": "5b085e6a35c5e48c205f0fabac86e07bdc97e0d865921b0865453d9ef6215b19",
+      "published_bytes": 6456,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/images/fd_crazyhorse.gif",
+      "source_sha256": "13e29344b49ab54624440d47714eb7faf32c009c468ef9488d1930cd9a74a8a2",
+      "source_bytes": 21061,
+      "published_path": "site/local-backup/old/websites/final/images/fd_crazyhorse.gif",
+      "published_sha256": "13e29344b49ab54624440d47714eb7faf32c009c468ef9488d1930cd9a74a8a2",
+      "published_bytes": 21061,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Final/site_map.html",
+      "source_sha256": "5b085e6a35c5e48c205f0fabac86e07bdc97e0d865921b0865453d9ef6215b19",
+      "source_bytes": 6456,
+      "published_path": "site/local-backup/old/websites/final/site_map.html",
+      "published_sha256": "e0919043fe00f3c1e2c4312afe1f90d3b81f77d4722924790b82699e630eccf9",
+      "published_bytes": 4019,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/artillery_shells.html",
+      "source_sha256": "341bfc329abff722e02822c4cb87f07ae3304c7dfd890224f169c64df54b85b0",
+      "source_bytes": 4478,
+      "published_path": "local-backup-sources/old/websites/friework_web/artillery_shells.html.txt",
+      "published_sha256": "341bfc329abff722e02822c4cb87f07ae3304c7dfd890224f169c64df54b85b0",
+      "published_bytes": 4478,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_artilery_shells.jpg",
+      "source_sha256": "df7fea6c4b001e71963da336a10cf37ae99345f959e5b3655d57bf0b437ff856",
+      "source_bytes": 9154,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_artilery_shells.jpg",
+      "published_sha256": "df7fea6c4b001e71963da336a10cf37ae99345f959e5b3655d57bf0b437ff856",
+      "published_bytes": 9154,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/artill_big_pack.jpg",
+      "source_sha256": "72dfdd739b9924800fd266329d18f3c3519a2b58cb7950a10e2f7baf34bc2475",
+      "source_bytes": 12821,
+      "published_path": "site/local-backup/old/websites/friework_web/images/artill_big_pack.jpg",
+      "published_sha256": "72dfdd739b9924800fd266329d18f3c3519a2b58cb7950a10e2f7baf34bc2475",
+      "published_bytes": 12821,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/badbombs.jpg",
+      "source_sha256": "94c9a9a6c1a6a26cff8aaf98cecf44b0b3dbf5613f1f7e09e0e9988e145966c7",
+      "source_bytes": 24755,
+      "published_path": "site/local-backup/old/websites/friework_web/images/badbombs.jpg",
+      "published_sha256": "94c9a9a6c1a6a26cff8aaf98cecf44b0b3dbf5613f1f7e09e0e9988e145966c7",
+      "published_bytes": 24755,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/morter.jpg",
+      "source_sha256": "81f769fd9fb5d4a976656be46277eada54f93d60f49ff5648a8a02d46a773fbf",
+      "source_bytes": 24772,
+      "published_path": "site/local-backup/old/websites/friework_web/images/morter.jpg",
+      "published_sha256": "81f769fd9fb5d4a976656be46277eada54f93d60f49ff5648a8a02d46a773fbf",
+      "published_bytes": 24772,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/artillery_shells.html",
+      "source_sha256": "341bfc329abff722e02822c4cb87f07ae3304c7dfd890224f169c64df54b85b0",
+      "source_bytes": 4478,
+      "published_path": "site/local-backup/old/websites/friework_web/artillery_shells.html",
+      "published_sha256": "eb08a681c19e75e51b6d4e531531615040cc4ca0d055e18df293a8a881eac336",
+      "published_bytes": 4377,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/contact.html",
+      "source_sha256": "dced929bef8448a6df727a3b4fe642c16a1c58c72ed1e89f1d528311f07cb465",
+      "source_bytes": 3448,
+      "published_path": "local-backup-sources/old/websites/friework_web/contact.html.txt",
+      "published_sha256": "dced929bef8448a6df727a3b4fe642c16a1c58c72ed1e89f1d528311f07cb465",
+      "published_bytes": 3448,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_contact.jpg",
+      "source_sha256": "d7e9304c51abdebf7e522b8687946d47cdad06743e7bc9f330ee37311fcb8be2",
+      "source_bytes": 5483,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_contact.jpg",
+      "published_sha256": "d7e9304c51abdebf7e522b8687946d47cdad06743e7bc9f330ee37311fcb8be2",
+      "published_bytes": 5483,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/contact.html",
+      "source_sha256": "dced929bef8448a6df727a3b4fe642c16a1c58c72ed1e89f1d528311f07cb465",
+      "source_bytes": 3448,
+      "published_path": "site/local-backup/old/websites/friework_web/contact.html",
+      "published_sha256": "de70ddcbc48899d1171890e4e240a7fbe58c8c6eb98d08ec8e38653b1be3fc77",
+      "published_bytes": 3282,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/fire_crackers.html",
+      "source_sha256": "34442248fee96f2c131784405fdc52589776139c93d0b4ab49d5be2258712233",
+      "source_bytes": 4092,
+      "published_path": "local-backup-sources/old/websites/friework_web/fire_crackers.html.txt",
+      "published_sha256": "34442248fee96f2c131784405fdc52589776139c93d0b4ab49d5be2258712233",
+      "published_bytes": 4092,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_fire_crackers.jpg",
+      "source_sha256": "5f79ebb6faa57fcb799c1443b5b4cafe5bbe10b0b697c63a2f4fcdfbbdb8b751",
+      "source_bytes": 8665,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_fire_crackers.jpg",
+      "published_sha256": "5f79ebb6faa57fcb799c1443b5b4cafe5bbe10b0b697c63a2f4fcdfbbdb8b751",
+      "published_bytes": 8665,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/fire_cracker.gif",
+      "source_sha256": "74e23133dec3f3f4b5f753c6abbdf2402c94d4d8c2c9815d0a1c32b86302d950",
+      "source_bytes": 7995,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fire_cracker.gif",
+      "published_sha256": "74e23133dec3f3f4b5f753c6abbdf2402c94d4d8c2c9815d0a1c32b86302d950",
+      "published_bytes": 7995,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/firecracker.jpg",
+      "source_sha256": "cb128cbd8308d0ee148a2fc9a2a74990c542484f9b1250062451ccd4aab8afc6",
+      "source_bytes": 20041,
+      "published_path": "site/local-backup/old/websites/friework_web/images/firecracker.jpg",
+      "published_sha256": "cb128cbd8308d0ee148a2fc9a2a74990c542484f9b1250062451ccd4aab8afc6",
+      "published_bytes": 20041,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/firecrackers.jpg",
+      "source_sha256": "0818fb4ab9f267334d622986ed3228ff16b40aea23228e897402cfc441a05dd9",
+      "source_bytes": 13257,
+      "published_path": "site/local-backup/old/websites/friework_web/images/firecrackers.jpg",
+      "published_sha256": "0818fb4ab9f267334d622986ed3228ff16b40aea23228e897402cfc441a05dd9",
+      "published_bytes": 13257,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/fire_crackers.html",
+      "source_sha256": "34442248fee96f2c131784405fdc52589776139c93d0b4ab49d5be2258712233",
+      "source_bytes": 4092,
+      "published_path": "site/local-backup/old/websites/friework_web/fire_crackers.html",
+      "published_sha256": "a7ab25dfe4e8ac5357f59e64b2ec11a21df2ac9989d34e67c5130c9848b03b52",
+      "published_bytes": 3992,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/ground_displays.html",
+      "source_sha256": "248fa156dc67387016f9a21f435b5365710ad2e67b252e4f48e33631ec3f5988",
+      "source_bytes": 7117,
+      "published_path": "local-backup-sources/old/websites/friework_web/ground_displays.html.txt",
+      "published_sha256": "248fa156dc67387016f9a21f435b5365710ad2e67b252e4f48e33631ec3f5988",
+      "published_bytes": 7117,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_ground_displays.jpg",
+      "source_sha256": "591f6db616f45e453b9caef262387248f1870e3e1296e07e865864483cffd74b",
+      "source_bytes": 10118,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_ground_displays.jpg",
+      "published_sha256": "591f6db616f45e453b9caef262387248f1870e3e1296e07e865864483cffd74b",
+      "published_bytes": 10118,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/fountion.jpg",
+      "source_sha256": "3d7adea6fce486c20e58b15ce7e1e82751e5e0a3ddc994542debcf66cc8ff995",
+      "source_bytes": 23372,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fountion.jpg",
+      "published_sha256": "3d7adea6fce486c20e58b15ce7e1e82751e5e0a3ddc994542debcf66cc8ff995",
+      "published_bytes": 23372,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/fountion_s.jpg",
+      "source_sha256": "e8453182c0d612a9bb7344d82a7a0d8fc8877c641c25e914a502d95f4276d9f3",
+      "source_bytes": 8800,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fountion_s.jpg",
+      "published_sha256": "e8453182c0d612a9bb7344d82a7a0d8fc8877c641c25e914a502d95f4276d9f3",
+      "published_bytes": 8800,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Dancing-Butterflies_small.gif",
+      "source_sha256": "0fbe04e1d57359d0a8a9b4d336ef8f03f1311c080c935eb72c7c1d28961b3e84",
+      "source_bytes": 11004,
+      "published_path": "site/local-backup/old/websites/friework_web/images/dancing-butterflies_small.gif",
+      "published_sha256": "0fbe04e1d57359d0a8a9b4d336ef8f03f1311c080c935eb72c7c1d28961b3e84",
+      "published_bytes": 11004,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/foundtion.gif",
+      "source_sha256": "392dfd15a9dbe8fe0f4d78a998b3f0a137240c7a9eb7685820fd10c7911f6e23",
+      "source_bytes": 12870,
+      "published_path": "site/local-backup/old/websites/friework_web/images/foundtion.gif",
+      "published_sha256": "392dfd15a9dbe8fe0f4d78a998b3f0a137240c7a9eb7685820fd10c7911f6e23",
+      "published_bytes": 12870,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/fountion3.jpg",
+      "source_sha256": "8c343a8ee11986a7955731b782ea9e7411c143c8c42d687701af64bc8fe3bb1c",
+      "source_bytes": 9559,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fountion3.jpg",
+      "published_sha256": "8c343a8ee11986a7955731b782ea9e7411c143c8c42d687701af64bc8fe3bb1c",
+      "published_bytes": 9559,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Ground-Bloom-Flower_small.gif",
+      "source_sha256": "a4e8ca6c25b52cedf09be8c51aff77ab58c69212303e2dfb4c4d989271b16457",
+      "source_bytes": 16375,
+      "published_path": "site/local-backup/old/websites/friework_web/images/ground-bloom-flower_small.gif",
+      "published_sha256": "a4e8ca6c25b52cedf09be8c51aff77ab58c69212303e2dfb4c4d989271b16457",
+      "published_bytes": 16375,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/foutions.jpg",
+      "source_sha256": "9bb12b60beef925506d0e8f5e854f228bdb4bdf83404a95a0d6af9df784a7049",
+      "source_bytes": 43496,
+      "published_path": "site/local-backup/old/websites/friework_web/images/foutions.jpg",
+      "published_sha256": "9bb12b60beef925506d0e8f5e854f228bdb4bdf83404a95a0d6af9df784a7049",
+      "published_bytes": 43496,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/divider.gif",
+      "source_sha256": "61b86346807a4f4544061804465d2be6ffec8714ee5166ee68eddea632762ecf",
+      "source_bytes": 2815,
+      "published_path": "site/local-backup/old/websites/friework_web/images/divider.gif",
+      "published_sha256": "61b86346807a4f4544061804465d2be6ffec8714ee5166ee68eddea632762ecf",
+      "published_bytes": 2815,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/ground_displays.html",
+      "source_sha256": "248fa156dc67387016f9a21f435b5365710ad2e67b252e4f48e33631ec3f5988",
+      "source_bytes": 7117,
+      "published_path": "site/local-backup/old/websites/friework_web/ground_displays.html",
+      "published_sha256": "8db303714a178e8d275ec16c366f2244dd46d8969dad4770755d8d06281f77a9",
+      "published_bytes": 6983,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/home.html",
+      "source_sha256": "65fd442ed408e0b0634e47a37590160e5959a115a6a7a8e44b73196138e966cd",
+      "source_bytes": 4392,
+      "published_path": "local-backup-sources/old/websites/friework_web/home.html.txt",
+      "published_sha256": "65fd442ed408e0b0634e47a37590160e5959a115a6a7a8e44b73196138e966cd",
+      "published_bytes": 4392,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_fireworks.jpg",
+      "source_sha256": "0aad924df243625fb9f68efe2dcb8bf56498e93d8ce053eebbb3b44b2a6c22c4",
+      "source_bytes": 5018,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_fireworks.jpg",
+      "published_sha256": "0aad924df243625fb9f68efe2dcb8bf56498e93d8ce053eebbb3b44b2a6c22c4",
+      "published_bytes": 5018,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo -thunderdome.jpg",
+      "source_sha256": "1b4646a832f2078ddbdf0e6ac66e19ba61714f29fcb49eeb1b93331d9869ecc0",
+      "source_bytes": 8928,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_-thunderdome.jpg",
+      "published_sha256": "1b4646a832f2078ddbdf0e6ac66e19ba61714f29fcb49eeb1b93331d9869ecc0",
+      "published_bytes": 8928,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Fireworks-06-june.gif",
+      "source_sha256": "1d9a1166e8d23928fae9a48ca82a005b5c469f0cfdb3b90480b732a3f5f0e542",
+      "source_bytes": 66225,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fireworks-06-june.gif",
+      "published_sha256": "1d9a1166e8d23928fae9a48ca82a005b5c469f0cfdb3b90480b732a3f5f0e542",
+      "published_bytes": 66225,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Fireworks-05-june.gif",
+      "source_sha256": "4191e877966ed155cb970ba9360f3f0e913830e40e7dcba25474475104183b4c",
+      "source_bytes": 66015,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fireworks-05-june.gif",
+      "published_sha256": "4191e877966ed155cb970ba9360f3f0e913830e40e7dcba25474475104183b4c",
+      "published_bytes": 66015,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Fireworks-01-june.gif",
+      "source_sha256": "a94353c938c0df9735c6e0a08177d616bc2ad5ef2e6cc16cabaf2aef5507023e",
+      "source_bytes": 15116,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fireworks-01-june.gif",
+      "published_sha256": "a94353c938c0df9735c6e0a08177d616bc2ad5ef2e6cc16cabaf2aef5507023e",
+      "published_bytes": 15116,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/Fireworks-10-june.gif",
+      "source_sha256": "87b1b3eac0a7b3b3f3619537ac63d0d42e7b55fd53a645c7a523bccce0ea0d20",
+      "source_bytes": 20092,
+      "published_path": "site/local-backup/old/websites/friework_web/images/fireworks-10-june.gif",
+      "published_sha256": "87b1b3eac0a7b3b3f3619537ac63d0d42e7b55fd53a645c7a523bccce0ea0d20",
+      "published_bytes": 20092,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/home.html",
+      "source_sha256": "65fd442ed408e0b0634e47a37590160e5959a115a6a7a8e44b73196138e966cd",
+      "source_bytes": 4392,
+      "published_path": "site/local-backup/old/websites/friework_web/home.html",
+      "published_sha256": "b9fc191311801588b1c1894d212393aa57434fab719206c7d8a4e12cf36caa7d",
+      "published_bytes": 4271,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/index.html",
+      "source_sha256": "21fc628340536280fafaaeaab99b0ca5161ce314fe8923e56b241b73b4cd2335",
+      "source_bytes": 352,
+      "published_path": "local-backup-sources/old/websites/friework_web/index.html.txt",
+      "published_sha256": "21fc628340536280fafaaeaab99b0ca5161ce314fe8923e56b241b73b4cd2335",
+      "published_bytes": 352,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/index.html",
+      "source_sha256": "21fc628340536280fafaaeaab99b0ca5161ce314fe8923e56b241b73b4cd2335",
+      "source_bytes": 352,
+      "published_path": "site/local-backup/old/websites/friework_web/index.html",
+      "published_sha256": "f5462bfcc1055494d53f0a28f02b3fb3bf782e39fbd463a07b46304c12484749",
+      "published_bytes": 1370,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled; legacy frames replaced with links to surviving pages"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/list.html",
+      "source_sha256": "e45b707d0296ac3ef7818b372348f7cba483fa5271fa5a322ae2688cccb2a2d0",
+      "source_bytes": 7550,
+      "published_path": "local-backup-sources/old/websites/friework_web/list.html.txt",
+      "published_sha256": "e45b707d0296ac3ef7818b372348f7cba483fa5271fa5a322ae2688cccb2a2d0",
+      "published_bytes": 7550,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966090i.gif",
+      "source_sha256": "5b843f53dbc07a825169d81c9aed76dbb338416fe2407e0e66f7547fc1a0d942",
+      "source_bytes": 2432,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966090i.gif",
+      "published_sha256": "5b843f53dbc07a825169d81c9aed76dbb338416fe2407e0e66f7547fc1a0d942",
+      "published_bytes": 2432,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966091i.gif",
+      "source_sha256": "7c55641b1aa5112c29d4341f078e2f96f1eb21f5d414514864ab6d8c0a3eb4cb",
+      "source_bytes": 2444,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966091i.gif",
+      "published_sha256": "7c55641b1aa5112c29d4341f078e2f96f1eb21f5d414514864ab6d8c0a3eb4cb",
+      "published_bytes": 2444,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966092i.gif",
+      "source_sha256": "90ab6b57357fac1bced11ea90955d5e2fa1edc6ab66b2ecfc659abe313cc9586",
+      "source_bytes": 2440,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966092i.gif",
+      "published_sha256": "90ab6b57357fac1bced11ea90955d5e2fa1edc6ab66b2ecfc659abe313cc9586",
+      "published_bytes": 2440,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966093i.gif",
+      "source_sha256": "6a9b5ca818191f6b61f4b8439fd18f6f7c6c6e1e037b862fc9f971c81d47dae1",
+      "source_bytes": 2452,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966093i.gif",
+      "published_sha256": "6a9b5ca818191f6b61f4b8439fd18f6f7c6c6e1e037b862fc9f971c81d47dae1",
+      "published_bytes": 2452,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966094i.gif",
+      "source_sha256": "121ef5d69bca88cbe7dc2cdc3035305cd724574e0d377143279bc17730c5c7c8",
+      "source_bytes": 2450,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966094i.gif",
+      "published_sha256": "121ef5d69bca88cbe7dc2cdc3035305cd724574e0d377143279bc17730c5c7c8",
+      "published_bytes": 2450,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966095i.gif",
+      "source_sha256": "f47c06fbe46e3be0ad76f39947b85a153d1327e68bc30fd1d27b0930df2c1905",
+      "source_bytes": 2472,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966095i.gif",
+      "published_sha256": "f47c06fbe46e3be0ad76f39947b85a153d1327e68bc30fd1d27b0930df2c1905",
+      "published_bytes": 2472,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966096i.gif",
+      "source_sha256": "751dba7616d4b5d6833b4dab3e55de35f44ac0c0ec9426779e0f6d0881b53178",
+      "source_bytes": 2447,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966096i.gif",
+      "published_sha256": "751dba7616d4b5d6833b4dab3e55de35f44ac0c0ec9426779e0f6d0881b53178",
+      "published_bytes": 2447,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966097i.gif",
+      "source_sha256": "e5c1959cb9a6c2d8bdc73c057088fafd83de784795db40ace7da929b7b1ca382",
+      "source_bytes": 2447,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966097i.gif",
+      "published_sha256": "e5c1959cb9a6c2d8bdc73c057088fafd83de784795db40ace7da929b7b1ca382",
+      "published_bytes": 2447,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966098i.gif",
+      "source_sha256": "2c5212e69b3b1ef9374925fa66cd146f0e508219a179e5ebb2f84bf4c5602ce1",
+      "source_bytes": 2466,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966098i.gif",
+      "published_sha256": "2c5212e69b3b1ef9374925fa66cd146f0e508219a179e5ebb2f84bf4c5602ce1",
+      "published_bytes": 2466,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav223966099i.gif",
+      "source_sha256": "65efc1cc816a598042ac04a5ada721d2a652930604e4dee743799bf20d69ed01",
+      "source_bytes": 2448,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav223966099i.gif",
+      "published_sha256": "65efc1cc816a598042ac04a5ada721d2a652930604e4dee743799bf20d69ed01",
+      "published_bytes": 2448,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav2239660910i.gif",
+      "source_sha256": "69a057ad894ad1b1090df990d4405fc91bfa1113035808b1ee5acf61dd35890a",
+      "source_bytes": 2441,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav2239660910i.gif",
+      "published_sha256": "69a057ad894ad1b1090df990d4405fc91bfa1113035808b1ee5acf61dd35890a",
+      "published_bytes": 2441,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/nav2239660911i.gif",
+      "source_sha256": "356b77858b7eb3547d54be90b583df9085e64678ae46f47328fd09a72d08d46d",
+      "source_bytes": 2461,
+      "published_path": "site/local-backup/old/websites/friework_web/images/nav2239660911i.gif",
+      "published_sha256": "356b77858b7eb3547d54be90b583df9085e64678ae46f47328fd09a72d08d46d",
+      "published_bytes": 2461,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/list.html",
+      "source_sha256": "e45b707d0296ac3ef7818b372348f7cba483fa5271fa5a322ae2688cccb2a2d0",
+      "source_bytes": 7550,
+      "published_path": "site/local-backup/old/websites/friework_web/list.html",
+      "published_sha256": "ae0beb7a2ce034f25bc9d2cd2cf29b5d15b941906165324f82530f59f0743406",
+      "published_bytes": 4016,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/locations.html",
+      "source_sha256": "4f915187e8eff3c622d5f4372ac307386dddccac32adb4a6dbff3a39af5b37e2",
+      "source_bytes": 5519,
+      "published_path": "local-backup-sources/old/websites/friework_web/locations.html.txt",
+      "published_sha256": "4f915187e8eff3c622d5f4372ac307386dddccac32adb4a6dbff3a39af5b37e2",
+      "published_bytes": 5519,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_locations.jpg",
+      "source_sha256": "0049659623b2462c4205f207dc2952b7ed974e835b8b31cc94cc9ca9e241fc3e",
+      "source_bytes": 6013,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_locations.jpg",
+      "published_sha256": "0049659623b2462c4205f207dc2952b7ed974e835b8b31cc94cc9ca9e241fc3e",
+      "published_bytes": 6013,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/locations.html",
+      "source_sha256": "4f915187e8eff3c622d5f4372ac307386dddccac32adb4a6dbff3a39af5b37e2",
+      "source_bytes": 5519,
+      "published_path": "site/local-backup/old/websites/friework_web/locations.html",
+      "published_sha256": "b8d6886299d0ad21b9a192f6910b2e254ef351d27040afa6f6cd29fb6018cf88",
+      "published_bytes": 5614,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/packs.html",
+      "source_sha256": "ac4ff209608375d77089f5ada5d04510e62429c966fd838043829f5301b75ec0",
+      "source_bytes": 2003,
+      "published_path": "local-backup-sources/old/websites/friework_web/packs.html.txt",
+      "published_sha256": "ac4ff209608375d77089f5ada5d04510e62429c966fd838043829f5301b75ec0",
+      "published_bytes": 2003,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/packs.html",
+      "source_sha256": "ac4ff209608375d77089f5ada5d04510e62429c966fd838043829f5301b75ec0",
+      "source_bytes": 2003,
+      "published_path": "site/local-backup/old/websites/friework_web/packs.html",
+      "published_sha256": "23bf99ef5a5533652ebd7a03737293ef08d4785dd4bd0e127b19e0f4825a8f9d",
+      "published_bytes": 1844,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/repeaters.html",
+      "source_sha256": "e885d5e586f612050dd57c3456ebb6e5f76b03e76e989d5a629c1bda540d4179",
+      "source_bytes": 4795,
+      "published_path": "local-backup-sources/old/websites/friework_web/repeaters.html.txt",
+      "published_sha256": "e885d5e586f612050dd57c3456ebb6e5f76b03e76e989d5a629c1bda540d4179",
+      "published_bytes": 4795,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_repeaters.jpg",
+      "source_sha256": "63dded241ee22c1b4bfa491494b30f8eaaf8e7ae0eea6823088aa7ba49419766",
+      "source_bytes": 7143,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_repeaters.jpg",
+      "published_sha256": "63dded241ee22c1b4bfa491494b30f8eaaf8e7ae0eea6823088aa7ba49419766",
+      "published_bytes": 7143,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/big.jpg",
+      "source_sha256": "3645345128770cc27bdeb24c69ffe5554121bea1af54f3ac93d4e5c189c42f8d",
+      "source_bytes": 25886,
+      "published_path": "site/local-backup/old/websites/friework_web/images/big.jpg",
+      "published_sha256": "3645345128770cc27bdeb24c69ffe5554121bea1af54f3ac93d4e5c189c42f8d",
+      "published_bytes": 25886,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/big1.jpg",
+      "source_sha256": "6d190fd3a05dd5f6c0bf3a444216b169edf0a450b3950dfaa07ea5ad90688562",
+      "source_bytes": 39348,
+      "published_path": "site/local-backup/old/websites/friework_web/images/big1.jpg",
+      "published_sha256": "6d190fd3a05dd5f6c0bf3a444216b169edf0a450b3950dfaa07ea5ad90688562",
+      "published_bytes": 39348,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/repeater1.jpg",
+      "source_sha256": "bbe4ad62e14147dcb3ee64be9ccceb49bf86e40f7e6ccce8cafda2cf2da07116",
+      "source_bytes": 68445,
+      "published_path": "site/local-backup/old/websites/friework_web/images/repeater1.jpg",
+      "published_sha256": "bbe4ad62e14147dcb3ee64be9ccceb49bf86e40f7e6ccce8cafda2cf2da07116",
+      "published_bytes": 68445,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/repeater2.jpg",
+      "source_sha256": "9022d9c4663101cc7983242fa7d7a989b74269f580a980fdf88aab30781ddadb",
+      "source_bytes": 63907,
+      "published_path": "site/local-backup/old/websites/friework_web/images/repeater2.jpg",
+      "published_sha256": "9022d9c4663101cc7983242fa7d7a989b74269f580a980fdf88aab30781ddadb",
+      "published_bytes": 63907,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/repeaters.html",
+      "source_sha256": "e885d5e586f612050dd57c3456ebb6e5f76b03e76e989d5a629c1bda540d4179",
+      "source_bytes": 4795,
+      "published_path": "site/local-backup/old/websites/friework_web/repeaters.html",
+      "published_sha256": "84328a02f06d469c93559531b1ab0d0b04886c85b31085213d30d6082e5aa0ce",
+      "published_bytes": 4685,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/rockets.html",
+      "source_sha256": "745592afe19274e5a2b660910784c8930863f063f7533c17678f590961e50299",
+      "source_bytes": 4327,
+      "published_path": "local-backup-sources/old/websites/friework_web/rockets.html.txt",
+      "published_sha256": "745592afe19274e5a2b660910784c8930863f063f7533c17678f590961e50299",
+      "published_bytes": 4327,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_rockets.jpg",
+      "source_sha256": "3ee0816877ea3fd25a144ea50911194b6ee02bcf827a0fe296b1ec6fb9771f6c",
+      "source_bytes": 5668,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_rockets.jpg",
+      "published_sha256": "3ee0816877ea3fd25a144ea50911194b6ee02bcf827a0fe296b1ec6fb9771f6c",
+      "published_bytes": 5668,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/rocket.gif",
+      "source_sha256": "a49d9423b7409151f1bda9c1b0f95ac8cfd933b3cbd53754a94bb177352c081f",
+      "source_bytes": 15403,
+      "published_path": "site/local-backup/old/websites/friework_web/images/rocket.gif",
+      "published_sha256": "a49d9423b7409151f1bda9c1b0f95ac8cfd933b3cbd53754a94bb177352c081f",
+      "published_bytes": 15403,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/rockets1.gif",
+      "source_sha256": "265e759e27ee81e051185ef40afa48f499f666ebded0651ab20dce3f01c0a357",
+      "source_bytes": 9193,
+      "published_path": "site/local-backup/old/websites/friework_web/images/rockets1.gif",
+      "published_sha256": "265e759e27ee81e051185ef40afa48f499f666ebded0651ab20dce3f01c0a357",
+      "published_bytes": 9193,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/rockets2.gif",
+      "source_sha256": "a7dd4dcb3b2d60dff5a5c98e2b9e3aca0e9a64db427be85c675e83e808fd9157",
+      "source_bytes": 23571,
+      "published_path": "site/local-backup/old/websites/friework_web/images/rockets2.gif",
+      "published_sha256": "a7dd4dcb3b2d60dff5a5c98e2b9e3aca0e9a64db427be85c675e83e808fd9157",
+      "published_bytes": 23571,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/rockets.html",
+      "source_sha256": "745592afe19274e5a2b660910784c8930863f063f7533c17678f590961e50299",
+      "source_bytes": 4327,
+      "published_path": "site/local-backup/old/websites/friework_web/rockets.html",
+      "published_sha256": "bb6c3869c8c8f9c5e07ddf3e3926ad43bb7184a980d037e18ea52d1d4288bd01",
+      "published_bytes": 4221,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/roman_candles.html",
+      "source_sha256": "2ab8f65209c33f3720fd6ab4e5bbc48bf7d6e7a555002ef7959b79c9c8c8fe67",
+      "source_bytes": 3724,
+      "published_path": "local-backup-sources/old/websites/friework_web/roman_candles.html.txt",
+      "published_sha256": "2ab8f65209c33f3720fd6ab4e5bbc48bf7d6e7a555002ef7959b79c9c8c8fe67",
+      "published_bytes": 3724,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_roman_candles.jpg",
+      "source_sha256": "d554587737ecd936c9cc2cf556449d18bfe31efd001abc227f0d43f5e65f39b6",
+      "source_bytes": 9410,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_roman_candles.jpg",
+      "published_sha256": "d554587737ecd936c9cc2cf556449d18bfe31efd001abc227f0d43f5e65f39b6",
+      "published_bytes": 9410,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/roman candle.jpg",
+      "source_sha256": "d8f67ae6c279cb84b5e6822708a0ef2fd58bb6028a8cf170b1f61340fffe4446",
+      "source_bytes": 143648,
+      "published_path": "site/local-backup/old/websites/friework_web/images/roman_candle.jpg",
+      "published_sha256": "d8f67ae6c279cb84b5e6822708a0ef2fd58bb6028a8cf170b1f61340fffe4446",
+      "published_bytes": 143648,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/roman cand.jpg",
+      "source_sha256": "2783ef8f523e6aac520920ed0a3767da32b900490bb264e5ab670ea80b45c41a",
+      "source_bytes": 19711,
+      "published_path": "site/local-backup/old/websites/friework_web/images/roman_cand.jpg",
+      "published_sha256": "2783ef8f523e6aac520920ed0a3767da32b900490bb264e5ab670ea80b45c41a",
+      "published_bytes": 19711,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/roman candle2.jpg",
+      "source_sha256": "c52ddf5b5208ee899d4df9f3964af1fff2077e336491d30ee1030a4e3835e7b8",
+      "source_bytes": 16854,
+      "published_path": "site/local-backup/old/websites/friework_web/images/roman_candle2.jpg",
+      "published_sha256": "c52ddf5b5208ee899d4df9f3964af1fff2077e336491d30ee1030a4e3835e7b8",
+      "published_bytes": 16854,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/roman_candles.html",
+      "source_sha256": "2ab8f65209c33f3720fd6ab4e5bbc48bf7d6e7a555002ef7959b79c9c8c8fe67",
+      "source_bytes": 3724,
+      "published_path": "site/local-backup/old/websites/friework_web/roman_candles.html",
+      "published_sha256": "c495eccfe034c932f99aaeaa896ad2bdff72663b934754906483b31b642405cf",
+      "published_bytes": 3588,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/somke_bombs.html",
+      "source_sha256": "ccc513d1b336822c471ad65fa2bc27d85ae6a3e822abebd776466d1119328178",
+      "source_bytes": 3369,
+      "published_path": "local-backup-sources/old/websites/friework_web/somke_bombs.html.txt",
+      "published_sha256": "ccc513d1b336822c471ad65fa2bc27d85ae6a3e822abebd776466d1119328178",
+      "published_bytes": 3369,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_smoke_bombs.jpg",
+      "source_sha256": "9d6811e1a95502a56dc1259672cf070fd29cc3b7c37be2e39292645bd93ecaa9",
+      "source_bytes": 9005,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_smoke_bombs.jpg",
+      "published_sha256": "9d6811e1a95502a56dc1259672cf070fd29cc3b7c37be2e39292645bd93ecaa9",
+      "published_bytes": 9005,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/smoke2.gif",
+      "source_sha256": "4253920c4076ca4372716a2adc12085ef47eeac86896b60b79332c4607da83c6",
+      "source_bytes": 13745,
+      "published_path": "site/local-backup/old/websites/friework_web/images/smoke2.gif",
+      "published_sha256": "4253920c4076ca4372716a2adc12085ef47eeac86896b60b79332c4607da83c6",
+      "published_bytes": 13745,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/smoke_bombs.gif",
+      "source_sha256": "8e76edca8a7d02db414c4d942202af5492727f9ddac523dde6836b664394fd46",
+      "source_bytes": 19903,
+      "published_path": "site/local-backup/old/websites/friework_web/images/smoke_bombs.gif",
+      "published_sha256": "8e76edca8a7d02db414c4d942202af5492727f9ddac523dde6836b664394fd46",
+      "published_bytes": 19903,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/smoke.jpg",
+      "source_sha256": "b6f77996551b82fafcdd79172321ecc8e6a8639c05817c225b063cefe40ca7df",
+      "source_bytes": 84176,
+      "published_path": "site/local-backup/old/websites/friework_web/images/smoke.jpg",
+      "published_sha256": "b6f77996551b82fafcdd79172321ecc8e6a8639c05817c225b063cefe40ca7df",
+      "published_bytes": 84176,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/somke_bombs.html",
+      "source_sha256": "ccc513d1b336822c471ad65fa2bc27d85ae6a3e822abebd776466d1119328178",
+      "source_bytes": 3369,
+      "published_path": "site/local-backup/old/websites/friework_web/somke_bombs.html",
+      "published_sha256": "e818b97d3cf6a8c1668eda209702f5b737870818b31d3717628ddf6845c342f9",
+      "published_bytes": 3239,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/sparklers.html",
+      "source_sha256": "1d0cbd5889c1f3d72d825dadba1938cf522474dd119f33f6b50d3cfa1ac39a34",
+      "source_bytes": 3713,
+      "published_path": "local-backup-sources/old/websites/friework_web/sparklers.html.txt",
+      "published_sha256": "1d0cbd5889c1f3d72d825dadba1938cf522474dd119f33f6b50d3cfa1ac39a34",
+      "published_bytes": 3713,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_sparklers.jpg",
+      "source_sha256": "c5e7e83b664711e37527aa96ad1bc46bfcee6209d2fe6a4cea30d93fb773b093",
+      "source_bytes": 7078,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_sparklers.jpg",
+      "published_sha256": "c5e7e83b664711e37527aa96ad1bc46bfcee6209d2fe6a4cea30d93fb773b093",
+      "published_bytes": 7078,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/sparklers.jpg",
+      "source_sha256": "850d8f865a3fe8b2a159e21b8c4cb96f727c87c10f7ac3fd68efdf8f4743285c",
+      "source_bytes": 9034,
+      "published_path": "site/local-backup/old/websites/friework_web/images/sparklers.jpg",
+      "published_sha256": "850d8f865a3fe8b2a159e21b8c4cb96f727c87c10f7ac3fd68efdf8f4743285c",
+      "published_bytes": 9034,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/sparklers1.jpg",
+      "source_sha256": "5152fc14748818262b5117024d6616dbcb034727284ecc4f73e0c9794bb7c0bd",
+      "source_bytes": 224521,
+      "published_path": "site/local-backup/old/websites/friework_web/images/sparklers1.jpg",
+      "published_sha256": "5152fc14748818262b5117024d6616dbcb034727284ecc4f73e0c9794bb7c0bd",
+      "published_bytes": 224521,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/sparklers2.jpg",
+      "source_sha256": "659fc8e6006a8393e54f9e72c319b5c95fe7d11fe73fb929df05e2e075d8a1b8",
+      "source_bytes": 68555,
+      "published_path": "site/local-backup/old/websites/friework_web/images/sparklers2.jpg",
+      "published_sha256": "659fc8e6006a8393e54f9e72c319b5c95fe7d11fe73fb929df05e2e075d8a1b8",
+      "published_bytes": 68555,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/sparklers.html",
+      "source_sha256": "1d0cbd5889c1f3d72d825dadba1938cf522474dd119f33f6b50d3cfa1ac39a34",
+      "source_bytes": 3713,
+      "published_path": "site/local-backup/old/websites/friework_web/sparklers.html",
+      "published_sha256": "e5576acb04f851ee448c97b51851e0fcb917369a0f349f71471d76fe6d46f0fe",
+      "published_bytes": 3573,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/title.html",
+      "source_sha256": "2a401dbfa6f99e8840e7d8e8c3f422ba70c3809a2640cbd4a3ad98bc296b7faa",
+      "source_bytes": 3069,
+      "published_path": "local-backup-sources/old/websites/friework_web/title.html.txt",
+      "published_sha256": "2a401dbfa6f99e8840e7d8e8c3f422ba70c3809a2640cbd4a3ad98bc296b7faa",
+      "published_bytes": 3069,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/title.html",
+      "source_sha256": "2a401dbfa6f99e8840e7d8e8c3f422ba70c3809a2640cbd4a3ad98bc296b7faa",
+      "source_bytes": 3069,
+      "published_path": "site/local-backup/old/websites/friework_web/title.html",
+      "published_sha256": "2b44aa57bfbcbf87a68fe383311601f0435a15a11edc9b3ef3dc5deda57d808d",
+      "published_bytes": 2195,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/value_packs.html",
+      "source_sha256": "69103ce28f5e3d37c4c190861f538ba884263b75cabdd568cbc152b195ce786e",
+      "source_bytes": 2830,
+      "published_path": "local-backup-sources/old/websites/friework_web/value_packs.html.txt",
+      "published_sha256": "69103ce28f5e3d37c4c190861f538ba884263b75cabdd568cbc152b195ce786e",
+      "published_bytes": 2830,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/images/logo_value_packs.jpg",
+      "source_sha256": "fc7296eb1d25080223f8d763c568311705b1772b21f1d8b75cef3e3417c39563",
+      "source_bytes": 8020,
+      "published_path": "site/local-backup/old/websites/friework_web/images/logo_value_packs.jpg",
+      "published_sha256": "fc7296eb1d25080223f8d763c568311705b1772b21f1d8b75cef3e3417c39563",
+      "published_bytes": 8020,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/Friework Web/value_packs.html",
+      "source_sha256": "69103ce28f5e3d37c4c190861f538ba884263b75cabdd568cbc152b195ce786e",
+      "source_bytes": 2830,
+      "published_path": "site/local-backup/old/websites/friework_web/value_packs.html",
+      "published_sha256": "073f246dd7ff942ce0f6c1c08f8224a5383ed5b5baaaa175bd48c45a811c90bf",
+      "published_bytes": 2692,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/aminations.htm",
+      "source_sha256": "d9f6428444c485a531d013994537e4054605314a8442b52ab8eebd4ce5fd9174",
+      "source_bytes": 14420,
+      "published_path": "local-backup-sources/old/websites/animations/aminations.htm.txt",
+      "published_sha256": "d9f6428444c485a531d013994537e4054605314a8442b52ab8eebd4ce5fd9174",
+      "published_bytes": 14420,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/aminations.htm",
+      "source_sha256": "d9f6428444c485a531d013994537e4054605314a8442b52ab8eebd4ce5fd9174",
+      "source_bytes": 14420,
+      "published_path": "site/local-backup/old/websites/animations/aminations.html",
+      "published_sha256": "54569db19935b89496453bd57d704f746f4c0b9fe2873c1fabed3b302abe3373",
+      "published_bytes": 13120,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/others.htm",
+      "source_sha256": "29f00f69d1ca845e508db48714a5b4d8845dde2837581115210bb555c5701bfc",
+      "source_bytes": 14006,
+      "published_path": "local-backup-sources/old/websites/animations/others.htm.txt",
+      "published_sha256": "29f00f69d1ca845e508db48714a5b4d8845dde2837581115210bb555c5701bfc",
+      "published_bytes": 14006,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/others.htm",
+      "source_sha256": "29f00f69d1ca845e508db48714a5b4d8845dde2837581115210bb555c5701bfc",
+      "source_bytes": 14006,
+      "published_path": "site/local-backup/old/websites/animations/others.html",
+      "published_sha256": "c70cdd2fd8591bc6533cb680e083e35d9497f74b4b6dbc6dd6e6483b3ee13be9",
+      "published_bytes": 14184,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/sick_figures.htm",
+      "source_sha256": "d994c6c3d11bb807d0ab2afa7dc2009bdac6f2029844e953e4f646518e4c838c",
+      "source_bytes": 14511,
+      "published_path": "local-backup-sources/old/websites/animations/sick_figures.htm.txt",
+      "published_sha256": "d994c6c3d11bb807d0ab2afa7dc2009bdac6f2029844e953e4f646518e4c838c",
+      "published_bytes": 14511,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/sick_figures.htm",
+      "source_sha256": "d994c6c3d11bb807d0ab2afa7dc2009bdac6f2029844e953e4f646518e4c838c",
+      "source_bytes": 14511,
+      "published_path": "site/local-backup/old/websites/animations/sick_figures.html",
+      "published_sha256": "df5e6bd2800b3ddc7c6f3f5841e3ae7b9827632bfc46bb509f30f446b9566335",
+      "published_bytes": 14531,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/3D.htm",
+      "source_sha256": "3dfc3d85e692d8fe27d25a631462e0a8596cb3c1fa004a5d658865bd8c8405d6",
+      "source_bytes": 5801,
+      "published_path": "local-backup-sources/old/websites/animations/movies/3d.htm.txt",
+      "published_sha256": "3dfc3d85e692d8fe27d25a631462e0a8596cb3c1fa004a5d658865bd8c8405d6",
+      "published_bytes": 5801,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/3D.htm",
+      "source_sha256": "3dfc3d85e692d8fe27d25a631462e0a8596cb3c1fa004a5d658865bd8c8405d6",
+      "source_bytes": 5801,
+      "published_path": "site/local-backup/old/websites/animations/movies/3d.html",
+      "published_sha256": "10e155c75ff277769e1ac10c0238cc53f21c843025a1514502c49dca1e00d90c",
+      "published_bytes": 4424,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/BadDay1.htm",
+      "source_sha256": "a8af929578f746d0f12da7271968b2cb77e9a7e67577168bdf25b4cddd3e27d8",
+      "source_bytes": 5825,
+      "published_path": "local-backup-sources/old/websites/animations/movies/badday1.htm.txt",
+      "published_sha256": "a8af929578f746d0f12da7271968b2cb77e9a7e67577168bdf25b4cddd3e27d8",
+      "published_bytes": 5825,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/BadDay1.htm",
+      "source_sha256": "a8af929578f746d0f12da7271968b2cb77e9a7e67577168bdf25b4cddd3e27d8",
+      "source_bytes": 5825,
+      "published_path": "site/local-backup/old/websites/animations/movies/badday1.html",
+      "published_sha256": "7a936b94d876be05b3dc9682efcb5627af711d582350b7c0c43b37c94f0ddc5b",
+      "published_bytes": 4429,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/BadDay2.htm",
+      "source_sha256": "f287007a3ed9829028727456b719777b5994aadf67104c042a33017981f09326",
+      "source_bytes": 5819,
+      "published_path": "local-backup-sources/old/websites/animations/movies/badday2.htm.txt",
+      "published_sha256": "f287007a3ed9829028727456b719777b5994aadf67104c042a33017981f09326",
+      "published_bytes": 5819,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/BadDay2.htm",
+      "source_sha256": "f287007a3ed9829028727456b719777b5994aadf67104c042a33017981f09326",
+      "source_bytes": 5819,
+      "published_path": "site/local-backup/old/websites/animations/movies/badday2.html",
+      "published_sha256": "071e3cf9d7d84d0c8666d2eb417870790f58a64b19c096f2aabf53006da469eb",
+      "published_bytes": 4429,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/snowman_snow_fight.htm",
+      "source_sha256": "b9a6b0a0db2e13b1257e7b9bf671e9a8359edefe762022639e917e93ee2e8b4e",
+      "source_bytes": 5338,
+      "published_path": "local-backup-sources/old/websites/animations/movies/snowman_snow_fight.htm.txt",
+      "published_sha256": "b9a6b0a0db2e13b1257e7b9bf671e9a8359edefe762022639e917e93ee2e8b4e",
+      "published_bytes": 5338,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/snowman_snow_fight.htm",
+      "source_sha256": "b9a6b0a0db2e13b1257e7b9bf671e9a8359edefe762022639e917e93ee2e8b4e",
+      "source_bytes": 5338,
+      "published_path": "site/local-backup/old/websites/animations/movies/snowman_snow_fight.html",
+      "published_sha256": "d3bf697e63871b8bec74f1177f02bef80f5145d6abab8f1199a68cdc1f0258db",
+      "published_bytes": 4021,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/street.htm",
+      "source_sha256": "185d8b54f9bde0164f15f11e77db81ea24e0569c722dd2dad9a791b732bf7159",
+      "source_bytes": 5302,
+      "published_path": "local-backup-sources/old/websites/animations/movies/street.htm.txt",
+      "published_sha256": "185d8b54f9bde0164f15f11e77db81ea24e0569c722dd2dad9a791b732bf7159",
+      "published_bytes": 5302,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "websites/animations/movies/street.htm",
+      "source_sha256": "185d8b54f9bde0164f15f11e77db81ea24e0569c722dd2dad9a791b732bf7159",
+      "source_bytes": 5302,
+      "published_path": "site/local-backup/old/websites/animations/movies/street.html",
+      "published_sha256": "fae3c5f5a254da828b38956fa1e085b994a1d15801b32e430687cce064754471",
+      "published_bytes": 4009,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/freezer.html",
+      "source_sha256": "769e2652e6d16dc20aba86971723bbb33e0aff818e0aa30eb0e77644ed479793",
+      "source_bytes": 6952,
+      "published_path": "local-backup-sources/old/java_applets/freezer/freezer.html.txt",
+      "published_sha256": "769e2652e6d16dc20aba86971723bbb33e0aff818e0aa30eb0e77644ed479793",
+      "published_bytes": 6952,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/freezer.html",
+      "source_sha256": "769e2652e6d16dc20aba86971723bbb33e0aff818e0aa30eb0e77644ed479793",
+      "source_bytes": 6952,
+      "published_path": "site/local-backup/old/java_applets/freezer/freezer.html",
+      "published_sha256": "5b96452e7c630554f90e01f2f7657dfa90e763e52e977e9597df7327032450bd",
+      "published_bytes": 3925,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/ballFrame.htm",
+      "source_sha256": "912447166596367138f916b98e8b95a637bd915501103b06617823cb509c1426",
+      "source_bytes": 3868,
+      "published_path": "local-backup-sources/old/java_applets/pong/ballframe.htm.txt",
+      "published_sha256": "912447166596367138f916b98e8b95a637bd915501103b06617823cb509c1426",
+      "published_bytes": 3868,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/ballFrame.htm",
+      "source_sha256": "912447166596367138f916b98e8b95a637bd915501103b06617823cb509c1426",
+      "source_bytes": 3868,
+      "published_path": "site/local-backup/old/java_applets/pong/ballframe.html",
+      "published_sha256": "b6fbb4f2ab0242df04039614bdc69f13dec30d87a15da381ba053b9be18144db",
+      "published_bytes": 2628,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/pong.html",
+      "source_sha256": "fc261a0f498e3882a83baac9356d4f80bb8b79ab2e93248dfdec4f13a58ff0d0",
+      "source_bytes": 7952,
+      "published_path": "local-backup-sources/old/java_applets/pong/pong.html.txt",
+      "published_sha256": "fc261a0f498e3882a83baac9356d4f80bb8b79ab2e93248dfdec4f13a58ff0d0",
+      "published_bytes": 7952,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/PONG/pong.html",
+      "source_sha256": "fc261a0f498e3882a83baac9356d4f80bb8b79ab2e93248dfdec4f13a58ff0d0",
+      "source_bytes": 7952,
+      "published_path": "site/local-backup/old/java_applets/pong/pong.html",
+      "published_sha256": "6baf77cd671c9bb54ea5ed118a35b3fb38ff728dc1405d35797a4ffadc073682",
+      "published_bytes": 3913,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/main.htm",
+      "source_sha256": "348d46c918b83474e8a06f8e300b40b4a6301a1f1860cde2216937a5f8477e27",
+      "source_bytes": 1351,
+      "published_path": "local-backup-sources/old/java_applets/shooter/main.htm.txt",
+      "published_sha256": "348d46c918b83474e8a06f8e300b40b4a6301a1f1860cde2216937a5f8477e27",
+      "published_bytes": 1351,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/main.htm",
+      "source_sha256": "348d46c918b83474e8a06f8e300b40b4a6301a1f1860cde2216937a5f8477e27",
+      "source_bytes": 1351,
+      "published_path": "site/local-backup/old/java_applets/shooter/main.html",
+      "published_sha256": "9471f1db821eb2989b2601a4ced3cd8f4ba7aa0006959cda466fbdba0bec35cd",
+      "published_bytes": 1104,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/shooter.html",
+      "source_sha256": "13029b81c627ea046a20a6a3f0d0967b47b86799d566562ada8184529ac78696",
+      "source_bytes": 7936,
+      "published_path": "local-backup-sources/old/java_applets/shooter/shooter.html.txt",
+      "published_sha256": "13029b81c627ea046a20a6a3f0d0967b47b86799d566562ada8184529ac78696",
+      "published_bytes": 7936,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/shooter/shooter.html",
+      "source_sha256": "13029b81c627ea046a20a6a3f0d0967b47b86799d566562ada8184529ac78696",
+      "source_bytes": 7936,
+      "published_path": "site/local-backup/old/java_applets/shooter/shooter.html",
+      "published_sha256": "9d0b833ba27e0549cae2b1f18ff3eda13393d7bb2356cdc1bcf9b33cedee1b73",
+      "published_bytes": 3899,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/frezer/Frezer.htm",
+      "source_sha256": "8257c7a282425f5113cb810ca000fd315afcb2fa806bef040fde46a78b70fbf1",
+      "source_bytes": 1590,
+      "published_path": "local-backup-sources/old/java_applets/freezer/frezer/frezer.htm.txt",
+      "published_sha256": "8257c7a282425f5113cb810ca000fd315afcb2fa806bef040fde46a78b70fbf1",
+      "published_bytes": 1590,
+      "transformation": "Exact original HTML stored inertly as text"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "java_applets/Freezer/frezer/Frezer.htm",
+      "source_sha256": "8257c7a282425f5113cb810ca000fd315afcb2fa806bef040fde46a78b70fbf1",
+      "source_bytes": 1590,
+      "published_path": "site/local-backup/old/java_applets/freezer/frezer/frezer.html",
+      "published_sha256": "4633523d22d65b4002f18e01202898ddc8d376310d7dabf3e954ea7d4c6d05c9",
+      "published_bytes": 1301,
+      "transformation": "Static browsing derivative: PHP, scripts, trackers and plug-ins removed; local links/resources rewritten; original forms disabled"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "Images/TilePic2.jpg",
+      "source_sha256": "1a06b6ae7b92f906e56fe76d399e88b326710e278be372ca64f82794c98a10a3",
+      "source_bytes": 16105,
+      "published_path": "site/local-backup/later/images/tilepic2.jpg",
+      "published_sha256": "1a06b6ae7b92f906e56fe76d399e88b326710e278be372ca64f82794c98a10a3",
+      "published_bytes": 16105,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "later",
+      "source_relative_path": "Images/TilePic6.jpg",
+      "source_sha256": "e511c55b6615521bcf49730c15b282f12de3e9bca5bfc7bccb8f6554ea42c1ab",
+      "source_bytes": 35962,
+      "published_path": "site/local-backup/later/images/tilepic6.jpg",
+      "published_sha256": "e511c55b6615521bcf49730c15b282f12de3e9bca5bfc7bccb8f6554ea42c1ab",
+      "published_bytes": 35962,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/damerellQuery.png",
+      "source_sha256": "4ea015ee54b3d79a443c0ec81dd7cf676cb55494affef41b51a7e704632ac46a",
+      "source_bytes": 5445,
+      "published_path": "site/local-backup/old/images/damerellquery.png",
+      "published_sha256": "4ea015ee54b3d79a443c0ec81dd7cf676cb55494affef41b51a7e704632ac46a",
+      "published_bytes": 5445,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/navBar/rollBack.png",
+      "source_sha256": "f896593037b755e200cd1fe2af486ccd02d362c002e6177f3cf28a0d1e54919b",
+      "source_bytes": 50653,
+      "published_path": "site/local-backup/old/images/navbar/rollback.png",
+      "published_sha256": "f896593037b755e200cd1fe2af486ccd02d362c002e6177f3cf28a0d1e54919b",
+      "published_bytes": 50653,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Casey_computer1_full.jpg",
+      "source_sha256": "b89c38c4c74e8a9c15824d3538db63264b0a84170aa5273ca7c188638db07376",
+      "source_bytes": 65170,
+      "published_path": "site/local-backup/old/images/picture_page/casey_computer1_full.jpg",
+      "published_sha256": "b89c38c4c74e8a9c15824d3538db63264b0a84170aa5273ca7c188638db07376",
+      "published_bytes": 65170,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Casey_computer2_full.jpg",
+      "source_sha256": "6cb57a95137dca2dc60baf6b85779b3c5abc48f8b49d835af8a36e8a35382cb4",
+      "source_bytes": 87014,
+      "published_path": "site/local-backup/old/images/picture_page/casey_computer2_full.jpg",
+      "published_sha256": "6cb57a95137dca2dc60baf6b85779b3c5abc48f8b49d835af8a36e8a35382cb4",
+      "published_bytes": 87014,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Casey_computer3_full.jpg",
+      "source_sha256": "69881a2cb9d9de3a3fc8e0a100e02b70d2190caf3c22aced60ff3aecbe8c5790",
+      "source_bytes": 54557,
+      "published_path": "site/local-backup/old/images/picture_page/casey_computer3_full.jpg",
+      "published_sha256": "69881a2cb9d9de3a3fc8e0a100e02b70d2190caf3c22aced60ff3aecbe8c5790",
+      "published_bytes": 54557,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full (2).jpg",
+      "source_sha256": "4599c22e3f68d354bb2975818cc71648e9ec04d3bd7c10665a45c37e49baad8e",
+      "source_bytes": 75427,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full__2_.jpg",
+      "published_sha256": "4599c22e3f68d354bb2975818cc71648e9ec04d3bd7c10665a45c37e49baad8e",
+      "published_bytes": 75427,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full (3).jpg",
+      "source_sha256": "42e70f5fce05216f5733608b37c4a1db5b7525d3e622ea6b04e8253a1d446dd3",
+      "source_bytes": 71817,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full__3_.jpg",
+      "published_sha256": "42e70f5fce05216f5733608b37c4a1db5b7525d3e622ea6b04e8253a1d446dd3",
+      "published_bytes": 71817,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full (4).jpg",
+      "source_sha256": "4e985545e0cde4d48432e20eedd3539e9026ae3059c2ee9958b74f334137abac",
+      "source_bytes": 46122,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full__4_.jpg",
+      "published_sha256": "4e985545e0cde4d48432e20eedd3539e9026ae3059c2ee9958b74f334137abac",
+      "published_bytes": 46122,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full (5).jpg",
+      "source_sha256": "8e12ba145c7665e8a0fb897c7e3809bcd4e668252f76916b198bd1f679c2e3dd",
+      "source_bytes": 47679,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full__5_.jpg",
+      "published_sha256": "8e12ba145c7665e8a0fb897c7e3809bcd4e668252f76916b198bd1f679c2e3dd",
+      "published_bytes": 47679,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full (6).jpg",
+      "source_sha256": "2ea29d2bd71a102b2005189c95ec784e94e0df00e1082655f1665e537dbf5e26",
+      "source_bytes": 55032,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full__6_.jpg",
+      "published_sha256": "2ea29d2bd71a102b2005189c95ec784e94e0df00e1082655f1665e537dbf5e26",
+      "published_bytes": 55032,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_full.jpg",
+      "source_sha256": "09399e0bac72677f636a26e7dda7da8c0191db3367583d93c3a14f4dde7b334f",
+      "source_bytes": 35988,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_full.jpg",
+      "published_sha256": "09399e0bac72677f636a26e7dda7da8c0191db3367583d93c3a14f4dde7b334f",
+      "published_bytes": 35988,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum (2).jpg",
+      "source_sha256": "0a7c1da6b6bc3566b4290f01587570f9de57baa4defbbee5d708fad6b798a84f",
+      "source_bytes": 5455,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum__2_.jpg",
+      "published_sha256": "0a7c1da6b6bc3566b4290f01587570f9de57baa4defbbee5d708fad6b798a84f",
+      "published_bytes": 5455,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum (3).jpg",
+      "source_sha256": "4927fcbe8dea4099f35485d0b66cea446f1e1cad975e629508fb15c3320761b9",
+      "source_bytes": 6050,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum__3_.jpg",
+      "published_sha256": "4927fcbe8dea4099f35485d0b66cea446f1e1cad975e629508fb15c3320761b9",
+      "published_bytes": 6050,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum (4).jpg",
+      "source_sha256": "f25d20848d1c26ddd788632e209f31721d316ffdf45db7a56173a7e8ea276f37",
+      "source_bytes": 4158,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum__4_.jpg",
+      "published_sha256": "f25d20848d1c26ddd788632e209f31721d316ffdf45db7a56173a7e8ea276f37",
+      "published_bytes": 4158,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum (5).jpg",
+      "source_sha256": "8899b4c61813845dd0147b8cfd73ea42bfb582920523e08399c94a8f8f37d4d2",
+      "source_bytes": 7758,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum__5_.jpg",
+      "published_sha256": "8899b4c61813845dd0147b8cfd73ea42bfb582920523e08399c94a8f8f37d4d2",
+      "published_bytes": 7758,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum (6).jpg",
+      "source_sha256": "5b3b55243b161ef256c5e15737cc5acc399ca2eec7701538908f92c93197a15f",
+      "source_bytes": 5951,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum__6_.jpg",
+      "published_sha256": "5b3b55243b161ef256c5e15737cc5acc399ca2eec7701538908f92c93197a15f",
+      "published_bytes": 5951,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Halo3_thum.jpg",
+      "source_sha256": "4795dd472202e695da2c26ec4cf783398b42a5b830a7e0e56d9d49dd8af5a454",
+      "source_bytes": 4636,
+      "published_path": "site/local-backup/old/images/picture_page/halo3_thum.jpg",
+      "published_sha256": "4795dd472202e695da2c26ec4cf783398b42a5b830a7e0e56d9d49dd8af5a454",
+      "published_bytes": 4636,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay1.jpg",
+      "source_sha256": "53f6986631712a32bb0f187b7f153b163ce05dad33374aa3bdbd00a17ad3a1cf",
+      "source_bytes": 5220,
+      "published_path": "site/local-backup/old/images/picture_page/jay1.jpg",
+      "published_sha256": "53f6986631712a32bb0f187b7f153b163ce05dad33374aa3bdbd00a17ad3a1cf",
+      "published_bytes": 5220,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay1_full.jpg",
+      "source_sha256": "d6a3d958ec18d6564e6fea5290315ee6a77cfa10252e5d1c938920baa3661b9d",
+      "source_bytes": 61135,
+      "published_path": "site/local-backup/old/images/picture_page/jay1_full.jpg",
+      "published_sha256": "d6a3d958ec18d6564e6fea5290315ee6a77cfa10252e5d1c938920baa3661b9d",
+      "published_bytes": 61135,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay2.jpg",
+      "source_sha256": "6f4f9232c229ff9cacf3e40007894d45acde4bc04edc5002b4dc028f9b04bb52",
+      "source_bytes": 3654,
+      "published_path": "site/local-backup/old/images/picture_page/jay2.jpg",
+      "published_sha256": "6f4f9232c229ff9cacf3e40007894d45acde4bc04edc5002b4dc028f9b04bb52",
+      "published_bytes": 3654,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay2_full.jpg",
+      "source_sha256": "cc3771fda0cf27f41e548eaf46c7aaaec46530ae7e560e24df168bfffbdc2a39",
+      "source_bytes": 39970,
+      "published_path": "site/local-backup/old/images/picture_page/jay2_full.jpg",
+      "published_sha256": "cc3771fda0cf27f41e548eaf46c7aaaec46530ae7e560e24df168bfffbdc2a39",
+      "published_bytes": 39970,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay3.jpg",
+      "source_sha256": "a9515995036c5ccebd9a8b90668cb3266820c51ad2eed5472b35dadb11a7423c",
+      "source_bytes": 5174,
+      "published_path": "site/local-backup/old/images/picture_page/jay3.jpg",
+      "published_sha256": "a9515995036c5ccebd9a8b90668cb3266820c51ad2eed5472b35dadb11a7423c",
+      "published_bytes": 5174,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/Jay3_full.jpg",
+      "source_sha256": "bffe3e8f49d0093e464aeb8b7f024fa0545181c8a038565b75a21dd12f31b871",
+      "source_bytes": 53684,
+      "published_path": "site/local-backup/old/images/picture_page/jay3_full.jpg",
+      "published_sha256": "bffe3e8f49d0093e464aeb8b7f024fa0545181c8a038565b75a21dd12f31b871",
+      "published_bytes": 53684,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car1.jpg",
+      "source_sha256": "0b588e743f2b2f2bbbf3a72a92fd70f0935ce0b19a087403896a26300fd5128c",
+      "source_bytes": 8347,
+      "published_path": "site/local-backup/old/images/picture_page/car1.jpg",
+      "published_sha256": "0b588e743f2b2f2bbbf3a72a92fd70f0935ce0b19a087403896a26300fd5128c",
+      "published_bytes": 8347,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car1_full.jpg",
+      "source_sha256": "3946062e93a923fbf019c1e5892b0b336176fd16894c6ee68a711ffc5435bd24",
+      "source_bytes": 67696,
+      "published_path": "site/local-backup/old/images/picture_page/car1_full.jpg",
+      "published_sha256": "3946062e93a923fbf019c1e5892b0b336176fd16894c6ee68a711ffc5435bd24",
+      "published_bytes": 67696,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car2.jpg",
+      "source_sha256": "4a277597fd4d2e556574cfc5db6e07308b71a1445cd457109dc6bc74e457f3c2",
+      "source_bytes": 8413,
+      "published_path": "site/local-backup/old/images/picture_page/car2.jpg",
+      "published_sha256": "4a277597fd4d2e556574cfc5db6e07308b71a1445cd457109dc6bc74e457f3c2",
+      "published_bytes": 8413,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car2_full.jpg",
+      "source_sha256": "92a1f4a5b48e78b8f20eaaeb08e2167aaaac20d7ce84f7d5b703c51458fee960",
+      "source_bytes": 68868,
+      "published_path": "site/local-backup/old/images/picture_page/car2_full.jpg",
+      "published_sha256": "92a1f4a5b48e78b8f20eaaeb08e2167aaaac20d7ce84f7d5b703c51458fee960",
+      "published_bytes": 68868,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car3.jpg",
+      "source_sha256": "f85734385f3367b95e3a90ebb3149196a433633b39ced4bb06f5ffcbb25d4379",
+      "source_bytes": 21390,
+      "published_path": "site/local-backup/old/images/picture_page/car3.jpg",
+      "published_sha256": "f85734385f3367b95e3a90ebb3149196a433633b39ced4bb06f5ffcbb25d4379",
+      "published_bytes": 21390,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/car3_full.jpg",
+      "source_sha256": "478578f449a0f158683dea722d79f932be0bacb7baef0140720f76d1c711c4ff",
+      "source_bytes": 60979,
+      "published_path": "site/local-backup/old/images/picture_page/car3_full.jpg",
+      "published_sha256": "478578f449a0f158683dea722d79f932be0bacb7baef0140720f76d1c711c4ff",
+      "published_bytes": 60979,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/daniel.jpg",
+      "source_sha256": "c7c3cf7caee78e0cea48fd719a655ff0a4041ef629ad2e9e20326d0956a3df6e",
+      "source_bytes": 8584,
+      "published_path": "site/local-backup/old/images/picture_page/daniel.jpg",
+      "published_sha256": "c7c3cf7caee78e0cea48fd719a655ff0a4041ef629ad2e9e20326d0956a3df6e",
+      "published_bytes": 8584,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/daniel_full.jpg",
+      "source_sha256": "7cbf0518f1a65c9f880cad3c9f777b237519f99095b82602ee0ccd1711f5775a",
+      "source_bytes": 44378,
+      "published_path": "site/local-backup/old/images/picture_page/daniel_full.jpg",
+      "published_sha256": "7cbf0518f1a65c9f880cad3c9f777b237519f99095b82602ee0ccd1711f5775a",
+      "published_bytes": 44378,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana/Crowning_full.JPG",
+      "source_sha256": "99cc021c1abf3949afa3147b10f69a6cbdc91329ec216e43f759976c4026ea4f",
+      "source_bytes": 100248,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana/crowning_full.jpg",
+      "published_sha256": "99cc021c1abf3949afa3147b10f69a6cbdc91329ec216e43f759976c4026ea4f",
+      "published_bytes": 100248,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana/nice_full.JPG",
+      "source_sha256": "a6c1645bf563dbb94c7fbdbbae025d48171cc0a1c3910d8ef00d0160c13e9793",
+      "source_bytes": 125387,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana/nice_full.jpg",
+      "published_sha256": "a6c1645bf563dbb94c7fbdbbae025d48171cc0a1c3910d8ef00d0160c13e9793",
+      "published_bytes": 125387,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana/opening_full.JPG",
+      "source_sha256": "41d4e8bb8c7414ccda857118f3b22ee65675bee0052e6746546512ae36385b48",
+      "source_bytes": 175125,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana/opening_full.jpg",
+      "published_sha256": "41d4e8bb8c7414ccda857118f3b22ee65675bee0052e6746546512ae36385b48",
+      "published_bytes": 175125,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana/set3_full.JPG",
+      "source_sha256": "4771faf4201a85dd7f48ab3803720195c850a82715317c2a899b964ff2656869",
+      "source_bytes": 117977,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana/set3_full.jpg",
+      "published_sha256": "4771faf4201a85dd7f48ab3803720195c850a82715317c2a899b964ff2656869",
+      "published_bytes": 117977,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana/swim_full.JPG",
+      "source_sha256": "21968773695597ba7fdf237a84e4b575d4dd85106353deb3497dbc575f770a4f",
+      "source_bytes": 116289,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana/swim_full.jpg",
+      "published_sha256": "21968773695597ba7fdf237a84e4b575d4dd85106353deb3497dbc575f770a4f",
+      "published_bytes": 116289,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/11.jpg",
+      "source_sha256": "5e3433f8ea1ad2efd8f0411e92876051774238a2517f4b4cc1984a83ed7cf40d",
+      "source_bytes": 32147,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/11.jpg",
+      "published_sha256": "5e3433f8ea1ad2efd8f0411e92876051774238a2517f4b4cc1984a83ed7cf40d",
+      "published_bytes": 32147,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/19.jpg",
+      "source_sha256": "53ec98d689050ae8cc13b5afd2893e2a99257217762468779042c6be2e5ee30a",
+      "source_bytes": 28164,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/19.jpg",
+      "published_sha256": "53ec98d689050ae8cc13b5afd2893e2a99257217762468779042c6be2e5ee30a",
+      "published_bytes": 28164,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/41.jpg",
+      "source_sha256": "20ebab94e9f07b2ef9dc0f46ced1aab9b2afc80e1bc288ebd1a08042905e8c8f",
+      "source_bytes": 30065,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/41.jpg",
+      "published_sha256": "20ebab94e9f07b2ef9dc0f46ced1aab9b2afc80e1bc288ebd1a08042905e8c8f",
+      "published_bytes": 30065,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/65.jpg",
+      "source_sha256": "b39ceb64acb063ed35d96c1c84bfd0f05ba2456b7bb64f8c4a5ecae04f842c25",
+      "source_bytes": 29222,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/65.jpg",
+      "published_sha256": "b39ceb64acb063ed35d96c1c84bfd0f05ba2456b7bb64f8c4a5ecae04f842c25",
+      "published_bytes": 29222,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/8.jpg",
+      "source_sha256": "d5ecd405295464f4eae5ccd295252b43a54527a8e0f1632e9a2875c77d7bb3cc",
+      "source_bytes": 27857,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/8.jpg",
+      "published_sha256": "d5ecd405295464f4eae5ccd295252b43a54527a8e0f1632e9a2875c77d7bb3cc",
+      "published_bytes": 27857,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/Miss Indiana 012.JPG",
+      "source_sha256": "4bdeb2fe0777888a0c857270dba6ae4af4213bc8cf8d37f829186a5f6e6132e4",
+      "source_bytes": 108429,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/miss_indiana_012.jpg",
+      "published_sha256": "4bdeb2fe0777888a0c857270dba6ae4af4213bc8cf8d37f829186a5f6e6132e4",
+      "published_bytes": 108429,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/Miss Indiana 015.JPG",
+      "source_sha256": "f95e7c5ce6a65755095feb22bf72e31cf8a59879db5a31e367c71e32f71ba94e",
+      "source_bytes": 115217,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/miss_indiana_015.jpg",
+      "published_sha256": "f95e7c5ce6a65755095feb22bf72e31cf8a59879db5a31e367c71e32f71ba94e",
+      "published_bytes": 115217,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana_2008/Miss Indiana 017.JPG",
+      "source_sha256": "fc4cd74903de87eda5193ad9e6bd266d71e441edbf847422d188896d79092726",
+      "source_bytes": 104737,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana_2008/miss_indiana_017.jpg",
+      "published_sha256": "fc4cd74903de87eda5193ad9e6bd266d71e441edbf847422d188896d79092726",
+      "published_bytes": 104737,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/mom1.jpg",
+      "source_sha256": "4490bdd66564aa4d17a121557d900e7b4307e1d84673ce368903da20a79a628a",
+      "source_bytes": 14951,
+      "published_path": "site/local-backup/old/images/picture_page/mom1.jpg",
+      "published_sha256": "4490bdd66564aa4d17a121557d900e7b4307e1d84673ce368903da20a79a628a",
+      "published_bytes": 14951,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/mom1_full.jpg",
+      "source_sha256": "2dd59dd13f03abbacc45e581bbdce899015ae1e7b26144e1a99538b3b6d83931",
+      "source_bytes": 60775,
+      "published_path": "site/local-backup/old/images/picture_page/mom1_full.jpg",
+      "published_sha256": "2dd59dd13f03abbacc45e581bbdce899015ae1e7b26144e1a99538b3b6d83931",
+      "published_bytes": 60775,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/mom2.jpg",
+      "source_sha256": "6017f4bb57e4d2a219c0464d7c74f2f2d99bb44d73fc0e0c338b3c0a5d1f1512",
+      "source_bytes": 10603,
+      "published_path": "site/local-backup/old/images/picture_page/mom2.jpg",
+      "published_sha256": "6017f4bb57e4d2a219c0464d7c74f2f2d99bb44d73fc0e0c338b3c0a5d1f1512",
+      "published_bytes": 10603,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/mom2_full.jpg",
+      "source_sha256": "3f2144837cb18cf4dfaf4d39221c7edba7afab13e5314924fb5e456fa937ee2b",
+      "source_bytes": 63488,
+      "published_path": "site/local-backup/old/images/picture_page/mom2_full.jpg",
+      "published_sha256": "3f2144837cb18cf4dfaf4d39221c7edba7afab13e5314924fb5e456fa937ee2b",
+      "published_bytes": 63488,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/new_toy (2).jpg",
+      "source_sha256": "3f10a6ac4dbab6a8b6a88e5fbc604461311ad29cad5e7edf638a87cff1963721",
+      "source_bytes": 20654,
+      "published_path": "site/local-backup/old/images/picture_page/new_toy__2_.jpg",
+      "published_sha256": "3f10a6ac4dbab6a8b6a88e5fbc604461311ad29cad5e7edf638a87cff1963721",
+      "published_bytes": 20654,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/new_toy (2)_full.jpg",
+      "source_sha256": "f620a29274cfeb9038b8d9732534658ea7a5688bd74d9f4a8c1e0fb5d97aaf19",
+      "source_bytes": 40464,
+      "published_path": "site/local-backup/old/images/picture_page/new_toy__2__full.jpg",
+      "published_sha256": "f620a29274cfeb9038b8d9732534658ea7a5688bd74d9f4a8c1e0fb5d97aaf19",
+      "published_bytes": 40464,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/new_toy.jpg",
+      "source_sha256": "619fc79c8dfbd80a3b49b38cb8178faf53680afff40513d5b193d0d68de1ab18",
+      "source_bytes": 21322,
+      "published_path": "site/local-backup/old/images/picture_page/new_toy.jpg",
+      "published_sha256": "619fc79c8dfbd80a3b49b38cb8178faf53680afff40513d5b193d0d68de1ab18",
+      "published_bytes": 21322,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/new_toy_full.jpg",
+      "source_sha256": "558de068e5f112bad156e226bdf63915db9484f5262daf7c464be84c003962fa",
+      "source_bytes": 41214,
+      "published_path": "site/local-backup/old/images/picture_page/new_toy_full.jpg",
+      "published_sha256": "558de068e5f112bad156e226bdf63915db9484f5262daf7c464be84c003962fa",
+      "published_bytes": 41214,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/1l.jpg",
+      "source_sha256": "2c4544e3c47324dfd1b165dd66bbbcacc236a16ba065dbcf19bb3259bbb33279",
+      "source_bytes": 100639,
+      "published_path": "site/local-backup/old/images/picture_page/senior/1l.jpg",
+      "published_sha256": "2c4544e3c47324dfd1b165dd66bbbcacc236a16ba065dbcf19bb3259bbb33279",
+      "published_bytes": 100639,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/2l.jpg",
+      "source_sha256": "f137f7cd256c3753bd4546451cf257223cc6f8f8e20ae9327b3e0dce85a5ef23",
+      "source_bytes": 121683,
+      "published_path": "site/local-backup/old/images/picture_page/senior/2l.jpg",
+      "published_sha256": "f137f7cd256c3753bd4546451cf257223cc6f8f8e20ae9327b3e0dce85a5ef23",
+      "published_bytes": 121683,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/3l.jpg",
+      "source_sha256": "f90ba9f8ba7d90c922cdfba9c0e7ec1f766e6e38b135596f8e0f9baf7e09ffef",
+      "source_bytes": 79855,
+      "published_path": "site/local-backup/old/images/picture_page/senior/3l.jpg",
+      "published_sha256": "f90ba9f8ba7d90c922cdfba9c0e7ec1f766e6e38b135596f8e0f9baf7e09ffef",
+      "published_bytes": 79855,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/4l.jpg",
+      "source_sha256": "d68ee0252fb7bfdc340e34714f35bacce0890f89c9d3a90e841c709801c4c3bd",
+      "source_bytes": 39720,
+      "published_path": "site/local-backup/old/images/picture_page/senior/4l.jpg",
+      "published_sha256": "d68ee0252fb7bfdc340e34714f35bacce0890f89c9d3a90e841c709801c4c3bd",
+      "published_bytes": 39720,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/5l.jpg",
+      "source_sha256": "d16927075f8fcb2720ec1aa8828c7ed97c68a11b7fa4c965aa349074789145c5",
+      "source_bytes": 78755,
+      "published_path": "site/local-backup/old/images/picture_page/senior/5l.jpg",
+      "published_sha256": "d16927075f8fcb2720ec1aa8828c7ed97c68a11b7fa4c965aa349074789145c5",
+      "published_bytes": 78755,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/senior_picture.jpg",
+      "source_sha256": "839100c44d7871424de520ba7810ff0b3da38d38ad57664ac4f8abae6bc7d072",
+      "source_bytes": 23834,
+      "published_path": "site/local-backup/old/images/picture_page/senior/senior_picture.jpg",
+      "published_sha256": "839100c44d7871424de520ba7810ff0b3da38d38ad57664ac4f8abae6bc7d072",
+      "published_bytes": 23834,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/senior/senior_picture1.jpg",
+      "source_sha256": "6df5f1b9164c9a4999d9088eb672ea80e4fd24864fd128c1a4bd11390d31e93c",
+      "source_bytes": 18527,
+      "published_path": "site/local-backup/old/images/picture_page/senior/senior_picture1.jpg",
+      "published_sha256": "6df5f1b9164c9a4999d9088eb672ea80e4fd24864fd128c1a4bd11390d31e93c",
+      "published_bytes": 18527,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/video_back.gif",
+      "source_sha256": "6dd55f45239e0e2b30cd57cb7db271528f7a37bdcf79068e51c4bb8bc8a8868b",
+      "source_bytes": 17448,
+      "published_path": "site/local-backup/old/images/picture_page/video_back.gif",
+      "published_sha256": "6dd55f45239e0e2b30cd57cb7db271528f7a37bdcf79068e51c4bb8bc8a8868b",
+      "published_bytes": 17448,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/dealnews_page.jpg",
+      "source_sha256": "b2dd0efd57c8fc990c0459d59a1e10b7e60ebc315a0205647b945147e84ebef0",
+      "source_bytes": 7045,
+      "published_path": "site/local-backup/old/images/website_pics/dealnews_page.jpg",
+      "published_sha256": "b2dd0efd57c8fc990c0459d59a1e10b7e60ebc315a0205647b945147e84ebef0",
+      "published_bytes": 7045,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/finetune_page.jpg",
+      "source_sha256": "01eb532febb7765bc54b9854084ccee8957ffdb24a1fd7674f83f4209acdc3bb",
+      "source_bytes": 7659,
+      "published_path": "site/local-backup/old/images/website_pics/finetune_page.jpg",
+      "published_sha256": "01eb532febb7765bc54b9854084ccee8957ffdb24a1fd7674f83f4209acdc3bb",
+      "published_bytes": 7659,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/google_page.jpg",
+      "source_sha256": "3bc58d92d127d27afcfc7e4e3e4e0be689288f0ae0704158454079b2d88aca0b",
+      "source_bytes": 4149,
+      "published_path": "site/local-backup/old/images/website_pics/google_page.jpg",
+      "published_sha256": "3bc58d92d127d27afcfc7e4e3e4e0be689288f0ae0704158454079b2d88aca0b",
+      "published_bytes": 4149,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/website_pics/ryan_page.jpg",
+      "source_sha256": "e9dfa90bbdd0293de7f601dd74e29b830022d98253012e2e0d874975c536cad5",
+      "source_bytes": 7995,
+      "published_path": "site/local-backup/old/images/website_pics/ryan_page.jpg",
+      "published_sha256": "e9dfa90bbdd0293de7f601dd74e29b830022d98253012e2e0d874975c536cad5",
+      "published_bytes": 7995,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4822.jpg",
+      "source_sha256": "b5caf6d2d8f746f6eace5c18a079c32e13b6018e1c4a664efde93b0973a10178",
+      "source_bytes": 28587,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4822.jpg",
+      "published_sha256": "b5caf6d2d8f746f6eace5c18a079c32e13b6018e1c4a664efde93b0973a10178",
+      "published_bytes": 28587,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4827.jpg",
+      "source_sha256": "43a167384fa46d2c54bc6e5c8c8a4e9655b85a73555ee8af3b7dbdddfefe7428",
+      "source_bytes": 37466,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4827.jpg",
+      "published_sha256": "43a167384fa46d2c54bc6e5c8c8a4e9655b85a73555ee8af3b7dbdddfefe7428",
+      "published_bytes": 37466,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4829.jpg",
+      "source_sha256": "f3a27ea81258a9999134122a7d5cb251a8a9aaa29d6f1c6e622f281cb1c7ed22",
+      "source_bytes": 36983,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4829.jpg",
+      "published_sha256": "f3a27ea81258a9999134122a7d5cb251a8a9aaa29d6f1c6e622f281cb1c7ed22",
+      "published_bytes": 36983,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4842.jpg",
+      "source_sha256": "6691b2709f647ace9ca2add2413a1ddd5d948be020a50a9c3aa13023189902c1",
+      "source_bytes": 34645,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4842.jpg",
+      "published_sha256": "6691b2709f647ace9ca2add2413a1ddd5d948be020a50a9c3aa13023189902c1",
+      "published_bytes": 34645,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4846.jpg",
+      "source_sha256": "941fda95c162ed5c906766186c3954155ef6c5b04bd3e10b55f7715f43fb14c3",
+      "source_bytes": 31913,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4846.jpg",
+      "published_sha256": "941fda95c162ed5c906766186c3954155ef6c5b04bd3e10b55f7715f43fb14c3",
+      "published_bytes": 31913,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4861.jpg",
+      "source_sha256": "477d979ba24f7ab5227bcf16e94282de2fe9743490b94fbbb24d622b74e01528",
+      "source_bytes": 30900,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4861.jpg",
+      "published_sha256": "477d979ba24f7ab5227bcf16e94282de2fe9743490b94fbbb24d622b74e01528",
+      "published_bytes": 30900,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4926.jpg",
+      "source_sha256": "bc452a07575f3113dcfcb35ed56e522ffef794c76d6ac6e920ef88ee0a79dca9",
+      "source_bytes": 31237,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4926.jpg",
+      "published_sha256": "bc452a07575f3113dcfcb35ed56e522ffef794c76d6ac6e920ef88ee0a79dca9",
+      "published_bytes": 31237,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4929.jpg",
+      "source_sha256": "f8cf40dd0056b994cb902c8e5aad5f1d2e5c46da7b7fe2452ac49546e7a450d1",
+      "source_bytes": 33688,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4929.jpg",
+      "published_sha256": "f8cf40dd0056b994cb902c8e5aad5f1d2e5c46da7b7fe2452ac49546e7a450d1",
+      "published_bytes": 33688,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2009/IMG_4961.jpg",
+      "source_sha256": "9b1137d397108e71c523db934143aee54fb0453873d615734ea717ec5039b7bb",
+      "source_bytes": 39220,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2009/img_4961.jpg",
+      "published_sha256": "9b1137d397108e71c523db934143aee54fb0453873d615734ea717ec5039b7bb",
+      "published_bytes": 39220,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2783.jpg",
+      "source_sha256": "ee20d6c6fce029c2468e634a6599c126abbda82868aa0c17326a2a97c383c488",
+      "source_bytes": 36580,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2783.jpg",
+      "published_sha256": "ee20d6c6fce029c2468e634a6599c126abbda82868aa0c17326a2a97c383c488",
+      "published_bytes": 36580,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2808.jpg",
+      "source_sha256": "71bd5de3d4923ec4554868d6f2ac9c67563b317d8dd8b372e1deda14c9febf93",
+      "source_bytes": 37665,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2808.jpg",
+      "published_sha256": "71bd5de3d4923ec4554868d6f2ac9c67563b317d8dd8b372e1deda14c9febf93",
+      "published_bytes": 37665,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2837.jpg",
+      "source_sha256": "91419e44710afde1a14283fd92589cf9428ab6079acc309064e73a91ac31338b",
+      "source_bytes": 39805,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2837.jpg",
+      "published_sha256": "91419e44710afde1a14283fd92589cf9428ab6079acc309064e73a91ac31338b",
+      "published_bytes": 39805,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2847.jpg",
+      "source_sha256": "2cccdfbe8e5d4849040de7de29528579d950dae5206f271652e28bc0da671b64",
+      "source_bytes": 40559,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2847.jpg",
+      "published_sha256": "2cccdfbe8e5d4849040de7de29528579d950dae5206f271652e28bc0da671b64",
+      "published_bytes": 40559,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2851.jpg",
+      "source_sha256": "ffef87682da286da8bb0c0f510c6b8d6b50d6e38b70c37d4ec5e16bc8f6ebd97",
+      "source_bytes": 35348,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2851.jpg",
+      "published_sha256": "ffef87682da286da8bb0c0f510c6b8d6b50d6e38b70c37d4ec5e16bc8f6ebd97",
+      "published_bytes": 35348,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2897.jpg",
+      "source_sha256": "50eb6893f8b467121821daa55c945d4b694bae8c9ebaa2583053ef020b561678",
+      "source_bytes": 58925,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2897.jpg",
+      "published_sha256": "50eb6893f8b467121821daa55c945d4b694bae8c9ebaa2583053ef020b561678",
+      "published_bytes": 58925,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2943.jpg",
+      "source_sha256": "2030a4d5dc4449e56cd5e73dddf652e92c844e08002670eff86cb2ac5d3ffe19",
+      "source_bytes": 37021,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2943.jpg",
+      "published_sha256": "2030a4d5dc4449e56cd5e73dddf652e92c844e08002670eff86cb2ac5d3ffe19",
+      "published_bytes": 37021,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_2966.jpg",
+      "source_sha256": "215df207c6286071a8e0febce517bbd41f20178644aa9eca6e0a7a9e6d2e3459",
+      "source_bytes": 40073,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_2966.jpg",
+      "published_sha256": "215df207c6286071a8e0febce517bbd41f20178644aa9eca6e0a7a9e6d2e3459",
+      "published_bytes": 40073,
+      "transformation": "Exact local-backup bytes"
+    },
+    {
+      "source_collection": "old",
+      "source_relative_path": "images/picture_page/miss_indiana2010/IMG_3021.jpg",
+      "source_sha256": "94d44df809a58bf70b1b1e42d7551fcbd08da526dc042bcf09094b2173624033",
+      "source_bytes": 36977,
+      "published_path": "site/local-backup/old/images/picture_page/miss_indiana2010/img_3021.jpg",
+      "published_sha256": "94d44df809a58bf70b1b1e42d7551fcbd08da526dc042bcf09094b2173624033",
+      "published_bytes": 36977,
+      "transformation": "Exact local-backup bytes"
+    }
+  ]
+}

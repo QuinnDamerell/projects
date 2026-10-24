@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <title>Thinking of You - Personal Chat for Couples</title>
+    <META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Thinking of You, Liquid Physics, Purdue">
+    <META NAME="description" CONTENT="Thinking of you is the prefect app for you and your special someone. It provides an exclusive, private, and secure instant messaging system for just the two of you.">
+    <META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+    <META name="distribution" content="one of several"> 
+    <link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+    
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="../TileScript.js"></script>
+    <script type="text/javascript">
+		var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-28975617-1']);
+		  _gaq.push(['_setDomainName', '.quinndamerell.com']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+      
+      
+        function goToByScroll(id)
+        {
+          $('html,body').animate({scrollTop: $("#"+id).offset().top},'slow');
+        }
+		
+				
+		$(document).ready(function() {
+			$("a[rel=ScreenShots]").fancybox({
+					'transitionIn'		: 'elastic',
+					'transitionOut'		: 'elastic',
+					'titlePosition' 	: 'inside',
+					'overlayColor'		: '#000',
+					'width'				: '50%',
+					'height'			: '50%',
+					'padding'			: '0px',
+					'autoScale'			: false,
+					'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+						  return '<span id="fancybox-title-over"><strong>Image ' + (currentIndex + 1) + ' / ' + currentArray.length +':</strong> '+ (title.length ? ' &nbsp; ' + title : '') + '</span>';
+					}
+					});	
+					
+					$("a[rel=FeatureVideo]").fancybox({
+					'transitionIn'		: 'elastic',
+					'transitionOut'		: 'elastic',
+					'titlePosition' 	: 'inside',
+					'overlayColor'		: '#000',
+					'width'				: '50%',
+					'height'			: '50%',
+					'padding'			: '0px',
+					'type'				: 'iframe',
+					'autoScale'			: false,
+					'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+						  return '<span id="fancybox-title-over">' + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+					}	
+				});	
+				
+					
+				
+		});	
+    </script>
+	<script type="text/javascript" src="http://www.quinndamerell.com/LightBox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="http://www.quinndamerell.com/LightBox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.quinndamerell.com/LightBox/jquery.fancybox-1.3.4.css" media="screen" />
+    <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+
+<body class="gradient">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=174526289270922";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div id="body_col">
+		<div id="header" class="container">
+        
+        <div id="transformers-rule">
+            <div  class="LiveTile MainTile">
+                <div class="card" id="livetile">
+                    <div class="face front">
+        				<span>Quinn Damerell</span>
+                    </div>
+                    <div class="face back" id="backTile">
+        				<span>Test</span>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        	<div id="nav_bar">
+            	<ul class="nav_elements">
+                	<li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About Me</a></li>
+                    <li><a href="../portfolio.html">Portfolio</a></li>
+                    <li><a href="../contact.php">Contact Me</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="content" class="container">
+        	<div id="main" class="grid-24">
+            	<div class="grid-6" style="margin-top:4px">
+                    	<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/WindowsPhone.png" width="235" height="176" alt="" border="0" /></div>
+                    	<span class="caption"></span>
+                    <a onclick="goToByScroll('ScreenShots');" id="slot-b" class="tile SiteLink">
+                    	<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/ScreenShots.png" width="235" height="176" alt="" border="0"/></div>
+                    	<span class="caption"></span>
+                    </a>
+                </div>
+                <div class="grid-large">
+                	<div style="display: block; height: 355px; background-color: #158CC4;">
+                    	<img src="Images/MainTile.jpg" alt="" />
+                    </div>
+                </div>
+                <div class="grid-6 last">
+                	<a href="http://windowsphone.com/s?appid=6f81313e-0dbb-4e6b-808d-fb2bd45e9aef
+" id="slot-g" class="tile SiteLink">
+                    	<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Reviews.png" width="235" height="176" alt="" border="0"/></div>
+                    	<span class="caption"></span>
+                    </a>
+                    <a href="http://windowsphone.com/s?appid=6f81313e-0dbb-4e6b-808d-fb2bd45e9aef
+" id="slot-h" class="tile">
+                    	<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Marketplace.png" width="235" height="176" alt="" border="0"/></div>
+                    	<span class="caption"></span>
+                    </a>
+                </div>
+            </div>
+          <header style="padding-top:24px; clear:both;">
+            	<h1 class="title">Thinking of You</h1>
+                <div class="descriptions">
+                   <span> <a onclick="goToByScroll('Features');" class="SiteLink">Features.</a></span>
+              <span><a onclick="goToByScroll('ScreenShots');" class="SiteLink">Screen Shots.</a></span></div>
+            </header>
+            <div class="about">
+            	<h2 id="Features">Features</h2>
+                <p>Thinking of you is the prefect app for you and your special someone. It provides an exclusive, private, and secure instant messaging system for just the two of you.</p>
+
+Private Connection<br />
+<div style="margin-left:12px">Thinking of You allows users to set a pin number to protect their conversation, keeping it exclusively for their eyes only. Data can’t be copied out of the app, and if one user ‘breaks the connection’ all data will be forcibly deleted on both sides of the app.</div><br />
+
+Exclusive<br />
+<div style="margin-left:12px">Thinking of you pairs your app with only one other person, creating a private exclusive link. The apps also allows you to send ‘Thinking of You’ messages throughout the day to remind your partner that they're special to you.</div><br />
+
+Instant Messages<br />
+<div style="margin-left:12px">Messages are sent instantly through push technology. If the app isn't open, you'll receive toast and live tile notifications instantly.</div><br />
+
+
+Image support coming soon!!<br />
+
+                <h2 id="ScreenShots">Screen Shots</h2>
+                <div style="margin-left:8px; padding-bottom:20px; padding-top:10px">
+                    <div id="ScreenShot">
+                    	<a rel="ScreenShots" href="Images/ScreenShots/1.jpg" title="Thinking of You 1.0.">
+                    		<img src="Images/ScreenShots/Thumbs/1.jpg"  />
+                        </a>
+                    </div>
+                     <div id="ScreenShot">
+                    	<a rel="ScreenShots" href="Images/ScreenShots/2.jpg" title="Thinking of You 1.0.">
+                    		<img src="Images/ScreenShots/Thumbs/2.jpg"  />
+                        </a>
+                    </div>
+                     <div id="ScreenShot">
+                    	<a rel="ScreenShots" href="Images/ScreenShots/3.jpg" title="Thinking of You 1.0.">
+                    		<img src="Images/ScreenShots/Thumbs/3.jpg"  />
+                        </a>
+                    </div>
+                     <div id="ScreenShot">
+                    	<a rel="ScreenShots" href="Images/ScreenShots/4.jpg" title="Thinking of You 1.0.">
+                    		<img src="Images/ScreenShots/Thumbs/4.jpg"  />
+                        </a>
+                    </div>
+                     <div id="ScreenShot">
+                    	<a rel="ScreenShots" href="Images/ScreenShots/5.jpg" title="Thinking of You 1.0.">
+                    		<img src="Images/ScreenShots/Thumbs/5.jpg"  />
+                        </a>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+                <h2 style="clear:both;display:none" id="Follow">Follow</h2>
+                <div style="padding-left:22px;display:none">
+                    <p><a href="http://twitter.com/#!/Baconitwp" class="SiteLink"><img src="Images/twitter.png" width="14" height="14" align="bottom" style="margin-top:5px" border="0" /> Follow Baconit on Twitter</a>
+                    <div style="margin-top:10px"><a href="https://twitter.com/BaconitWP" class="twitter-follow-button" data-show-count="false">Follow @BaconitWP</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div></p>
+                    <p><a href="https://www.facebook.com/Baconit" class="SiteLink"><img src="Images/facebook.png" width="14" height="14" align="bottom" border="0"/> Like Baconit on Facebook</a><div class="fb-like" data-href="https://www.facebook.com/Baconit" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true"></div></p>
+                    <p><a href="http://www.reddit.com/r/baconitwp" class="SiteLink"><img src="Images/reddit-icon.png" width="16" height="16" border="0"/> Subscribe to the Baconit subreddit</a></p>
+                </div>    
+                <div style="height:100px">&nbsp;</div>
+            </div>
+        </div>
+        </div>
+        <div id="footer" class="container">
+        </div>
+    </div>
+</body>
+</html>

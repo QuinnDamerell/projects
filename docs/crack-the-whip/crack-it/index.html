@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <meta name="color-scheme" content="dark">
+  <title>Crack the Whip for Windows Phone</title>
+  <meta name="description" content="Crack the Whip for Windows Phone, back in your browser. Swing your phone or tap the button to hear the original app's whip and crack.">
+  <meta name="author" content="Quinn Damerell">
+  <link rel="canonical" href="https://projects.quinn.space/crack-the-whip/crack-it/">
+  <!-- Link previews: share images need absolute URLs. The original app's 300px live tile. -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Quinn Damerell">
+  <meta property="og:title" content="Crack the Whip for Windows Phone">
+  <meta property="og:description" content="Crack the Whip for Windows Phone, back in your browser. Swing your phone or tap the button to hear the original app's whip and crack.">
+  <meta property="og:url" content="https://projects.quinn.space/crack-the-whip/crack-it/">
+  <meta property="og:image" content="https://projects.quinn.space/assets/crack-the-whip/LargeMobileTile.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="300">
+  <meta property="og:image:height" content="300">
+  <meta property="og:image:alt" content="Crack the Whip app icon: a white coiled whip on a blue Windows Phone tile">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image:alt" content="Crack the Whip app icon: a white coiled whip on a blue Windows Phone tile">
+  <link rel="icon" href="../../favicon.ico">
+  <link rel="stylesheet" href="../../stylesheets/whip-app.css">
+  <script type="module" src="../../javascripts/whip-app.js"></script>
+</head>
+<body>
+  <main id="whip-app" class="phone-app" aria-labelledby="app-title" tabindex="-1">
+    <h1 id="app-title">CRACK THE WHIP</h1>
+    <p class="instructions">Hold your phone tight and then do a whip cracking action as seen below, or press the button.</p>
+    <div class="gesture-diagrams">
+      <figure id="whip-step">
+        <img src="../../assets/crack-the-whip/WhipForward.png" alt="Phone leaning left for the first part of the whip motion" width="132" height="152">
+        <figcaption>Whip</figcaption>
+      </figure>
+      <figure id="crack-step">
+        <img src="../../assets/crack-the-whip/CrackBack.png" alt="Phone leaning right for the returning crack motion" width="133" height="152">
+        <figcaption>Crack</figcaption>
+      </figure>
+    </div>
+    <div class="crack-action">
+      <button id="crack-button" class="crack-button" type="button" aria-describedby="sound-status" disabled>crack the whip</button>
+      <p id="sound-status" class="sound-status" role="status"></p>
+      <div id="motion-notice" class="motion-notice" hidden>
+        <p id="motion-status" class="motion-status" role="status"></p>
+        <button id="motion-button" type="button" aria-pressed="false" aria-describedby="motion-status" disabled>enable motion</button>
+      </div>
+      <div id="audio-fallback" class="audio-fallback" hidden>
+        <audio controls preload="none" aria-label="Original Crack the Whip button sound" src="../../assets/crack-the-whip/WhipAndCrack.wav"></audio>
+      </div>
+      <noscript>
+        <p class="no-script-note">Turn on JavaScript to use the app, or play the original sound here.</p>
+        <audio controls preload="none" aria-label="Original Crack the Whip button sound" src="../../assets/crack-the-whip/WhipAndCrack.wav"></audio>
+      </noscript>
+    </div>
+    <footer class="original-credit">
+      <a href="https://projects.quinn.space" aria-label="Quinn Damerell's website, now at quinn.space">Checkout my other projects</a>
+    </footer>
+  </main>
+
+  <dialog id="welcome-dialog" aria-labelledby="welcome-title" aria-describedby="welcome-description">
+    <h2 id="welcome-title">Crack the Whip</h2>
+    <p id="welcome-description">Experience the legendary Crack the Whip app just as it was on Windows Phone.</p>
+    <button id="welcome-ok" type="button" autofocus>ok</button>
+  </dialog>
+</body>
+</html>

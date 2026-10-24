@@ -1,0 +1,76 @@
+{
+  "url": "https://www.reddit.com/r/reddit.com/comments/atmxj/dear_reddit_i_give_you_txtback_like_omegle_a_free/",
+  "original_urls": [
+    "https://www.reddit.com/r/reddit.com/comments/atmxj/dear_reddit_i_give_you_txtback_like_omegle_a_free/",
+    "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jbw70/",
+    "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jc4hf/",
+    "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jc404/",
+    "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jcd8b/"
+  ],
+  "title": "Dear Reddit I give you TxtBack, like Omegle a free and fun text messaging service I made for you :)",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.181139+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1264366193,
+  "post_archive_observed_utc": 1522886982,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 44,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 44,
+  "recorded_comment_count": 41,
+  "required_comment_ids": [
+    "c0jbw70",
+    "c0jc404",
+    "c0jc4hf",
+    "c0jcd8b"
+  ],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [
+    "c0jc1nb",
+    "c0jdu8z",
+    "c0jc7la"
+  ],
+  "missing_parent_ids": [],
+  "gaps": [
+    "Recovered 44 comment records; the archived post reports 41. Counts come from different archive observations and cannot establish complete recovery.",
+    "3 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=atmxj",
+      "fetched_utc": "2026-10-18T17:06:58.921365+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 3190,
+      "sha256": "0b60f3c88e3a68bea2d06cf3f6aec6c757d67b573a6898c12b167b2f0cc70943",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=atmxj",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=atmxj&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:07:00.456810+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 27901,
+      "sha256": "34fa7d34130f2ab99c940f20eb976d846ff36d257efaba482c2603a555804e55",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=atmxj&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "5d8ad9c5b58e0ba984bce17a192ceb1d9090f379acd7e47038c72cc5bc8c1da5"
+}

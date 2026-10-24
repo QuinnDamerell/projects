@@ -1,0 +1,23 @@
+{
+  "url": "https://onmsft.com/news/baconit-app-gets-bunch-new-features-major-update/",
+  "title": "Baconit app gets a bunch of new features in major update - OnMSFT",
+  "site": "OnMSFT",
+  "published": "2015-12-08T14:20:05+00:00",
+  "captured": "2026-10-18T04:21:41.614Z",
+  "restoredImages": [],
+  "removed": [
+    "[id^=AdThrive_]",
+    ".adthrive-sticky-outstream"
+  ],
+  "youtube": [
+    "https://www.youtube.com/watch?v=J7srsAX4ekM"
+  ],
+  "localCorrections": [
+    {
+      "date": "2026-10-18",
+      "originalSrc": "https://onmsft.com/wp-content/uploads/2015/12/baconit.jpg",
+      "cachedSrc": "images/baconit.jpg",
+      "note": "Corrected the article-body image to reuse the already saved image and removed its malformed relative srcset. Original capture URL/date and screenshot/PDF are unchanged."
+    }
+  ]
+}

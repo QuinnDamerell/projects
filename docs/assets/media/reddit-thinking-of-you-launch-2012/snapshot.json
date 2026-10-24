@@ -1,0 +1,65 @@
+{
+  "url": "https://www.reddit.com/r/windowsphone/comments/uuy3d/check_out_my_newest_app_thinking_of_you_it_is_the/",
+  "original_urls": [
+    "https://www.reddit.com/r/windowsphone/comments/uuy3d/"
+  ],
+  "title": "Check out my newest app Thinking of You. It is the prefect app for you and your special someone by providing an exclusive, private, and secure instant messaging system for just the two of you. :)",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.166873+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1339356510,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 26,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 26,
+  "recorded_comment_count": 25,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [
+    "c4yzfzy"
+  ],
+  "missing_parent_ids": [],
+  "gaps": [
+    "Recovered 26 comment records; the archived post reports 25. Counts come from different archive observations and cannot establish complete recovery.",
+    "1 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=uuy3d",
+      "fetched_utc": "2026-10-18T17:06:54.503854+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 1076,
+      "sha256": "edaf8e9d3fdc9bf414f5e1282eb3174db6b2f8096bd2750d9e31634f6f8539ec",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=uuy3d",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=uuy3d&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:56.733959+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 16555,
+      "sha256": "c44d955d617f9dd2474d9e8191b7664b9b3ef485baf288c86afee3826d161270",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=uuy3d&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "82e914eb379b4a777671a0e6d132823e4fbf124d97e16ec358ec6b56c0c02fa9"
+}

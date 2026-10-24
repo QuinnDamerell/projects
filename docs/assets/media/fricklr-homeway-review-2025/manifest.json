@@ -1,0 +1,112 @@
+{
+  "source_url": "https://fricklr.com/de/ist-homeway-io-eine-guenstigere-alternative-zu-nabu-casa-wenn-es-um-home-assistant-geht/",
+  "captured": "2026-10-18T17:07:04.773Z",
+  "resource_manifest": "resource-manifest.json",
+  "format": "static website snapshot",
+  "wrapper": "docs/media/fricklr-homeway-review-2025.md",
+  "notes": [
+    "Script-loaded reader comments are not included.",
+    "The source incorrectly attributes Mainsail, Fluidd, and Moonraker to Quinn; the wrapper explicitly corrects this."
+  ],
+  "validation": {
+    "external_requests": 0,
+    "broken_images": 0,
+    "renderer": "tools/render_site_archive.mjs --paginated",
+    "source_screenshot_visually_checked": true,
+    "pdf_pages_visually_checked": true,
+    "pdf_pages": 10
+  },
+  "presentation_metadata": "snapshot.json",
+  "files": [
+    {
+      "path": "images/homeway-io-die-nabu-casa-alternative.webp",
+      "bytes": 23034,
+      "sha256": "5e6e719aca12dbfb8b8ae6ede224812b14952a5d2d7a37dfa96ae91ae4d812c4"
+    },
+    {
+      "path": "images/homeway-io-setup-nachbelichtet.webp",
+      "bytes": 34018,
+      "sha256": "e5b70a46452cea8eda733369ea8b75fc14d7972860a18a2a0dff547b95f87177"
+    },
+    {
+      "path": "images/homeway-io.webp",
+      "bytes": 41608,
+      "sha256": "c434e671d5878a3dff72a5d057abdc3865ee92deac2eb8a341ec7a48ff2665ee"
+    },
+    {
+      "path": "images/image.webp",
+      "bytes": 21862,
+      "sha256": "b9f00fbc4fcbfe756acc0dad74dbd521195233e17c488c886123c2bf8fd2111f"
+    },
+    {
+      "path": "images/mwd-small.png",
+      "bytes": 6692,
+      "sha256": "4169bc5b5336c7887a48ee1dd578a94d3c980de6784b1a268b5465a049e3e885"
+    },
+    {
+      "path": "resource-manifest.json",
+      "bytes": 3044,
+      "sha256": "df1272a2602137cb6df1d1cc30d65690690866fbdf7302eff1efd512d3c64440"
+    },
+    {
+      "path": "resources/0c5aeebdd64946415838.ico",
+      "bytes": 4286,
+      "sha256": "0c5aeebdd6494641583809862689f24291b43fbf793736fb3eec63e4830e70be"
+    },
+    {
+      "path": "resources/1817e873ab6722605471.woff2",
+      "bytes": 37908,
+      "sha256": "1817e873ab67226054710831f684ca112b4b7feca0efa0d572f3449cc5c6aa16"
+    },
+    {
+      "path": "resources/4e90da4691df2b4fb2a2.woff2",
+      "bytes": 10296,
+      "sha256": "4e90da4691df2b4fb2a20e11ae20678020fb3de3c2190bb249b1ab405472c19a"
+    },
+    {
+      "path": "resources/79acaa4b687b3613df63.woff2",
+      "bytes": 36812,
+      "sha256": "79acaa4b687b3613df630ea69d0fc8fb5f750760120ae0d17168232e6ce33799"
+    },
+    {
+      "path": "resources/79c8210a5f124dd6ecd5.woff2",
+      "bytes": 26776,
+      "sha256": "79c8210a5f124dd6ecd58d2fbf3341dc9dc7f29a42fc475d4119bd2d188c8539"
+    },
+    {
+      "path": "resources/86c6ffef3dd81e86ad60.woff2",
+      "bytes": 15144,
+      "sha256": "86c6ffef3dd81e86ad607840e1a8a0a671c3ee6b4ece60fceba5d1c817e685df"
+    },
+    {
+      "path": "resources/e56104ae54387baf99da.png",
+      "bytes": 955,
+      "sha256": "e56104ae54387baf99da68d67c58dad4ae1d78d9c267b6216a680449c3633d85"
+    },
+    {
+      "path": "resources/fb5a690faa6bb9ce5539.png",
+      "bytes": 984,
+      "sha256": "fb5a690faa6bb9ce55394a302cffd18b72ac7dc6e190e8fa14b1476399da596f"
+    },
+    {
+      "path": "snapshot.html",
+      "bytes": 373819,
+      "sha256": "7ee5307c0a14a49f6ba0b37ad14cfdc4bc7bb0e335b37d086b34be1348dcc620"
+    },
+    {
+      "path": "snapshot.json",
+      "bytes": 1052,
+      "sha256": "4301c2cfdd2f1419298ec5ed2b02029843590f1d54ee4c109b7adb0986759a39"
+    },
+    {
+      "path": "snapshot.pdf",
+      "bytes": 2149721,
+      "sha256": "bbee3c824742472660a5a98ef3a8140366274cc1b04988e04c4cd089aea66ed3"
+    },
+    {
+      "path": "snapshot.png",
+      "bytes": 2330245,
+      "sha256": "fe748f8b321b9f08595a0b648a5ffe603b7494407278d2fa744f1da7b1c63fce"
+    }
+  ]
+}

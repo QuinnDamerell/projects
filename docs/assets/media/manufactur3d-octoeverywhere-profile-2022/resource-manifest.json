@@ -1,0 +1,312 @@
+{
+  "localized_at": "2026-10-18T17:18:39.473464+00:00",
+  "method": "Saved source font and background/icon image bytes in deduplicated local resource files; unavailable automatic images receive explicit text placeholders. No article prose changed.",
+  "resources": [
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 10032,
+      "sha256": "0a5b5a0d0db8b97134aea9d538408031ac5240e2a6cd2732f0de329b9333d541",
+      "local_path": "resources/0a5b5a0d0db8b97134ae.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6364,
+      "sha256": "19bc9ab84376bb2f88eb858d4293c75dad965c70df7755d0a7f03d10080174b2",
+      "local_path": "resources/19bc9ab84376bb2f88eb.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 2176,
+      "sha256": "eed028eaa08fc76f336ca9e4c0a629f6f538d23530c49bf4411703df7d3fe723",
+      "local_path": "resources/eed028eaa08fc76f336c.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 8284,
+      "sha256": "90b304b6fd89343de143695a0791a3bf4aba8bbb3a59849046e21e304628bd7e",
+      "local_path": "resources/90b304b6fd89343de143.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 7872,
+      "sha256": "ab67a6d3a3fc134b74e966f10de67b1ae07c1c29fd7ebb6cb0705488f1128e22",
+      "local_path": "resources/ab67a6d3a3fc134b74e9.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 18412,
+      "sha256": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61",
+      "local_path": "resources/e5d35fda4759b0d63ebc.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 7852,
+      "sha256": "2ad647b9159d27d27f4999b30598f92e60449fb20d80803bc7b85afafbb446d5",
+      "local_path": "resources/2ad647b9159d27d27f49.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 1612,
+      "sha256": "6e0f49517a291e1f6dbcc1c40cd46cf130793baa48d9e5f93252cb95099a82ed",
+      "local_path": "resources/6e0f49517a291e1f6dbc.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 11352,
+      "sha256": "b707ffc6454e54831a69d6c7db32d427b4a2bb914153c1f850fc4f888be7c35f",
+      "local_path": "resources/b707ffc6454e54831a69.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6764,
+      "sha256": "5bb4928d86ca19d24b2b2fd9f2cb5e8080acad32ef5d6b2f9bf1abc1d65afa38",
+      "local_path": "resources/5bb4928d86ca19d24b2b.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 11248,
+      "sha256": "f350e57f7de487eafb00f3dfc0ba0389670f929fe3c23d7ced337d94179291ac",
+      "local_path": "resources/f350e57f7de487eafb00.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 2184,
+      "sha256": "9a428f1c2013cc26132f6b6de109721626683c0fe67178961de1877b5bb439cc",
+      "local_path": "resources/9a428f1c2013cc26132f.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 5236,
+      "sha256": "b37807fe106dc58c57642635ae7ea172abe65b380fea7b8894615a5883b26ec5",
+      "local_path": "resources/b37807fe106dc58c5764.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6744,
+      "sha256": "caefb2ca9d80515325f901a72b5f3a88a6cb23b603a7aa2ed25e07133214aeb3",
+      "local_path": "resources/caefb2ca9d80515325f9.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 14044,
+      "sha256": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc",
+      "local_path": "resources/19874318747181a650ed.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 11296,
+      "sha256": "4de7f825469e917f1ff358faf9fa2b52b4bb1b2da953bd7717a9b47c0d9cb9c9",
+      "local_path": "resources/4de7f825469e917f1ff3.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 18240,
+      "sha256": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4",
+      "local_path": "resources/c805ac8fd73fb95ddba7.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 2196,
+      "sha256": "c9e6d7467218a28ba790d2283edf4395259108bf85aa9aa03bd870c310f4af25",
+      "local_path": "resources/c9e6d7467218a28ba790.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6060,
+      "sha256": "969fa71a32335bd8c326fa00391d909d01498bfa2c67d0b182e859e5c079e737",
+      "local_path": "resources/969fa71a32335bd8c326.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 8192,
+      "sha256": "40787d0c2ff6301cb60b504b6c7a2518c5e0104e6f0f5329c14536d6ed1b884d",
+      "local_path": "resources/40787d0c2ff6301cb60b.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 14212,
+      "sha256": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71",
+      "local_path": "resources/d2a12c85a831e4b5db34.woff2"
+    },
+    {
+      "url": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/size/w256h256/2026/09/M3D_Favicon.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 4760,
+      "sha256": "84a5f20c3e67298967556aa1d25f7fd040688b6f32e40f6a16b175dbdb2651bd",
+      "local_path": "resources/84a5f20c3e6729896755.png"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 18324,
+      "sha256": "4b908ff7cd1059c0a54e974058b3733e02db0dc8fbca834d129302a1cb75e690",
+      "local_path": "resources/4b908ff7cd1059c0a54e.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-700-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 10004,
+      "sha256": "64d81d2579261c073c8e7ed0964f7b1735707ac3afc6c60a49531918e1cb128f",
+      "local_path": "resources/64d81d2579261c073c8e.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 5276,
+      "sha256": "844ae7a64b3c5e34292b17b449fee6ea4c5afacb1aeb783d71008218e101072c",
+      "local_path": "resources/844ae7a64b3c5e34292b.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 1604,
+      "sha256": "982fbeabb101d46163cb1db8898559cca01871076f9518601ffc86d06a896801",
+      "local_path": "resources/982fbeabb101d46163cb.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 7896,
+      "sha256": "2cbf615c7464f39b69b9eb27c9f423a0a2512cb150cbb9ec6714b47f316908b8",
+      "local_path": "resources/2cbf615c7464f39b69b9.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 5252,
+      "sha256": "68c1619731941dd395b6b2c1ac05d2588815758eabcd5785cf579b10e9a94d27",
+      "local_path": "resources/68c1619731941dd395b6.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4544,
+      "sha256": "285231237ffb84663beb3eb429caf7a8cab31dd42cac05e6fd2d5b266c7904fc",
+      "local_path": "resources/285231237ffb84663beb.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-500-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 10012,
+      "sha256": "5e86bae45417edeebd782a31adccfaa811e938fe93099cbe4b7991e7d74e0847",
+      "local_path": "resources/5e86bae45417edeebd78.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-500-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4320,
+      "sha256": "33f057ea61fa597818617de3b9f66a5a3955fc1b0047e17b0f4887a975c6c732",
+      "local_path": "resources/33f057ea61fa59781861.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-cyrillic-ext-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 1568,
+      "sha256": "0dc9d9b75bffd07e25f727e8d67a39cc731e21c718b3b86267226bb4e2757813",
+      "local_path": "resources/0dc9d9b75bffd07e25f7.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4552,
+      "sha256": "36c3f8e0a1c59e1bc2fd2a9cabab5b478b488882beebb534e4bd1a8360bf845b",
+      "local_path": "resources/36c3f8e0a1c59e1bc2fd.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-greek-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6748,
+      "sha256": "1ab0dd32ff247b0018a0a25640920992df92c0ceb11d0310a086de2de63d3dfa",
+      "local_path": "resources/1ab0dd32ff247b0018a0.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-ext-700-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 8276,
+      "sha256": "dc7c46d7eb269cc90650d7f70cf49aafa39a98444e6882cc84096acbc156bfcd",
+      "local_path": "resources/dc7c46d7eb269cc90650.woff2"
+    },
+    {
+      "url": "https://manufactur3dmag.com/assets/vendors/Geist-Variable.woff2?v=KCWNBiEhaUhBaoWd",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 56800,
+      "sha256": "28258d0621216948416a859d32487ab6ad1c9effa0d08795698e70be3c917630",
+      "local_path": "resources/28258d0621216948416a.woff2"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-vietnamese-300-normal.woff",
+      "status": "saved_local",
+      "mime_type": "font/woff",
+      "bytes": 6200,
+      "sha256": "45143b4c6048d662b7d7fb27b67f49ac11f760357d736326eccbf13ed1786dcd",
+      "local_path": "resources/45143b4c6048d662b7d7.woff"
+    },
+    {
+      "url": "https://fonts.bunny.net/manrope/files/manrope-latin-300-normal.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 14160,
+      "sha256": "d4a8e9c72113653a7360ca4d1eba83420c4e1b0ca1ad3945c93592b533f48a8f",
+      "local_path": "resources/d4a8e9c72113653a7360.woff2"
+    }
+  ],
+  "missing_images": [],
+  "disabled_unresolved_css_imports": []
+}

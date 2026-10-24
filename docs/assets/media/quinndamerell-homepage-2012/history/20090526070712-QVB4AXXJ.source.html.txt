@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link rel="shortcut icon" href="favicon.ico" />
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Personal Site, Personal, Wii, video games, xbox 360, modding, Ds, DS lite, pictures, videos, funny videos, blog, social networking, mii, about me, anti virus, firewall, free, cheep, software, freeware, websites, deals, Personal, Web page, blog, webforms, fun, forms, computer, vidoe games, xbox, games, computers, What you thnk, myspace, youtube">
+<META NAME="description" CONTENT="The official website of Quinn Damerell. Pictures, Videos, Blogs, Mii, and a little social networking can be found here.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<title>QuinnDamerell.com - Designed by monkeys, and other things...</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.main_left {
+	float: left;
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 735px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 735px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	padding: 10px;
+	line-height: 25px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+-->
+</style>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         <a class='gray' href='http://blog.quinndamerell.com'>Blog,</a> <a class='gray' href='signin.php'>Sign In or Register</a>      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="images/title_pic.png" alt="QuinnDamerell.com" width="449" height="60" /></div>
+  
+  <div class="main_menu">
+    <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','780','height','35','title','Menu','src','flash/menu','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/menu' ); //end AC code
+    </script>
+    <noscript>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="780" height="35" title="Menu">
+      <param name="movie" value="flash/menu.swf" />
+      <param name="quality" value="high" />
+      <embed src="flash/menu.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="780" height="35"></embed>
+    </object>
+    </noscript>
+  </div>
+  
+  <div class="main_body">
+    <div class="main_left">
+      <span class="welcome">Welcome<span class='welcome'>,</span></span>
+      
+      
+      <blockquote>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome  to the new and improved QuinnDamerell.com. I have recently been working on a  project I call PicGen. I became interested in the idea of creating picture  through artificial means. To lean more please see the project page  <a href="PicGen/" class="nounderline">here</a>.  Beyond that, explore the categories above to find out about me and things I  like to do. I would also suggest taking a look at my favorite page, the <a href="all_users.php" class="nounderline">All Users</a> page. This is hidden gem where you can see the Miis of  all the other users and there mottos. Enjoy :)<br />
+          <br /> 
+          -Quinn Damerell       </p>
+        <p align="center">
+                </blockquote>
+      <p><span class="welcome">A Quick Brief  On The Sites</span></p>
+      <blockquote>
+        <p><a href="index.php" class="page_links">Home</a><strong><br />
+                      </strong>Well you are here, what more can i say?</p>
+        <p><a href="about_me.php" class="page_links">About Me</a><strong><br />
+                      </strong>Information me and my goals. </p>
+        <p><a href="fun_stuff.php" class="page_links">Fun Stuff</a><strong><br />
+                      </strong>A collection of projects and programs that I have compiled. This list includes programs that I have made, programs I think everyone needs and other random projects.</p>
+        <p><a href="websites.php" class="page_links">Web sites</a><strong><br />
+                      </strong>Web sites I like and or have made.</p>
+        <p><a href="pictures.php" class="page_links">Pictures</a><br />
+        A collection of random pictures, either of me or things that involve me.</p>
+        <p><a href="videos.php" class="page_links">Videos</a><br />
+        My favorite videos on the web.</p>
+      </blockquote>
+    </div>
+    
+    <div class="main_right">
+      <div class="bar_left"></div>
+      <div class="text_left">
+        <div class="links">
+          <div class="links_header">Quick Links
+          </div>
+          <div class="links_sites">
+            <a href="http://www.facebook.com/home.php#/profile.php?id=768219008" class="white"><img src="images/page_pics/facebook.png" alt="FaceBook" width="14" height="14" border="0" align="bottom" /> Facebook            </a><br />
+            <a href="http://steamcommunity.com/profiles/76561197984522794" class="white"><img src="images/page_pics/steam.png" alt="Steam" width="14" height="14" border="0" /> Steam</a><br />
+            <a href="http://quinbd.stumbleupon.com/" class="white"><img src="images/page_pics/stumble.png" alt="StumbleUpon" width="14" height="14" border="0" /> StumbeUpon</a><br />
+          </div>
+          </div>
+          <div class="links">
+          <div class="links_header">Projects
+          </div>
+          <div class="links_sites"><img src="images/bullet.png" alt="Bullet" width="11" height="11" /> <a href="PicGen/" class="white">PicGen          </a><br />
+          <img src="images/bullet.png" alt="bullet" width="11" height="11" /><a href="Java_Projects/" class="white"> Purdue Projects</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="clear_float"></div>
+  </div>
+  
+  <div class="footer">
+    Copyright © 2007 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Monday, May 18, 2009 7:21 PM<!-- #EndDate -->
+    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

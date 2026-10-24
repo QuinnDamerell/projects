@@ -1,0 +1,28 @@
+{
+  "source": "https://cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/c14eda12-af77-4d17-bbe4-5256c06c00fd/audio/81f472cb-d061-4102-8f66-a7629f944b2c/default_tc.mp3",
+  "captured": "2026-10-18",
+  "source_bytes": 36330712,
+  "source_sha256": "bd11f09a4fc144f3383ededcff24850d2a8c54f5ea254eda5ee64812e3245eb6",
+  "method": "Original MP3 audio stream split at MPEG frame boundaries with ffmpeg -c copy into approximately 20-minute parts; no audio re-encoding. Split for Cloudflare Pages 25 MB per-file limit.",
+  "parts": [
+    {
+      "file": "audio-part-00.mp3",
+      "bytes": 19200878,
+      "sha256": "5d15b32a6ba7fd38d7d279eb21bc10b1bd155942aaa3cc519c82e220ae637b01",
+      "duration_seconds": 1200.013061,
+      "codec": "mp3"
+    },
+    {
+      "file": "audio-part-01.mp3",
+      "bytes": 17046298,
+      "sha256": "898b2cb86e5a39b7a4de8278bcc8abc7682d4216256586c880dc37567fe4f883",
+      "duration_seconds": 1065.351837,
+      "codec": "mp3"
+    }
+  ],
+  "verification": {
+    "source_audio_stream_sha256": "f1569b9039375f30f1ae63d95ae6d619d53a81724efff600412abf9b611ca76a",
+    "rejoined_audio_stream_sha256": "f1569b9039375f30f1ae63d95ae6d619d53a81724efff600412abf9b611ca76a",
+    "matching_packet_bytes": true
+  }
+}

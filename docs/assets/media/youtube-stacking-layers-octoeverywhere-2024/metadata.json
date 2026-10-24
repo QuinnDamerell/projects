@@ -1,0 +1,28 @@
+{
+  "video_id": "qnYwEGaMC0I",
+  "title": "Octoeverywhere Review and Install",
+  "channel": "Stacking Layers",
+  "channel_url": "https://www.youtube.com/@StackingLayers",
+  "published": "2024-03-24",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=qnYwEGaMC0I",
+  "filename": "youtube-stacking-layers-octoeverywhere-2024.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-stacking-layers-octoeverywhere-2024.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1234.930068,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 83736216,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/qnYwEGaMC0I/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

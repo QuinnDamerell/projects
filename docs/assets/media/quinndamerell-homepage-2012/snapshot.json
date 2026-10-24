@@ -1,0 +1,28 @@
+{
+  "url": "http://www.quinndamerell.com/index.html",
+  "title": "Quinn Damerell.com - Live. Laugh. Code.",
+  "site": "www.quinndamerell.com",
+  "captured": "2026-10-18T05:45:56.620097+00:00",
+  "archive": "https://web.archive.org/web/20120416170518/http://www.quinndamerell.com/index.html",
+  "archived": "2012-04-16T17:05:18Z",
+  "scope": "Linked website archive with disclosed gaps",
+  "manifest": "manifest.json",
+  "pages": 23,
+  "supplemental_pages": 12,
+  "saved_resources": 169,
+  "unavailable_resources": 122,
+  "raw_sources": "raw/",
+  "offline_site": "site/",
+  "snapshot_sha256": "88a5e99324c0abac133fe8f8896090599f816ef77bab52f546c643fb1477c866",
+  "snapshot_bytes": 6833,
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 900
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "pages": 1
+  },
+  "client_functionality": "Local image galleries, section links, legacy navigation and header tile restored; forms/server services unavailable."
+}

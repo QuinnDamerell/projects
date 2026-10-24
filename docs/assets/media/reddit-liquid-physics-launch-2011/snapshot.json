@@ -1,0 +1,75 @@
+{
+  "url": "https://www.reddit.com/r/Android/comments/f0j1h/liquid_physics_live_wallpaper_an_awesome_liquid/",
+  "original_urls": [
+    "https://www.reddit.com/r/Android/comments/f0j1h/"
+  ],
+  "title": "Liquid Physics Live Wallpaper - An Awesome Liquid Simulation Live Wallpaper for Android",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.033308+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1294788120,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 0,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 0,
+  "recorded_comment_count": 0,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [
+    "No comments were returned by the public archive tree or comment search. This is not proof that the original discussion had no comments."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=f0j1h",
+      "fetched_utc": "2026-10-18T17:06:27.885172+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 2470,
+      "sha256": "253570446a5b94c845ac86da3da7e26bbe972807aa41bdc024b89d3505bdf025",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=f0j1h",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=f0j1h&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:29.912706+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 11,
+      "sha256": "8fe32e407a1038ee38753b70e5374b3a46d6ae9d5f16cd5b73c53abaca8f5ed0",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=f0j1h&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/search?link_id=f0j1h&limit=auto&sort=asc",
+      "fetched_utc": "2026-10-18T17:06:31.320606+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 11,
+      "sha256": "8fe32e407a1038ee38753b70e5374b3a46d6ae9d5f16cd5b73c53abaca8f5ed0",
+      "raw_file": "raw/comments-search.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/search?link_id=f0j1h&limit=auto&sort=asc",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "1ac519d12d3acdbe45d25bd1d2a87233f00845c4e6dc0640e9dabe7c6a68d11a"
+}

@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "zensical",
+      "runtimeExecutable": ".venv/Scripts/zensical.exe",
+      "runtimeArgs": ["serve", "-a", "127.0.0.1:8001"],
+      "port": 8001
+    },
+    {
+      "name": "zensical-scratch",
+      "runtimeExecutable": ".venv/Scripts/zensical.exe",
+      "runtimeArgs": ["serve", "-f", "C:/Users/quinn/AppData/Local/Temp/claude/C--Users-quinn-Repos-personal-projects/3209037a-0381-4439-8d52-04fdd8619e40/scratchpad/sitecopy/zensical.toml", "-a", "127.0.0.1:8002"],
+      "port": 8002
+    }
+  ]
+}

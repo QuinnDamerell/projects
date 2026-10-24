@@ -1,0 +1,20 @@
+{
+  "url": "https://www.windowscentral.com/show-your-loved-one-you-care-thinking-you-messaging",
+  "title": "Show your loved one you care with Thinking of You messaging for Windows Phone",
+  "site": "Windows Central",
+  "published": "2012-06-10T20:31:02Z",
+  "captured": "2026-10-18T17:13:22.434Z",
+  "restoredImages": [],
+  "removed": [
+    ".wcp-item-content > section:not(.content-wrapper)",
+    ".ad-unit",
+    ".dfp-leaderboard-container",
+    "[id^=slice-container-newsletterForm]",
+    "#upnext-ribbon",
+    ".bordeaux-generated-container",
+    "[class*=bordeaux-skin]",
+    ".infinite-container",
+    "#pressboard-ad-sponsorship-msg"
+  ],
+  "youtube": []
+}

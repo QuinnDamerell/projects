@@ -1,0 +1,170 @@
+{
+  "url": "https://3dpandme.wordpress.com/2023/04/05/remote-printer-access-for-klipper-octoeverywhere/",
+  "title": "Remote printer access for Klipper – OctoEverywhere",
+  "site": "3DP and Me",
+  "published": "2023-04-05T22:11:23+01:00",
+  "modified": "2023-04-06T17:15:48+01:00",
+  "captured": "2026-10-18T17:11:14.977322+00:00",
+  "method": "Reconstructed static reading copy from the official WordPress.com public post API, not a visual capture of the original layout.",
+  "api_url": "https://public-api.wordpress.com/rest/v1.1/sites/3dpandme.wordpress.com/posts/slug:remote-printer-access-for-klipper-octoeverywhere",
+  "api_documentation": "https://developer.wordpress.com/docs/api/rest-api-reference/",
+  "source_file": "source.json",
+  "source_sha256": "ba792e73e40e0ec7542af01c866fa4b0a4f81582a25583d3b81aa60fc7e6b30c",
+  "images": [
+    {
+      "file": "images/article-01.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-23.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-23.png",
+      "bytes": 65827,
+      "sha256": "6bc767049a674217342f59ca0ededc5cc23a7bdc31dd46d5f996b4a689ecccd5"
+    },
+    {
+      "file": "images/article-02.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-15.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-15.png",
+      "bytes": 28611,
+      "sha256": "df9080d5102f4e646d4ec61560eb66920bbf4024ff5de820aeff7bd246191d3e"
+    },
+    {
+      "file": "images/article-03.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-22.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-22.png",
+      "bytes": 33343,
+      "sha256": "c2f9ec51339e7c121c5d1f6a42dd2b54e3faf7747e312e8c11290ee91a9988a0"
+    },
+    {
+      "file": "images/article-04.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-7.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-7.png",
+      "bytes": 69085,
+      "sha256": "94fc168094b1f14226ab7d5e7cb1fa1a3f34f6d37820c14bf48fe994609a8ea7"
+    },
+    {
+      "file": "images/article-05.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-8.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-8.png",
+      "bytes": 15238,
+      "sha256": "e8ef1d7a25fca1b695d8a12817f7a780e4ab16a203c30e8a1e563cd9d0cf1b88"
+    },
+    {
+      "file": "images/article-06.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image.png",
+      "bytes": 16257,
+      "sha256": "42ded0957e3fc202ff7f4988f22d52561ef1edde51f4eed77b4094024b0451fa"
+    },
+    {
+      "file": "images/article-07.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-1.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-1.png",
+      "bytes": 28456,
+      "sha256": "1b8817653c6e660719e9bfa5353d207f6f0fee443cec3159209974e0a9477365"
+    },
+    {
+      "file": "images/article-08.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-4.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-4.png",
+      "bytes": 22199,
+      "sha256": "78fde1675735dd93928a8bbc6a12d2214cca75ba2880bd4de4c80110bc3ba744"
+    },
+    {
+      "file": "images/article-09.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-5.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-5.png",
+      "bytes": 25297,
+      "sha256": "d3205dc6b1d9499c955515801c7c2fd15d935e102705fa45439069243ff04955"
+    },
+    {
+      "file": "images/article-10.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-24.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-24.png",
+      "bytes": 17756,
+      "sha256": "9c29e52e6f56759415c228252171ef9ae00952360ac13d454129db8e17b8bee2"
+    },
+    {
+      "file": "images/article-11.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-9.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-9.png",
+      "bytes": 8018,
+      "sha256": "c96d3e864bae2b0aee519a81f33b26ffb826ac72d71a65cb6f4584d76520ae23"
+    },
+    {
+      "file": "images/article-12.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-10.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-10.png",
+      "bytes": 46404,
+      "sha256": "1895cc79aa5266c430fa975410295b075146fe7153b401180dd84daf6b89ffe8"
+    },
+    {
+      "file": "images/article-13.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-14.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-14.png",
+      "bytes": 3604,
+      "sha256": "c2c412d28c14ab6435c8d652ba1520c471d8ac93d926eef7117bbd797aad05cb"
+    },
+    {
+      "file": "images/article-14.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-16.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-16.png",
+      "bytes": 10605,
+      "sha256": "1208aa4f099322d40ef47f0e0a8aee968271a374dcaa2d41b2e0f1b011c56ac3"
+    },
+    {
+      "file": "images/article-15.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-17.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-17.png",
+      "bytes": 14984,
+      "sha256": "da4c2f7e926378ffb65e4337c7d51c00fd2ffaf5333dca1894c973cadfd5f6c4"
+    },
+    {
+      "file": "images/article-16.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-18.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-18.png",
+      "bytes": 25637,
+      "sha256": "8a311045b468d8bd02038b07783611362df3ac2c9b8e4abd1f3702318ecbb612"
+    },
+    {
+      "file": "images/article-17.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-19.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-19.png",
+      "bytes": 68003,
+      "sha256": "d1415c06870cb8463cdb6937bad252f053b59b5c30f2c415b4c115c436e3eab0"
+    },
+    {
+      "file": "images/article-18.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-20.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-20.png",
+      "bytes": 30079,
+      "sha256": "40c9a07cc6f306315ab9f3b85bf8f3fbedb8da9b0ff06fa34305e454390fb7d9"
+    },
+    {
+      "file": "images/article-19.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-21.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-21.png",
+      "bytes": 29100,
+      "sha256": "eb30e309cb28f4dbf8b17d9fe9cbb6f7e0947bfd68695f8b81093f3d98749898"
+    },
+    {
+      "file": "images/article-20.png",
+      "source": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-11.png",
+      "final_url": "https://3dpandme.wordpress.com/wp-content/uploads/2023/04/image-11.png",
+      "bytes": 17827,
+      "sha256": "6600d4fff8f6ac8f4bd9ef8cf743f74566dffbb6ff76b219e89e4e1952733627"
+    }
+  ],
+  "comment_count": 0,
+  "gaps": [
+    "Original page layout unavailable; original site returned an access check."
+  ],
+  "restoredImages": [],
+  "youtube": [],
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 13019
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  }
+}

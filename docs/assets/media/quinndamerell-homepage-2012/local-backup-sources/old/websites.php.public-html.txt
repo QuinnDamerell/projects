@@ -1,0 +1,210 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Personal Site, Personal, Wii, video games, xbox 360, modding, Ds, DS lite, pictures, videos, funny videos, blog, social networking, mii, about me, anti virus, firewall, free, cheep, software, freeware, websites, deals, Personal, Web page, blog, webforms, fun, forms, computer, vidoe games, xbox, games, computers, What you thnk, myspace, youtube">
+<META NAME="description" CONTENT="The official website of Quinn Damerell. Pictures, Videos, Blogs, Mii, and a little social networking can be found here.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.white_text {
+	color: #FFFFFF;
+}
+a.nounderline:link {
+	text-decoration: none;
+	color: #CCCCCC;
+	font-size: 18px;
+}
+a.nounderline:visited {
+	text-decoration: none;
+	color: #CCCCCC;
+	font-size: 18px;
+}
+-->
+</style>
+<link rel="shortcut icon" href="favicon.ico" />
+<title>QuinnDamerell.com - Websites   </title>
+<script language="Javascript">
+	// PRELOADING IMAGES
+	var img_over;
+	if (document.images) {
+	 img_over = new Image(); 
+	 img_over.src = "http://www.quinndamerell.com/images/navBar/rollBack.png"; 
+	}
+	
+	
+	function mouseOverNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "url('http://www.quinndamerell.com/images/navBar/rollBack.png')";
+		element.style.color = "#FFFFFF";
+	}
+	
+	function mouseOutNav(divId) { 
+ 		var element = document.getElementById(divId);
+		element.style.backgroundImage = "none";
+		element.style.color = "";
+	} 
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         
+      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="images/title_pic.png" alt="QuinnDamerell.com" width="447" height="63" /></div>  
+  <div class="main_menu">
+   <div class="nav_bar_element" id="nav_home" onmouseover="mouseOverNav('nav_home')" onmouseout="mouseOutNav('nav_home')" onclick="location.href='http://www.QuinnDamerell.com';">Home</div>
+   <div class="nav_bar_element" id="nav_me" onmouseover="mouseOverNav('nav_me')" onmouseout="mouseOutNav('nav_me')" onclick="location.href='http://www.QuinnDamerell.com/about_me.php';">About Me</div>
+   <div class="nav_bar_element" id="nav_proj" onmouseover="mouseOverNav('nav_proj')" onmouseout="mouseOutNav('nav_proj')" onclick="location.href='http://www.QuinnDamerell.com/projects.php';">Projects</div>
+   <div class="nav_bar_element" id="nav_prof" onmouseover="mouseOverNav('nav_prof')" onmouseout="mouseOutNav('nav_prof')" onclick="location.href='http://www.QuinnDamerell.com/professional.php';">Professional</div>
+   <div class="nav_bar_element" id="nav_pic" onmouseover="mouseOverNav('nav_pic')" onmouseout="mouseOutNav('nav_pic')" onclick="location.href='http://www.QuinnDamerell.com/pictures.php';">Photos</div>
+   <div class="nav_bar_element" id="nav_web" onmouseover="mouseOverNav('nav_web')" onmouseout="mouseOutNav('nav_web')" onclick="location.href='http://www.QuinnDamerell.com/websites.php';">Websites</div>
+  </div>  
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">Websites</span></div>
+    
+    <div class="text_indent">Here are a few web sites that I have made in my days...</div>
+    <div class="white_text"><br />
+
+      <div class="table_center">
+        <table width="750" border="0" background="images/stripe.png">
+         <tr>
+            <td ><div align="center"><a href="http://www.crosstxt.com"><img src="images/website_pics/crosstxt.png" alt="CrossTxT" width="199" height="139" border="0" /></a></div></td>
+            <td height="159" ><p><span class="text"><a href="http://www.crossTxT.com" class="nounderline"><strong>CrossTxT.com</strong></a> - March 19. 2011<br />
+            </span>CrossTxT.com was made for a project my friend Bryan Ehrlich and I are working on wich is described on the <a href="projects.php" style="font-size:16px" class="nounderline">Project</a> page.</p>
+            </td>
+          </tr>
+          <tr>
+            <td background="images/page_pics/darken.png"><div align="center"><a href="http://www.fwdcinfo.com"><img src="images/website_pics/fwdc.jpg" alt="FWDC" width="195" height="134" border="0" /></a></div></td>
+            <td height="159" background="images/page_pics/darken.png"><p><span class="text"><a href="http://www.fwdcinfo.com" class="nounderline"><strong>Fort Wayne Decorative Curbing</strong></a> - Nov 06. 2008<br />
+            </span>The FWDC website is a web site that I have made for my dad’s company Fort  Wayne Decorative Curbing. This is also a site that I update and change  frequently.</p>
+            </td>
+          </tr>
+          <tr>
+            <td><div align="center"><a href="http://www.mediafire.com/?5kgb2lsd2dt" onclick="window.open('http://www.mediafire.com/?5kgb2lsd2dt', 
+'Atom Model', 'width=360,height=450'); return false" ><img src="images/website_pics/atom.jpg" alt="Atom Model" width="197" height="143" border="0" /></a></div>
+              <div align="center"></div>
+            <div align="center"></div></td>
+            <td height="159"><p align="left"><span class="text"> <a href="http://www.mediafire.com/?5kgb2lsd2dt" class="nounderline" onclick="window.open('http://www.mediafire.com/?5kgb2lsd2dt', 
+'Atom Model', 'width=360,height=450'); return false" ><strong>Atom Model in Flash</strong></a> - Oct 16. 2005<br />
+              <strong>Just click the title and press &quot;run&quot; to view - 1.68MB</strong></span><span class="text"><br />
+                This was a flash projector I made for my chemistry class. You have to download and run it because it is a projector (.exe) but I think it is pretty cool.</span> <br />
+            </p></td>
+          </tr>
+          <tr background="images/page_pics/darken.png">
+            <td><div align="center"><a href="websites/Friework Web/index.html"><img src="images/website_pics/fireworks_page.jpg" alt="Fireworks Web" width="204" height="113" border="0" align="center" /></a></div></td>
+            <td height="150" background="images/page_pics/darken.png"><p align="left" class="text"><a href="websites/Friework Web/index.html" class="nounderline"><strong>Fireworks Web site</strong></a> - 2004<br />
+            This was a quickly made but kind of cool web site I made for our firework sales. The basic menu system is ok, but most of the content is horrible.</p></td>
+          </tr>
+          <tr>
+            <td><div align="center"><a href="websites/animations/aminations.htm"><img src="images/website_pics/animation_page.jpg" alt="Animation" width="196" height="101" border="0" align="center" /></a></div></td>
+            <td height="131"><p align="left" class="text"><a href="websites/animations/aminations.htm" class="nounderline"><strong>My Animation Web site</strong></a> - 2002<br />
+            This is the first web site I have ever made. It was used to share my rather weird animations with the world.</p></td>
+          </tr>
+          <tr background="images/page_pics/darken.png">
+            <td width="230" align="left"><div align="center"><a href="websites/Final/index.html"><img src="images/website_pics/crazy_page.jpg" alt="Crazy Horse" width="198" height="104" border="0" align="center" /></a></div></td>
+            <td width="508" height="129"><p align="left"><span class="text"><strong ><a class="nounderline" href="websites/Final/index.html">Crazy Horse</a></strong> - 2005 <br />
+              This is a web site I had to make for my Web Design final, the images were supplied. </span><br />
+            </p></td>
+          </tr>
+       
+        </table>
+        <br />
+        <br />
+      </div>
+    </div>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Sunday, September 18, 2011 5:15 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

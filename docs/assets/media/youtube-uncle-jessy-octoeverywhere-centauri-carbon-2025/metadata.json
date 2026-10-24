@@ -1,0 +1,28 @@
+{
+  "video_id": "uAuBMMQjkqY",
+  "title": "Turn your 3D Printer SMART - FREE!",
+  "channel": "Uncle Jessy",
+  "channel_url": "https://www.youtube.com/@UncleJessy",
+  "published": "2025-03-22",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=uAuBMMQjkqY",
+  "filename": "youtube-uncle-jessy-octoeverywhere-centauri-carbon-2025.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-uncle-jessy-octoeverywhere-centauri-carbon-2025.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 819.40898,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 167736635,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/uAuBMMQjkqY/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

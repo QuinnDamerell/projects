@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<META  name="description" content="Crazy Horse - for great food and fun">
+<META  name="keywords" content="Crazy Horse, food, fun, Californa, restrunt">
+<title>Crazy Horse - Menus</title>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style8 {
+	font-size: 120%;
+	font-weight: bold;
+	color: #0000FF;
+}
+.style10 {font-size: 120%; font-weight: bold; }
+.style15 {
+	font-size: 140%;
+	font-weight: bold;
+}
+.style16 {font-size: 120%}
+-->
+</style>
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('images/navbar_reviews_high.gif','images/navbar_menus_high.gif','images/navbar_concerts_high.gif','images/navbar_find_us_high.gif','images/navbar_calendar_high.gif')">
+<table width="744" height="661" border="0" align="center">
+  <tr>
+    <td height="136" colspan="3"><div align="center" class="style2">
+      <p align="center"><img src="images/concerts_header.gif" alt="Crazy Horse" width="400" height="128" /></p>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="40" colspan="3"><div align="center" class="style2">
+      <div align="center"><a href="reviews.html"></a><a href="reviews.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Reviews','','images/navbar_reviews_high.gif',1)"><img src="images/navbar_reviews.gif" alt="Reviews" name="Reviews" width="90" height="30" border="0" id="Reviews" /></a><a href="menus.html"></a><a href="concerts.html"></a><a href="find_us.html"></a><a href="menus.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Menus','','images/navbar_menus_high.gif',1)"><img src="images/navbar_menus.gif" alt="Menus" name="Menus" width="90" height="30" border="0" id="Menus" /></a><a href="calendar.html"></a><a href="concerts.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Concerts','','images/navbar_concerts_high.gif',1)"><img src="images/navbar_concerts.gif" alt="Concerts" name="Concerts" width="90" height="30" border="0" id="Concerts" /></a><a href="find_us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Find Us','','images/navbar_find_us_high.gif',1)"><img src="images/navbar_find_us.gif" alt="Find Us" name="Find Us" width="90" height="30" border="0" id="Find Us" /></a><a href="calendar.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Calendar','','images/navbar_calendar_high.gif',1)"><img src="images/navbar_calendar.gif" alt="Calendar" name="Calendar" width="90" height="30" border="0" id="Calendar" /></a></div>
+    </div></td>
+  </tr>
+  <tr>
+    <td width="22" height="477">&nbsp;</td>
+    <td width="673"><table width="672" border="2" align="center" bordercolor="#660000" background="images/wood.gif">
+      <tr>
+        <td width="666" height="391" align="left"><div align="center">
+          <p><br />
+            <a href="appetizer.html"><img src="images/menu_header_kickin_appetizers.gif" alt="Appetizers" width="231" height="27" border="0" /><br />
+            </a><img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+              <a href="salads.html"><img src="images/menu_header_fresh_garden_salad_.gif" alt="Salads" width="381" height="29" border="0" /></a><br />
+              <img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+              <a href="main_corces.html"><img src="images/menu_header_chicken_dinners.gif" alt="Dinners" width="104" height="27" border="0" /></a><br />
+              <img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+              <a href="side_orders.html"><img src="images/menu_header_side_kicks.gif" alt="Side Orders" width="129" height="29" border="0" /></a><br />
+              <img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+              <a href="deserts.html"><img src="images/menu_header_desserts.gif" alt="Desserts" width="112" height="28" border="0" /></a><br />
+              <img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+              <a href="beverages.html"><img src="images/menu_header_beverages.gif" alt="Beverages" width="131" height="31" border="0" /></a><br />
+              <img src="images/menu_banner_6.gif" alt="banner" width="172" height="17" /><br />
+              <br />
+          </p>
+          </div></td>
+      </tr>
+    </table>
+        <p align="center"><a href="index.html">Home</a> | <a href="reviews.html">Reviews</a> | <a href="menus.html">Menus</a> | <a href="concerts.html">Concerts</a> | <a href="find_us.html">Find Us</a> | <a href="calendar.html">Calendar</a> | <a href="site_map.html">Site Map</a> <br />
+          &copy; 2007<a href="mailto:quinbd@gmail.com"></a><br />
+          Last Updated on
+          <!-- #BeginDate format:fcAm1a -->Monday, February 26, 2007 10:01 AM<!-- #EndDate -->
+      </p></td>
+    <td width="35">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+	"name": "Zensical Dev Container",
+	"image": "mcr.microsoft.com/devcontainers/python:3.13",
+	"customizations": {
+	  "vscode": {
+		"extensions": ["ms-python.python", "ms-azuretools.vscode-docker", "streetsidesoftware.code-spell-checker", "shd101wyy.markdown-preview-enhanced", "shardulm94.trailing-spaces"]
+	  }
+	},
+	"postCreateCommand": "pip install -r requirements.txt",
+	"postAttachCommand": "flock -n -E 0 /tmp/personal-projects-preview.lock env ZENSICAL_POLL_WATCHER=1 ZENSICAL_POLL_INTERVAL=500 zensical serve -a 0.0.0.0:8000",
+	"forwardPorts": [8000],
+	"portsAttributes": {
+	  "8000": {
+		"label": "Zensical live preview",
+		"onAutoForward": "openBrowser",
+		"requireLocalPort": true
+	  }
+	},
+	"remoteUser": "vscode"
+  }

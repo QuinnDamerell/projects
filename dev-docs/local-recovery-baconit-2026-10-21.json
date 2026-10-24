@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "recovered_on": "2026-10-21",
+  "page": "docs/baconit.md",
+  "source_manifest": "dev-docs/local-recovery-root-media-2026-10-21.json",
+  "provenance": "Original D: paths and hashes inherited from the completed read-only staging pass. This curation used only C: copies.",
+  "version_labels": "Follow original project folders; folder names do not establish exact screenshot dates or feature introduction dates.",
+  "selection": "Six representative early screenshots and the complete eight-image 768x1280 set from folder 2.5. Existing store and project galleries remain intact.",
+  "duplicate_note": "All eight files in the 2.3 and 2.4 folders have matching SHA-256 hashes; one shared profile image represents those two folders.",
+  "assets": [
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\frontPage.png",
+      "staged_source": ".cache/local-recovery/baconit/1.2/frontPage.png",
+      "destination": "docs/assets/baconit/local-backup/1.2-front-page.png",
+      "bytes": 1115339,
+      "sha256": "ec324c1bce57539ca1c50d0919cfb1eeea89f0ae048524a88b17f113e5dde241",
+      "transformation": "None; byte-for-byte original",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\main_reddits.png",
+      "staged_source": ".cache/local-recovery/baconit/1.3/main_reddits.png",
+      "destination": "docs/assets/baconit/local-backup/1.3-home.png",
+      "bytes": 850803,
+      "sha256": "15f1e30174bd14af216283e68d387242f209efbe3ee7642f815a651ff612b300",
+      "transformation": "None; byte-for-byte original",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\light.png",
+      "staged_source": ".cache/local-recovery/baconit/1.4/light.png",
+      "destination": "docs/assets/baconit/local-backup/1.4-light-theme.png",
+      "bytes": 84037,
+      "sha256": "b742d04d27cb3941f24fc3f731e2322a5df530ffc633959d4f470c27c7abc61a",
+      "transformation": "None; byte-for-byte original",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\SmartBar.png",
+      "staged_source": ".cache/local-recovery/baconit/1.5/SmartBar.png",
+      "destination": "docs/assets/baconit/local-backup/1.5-smart-bar.png",
+      "bytes": 75434,
+      "sha256": "c260a795210a1f089d544f3cb5270bbab72c771c635aba1abfb54016bbeaba3c",
+      "transformation": "None; byte-for-byte original",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\ImageViewer.png",
+      "staged_source": ".cache/local-recovery/baconit/1.8/ImageViewer.png",
+      "destination": "docs/assets/baconit/local-backup/1.8-image-viewer.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172",
+      "transformation": "None; byte-for-byte original",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\6.png",
+      "staged_source": ".cache/local-recovery/baconit/2.3/6.png",
+      "destination": "docs/assets/baconit/local-backup/2.3-2.4-profile.png",
+      "bytes": 38154,
+      "sha256": "9fea6ddd2024acb4aa705f4c0711152786c6e1f440418b8261a3830e0eb16e4f",
+      "transformation": "None; byte-for-byte original",
+      "identical_source_in_other_version": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\6.png",
+      "width": 480,
+      "height": 800
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\1.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/1.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/1.png",
+      "bytes": 216100,
+      "sha256": "18b759b7696e3efb85811371c9eff095eb0bcc031d75f6945d793547f51e9d87",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\2.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/2.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/2.png",
+      "bytes": 535483,
+      "sha256": "b09ba38dd332ce7973d11a1568d18fb3f083a1bd2c4d07e7d55f4d9126e66c7e",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\3.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/3.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/3.png",
+      "bytes": 507215,
+      "sha256": "82ceccef339a2790de714f24458963c7a7a837aeeb10202a49a055a931f66ca9",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\4.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/4.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/4.png",
+      "bytes": 175993,
+      "sha256": "a2fbb4b00b9273d36a44f04961c8a15d550ba5e8bdecd3411431061d1388ef1a",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\5.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/5.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/5.png",
+      "bytes": 352875,
+      "sha256": "4c30c7afe611011cbce1f144d85b73447e1a7914554068055c9f7c33ef18d827",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\6.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/6.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/6.png",
+      "bytes": 83792,
+      "sha256": "900ac713c63621fc3d1bb64053da8f8c3f86f8d3fa98b6b93f37ba4faa7a18db",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\7.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/7.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/7.png",
+      "bytes": 224839,
+      "sha256": "1b163fb37154da46309ea9f67f4e2c9a17f306b319bdc2d42bd4f095e1879db6",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\8.png",
+      "staged_source": ".cache/local-recovery/baconit/2.5/768X1280/8.png",
+      "destination": "docs/assets/baconit/local-backup/2.5/8.png",
+      "bytes": 147478,
+      "sha256": "17d6c99b358e758d41cab60026f35949fa91386ee74b710457f982bae721c496",
+      "transformation": "None; byte-for-byte original",
+      "width": 768,
+      "height": 1280
+    }
+  ]
+}

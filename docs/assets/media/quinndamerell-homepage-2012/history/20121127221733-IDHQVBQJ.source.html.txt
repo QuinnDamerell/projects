@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<title>Baconit - A Metro Reddit App</title>
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Baconit is a modern metro Reddit app for Windows Phone. Baconit fully supports Mango, and provides a beautiful , clean, fast, and easy interface to reddit.">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="../style.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="../TileScript.js"></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();function goToByScroll(id)
+{$('html,body').animate({scrollTop:$("#"+id).offset().top},'slow');}
+$(document).ready(function(){$("a[rel=ScreenShots]").fancybox({'transitionIn':'elastic','transitionOut':'elastic','titlePosition':'inside','overlayColor':'#000','width':'50%','height':'50%','padding':'0px','autoScale':false,'titleFormat':function(title,currentArray,currentIndex,currentOpts){return'<span id="fancybox-title-over"><strong>Image '+(currentIndex+1)+' / '+currentArray.length+':</strong> '+(title.length?' &nbsp; '+title:'')+'</span>';}});});</script>
+<script type="text/javascript" src="http://www.quinndamerell.com/LightBox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="http://www.quinndamerell.com/LightBox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.quinndamerell.com/LightBox/jquery.fancybox-1.3.4.css" media="screen"/>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+<body class="gradient">
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="../index.html">Home</a></li>
+<li><a href="../about.html">About Me</a></li>
+<li><a href="../portfolio.html">Portfolio</a></li>
+<li><a href="../contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container">
+<div id="main" class="grid-24">
+<div class="grid-6" style="margin-top:4px">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/WindowsPhone.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+<a href="index.html" id="slot-b" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="Images/ScreenShots.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-large">
+<a href="index.html" class="SiteLink">
+<div style="display: block; height: 355px; background-color: #158CC4;">
+<img src="Images/MainTile.jpg" alt="" border="0"/>
+</div>
+</a>
+</div>
+<div class="grid-6 last">
+<a href="index.html" id="slot-g" class="tile SiteLink">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Reviews.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/en-US/apps/fa4e749a-a521-43f1-b2cd-40bd1a0a8875" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="Images/Marketplace.png" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<header style="padding-top:24px; clear:both;">
+<h1 class="title">Baconit</h1>
+<div class="descriptions">
+<span><a onclick="goToByScroll('ChangeList');" class="SiteLink">Change List.</a></span>
+</div>
+</header>
+<div class="about" style="padding-left:0px; padding-bottom:50px">
+<iframe src="https://skydrive.live.com/embed?cid=20F21C8A9F8744A9&resid=20F21C8A9F8744A9%211200&authkey=AN7_7_Tm4JQ0rbc&em=2" width="955" height="700" frameborder="0" scrolling="no"></iframe>
+<div style="padding-top:20">
+<a href="http://sdrv.ms/R54bW1" class="SiteLink">Link to web document.</a></div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+</body>
+</html>

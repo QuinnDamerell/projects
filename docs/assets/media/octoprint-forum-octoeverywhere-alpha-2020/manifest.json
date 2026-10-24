@@ -1,0 +1,70 @@
+{
+  "source_url": "https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+  "wayback_url": "https://web.archive.org/web/20260303021551/https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+  "wayback_timestamp": "20260303021551",
+  "recovered_at": "2026-10-18T17:13:37.881461+00:00",
+  "method": "Parsed HTML data-preloaded topic_22755 JSON; rendered all cooked post bodies through an allowlist sanitizer. No historical scripts executed in the saved transcript.",
+  "posts_preserved": 13,
+  "posts_expected": 13,
+  "omitted": [
+    "Avatar images",
+    "Interactive forum controls"
+  ],
+  "files": [
+    {
+      "path": "snapshot.html",
+      "bytes": 14730,
+      "sha256": "5f5d627d2516fb3ac220b99ce25972503f6cb3abefa168f975184f616181ba09"
+    },
+    {
+      "path": "snapshot.json",
+      "bytes": 986,
+      "sha256": "1349f5b4796fc2b0ad991da72cdeb2a938ba5c2f335b425547d1b48e2c038046"
+    },
+    {
+      "path": "snapshot.pdf",
+      "bytes": 106253,
+      "sha256": "7c47dc650d4f855e4919fe17a15e10c8234cd1c9f148200e5a387290cc4eb426"
+    },
+    {
+      "path": "snapshot.png",
+      "bytes": 507622,
+      "sha256": "33f1ce4e89789a574be84c548adde8031e91511fef1599f4bbeb0d5f1dba7794"
+    },
+    {
+      "path": "source.html.txt",
+      "bytes": 213449,
+      "sha256": "2e4971f6fa1c90915b55d00ea224b42e4dbff00d87c431666abc22b277004eb1"
+    },
+    {
+      "path": "topic.json",
+      "bytes": 51986,
+      "sha256": "cc559086b29f0c5793a93cdec3adfcaa85d20f433438b76102a28aa3f9cfd651"
+    }
+  ],
+  "wayback_response_verification": {
+    "requested_url": "https://web.archive.org/web/20260303021551id_/https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+    "final_url": "https://web.archive.org/web/20260303021551id_/https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+    "status": 200,
+    "memento-datetime": "Tue, 03 Mar 2026 02:15:51 GMT",
+    "verified_date": "2026-10-18",
+    "actual_capture_timestamp": "20260303021551"
+  },
+  "captured": "2026-10-18T17:09:57.562Z",
+  "format": "static transcript from archived public forum payload",
+  "wrapper": "docs/media/octoprint-forum-octoeverywhere-alpha-2020.md",
+  "notes": [
+    "Readable transcript, not original forum appearance.",
+    "All 13 posts present in the verified March 3, 2026 capture are preserved; later or deleted content absent from that capture is not included.",
+    "Avatar images and interactive controls omitted; emoji shown as source alt text."
+  ],
+  "validation": {
+    "external_requests": 0,
+    "broken_images": 0,
+    "renderer": "tools/render_site_archive.mjs --paginated",
+    "source_screenshot_visually_checked": true,
+    "pdf_pages_visually_checked": true,
+    "pdf_pages": 6
+  },
+  "presentation_metadata": "snapshot.json"
+}

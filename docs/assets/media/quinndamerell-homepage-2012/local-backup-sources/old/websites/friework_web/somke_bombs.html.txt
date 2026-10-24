@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:199px; top:39px; width:435px; height:81px; z-index:0"><img src="images/logo_smoke_bombs.jpg" border=0 width=435 height=81></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:113px; top:207px; width:134px; height:170px; z-index:1"><img src="images/smoke2.gif" border=0 width=134 height=170></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:438px; top:440px; width:193px; height:176px; z-index:2"><img src="images/smoke_bombs.gif" border=0 width=193 height=176></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:317px; top:249px; width:404px; height:116px; z-index:3">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">While simple, a smoke bomb can make ether a good prank, or a nice effect for any firework show.&nbsp; These you simply just light and they will emit smoke for different amounts of time depending on the size of the smoke bomb. They also come in different colors of smoke. </font></div>
+</div></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:96px; top:435px; width:190px; height:189px; z-index:4"><img src="images/smoke.jpg" border=0 width=190 height=189></div>
+
+
+</body>
+</html>

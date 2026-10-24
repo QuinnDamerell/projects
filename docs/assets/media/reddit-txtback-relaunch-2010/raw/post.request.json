@@ -1,0 +1,13 @@
+{
+  "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=atmxj",
+  "fetched_utc": "2026-10-18T17:06:58.921365+00:00",
+  "http_status": "200",
+  "curl_exit": 0,
+  "attempt": 1,
+  "bytes": 3190,
+  "sha256": "0b60f3c88e3a68bea2d06cf3f6aec6c757d67b573a6898c12b167b2f0cc70943",
+  "raw_file": "raw/post.json",
+  "valid_archive_json": true,
+  "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=atmxj",
+  "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+}

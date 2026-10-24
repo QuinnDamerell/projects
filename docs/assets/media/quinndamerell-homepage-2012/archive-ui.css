@@ -1,0 +1,18 @@
+/* Modern equivalents for preserved navigation and local image gallery. */
+html {scroll-behavior:smooth}
+.archive-menu-link {display:block;color:inherit;text-decoration:inherit;min-height:inherit}
+.archive-form-note {padding:12px;border:1px solid #888;background:#fff;color:#333;font:14px/1.5 system-ui,sans-serif}
+.archive-accordion {margin:8px 0;border:1px solid #bbb}
+.archive-accordion>summary {cursor:pointer;background:#ddd;color:#222;padding:8px;font-weight:bold;min-height:24px}
+.archive-accordion>div {height:auto!important;overflow:visible!important;padding:8px}
+.archive-gallery {padding:16px;background:#161616;color:white;border:1px solid #777;max-width:94vw;max-height:94vh;box-sizing:border-box;text-align:center}
+.archive-gallery::backdrop {background:rgba(0,0,0,.85)}
+.archive-gallery>img {display:block;max-width:85vw;max-height:72vh;width:auto;height:auto;margin:12px auto}
+.archive-gallery-controls {display:flex;justify-content:center;gap:12px}
+.archive-gallery-controls button {font:16px system-ui,sans-serif;padding:8px 16px;cursor:pointer}
+.archive-gallery-caption {font:14px/1.5 system-ui,sans-serif;margin:6px;color:#fff}
+#livetile {transform-style:preserve-3d;transition:transform .8s;cursor:pointer}
+#livetile .face {backface-visibility:hidden}
+#livetile .back {transform:rotateX(-180deg)}
+#livetile:focus-visible {outline:3px solid #e68e25;outline-offset:5px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}#livetile{transition:none}}

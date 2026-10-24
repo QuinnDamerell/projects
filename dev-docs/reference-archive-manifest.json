@@ -1,0 +1,1046 @@
+{
+  "date": "2026-10-18",
+  "scope": "46 curated web source groups and their grouped references, after applying the explicit exclusions in dev-docs/media-archive.md. Excludes the separate YouTube work, own sites, profiles, assets as standalone references, and lower-priority sources removed from the shortlist.",
+  "publication_state": "Saved in the project working tree; this web preservation task did not deploy or push.",
+  "counts": {
+    "source_groups": 46,
+    "new_source_groups": 37,
+    "existing_source_groups": 9,
+    "new_archive_pages": 38,
+    "reddit_threads_including_supplement": 17,
+    "reddit_comment_records": 826,
+    "reddit_readable_comment_records": 807,
+    "reddit_deleted_removed_empty_records": 19,
+    "cited_reddit_comments_recovered": 8,
+    "rewritten_citations": 78,
+    "project_pages_updated": 15
+  },
+  "coverage_note": "826 Reddit comment records were recovered across 16 selected discussions and the April Fools supplement, including all 8 directly cited comments. 19 records retain deleted/removed/empty placeholders. Liquid Physics launch and Reddit Time Machine returned no comments. Archive counts can differ from historical displayed counts; completeness is not claimed. Individual page/image/comment gaps are recorded below.",
+  "media_index_changed": false,
+  "navigation_changed": false,
+  "youtube_captured_in_this_task": false,
+  "sources": [
+    {
+      "project": "Baconit",
+      "title": "Baconit for Reddit gets rewritten as a stunning universal Windows 10 app",
+      "url": "https://www.windowscentral.com/baconit-reddit-stunning-universal-windows-app",
+      "related_urls": [
+        "https://web.archive.org/web/*/https://www.windowscentral.com/baconit-reddit-stunning-universal-windows-app"
+      ],
+      "status": "existing",
+      "page": "docs/media/windowscentral-baconit-windows-10-2015.md",
+      "asset_directories": [
+        "docs/assets/media/windowscentral-baconit-windows-10-2015"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T04:42:17.030Z",
+      "source_capture": "https://www.windowscentral.com/baconit-reddit-stunning-universal-windows-app",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/windowscentral-baconit-windows-10-2015/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Baconit free and donation editions: early discussion",
+      "url": "https://www.reddit.com/r/wp7/comments/p9opj/comment/c3no50t/",
+      "related_urls": [
+        "https://www.reddit.com/r/wp7/comments/p9opj/tgif_baconit_15_the_most_amazing_version_of/"
+      ],
+      "status": "saved",
+      "page": "docs/media/reddit-baconit-free-donation-2012.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-baconit-free-donation-2012"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:05.893508+00:00",
+      "source_capture": "https://www.reddit.com/r/wp7/comments/p9opj/tgif_baconit_15_the_most_amazing_version_of/",
+      "gaps": [
+        "Recovered 68 comment records; the archived post reports 66. Counts come from different archive observations and cannot establish complete recovery.",
+        "3 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-baconit-free-donation-2012/snapshot.json"
+      ],
+      "comment_count": 68,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Baconit",
+      "title": "Baconit pays homage to the Blue Screen of Death for its WP8 April Fool's",
+      "url": "https://www.phonearena.com/news/Baconit-pays-homage-to-the-Blue-Screen-of-Death-for-its-WP8-April-Fools_id41388",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/phonearena-baconit-april-fools-2013.md",
+      "asset_directories": [
+        "docs/assets/media/phonearena-baconit-april-fools-2013"
+      ],
+      "method": "Wayback page capture, with the source timestamp and any restored assets recorded in provenance.",
+      "captured": "2026-10-18T17:15:24.876Z",
+      "source_capture": "https://web.archive.org/web/20130403083009/http://www.phonearena.com/news/Baconit-pays-homage-to-the-Blue-Screen-of-Death-for-its-WP8-April-Fools_id41388",
+      "gaps": [
+        "Some non-article sidebar thumbnails and decorative assets are unavailable. The two article illustrations were restored from the same article’s May 8, 2026 Wayback capture."
+      ],
+      "provenance_files": [
+        "docs/assets/media/phonearena-baconit-april-fools-2013/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Baconit Update 4.7 — The Editing Update",
+      "url": "https://www.reddit.com/r/baconit/comments/40z2kj/baconit_update_47_the_editing_update/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-baconit-editing-2016.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-baconit-editing-2016"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:05.921514+00:00",
+      "source_capture": "https://www.reddit.com/r/baconit/comments/40z2kj/baconit_update_47_the_editing_update/",
+      "gaps": [
+        "Recovered 49 comment records; the archived post reports 47. Counts come from different archive observations and cannot establish complete recovery.",
+        "2 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-baconit-editing-2016/snapshot.json"
+      ],
+      "comment_count": 49,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Baconit",
+      "title": "BaconSync Beta for Baconit in the works",
+      "url": "https://www.windowscentral.com/baconsync-beta-baconit-try-saying-it-five-times-fast-works",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/windowscentral-baconsync-beta-2012.md",
+      "asset_directories": [
+        "docs/assets/media/windowscentral-baconsync-beta-2012"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:03:27.078Z",
+      "source_capture": "https://www.windowscentral.com/baconsync-beta-baconit-try-saying-it-five-times-fast-works",
+      "gaps": [
+        "The article is readable. Some ads or unrelated sections were removed; current recommendations or video placeholders can remain.",
+        "YouTube videos are represented by links or thumbnails; video files were not downloaded."
+      ],
+      "provenance_files": [
+        "docs/assets/media/windowscentral-baconsync-beta-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Crowning the Big App on Campus: Meet 4 fantastic student-made apps",
+      "url": "https://web.archive.org/web/20120325195437/http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2012/03/22/crowning-the-big-app-on-campus-meet-4-fantastic-student-made-apps.aspx",
+      "related_urls": [],
+      "status": "existing",
+      "page": "docs/media/windows-phone-blog-big-app-on-campus-2012.md",
+      "asset_directories": [
+        "docs/assets/media/windows-phone-blog-big-app-on-campus-2012"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T03:31:02.191Z",
+      "source_capture": "https://web.archive.org/web/20120325195437/http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2012/03/22/crowning-the-big-app-on-campus-meet-4-fantastic-student-made-apps.aspx",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/windows-phone-blog-big-app-on-campus-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Hands on with Baconit for Xbox One, one of Windows 10's best Reddit apps",
+      "url": "https://www.windowscentral.com/hands-baconit-xbox-one-one",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/windowscentral-baconit-xbox-hands-on-2016.md",
+      "asset_directories": [
+        "docs/assets/media/windowscentral-baconit-xbox-hands-on-2016"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:05:03.182Z",
+      "source_capture": "https://www.windowscentral.com/hands-baconit-xbox-one-one",
+      "gaps": [
+        "The article is readable. Some ads or unrelated sections were removed; current recommendations or video placeholders can remain.",
+        "YouTube videos are represented by links or thumbnails; video files were not downloaded."
+      ],
+      "provenance_files": [
+        "docs/assets/media/windowscentral-baconit-xbox-hands-on-2016/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Meet Microsoft Developer Quinn Damerell",
+      "url": "https://web.archive.org/web/20130131040306/http://blogs.technet.com/b/student/archive/2012/12/19/meet-microsoft-developer-quinn-damerell.aspx",
+      "related_urls": [],
+      "status": "existing",
+      "page": "docs/media/microsoft-student-blog-2012.md",
+      "asset_directories": [
+        "docs/assets/media/microsoft-student-blog-2012"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T03:34:36.158Z",
+      "source_capture": "https://web.archive.org/web/20130131040306/http://blogs.technet.com/b/student/archive/2012/12/19/meet-microsoft-developer-quinn-damerell.aspx",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/microsoft-student-blog-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Meet Quinn Damerell: From developing for Windows Phone to being hired at Microsoft",
+      "url": "https://web.archive.org/web/20130815160449/http://blogs.technet.com/b/student/archive/2012/05/15/meet-quinn-damerell-from-developing-for-windows-phone-to-being-hired-at-microsoft-quinn-tells-all.aspx",
+      "related_urls": [],
+      "status": "existing",
+      "page": "docs/media/microsoft-student-blog-guest-post-2012.md",
+      "asset_directories": [
+        "docs/assets/media/microsoft-student-blog-guest-post-2012"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T04:16:36.402Z",
+      "source_capture": "https://web.archive.org/web/20130815160449/http://blogs.technet.com/b/student/archive/2012/05/15/meet-quinn-damerell-from-developing-for-windows-phone-to-being-hired-at-microsoft-quinn-tells-all.aspx",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/microsoft-student-blog-guest-post-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Microsoft's Windows Phone student developers: building an ecosystem",
+      "url": "https://www.theverge.com/2012/3/29/2908965/microsoft-windows-phone-student-developers-building-ecosystem",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/theverge-windows-phone-students-2012.md",
+      "asset_directories": [
+        "docs/assets/media/theverge-windows-phone-students-2012"
+      ],
+      "method": "Wayback page capture, with the source timestamp and any restored assets recorded in provenance.",
+      "captured": "2026-10-18T17:15:24.876Z",
+      "source_capture": "https://web.archive.org/web/20120330232025/http://www.theverge.com/2012/3/29/2908965/microsoft-windows-phone-student-developers-building-ecosystem",
+      "gaps": [
+        "Ten article photographs were restored from the publisher’s current image host into the 2012 article layout. Some peripheral decorative assets may be unavailable."
+      ],
+      "provenance_files": [
+        "docs/assets/media/theverge-windows-phone-students-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Quinn Damerell: App developer bringing home the Baconit",
+      "url": "https://blogs.windows.com/devices/2012/07/23/quinn-damerell-app-developer-bringing-home-the-baconit/",
+      "related_urls": [
+        "https://web.archive.org/web/*/https://blogs.windows.com/devices/2012/07/23/quinn-damerell-app-developer-bringing-home-the-baconit/"
+      ],
+      "status": "existing",
+      "page": "docs/media/windows-blog-baconit-2012.md",
+      "asset_directories": [
+        "docs/assets/media/windows-blog-baconit-2012"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T03:39:36.267Z",
+      "source_capture": "https://blogs.windows.com/devices/2012/07/23/quinn-damerell-app-developer-bringing-home-the-baconit/",
+      "gaps": [
+        "The three original interview photographs were already broken and remain unrecovered; the existing article text is preserved."
+      ],
+      "provenance_files": [
+        "docs/assets/media/windows-blog-baconit-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Reddit users, your Baconit is here",
+      "url": "https://www.windowscentral.com/reddit-users-your-baconit-here",
+      "related_urls": [
+        "https://web.archive.org/web/*/https://www.windowscentral.com/reddit-users-your-baconit-here"
+      ],
+      "status": "existing",
+      "page": "docs/media/windowscentral-baconit-launch-2011.md",
+      "asset_directories": [
+        "docs/assets/media/windowscentral-baconit-launch-2011"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T04:39:17.606Z",
+      "source_capture": "https://www.windowscentral.com/reddit-users-your-baconit-here",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/windowscentral-baconit-launch-2011/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "Review: Baconit (Reddit Client)",
+      "url": "https://allaboutwindowsphone.com/reviews/item/14197_Baconit_Reddit_Client.php",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/allaboutwindowsphone-baconit-review-2012.md",
+      "asset_directories": [
+        "docs/assets/media/allaboutwindowsphone-baconit-review-2012"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:07:50.057Z",
+      "source_capture": "https://allaboutwindowsphone.com/reviews/item/14197_Baconit_Reddit_Client.php",
+      "gaps": [
+        "The full review and its contemporary screenshots are retained. Interactive site controls are inactive."
+      ],
+      "provenance_files": [
+        "docs/assets/media/allaboutwindowsphone-baconit-review-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "title": "WinSource Interview: Quinn Damerell of Baconit",
+      "url": "https://web.archive.org/web/20120413180410/http://winsource.com/2012/04/12/winsource-interview-quinn-damerell-of-baconit/",
+      "related_urls": [],
+      "status": "existing",
+      "page": "docs/media/winsource-baconit-2012.md",
+      "asset_directories": [
+        "docs/assets/media/winsource-baconit-2012"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T03:32:54.944Z",
+      "source_capture": "https://web.archive.org/web/20120413180410/http://winsource.com/2012/04/12/winsource-interview-quinn-damerell-of-baconit/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/winsource-baconit-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "Crack the Whip",
+      "title": "Quinn discusses Crack the Whip's device compatibility",
+      "url": "https://www.reddit.com/r/windowsphone/comments/ulxfp/comment/c4wkt3k/",
+      "related_urls": [
+        "https://www.reddit.com/r/windowsphone/comments/ulxfp/"
+      ],
+      "status": "saved",
+      "page": "docs/media/reddit-crack-the-whip-2012.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-crack-the-whip-2012"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:05.926803+00:00",
+      "source_capture": "https://www.reddit.com/r/windowsphone/comments/ulxfp/100000_apps_published_to_windows_phone_marketplace/",
+      "gaps": [
+        "Recovered 20 comment records; the archived post reports 18. Counts come from different archive observations and cannot establish complete recovery.",
+        "2 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-crack-the-whip-2012/snapshot.json"
+      ],
+      "comment_count": 20,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "CrossTxT",
+      "title": "CrossTxT Bridges the Gap Between Phone and Computer for Easy Texting — Regardless of Browser",
+      "url": "https://www.androidpolice.com/2011/05/22/review-crosstxt-bridges-the-gap-between-phone-and-computer-for-easy-texting-regardless-of-browser/",
+      "related_urls": [
+        "https://www.androidpolice.com/2011/05/22/review-crosstxt-bridges-the-gap-between-phone-and-computer-for-easy-texting-regardless-of-browser/#app-feedback"
+      ],
+      "status": "saved",
+      "page": "docs/media/androidpolice-crosstxt-review-2011.md",
+      "asset_directories": [
+        "docs/assets/media/androidpolice-crosstxt-review-2011"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:08:56.558Z",
+      "source_capture": "https://www.androidpolice.com/2011/05/22/review-crosstxt-bridges-the-gap-between-phone-and-computer-for-easy-texting-regardless-of-browser/",
+      "gaps": [
+        "The original interface images and developer Q&A are retained, but JavaScript gallery controls are inactive and some duplicate thumbnail variants are unavailable."
+      ],
+      "provenance_files": [
+        "docs/assets/media/androidpolice-crosstxt-review-2011/snapshot.json"
+      ]
+    },
+    {
+      "project": "CrossTxT",
+      "title": "CrossTxT closed-beta experience in the DeskDroid discussion",
+      "url": "https://www.reddit.com/r/Android/comments/gs4nd/comment/c1pwip5/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-crosstxt-beta-2011.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-crosstxt-beta-2011"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:05.959573+00:00",
+      "source_capture": "https://www.reddit.com/r/Android/comments/gs4nd/deskdroid_sms_from_your_android_phone_in_a_web/",
+      "gaps": [
+        "Recovered 125 comment records; the archived post reports 120. Counts come from different archive observations and cannot establish complete recovery.",
+        "5 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-crosstxt-beta-2011/snapshot.json"
+      ],
+      "comment_count": 125,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "CrossTxT",
+      "title": "Tu ordenador y tu Android conectados para tus SMS con CrossTxT",
+      "url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20110523/ordenador-android-conectados-sms-crosstxt/10249182_0.html",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/elandroidelibre-crosstxt-2011.md",
+      "asset_directories": [
+        "docs/assets/media/elandroidelibre-crosstxt-2011"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:14:57.092Z",
+      "source_capture": "https://www.elespanol.com/elandroidelibre/aplicaciones/20110523/ordenador-android-conectados-sms-crosstxt/10249182_0.html",
+      "gaps": [
+        "The consent overlay was removed for readability. Some unrelated navigation or promotional icons are unavailable."
+      ],
+      "provenance_files": [
+        "docs/assets/media/elandroidelibre-crosstxt-2011/snapshot.json"
+      ]
+    },
+    {
+      "project": "CrossTxT / Gathr / PurdueBus",
+      "title": "Bryan Ehrlich's co-creator account of CrossTxT, Gathr, and PurdueBus",
+      "url": "https://bryanehrlich.com/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/bryanehrlich-project-portfolio-2026.md",
+      "asset_directories": [
+        "docs/assets/media/bryanehrlich-project-portfolio-2026"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:11:00.376Z",
+      "source_capture": "https://bryanehrlich.com/",
+      "gaps": [
+        "Original JavaScript tab behavior is replaced by a static expanded layout.",
+        "The unused Glyphicons font declaration and external favicon were omitted; original files remain referenced in as-captured.html.",
+        "Linked resume PDF and external destinations are references, not copied by this portfolio capture."
+      ],
+      "provenance_files": [
+        "docs/assets/media/bryanehrlich-project-portfolio-2026/snapshot.json",
+        "docs/assets/media/bryanehrlich-project-portfolio-2026/manifest.json"
+      ]
+    },
+    {
+      "project": "Glow",
+      "title": "Glow — original Hackster project article",
+      "url": "https://www.hackster.io/5770/glow-f9adae",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/hackster-glow-2015.md",
+      "asset_directories": [
+        "docs/assets/media/hackster-glow-2015"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:11:30.399Z",
+      "source_capture": "https://www.hackster.io/5770/glow-f9adae",
+      "gaps": [
+        "The article body, project images, and six displayed comments are retained. Interactive gallery behavior and every gallery slide are not guaranteed by this static capture.",
+        "YouTube videos are represented by links or thumbnails; video files were not downloaded."
+      ],
+      "provenance_files": [
+        "docs/assets/media/hackster-glow-2015/snapshot.json"
+      ]
+    },
+    {
+      "project": "Homeway",
+      "title": "fricklr / nachbelichtet: hands-on Homeway review (2025)",
+      "url": "https://fricklr.com/de/ist-homeway-io-eine-guenstigere-alternative-zu-nabu-casa-wenn-es-um-home-assistant-geht/",
+      "related_urls": [
+        "https://fricklr.com/en/is-homeway-io-a-cheaper-alternative-to-nabu-casa-when-it-comes-to-home-assistant/"
+      ],
+      "status": "saved",
+      "page": "docs/media/fricklr-homeway-review-2025.md",
+      "asset_directories": [
+        "docs/assets/media/fricklr-homeway-review-2025",
+        "docs/assets/media/fricklr-homeway-review-english-2025"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:07:04.773Z",
+      "source_capture": "https://fricklr.com/de/ist-homeway-io-eine-guenstigere-alternative-zu-nabu-casa-wenn-es-um-home-assistant-geht/",
+      "gaps": [
+        "Script-loaded reader comments are not included.",
+        "The source incorrectly attributes Mainsail, Fluidd, and Moonraker to Quinn; the wrapper explicitly corrects this.",
+        "One publisher image URL currently serves an unrelated mower graphic; that supplied image is retained, not replaced with an inferred original.",
+        "The source includes an unrendered affiliate-plugin diagnostic; no article prose was changed."
+      ],
+      "provenance_files": [
+        "docs/assets/media/fricklr-homeway-review-2025/snapshot.json",
+        "docs/assets/media/fricklr-homeway-review-2025/manifest.json",
+        "docs/assets/media/fricklr-homeway-review-2025/resource-manifest.json",
+        "docs/assets/media/fricklr-homeway-review-english-2025/snapshot.json",
+        "docs/assets/media/fricklr-homeway-review-english-2025/manifest.json",
+        "docs/assets/media/fricklr-homeway-review-english-2025/resource-manifest.json"
+      ]
+    },
+    {
+      "project": "Homeway",
+      "title": "Homeway companion-app discussion and developer security replies (February 2024)",
+      "url": "https://www.reddit.com/r/homeassistant/comments/1b0x4x8/companion_app_question/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-homeway-companion-2024.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-homeway-companion-2024"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:05.972770+00:00",
+      "source_capture": "https://www.reddit.com/r/homeassistant/comments/1b0x4x8/companion_app_question/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-homeway-companion-2024/snapshot.json"
+      ],
+      "comment_count": 15,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Homeway",
+      "title": "Homeway launch press release (April 2024)",
+      "url": "https://www.newsfilecorp.com/release/200359/Homeway-Launches-New-Remote-Access-Solution-for-Home-Assistant-Enthusiasts",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/newsfile-homeway-launch-2024.md",
+      "asset_directories": [
+        "docs/assets/media/newsfile-homeway-launch-2024"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:08:34.945Z",
+      "source_capture": "https://www.newsfilecorp.com/release/200359/Homeway-Launches-New-Remote-Access-Solution-for-Home-Assistant-Enthusiasts",
+      "gaps": [
+        "Company press release distributed by Newsfile; not independent reporting.",
+        "Cookie interface and sidebar removed; original article text and image retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/newsfile-homeway-launch-2024/snapshot.json",
+        "docs/assets/media/newsfile-homeway-launch-2024/manifest.json",
+        "docs/assets/media/newsfile-homeway-launch-2024/resource-manifest.json"
+      ]
+    },
+    {
+      "project": "Homeway",
+      "title": "Introducing Homeway: early creator Q&A (January 2024)",
+      "url": "https://www.reddit.com/r/selfhosted/comments/18xyenl/introducing_homeway_a_free_secure_tunnel_for/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-homeway-introduction-2024.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-homeway-introduction-2024"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.012799+00:00",
+      "source_capture": "https://www.reddit.com/r/selfhosted/comments/18xyenl/introducing_homeway_a_free_secure_tunnel_for/",
+      "gaps": [
+        "The project source records that moderators later removed the Homeway introduction. This archive retains the earlier post body observed on 2024-01-04 00:01:12 UTC; it does not imply the original post remains visible today.",
+        "Recovered 94 comment records; the archived post reports 42. Counts come from different archive observations and cannot establish complete recovery."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-homeway-introduction-2024/snapshot.json"
+      ],
+      "comment_count": 94,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Homeway",
+      "title": "Neil Turner: Homeway — easy remote access to Home Assistant (2025)",
+      "url": "https://neilturner.me.uk/2025/02/23/homeway-easy-remote-access-to-home-assistant/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/neil-turner-homeway-review-2025.md",
+      "asset_directories": [
+        "docs/assets/media/neil-turner-homeway-review-2025"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:12:30.475Z",
+      "source_capture": "https://neilturner.me.uk/2025/02/23/homeway-easy-remote-access-to-home-assistant/",
+      "gaps": [
+        "Interactive forms are inactive in the static copy; one displayed reader comment is retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/neil-turner-homeway-review-2025/snapshot.json",
+        "docs/assets/media/neil-turner-homeway-review-2025/manifest.json",
+        "docs/assets/media/neil-turner-homeway-review-2025/resource-manifest.json"
+      ]
+    },
+    {
+      "project": "Liquid Physics",
+      "title": "Android Testers Needed!! — Epically Xoom Users",
+      "url": "https://www.reddit.com/r/Android/comments/g2rxw/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-liquid-physics-testing-2011.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-liquid-physics-testing-2011"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.026858+00:00",
+      "source_capture": "https://www.reddit.com/r/Android/comments/g2rxw/android_testers_needed_epically_xoom_users/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-liquid-physics-testing-2011/snapshot.json"
+      ],
+      "comment_count": 31,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Liquid Physics",
+      "title": "Liquid Physics Live Wallpaper — original January 2011 announcement",
+      "url": "https://www.reddit.com/r/Android/comments/f0j1h/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-liquid-physics-launch-2011.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-liquid-physics-launch-2011"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.033308+00:00",
+      "source_capture": "https://www.reddit.com/r/Android/comments/f0j1h/liquid_physics_live_wallpaper_an_awesome_liquid/",
+      "gaps": [
+        "No comments were returned by the public archive tree or comment search. This is not proof that the original discussion had no comments."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-liquid-physics-launch-2011/snapshot.json"
+      ],
+      "comment_count": 0,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Liquid Physics",
+      "title": "Weekendowa porcja gier i aplikacji (15.01.11)",
+      "url": "https://android.com.pl/aplikacje/1662-weekendowa-porcja-gier-i-aplikacji-150111/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/androidpl-liquid-physics-2011.md",
+      "asset_directories": [
+        "docs/assets/media/androidpl-liquid-physics-2011"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:12:35.581Z",
+      "source_capture": "https://android.com.pl/aplikacje/1662-weekendowa-porcja-gier-i-aplikacji-150111/",
+      "gaps": [
+        "The complete roundup and Liquid Physics entry are retained. The source also loaded unrelated current articles, which remain after the target article in the snapshot.",
+        "YouTube videos are represented by links or thumbnails; video files were not downloaded."
+      ],
+      "provenance_files": [
+        "docs/assets/media/androidpl-liquid-physics-2011/snapshot.json"
+      ]
+    },
+    {
+      "project": "Next Bus",
+      "title": "Quinn introduces Next Bus to a Purdue Windows Phone user",
+      "url": "https://www.reddit.com/r/Purdue/comments/qg05i/comment/c3xv7sw/",
+      "related_urls": [
+        "https://www.reddit.com/r/Purdue/comments/qg05i/"
+      ],
+      "status": "saved",
+      "page": "docs/media/reddit-next-bus-introduction-2012.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-next-bus-introduction-2012"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.039374+00:00",
+      "source_capture": "https://www.reddit.com/r/Purdue/comments/qg05i/my_app_baconit_is_going_head_to_head_with_other/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-next-bus-introduction-2012/snapshot.json"
+      ],
+      "comment_count": 4,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "3DP and Me: Remote printer access for Klipper — OctoEverywhere (2023)",
+      "url": "https://3dpandme.wordpress.com/2023/04/05/remote-printer-access-for-klipper-octoeverywhere/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/3dp-and-me-octoeverywhere-klipper-2023.md",
+      "asset_directories": [
+        "docs/assets/media/3dp-and-me-octoeverywhere-klipper-2023"
+      ],
+      "method": "Reconstructed static reading copy from the official WordPress.com public post API, not a visual capture of the original layout.",
+      "captured": "2026-10-18T17:11:14.977322+00:00",
+      "source_capture": "https://3dpandme.wordpress.com/2023/04/05/remote-printer-access-for-klipper-octoeverywhere/",
+      "gaps": [
+        "Original page layout unavailable; original site returned an access check."
+      ],
+      "provenance_files": [
+        "docs/assets/media/3dp-and-me-octoeverywhere-klipper-2023/snapshot.json",
+        "docs/assets/media/3dp-and-me-octoeverywhere-klipper-2023/manifest.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "All About Bambu: OctoEverywhere developer interview (2025)",
+      "url": "https://web.archive.org/web/20260211065416/https://www.allaboutbambu.com/2025/02/09/octoeverywhere-developer-interview/",
+      "related_urls": [],
+      "status": "existing",
+      "page": "docs/media/allaboutbambu-octoeverywhere-2025.md",
+      "asset_directories": [
+        "docs/assets/media/allaboutbambu-octoeverywhere-2025"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused.",
+      "captured": "2026-10-18T03:36:15.908Z",
+      "source_capture": "https://web.archive.org/web/20260211065416/https://www.allaboutbambu.com/2025/02/09/octoeverywhere-developer-interview/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/allaboutbambu-octoeverywhere-2025/snapshot.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "An intelligent cloud monitoring system for multiple 3D printers based on IoT (2024)",
+      "url": "https://bura.brunel.ac.uk/handle/2438/30886",
+      "related_urls": [
+        "https://bura.brunel.ac.uk/bitstream/2438/30886/3/FullText.pdf"
+      ],
+      "status": "saved",
+      "page": "docs/media/brunel-octoeverywhere-2024.md",
+      "asset_directories": [
+        "docs/assets/media/brunel-octoeverywhere-2024"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata. Complete research PDF saved unchanged alongside the repository record.",
+      "captured": "2026-10-18T17:03:27.510Z",
+      "source_capture": "https://bura.brunel.ac.uk/handle/2438/30886",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/brunel-octoeverywhere-2024/snapshot.json",
+        "docs/assets/media/brunel-octoeverywhere-2024/paper.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Announcing OctoEverywhere for Bambu Lab 3D printers (2024)",
+      "url": "https://www.reddit.com/r/BambuLab/comments/1cjh8qv/announcing_octoeverywhere_for_bambu_lab_3d/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-octoeverywhere-bambu-launch-2024.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-octoeverywhere-bambu-launch-2024"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.119562+00:00",
+      "source_capture": "https://www.reddit.com/r/BambuLab/comments/1cjh8qv/announcing_octoeverywhere_for_bambu_lab_3d/",
+      "gaps": [
+        "Recovered 309 comment records; the archived post reports 213. Counts come from different archive observations and cannot establish complete recovery.",
+        "2 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-octoeverywhere-bambu-launch-2024/snapshot.json"
+      ],
+      "comment_count": 309,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Computer Vision for Monitoring of 3D Printing — Brno thesis (2025)",
+      "url": "https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=279332",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/brno-computer-vision-2025.md",
+      "asset_directories": [
+        "docs/assets/media/brno-computer-vision-2025"
+      ],
+      "method": "Complete original PDF downloaded unchanged; SHA-256 and source URL retained.",
+      "captured": "2026-10-18T17:03:11.909011+00:00",
+      "source_capture": "https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=279332",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/brno-computer-vision-2025/paper.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Hanselminutes 845: 3D printers work everywhere with OctoEverywhere (2022)",
+      "url": "https://hanselminutes.com/845/3d-printers-work-everywhere-with-octoeverywhere-and-quinn-damerell",
+      "related_urls": [
+        "https://cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/c14eda12-af77-4d17-bbe4-5256c06c00fd/audio/81f472cb-d061-4102-8f66-a7629f944b2c/default_tc.mp3",
+        "https://web.archive.org/web/*/https://hanselminutes.com/845/3d-printers-work-everywhere-with-octoeverywhere-and-quinn-damerell"
+      ],
+      "status": "existing",
+      "page": "docs/media/hanselminutes-octoeverywhere-2022.md",
+      "asset_directories": [
+        "docs/assets/media/hanselminutes-octoeverywhere-2022"
+      ],
+      "method": "Existing local HTML, PDF, and screenshot reused. Linked MP3 now preserved in two consecutive stream-copy segments; rejoined stream checksum equals the original.",
+      "captured": "2026-10-18T03:37:58.575Z",
+      "source_capture": "https://hanselminutes.com/845/3d-printers-work-everywhere-with-octoeverywhere-and-quinn-damerell",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/hanselminutes-octoeverywhere-2022/snapshot.json",
+        "docs/assets/media/hanselminutes-octoeverywhere-2022/audio.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Manufactur3D: OctoEverywhere profile (2022)",
+      "url": "https://manufactur3dmag.com/octoeverywhere-know-popular-octoprint-plugin/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/manufactur3d-octoeverywhere-profile-2022.md",
+      "asset_directories": [
+        "docs/assets/media/manufactur3d-octoeverywhere-profile-2022"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:14:32.772Z",
+      "source_capture": "https://manufactur3dmag.com/octoeverywhere-know-popular-octoprint-plugin/",
+      "gaps": [
+        "Current page carries later 2023 headline wording despite the 2022 publication date.",
+        "Four source-hosted images reported generic application/octet-stream; downloaded and validated as images, with source URLs and SHA-256 recorded."
+      ],
+      "provenance_files": [
+        "docs/assets/media/manufactur3d-octoeverywhere-profile-2022/snapshot.json",
+        "docs/assets/media/manufactur3d-octoeverywhere-profile-2022/manifest.json",
+        "docs/assets/media/manufactur3d-octoeverywhere-profile-2022/resource-manifest.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Matthias Petrat: hands-on OctoEverywhere review (2022)",
+      "url": "https://www.matthias-petrat.com/octoeverywhere-dieser-dienst-macht-octoprint-am-3d-drucker-weltweit-zugaenglich/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/matthias-petrat-octoeverywhere-review-2022.md",
+      "asset_directories": [
+        "docs/assets/media/matthias-petrat-octoeverywhere-review-2022"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:14:09.539Z",
+      "source_capture": "https://www.matthias-petrat.com/octoeverywhere-dieser-dienst-macht-octoprint-am-3d-drucker-weltweit-zugaenglich/",
+      "gaps": [
+        "Cookie overlay and promotional blocks omitted; article and screenshots retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/matthias-petrat-octoeverywhere-review-2022/snapshot.json",
+        "docs/assets/media/matthias-petrat-octoeverywhere-review-2022/manifest.json",
+        "docs/assets/media/matthias-petrat-octoeverywhere-review-2022/resource-manifest.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "OctoEverywhere public beta invitation (November 2020)",
+      "url": "https://www.reddit.com/r/octoprint/comments/k3b892/looking_for_beta_testers_octoeverywhere_access/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-octoeverywhere-beta-2020.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-octoeverywhere-beta-2020"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.144772+00:00",
+      "source_capture": "https://www.reddit.com/r/octoprint/comments/k3b892/looking_for_beta_testers_octoeverywhere_access/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-octoeverywhere-beta-2020/snapshot.json"
+      ],
+      "comment_count": 21,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "OctoEverywhere: first public alpha announcement (August 2020)",
+      "url": "https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/octoprint-forum-octoeverywhere-alpha-2020.md",
+      "asset_directories": [
+        "docs/assets/media/octoprint-forum-octoeverywhere-alpha-2020"
+      ],
+      "method": "Static transcript of all 13 forum posts recovered from the verified March 3, 2026 Wayback payload; original layout replaced with a labeled reading copy.",
+      "captured": "2026-10-18T17:09:57.562Z",
+      "source_capture": "https://web.archive.org/web/20260303021551/https://community.octoprint.org/t/new-plugin-octoeverywhere-looking-for-alpha-testers/22755",
+      "gaps": [
+        "Readable transcript, not original forum appearance.",
+        "All 13 posts present in the verified March 3, 2026 capture are preserved; later or deleted content absent from that capture is not included.",
+        "Avatar images and interactive controls omitted; emoji shown as source alt text."
+      ],
+      "provenance_files": [
+        "docs/assets/media/octoprint-forum-octoeverywhere-alpha-2020/snapshot.json",
+        "docs/assets/media/octoprint-forum-octoeverywhere-alpha-2020/manifest.json"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "title": "Possibilities of Automating the Additive Manufacturing Process of Material Extrusion — MEX (2024)",
+      "url": "https://hrcak.srce.hr/en/319190",
+      "related_urls": [
+        "https://pdfs.semanticscholar.org/9263/eed00ef6d537545a77e5350be74947ccd038.pdf"
+      ],
+      "status": "saved",
+      "page": "docs/media/mex-octoeverywhere-2024.md",
+      "asset_directories": [
+        "docs/assets/media/mex-octoeverywhere-2024"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata. Complete research PDF saved unchanged alongside the repository record.",
+      "captured": "2026-10-18T17:03:27.516Z",
+      "source_capture": "https://hrcak.srce.hr/en/319190",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/mex-octoeverywhere-2024/snapshot.json",
+        "docs/assets/media/mex-octoeverywhere-2024/paper.json"
+      ]
+    },
+    {
+      "project": "Purdue Menu",
+      "title": "Android app for dining court menus — The Original App",
+      "url": "https://www.reddit.com/r/Purdue/comments/jm1bs/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-purdue-menu-launch-2011.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-purdue-menu-launch-2011"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.152005+00:00",
+      "source_capture": "https://www.reddit.com/r/Purdue/comments/jm1bs/android_app_for_dining_court_menus_the_original/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-purdue-menu-launch-2011/snapshot.json"
+      ],
+      "comment_count": 2,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Reddit Time Machine",
+      "title": "Reddit I Present To You: Reddit Time Machine",
+      "url": "https://www.reddit.com/r/reddit.com/comments/cb7lr/reddit_i_present_to_you_reddit_time_machine_a/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-reddit-time-machine-launch-2010.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-reddit-time-machine-launch-2010"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.156079+00:00",
+      "source_capture": "https://www.reddit.com/r/reddit.com/comments/cb7lr/reddit_i_present_to_you_reddit_time_machine_a/",
+      "gaps": [
+        "No comments were returned by the public archive tree or comment search. This is not proof that the original discussion had no comments."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-reddit-time-machine-launch-2010/snapshot.json"
+      ],
+      "comment_count": 0,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Thinking of You",
+      "title": "Check out my newest app Thinking of You",
+      "url": "https://www.reddit.com/r/windowsphone/comments/uuy3d/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-thinking-of-you-launch-2012.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-thinking-of-you-launch-2012"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.166873+00:00",
+      "source_capture": "https://www.reddit.com/r/windowsphone/comments/uuy3d/check_out_my_newest_app_thinking_of_you_it_is_the/",
+      "gaps": [
+        "Recovered 26 comment records; the archived post reports 25. Counts come from different archive observations and cannot establish complete recovery.",
+        "1 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-thinking-of-you-launch-2012/snapshot.json"
+      ],
+      "comment_count": 26,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Thinking of You",
+      "title": "Show your loved one you care with Thinking of You messaging for Windows Phone",
+      "url": "https://www.windowscentral.com/show-your-loved-one-you-care-thinking-you-messaging",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/windowscentral-thinking-of-you-2012.md",
+      "asset_directories": [
+        "docs/assets/media/windowscentral-thinking-of-you-2012"
+      ],
+      "method": "Live page captured as static HTML, PDF, and screenshot, with source metadata.",
+      "captured": "2026-10-18T17:13:22.434Z",
+      "source_capture": "https://www.windowscentral.com/show-your-loved-one-you-care-thinking-you-messaging",
+      "gaps": [
+        "The article is readable. Some ads or unrelated sections were removed; current recommendations or video placeholders can remain."
+      ],
+      "provenance_files": [
+        "docs/assets/media/windowscentral-thinking-of-you-2012/snapshot.json"
+      ]
+    },
+    {
+      "project": "TxTBack",
+      "title": "Dear Reddit I give you TxtBack — relaunch and operational Q&A",
+      "url": "https://www.reddit.com/r/reddit.com/comments/atmxj/dear_reddit_i_give_you_txtback_like_omegle_a_free/",
+      "related_urls": [
+        "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jbw70/",
+        "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jc4hf/",
+        "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jc404/",
+        "https://www.reddit.com/r/reddit.com/comments/atmxj/comment/c0jcd8b/"
+      ],
+      "status": "saved",
+      "page": "docs/media/reddit-txtback-relaunch-2010.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-txtback-relaunch-2010"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.181139+00:00",
+      "source_capture": "https://www.reddit.com/r/reddit.com/comments/atmxj/dear_reddit_i_give_you_txtback_like_omegle_a_free/",
+      "gaps": [
+        "Recovered 44 comment records; the archived post reports 41. Counts come from different archive observations and cannot establish complete recovery.",
+        "3 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "provenance_files": [
+        "docs/assets/media/reddit-txtback-relaunch-2010/snapshot.json"
+      ],
+      "comment_count": 44,
+      "missing_cited_comment_ids": []
+    },
+    {
+      "project": "Zune Playlist Shuffler",
+      "title": "I made a shuffler for myself, and thought i would share it for others",
+      "url": "https://www.reddit.com/r/Zune/comments/bxcwu/",
+      "related_urls": [],
+      "status": "saved",
+      "page": "docs/media/reddit-zune-shuffler-launch-2010.md",
+      "asset_directories": [
+        "docs/assets/media/reddit-zune-shuffler-launch-2010"
+      ],
+      "method": "Static post and threaded-comment transcript recovered from the public Arctic Shift archive; raw records and coverage metadata retained.",
+      "captured": "2026-10-18T17:14:06.187401+00:00",
+      "source_capture": "https://www.reddit.com/r/Zune/comments/bxcwu/i_made_a_shuffler_for_myself_and_thought_i_would/",
+      "gaps": [],
+      "provenance_files": [
+        "docs/assets/media/reddit-zune-shuffler-launch-2010/snapshot.json"
+      ],
+      "comment_count": 1,
+      "missing_cited_comment_ids": []
+    }
+  ],
+  "supplements": [
+    {
+      "page": "docs/media/reddit-baconit-april-fools-comments-2013.md",
+      "comment_count": 17,
+      "purpose": "Adds recovered comments beside the unchanged earlier photo/page snapshot.",
+      "gaps": [
+        "The older preserved page referenced 15 comments; this public archive's post record reports 16 and its comment tree returns 17. These are separate archive observations, not a claim to have recovered an exact historical count.",
+        "Recovered 17 comment records; the archived post reports 16. Counts come from different archive observations and cannot establish complete recovery.",
+        "1 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+      ],
+      "deleted_removed_empty_records": 1,
+      "provenance_files": [
+        "docs/assets/media/reddit-baconit-april-fools-comments-2013/snapshot.json"
+      ],
+      "method": "Static Reddit post and threaded-comment transcript recovered from Arctic Shift."
+    }
+  ],
+  "validation_reports": [
+    "archive-build-validation.json",
+    "capture-early-validation.json",
+    "capture-modern-results.json",
+    "modern-pdf-qa.json",
+    "reddit-structural-qa.json",
+    "reddit-visual-qa.json"
+  ],
+  "validation": {
+    "rewritten_citations_checked": 78,
+    "wrappers_checked": 47,
+    "linked_archive_assets_checked": 154,
+    "errors": [],
+    "media_index_and_navigation": "unchanged",
+    "site_build": "Passed: Zensical build, no issues found. --clean first encountered a Windows cache removal error; the subsequent normal build completed successfully.",
+    "git_lfs_check": "Passed: no pointer files in docs.",
+    "archive_asset_limit": "All files in retained source asset directories are below 25,000,000 bytes."
+  }
+}

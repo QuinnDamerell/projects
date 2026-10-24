@@ -1,0 +1,20 @@
+{
+  "url": "https://www.windowscentral.com/reddit-users-your-baconit-here",
+  "title": "Reddit users, your Baconit is here",
+  "site": "Windows Central",
+  "published": "2011-12-23T08:26:04Z",
+  "captured": "2026-10-18T04:39:17.606Z",
+  "restoredImages": [],
+  "removed": [
+    ".wcp-item-content > section:not(.content-wrapper)",
+    ".ad-unit",
+    ".dfp-leaderboard-container",
+    "[id^=slice-container-newsletterForm]",
+    "#upnext-ribbon",
+    ".bordeaux-generated-container",
+    "[class*=bordeaux-skin]",
+    ".infinite-container",
+    "#pressboard-ad-sponsorship-msg"
+  ],
+  "youtube": []
+}

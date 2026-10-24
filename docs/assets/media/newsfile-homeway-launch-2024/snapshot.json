@@ -1,0 +1,28 @@
+{
+  "url": "https://www.newsfilecorp.com/release/200359/Homeway-Launches-New-Remote-Access-Solution-for-Home-Assistant-Enthusiasts",
+  "title": "Homeway Launches New Remote Access Solution for Home Assistant Enthusiasts",
+  "site": "TMX Newsfile",
+  "published": null,
+  "captured": "2026-10-18T17:08:34.945Z",
+  "restoredImages": [],
+  "removed": [
+    "#cookie-consent-overlay",
+    "#cookie-consent-banner",
+    "#cookie-policy-modal",
+    ".nf-sidebar"
+  ],
+  "youtube": [],
+  "presentationAdjustments": [
+    "Removed the cookie-consent-open body state after omitting the consent interface, so the static article is not blurred. Article text was not changed."
+  ],
+  "automaticResources": "Local or data URLs only; see resource-manifest.json",
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 2885
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  }
+}

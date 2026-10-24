@@ -1,0 +1,56 @@
+{
+  "source_url": "https://bryanehrlich.com/",
+  "captured": "2026-10-18T17:11:00.376Z",
+  "purpose": "Original single-page portfolio with its hidden panels expanded for static access.",
+  "restoration": {
+    "restored_utc": "2026-10-18T17:18:19.075871+00:00",
+    "expanded_panels": [
+      "experience-hook",
+      "contact-hook"
+    ],
+    "navigation": "Original section menu and inline links now point to local panel anchors.",
+    "text": "All original source panel text preserved.",
+    "layout_changes": [
+      "Panels visible without JavaScript; menu placed in normal document flow.",
+      "System text fonts retained; unused Glyphicons font definition omitted.",
+      "Cursor animation disabled; contact spacer reduced; mobile padding reduced for readability.",
+      "Print stylesheet suppresses automatic appended outbound URLs while preserving clickable links."
+    ],
+    "resources_localized": [
+      {
+        "url": "https://bryanehrlich.com/static/bg_fall_final.jpg",
+        "final_url": "https://bryanehrlich.com/static/bg_fall_final.jpg",
+        "http_status": 200,
+        "file": "images/bg_fall_final.jpg",
+        "bytes": 345566,
+        "sha256": "ddf8021f981fbf9d830b96b94eddac25331f1fabffc0039902e182825afcb586"
+      }
+    ],
+    "original_capture_files": [
+      {
+        "file": "as-captured.html",
+        "sha256": "00cc0b22bf28ac867dd70bc8ea81cd85db8c8e21a52430448d1c4608c1219c03"
+      },
+      {
+        "file": "as-captured.pdf",
+        "sha256": "5940020c12649932621a7d10503ffaa2861338036249ac31f42216f9ae501d88"
+      },
+      {
+        "file": "as-captured.png",
+        "sha256": "c1f47bbc460ee2dc83592b7f616449a69f0b9a22ce34e94a34d74980c9aa2db5"
+      }
+    ],
+    "omitted_nonessential_resources": {
+      "unused_glyphicons_font_urls": [
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot?#iefix",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular"
+      ],
+      "favicon": "https://bryanehrlich.com/favicon.ico"
+    },
+    "snapshot_sha256": "dd76c67b70fad84e39af2cf4eeb20810dc491425fb3df41e8c975327e34e0318"
+  }
+}

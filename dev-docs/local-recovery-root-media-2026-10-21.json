@@ -1,0 +1,833 @@
+{
+  "copied": [
+    {
+      "source": "D:\\Project Archive\\Projects\\WhipCrack\\WhipCrack\\WhipCrack\\sounds\\WhipAndCrack.wav",
+      "destination": "docs/assets/crack-the-whip/WhipAndCrack.wav",
+      "bytes": 310568,
+      "sha256": "aa30b935bf5c606ccbd6bfce1fa4f14b06fd0ef66e4ee665306a615ea912e4b7"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\WhipCrack\\WhipCrack\\WhipCrack\\sounds\\Whip1.wav",
+      "destination": "docs/assets/crack-the-whip/Whip1.wav",
+      "bytes": 62032,
+      "sha256": "3c3121a95570527cf21235fbb0750d885fde076ae3244f8c6f1dfd7a9ee7f439"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\WhipCrack\\WhipCrack\\WhipCrack\\sounds\\Crack1.wav",
+      "destination": "docs/assets/crack-the-whip/Crack1.wav",
+      "bytes": 259248,
+      "sha256": "1946717b9ab7fbaff8545cfcdf0e05e9258a43aac0e3d918f0868d9819aa49f6"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\crosstxt\\alert.mp3",
+      "destination": "docs/assets/crosstxt/alert.mp3",
+      "bytes": 12564,
+      "sha256": "fc2d7414ea633484ce4679a99d27a24dffd07853c1a075261b998c97f2151544"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\crosstxt extension\\screenShot.png",
+      "destination": ".cache/local-recovery/crosstxt-extension.png",
+      "bytes": 156534,
+      "sha256": "ceddf185d813fd17e873dda0308dafcdb4e3ab79c343a405974f56f4be71e7ec"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\movies\\snowman_snow_fight.swf",
+      "destination": "docs/assets/early-experiments/animations/snowman-snow-fight.swf",
+      "bytes": 139687,
+      "sha256": "a36ac8bceed76d9b60428307f77c794676893cb2f5796e51849a051e69ddc896"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\movies\\3D.swf",
+      "destination": "docs/assets/early-experiments/animations/3d-stick-fight.swf",
+      "bytes": 390379,
+      "sha256": "4bc18e52ef4a176170adb6d85f15b89b5df23008033dbf078c6a353fc6569b72"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\movies\\BadDay1.swf",
+      "destination": "docs/assets/early-experiments/animations/bad-day.swf",
+      "bytes": 92282,
+      "sha256": "a1d9ce33f1d3ff1a62e48fd7ef688d0e81bc56b0ef577ec8e6761f6863025b62"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\stick1.swf",
+      "destination": "docs/assets/early-experiments/animations/stick-1.swf",
+      "bytes": 87671,
+      "sha256": "1f3f0928c04aaae3475ed510e122d210513873c7bed828bbbcf34032cfab47da"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\stick 2.swf",
+      "destination": "docs/assets/early-experiments/animations/stick-2.swf",
+      "bytes": 89339,
+      "sha256": "1a19802c565d502b0e21e1067709afb296f9cd122ba24875f90178932caaa031"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\account.png",
+      "destination": ".cache/local-recovery/baconit/1.2/account.png",
+      "bytes": 2294857,
+      "sha256": "2243fa2a77a5da1d1056156130b089988f52d243757d6e291581078fa39ca0ba"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\comments_self.png",
+      "destination": ".cache/local-recovery/baconit/1.2/comments_self.png",
+      "bytes": 1230673,
+      "sha256": "e831c60686b7440cc9749c909565352c47e6183e2cbd556039411ba1d8e4b372"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\frontPage.png",
+      "destination": ".cache/local-recovery/baconit/1.2/frontPage.png",
+      "bytes": 1115339,
+      "sha256": "ec324c1bce57539ca1c50d0919cfb1eeea89f0ae048524a88b17f113e5dde241"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\storyView.png",
+      "destination": ".cache/local-recovery/baconit/1.2/storyView.png",
+      "bytes": 2264559,
+      "sha256": "476ca472fb4c78c0c2a526b6ecf91df16b03e9aeec7ff873a23ebb8fef70fb93"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.2\\title_reddits.png",
+      "destination": ".cache/local-recovery/baconit/1.2/title_reddits.png",
+      "bytes": 1313647,
+      "sha256": "10c05b47e1e72f922ce0247abe77d744d51dd6ed80aab3b629368a9cb58bdf08"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\comment_details.png",
+      "destination": ".cache/local-recovery/baconit/1.3/comment_details.png",
+      "bytes": 754465,
+      "sha256": "e96dda5b883086b4da2e09b05efa19272ba3679eb5b5e8b469cbdd81c9eda517"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\comment_view.png",
+      "destination": ".cache/local-recovery/baconit/1.3/comment_view.png",
+      "bytes": 2699918,
+      "sha256": "f74f32e3640379293c6e257a37a70da189074e8a9dc71065f4b0baae99fdbe53"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\main_account.png",
+      "destination": ".cache/local-recovery/baconit/1.3/main_account.png",
+      "bytes": 1386913,
+      "sha256": "238e3b01c323d136a61cca6409a3c97728647c3d5e6d9ad61ba7f791c459015d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\main_reddits.png",
+      "destination": ".cache/local-recovery/baconit/1.3/main_reddits.png",
+      "bytes": 850803,
+      "sha256": "15f1e30174bd14af216283e68d387242f209efbe3ee7642f815a651ff612b300"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\subReddits.png",
+      "destination": ".cache/local-recovery/baconit/1.3/subReddits.png",
+      "bytes": 1971723,
+      "sha256": "9b885712eebce565d33f03fa4500d818d97239692c75439c19a621ef1e72344e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.3\\web_view.png",
+      "destination": ".cache/local-recovery/baconit/1.3/web_view.png",
+      "bytes": 2417069,
+      "sha256": "88b0f42453abcb33f3da186e3e9fb73daa807cebc4c271a0d9987e3cebeb0dad"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\account.png",
+      "destination": ".cache/local-recovery/baconit/1.4/account.png",
+      "bytes": 130322,
+      "sha256": "32bed4c515ccb137e40a6d24dcb83692a802ddedba06db4254a05589c659aebe"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\comments.png",
+      "destination": ".cache/local-recovery/baconit/1.4/comments.png",
+      "bytes": 133124,
+      "sha256": "b5339b6804d24fa4d1a2eed23f8339189854c05e9e5881ce1816e62641d2c95e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\comment_deta.png",
+      "destination": ".cache/local-recovery/baconit/1.4/comment_deta.png",
+      "bytes": 96895,
+      "sha256": "bd0cd660abbfe9dcbea813cc8f32ffac1ecaccfa95b241aaf9e0deb782b109a1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\light.png",
+      "destination": ".cache/local-recovery/baconit/1.4/light.png",
+      "bytes": 84037,
+      "sha256": "b742d04d27cb3941f24fc3f731e2322a5df530ffc633959d4f470c27c7abc61a"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\main_reddits.png",
+      "destination": ".cache/local-recovery/baconit/1.4/main_reddits.png",
+      "bytes": 143826,
+      "sha256": "89b462496fb646389994b8ba0dace2c369520284d07e0c77c2ab7a132958f4c5"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\messages.png",
+      "destination": ".cache/local-recovery/baconit/1.4/messages.png",
+      "bytes": 83181,
+      "sha256": "c83ba86be950a33b86c1c5b77932e131291f25a9d03ae0931158e77d756abfe2"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\submitLink.png",
+      "destination": ".cache/local-recovery/baconit/1.4/submitLink.png",
+      "bytes": 25185,
+      "sha256": "d16a37ffe1e350393c6bacbb8c4f7bf6a971cafbda1ad168e46bf7234007392a"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\subreddits.png",
+      "destination": ".cache/local-recovery/baconit/1.4/subreddits.png",
+      "bytes": 133254,
+      "sha256": "b5d086f013255b02908524d998b2fa603f4a7422f2c596f5611e17361c6c15d1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\sub_man.png",
+      "destination": ".cache/local-recovery/baconit/1.4/sub_man.png",
+      "bytes": 53178,
+      "sha256": "bb151c8ecab002891801adafa801872bc324c61cff42096868ee0aa19515fd4d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.4\\web.png",
+      "destination": ".cache/local-recovery/baconit/1.4/web.png",
+      "bytes": 198413,
+      "sha256": "b9125878a56ab2e438724a0f6474c4ebf4635230089ae159b331833a3f2586f1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\1.png",
+      "destination": ".cache/local-recovery/baconit/1.5/1.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\Account.png",
+      "destination": ".cache/local-recovery/baconit/1.5/Account.png",
+      "bytes": 135875,
+      "sha256": "67bfb5ec9cfd633f9cb101523c426f22c646c7c406aedb4523f4eeae0ea5cc0b"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\Comments.png",
+      "destination": ".cache/local-recovery/baconit/1.5/Comments.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\commentView.png",
+      "destination": ".cache/local-recovery/baconit/1.5/commentView.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\HomeScreen.png",
+      "destination": ".cache/local-recovery/baconit/1.5/HomeScreen.png",
+      "bytes": 108331,
+      "sha256": "0b6d96ba99c8844b7d1cb46a7eea9dbfb7e5ddd047a42c3ff57ab3b940af5f33"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\LiveTile.png",
+      "destination": ".cache/local-recovery/baconit/1.5/LiveTile.png",
+      "bytes": 233792,
+      "sha256": "86c19d2e53b4f81ab0933d1347f916cbdab2875ce425af8de1e4a79a629fd347"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\LiveTile2.png",
+      "destination": ".cache/local-recovery/baconit/1.5/LiveTile2.png",
+      "bytes": 183221,
+      "sha256": "f5e741e6d7c95526f034586e8b92d1470f7ccad76cee372267e0b90d28d09c66"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\login.png",
+      "destination": ".cache/local-recovery/baconit/1.5/login.png",
+      "bytes": 21255,
+      "sha256": "12eb73643ba54f41aaf72dfbafd5045724b004e68ca301b7330012d86896c256"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\MainScreen.png",
+      "destination": ".cache/local-recovery/baconit/1.5/MainScreen.png",
+      "bytes": 138619,
+      "sha256": "73220255fc3b689ba622783fd4d36e912d94b2b06c43a745dc8dcfdaa4385415"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\MessageDetails.png",
+      "destination": ".cache/local-recovery/baconit/1.5/MessageDetails.png",
+      "bytes": 72233,
+      "sha256": "7e16e566eb58daacf6e7f59af0a996d208782d076124a6516dcf661fa1e681e4"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\messageInbox.png",
+      "destination": ".cache/local-recovery/baconit/1.5/messageInbox.png",
+      "bytes": 99358,
+      "sha256": "7196549e4551a443e1e2c4d524db280271909eb5b3dafccb2f45141fa4705015"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\RedditViewer.png",
+      "destination": ".cache/local-recovery/baconit/1.5/RedditViewer.png",
+      "bytes": 122682,
+      "sha256": "919d0f37eec8a53dd2ec911a994dc3ae4d5ce9ac7bb138adf1510c8775fe5b77"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\SmartBar.png",
+      "destination": ".cache/local-recovery/baconit/1.5/SmartBar.png",
+      "bytes": 75434,
+      "sha256": "c260a795210a1f089d544f3cb5270bbab72c771c635aba1abfb54016bbeaba3c"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\SmartBar2.png",
+      "destination": ".cache/local-recovery/baconit/1.5/SmartBar2.png",
+      "bytes": 21324,
+      "sha256": "fc1f27c8d9047b79897a42a0507c888d520b4793c5696869212b50646fb8765f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\storyaction.png",
+      "destination": ".cache/local-recovery/baconit/1.5/storyaction.png",
+      "bytes": 57416,
+      "sha256": "98c4ff7eb08bf8c7d46e87b1841fba5315e4e655f2022ad0f98080bc8c32ab56"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\submitlink.png",
+      "destination": ".cache/local-recovery/baconit/1.5/submitlink.png",
+      "bytes": 30674,
+      "sha256": "b74ebe18508a160c882deee36da5f91678d312f568e662557f920b884cbfd472"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\Subreddit.png",
+      "destination": ".cache/local-recovery/baconit/1.5/Subreddit.png",
+      "bytes": 51027,
+      "sha256": "14290cc4bbd6e24de28755daa7ee54daa0be001013a9ccd3ddd6eb7fb5d04b54"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\Web.png",
+      "destination": ".cache/local-recovery/baconit/1.5/Web.png",
+      "bytes": 247234,
+      "sha256": "69b9069f6d4d1931bd5ae5933f8029b4f5ab37827ea5c6b832e6f0a64475eadd"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\1 (1).png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/1 (1).png",
+      "bytes": 122682,
+      "sha256": "919d0f37eec8a53dd2ec911a994dc3ae4d5ce9ac7bb138adf1510c8775fe5b77"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\2.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/2.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\3.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/3.png",
+      "bytes": 135875,
+      "sha256": "67bfb5ec9cfd633f9cb101523c426f22c646c7c406aedb4523f4eeae0ea5cc0b"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\4.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/4.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\5.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/5.png",
+      "bytes": 247234,
+      "sha256": "69b9069f6d4d1931bd5ae5933f8029b4f5ab37827ea5c6b832e6f0a64475eadd"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\6.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/6.png",
+      "bytes": 51027,
+      "sha256": "14290cc4bbd6e24de28755daa7ee54daa0be001013a9ccd3ddd6eb7fb5d04b54"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\7.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/7.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\8.png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/8.png",
+      "bytes": 138619,
+      "sha256": "73220255fc3b689ba622783fd4d36e912d94b2b06c43a745dc8dcfdaa4385415"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\boib (2).png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/boib (2).png",
+      "bytes": 75434,
+      "sha256": "c260a795210a1f089d544f3cb5270bbab72c771c635aba1abfb54016bbeaba3c"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.5\\order\\boib (3).png",
+      "destination": ".cache/local-recovery/baconit/1.5/order/boib (3).png",
+      "bytes": 21324,
+      "sha256": "fc1f27c8d9047b79897a42a0507c888d520b4793c5696869212b50646fb8765f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\1.png",
+      "destination": ".cache/local-recovery/baconit/1.8/1.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\Account.png",
+      "destination": ".cache/local-recovery/baconit/1.8/Account.png",
+      "bytes": 135875,
+      "sha256": "67bfb5ec9cfd633f9cb101523c426f22c646c7c406aedb4523f4eeae0ea5cc0b"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\Comments.png",
+      "destination": ".cache/local-recovery/baconit/1.8/Comments.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\commentView.png",
+      "destination": ".cache/local-recovery/baconit/1.8/commentView.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\HomeScreen.png",
+      "destination": ".cache/local-recovery/baconit/1.8/HomeScreen.png",
+      "bytes": 108331,
+      "sha256": "0b6d96ba99c8844b7d1cb46a7eea9dbfb7e5ddd047a42c3ff57ab3b940af5f33"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\ImageViewer.png",
+      "destination": ".cache/local-recovery/baconit/1.8/ImageViewer.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\LiveTile.png",
+      "destination": ".cache/local-recovery/baconit/1.8/LiveTile.png",
+      "bytes": 233792,
+      "sha256": "86c19d2e53b4f81ab0933d1347f916cbdab2875ce425af8de1e4a79a629fd347"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\LiveTile2.png",
+      "destination": ".cache/local-recovery/baconit/1.8/LiveTile2.png",
+      "bytes": 183221,
+      "sha256": "f5e741e6d7c95526f034586e8b92d1470f7ccad76cee372267e0b90d28d09c66"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\login.png",
+      "destination": ".cache/local-recovery/baconit/1.8/login.png",
+      "bytes": 21255,
+      "sha256": "12eb73643ba54f41aaf72dfbafd5045724b004e68ca301b7330012d86896c256"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\MainScreen.png",
+      "destination": ".cache/local-recovery/baconit/1.8/MainScreen.png",
+      "bytes": 138619,
+      "sha256": "73220255fc3b689ba622783fd4d36e912d94b2b06c43a745dc8dcfdaa4385415"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\MessageDetails.png",
+      "destination": ".cache/local-recovery/baconit/1.8/MessageDetails.png",
+      "bytes": 72233,
+      "sha256": "7e16e566eb58daacf6e7f59af0a996d208782d076124a6516dcf661fa1e681e4"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\messageInbox.png",
+      "destination": ".cache/local-recovery/baconit/1.8/messageInbox.png",
+      "bytes": 99358,
+      "sha256": "7196549e4551a443e1e2c4d524db280271909eb5b3dafccb2f45141fa4705015"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\RedditViewer.png",
+      "destination": ".cache/local-recovery/baconit/1.8/RedditViewer.png",
+      "bytes": 122682,
+      "sha256": "919d0f37eec8a53dd2ec911a994dc3ae4d5ce9ac7bb138adf1510c8775fe5b77"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\SmartBar.png",
+      "destination": ".cache/local-recovery/baconit/1.8/SmartBar.png",
+      "bytes": 75434,
+      "sha256": "c260a795210a1f089d544f3cb5270bbab72c771c635aba1abfb54016bbeaba3c"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\SmartBar2.png",
+      "destination": ".cache/local-recovery/baconit/1.8/SmartBar2.png",
+      "bytes": 21324,
+      "sha256": "fc1f27c8d9047b79897a42a0507c888d520b4793c5696869212b50646fb8765f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\storyaction.png",
+      "destination": ".cache/local-recovery/baconit/1.8/storyaction.png",
+      "bytes": 57416,
+      "sha256": "98c4ff7eb08bf8c7d46e87b1841fba5315e4e655f2022ad0f98080bc8c32ab56"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\submitlink.png",
+      "destination": ".cache/local-recovery/baconit/1.8/submitlink.png",
+      "bytes": 30674,
+      "sha256": "b74ebe18508a160c882deee36da5f91678d312f568e662557f920b884cbfd472"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\Subreddit.png",
+      "destination": ".cache/local-recovery/baconit/1.8/Subreddit.png",
+      "bytes": 51027,
+      "sha256": "14290cc4bbd6e24de28755daa7ee54daa0be001013a9ccd3ddd6eb7fb5d04b54"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\Web.png",
+      "destination": ".cache/local-recovery/baconit/1.8/Web.png",
+      "bytes": 247234,
+      "sha256": "69b9069f6d4d1931bd5ae5933f8029b4f5ab37827ea5c6b832e6f0a64475eadd"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\1 (1).png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/1 (1).png",
+      "bytes": 122682,
+      "sha256": "919d0f37eec8a53dd2ec911a994dc3ae4d5ce9ac7bb138adf1510c8775fe5b77"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\2.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/2.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\3.2.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/3.2.png",
+      "bytes": 135875,
+      "sha256": "67bfb5ec9cfd633f9cb101523c426f22c646c7c406aedb4523f4eeae0ea5cc0b"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\3.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/3.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\4.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/4.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\5.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/5.png",
+      "bytes": 247234,
+      "sha256": "69b9069f6d4d1931bd5ae5933f8029b4f5ab37827ea5c6b832e6f0a64475eadd"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\6.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/6.png",
+      "bytes": 51027,
+      "sha256": "14290cc4bbd6e24de28755daa7ee54daa0be001013a9ccd3ddd6eb7fb5d04b54"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\7.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/7.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\8.png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/8.png",
+      "bytes": 138619,
+      "sha256": "73220255fc3b689ba622783fd4d36e912d94b2b06c43a745dc8dcfdaa4385415"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\boib (2).png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/boib (2).png",
+      "bytes": 75434,
+      "sha256": "c260a795210a1f089d544f3cb5270bbab72c771c635aba1abfb54016bbeaba3c"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\1.8\\order\\boib (3).png",
+      "destination": ".cache/local-recovery/baconit/1.8/order/boib (3).png",
+      "bytes": 21324,
+      "sha256": "fc1f27c8d9047b79897a42a0507c888d520b4793c5696869212b50646fb8765f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\1.png",
+      "destination": ".cache/local-recovery/baconit/2.3/1.png",
+      "bytes": 111415,
+      "sha256": "a728c2c276bf4ff571574f79b6ae2c6813d0f4797434d270b294409ebc5f939e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\2.png",
+      "destination": ".cache/local-recovery/baconit/2.3/2.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\3.png",
+      "destination": ".cache/local-recovery/baconit/2.3/3.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\4.png",
+      "destination": ".cache/local-recovery/baconit/2.3/4.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\5.png",
+      "destination": ".cache/local-recovery/baconit/2.3/5.png",
+      "bytes": 129247,
+      "sha256": "c579eab0e38a1eab865729b44f13e532c2bef6089a2078dc2f2397bc8d8f7da1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\6.png",
+      "destination": ".cache/local-recovery/baconit/2.3/6.png",
+      "bytes": 38154,
+      "sha256": "9fea6ddd2024acb4aa705f4c0711152786c6e1f440418b8261a3830e0eb16e4f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\7.png",
+      "destination": ".cache/local-recovery/baconit/2.3/7.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.3\\8.png",
+      "destination": ".cache/local-recovery/baconit/2.3/8.png",
+      "bytes": 61366,
+      "sha256": "7521ee971c20b8ef092ef0a9c543440ea95715b02c2d6d3d3fbf614b5783abf5"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\1.png",
+      "destination": ".cache/local-recovery/baconit/2.4/1.png",
+      "bytes": 111415,
+      "sha256": "a728c2c276bf4ff571574f79b6ae2c6813d0f4797434d270b294409ebc5f939e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\2.png",
+      "destination": ".cache/local-recovery/baconit/2.4/2.png",
+      "bytes": 198115,
+      "sha256": "73307ede7bc021d2799f5dfab649d46901b51852b3dfd93e17b49d5a27986432"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\3.png",
+      "destination": ".cache/local-recovery/baconit/2.4/3.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\4.png",
+      "destination": ".cache/local-recovery/baconit/2.4/4.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\5.png",
+      "destination": ".cache/local-recovery/baconit/2.4/5.png",
+      "bytes": 129247,
+      "sha256": "c579eab0e38a1eab865729b44f13e532c2bef6089a2078dc2f2397bc8d8f7da1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\6.png",
+      "destination": ".cache/local-recovery/baconit/2.4/6.png",
+      "bytes": 38154,
+      "sha256": "9fea6ddd2024acb4aa705f4c0711152786c6e1f440418b8261a3830e0eb16e4f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\7.png",
+      "destination": ".cache/local-recovery/baconit/2.4/7.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.4\\8.png",
+      "destination": ".cache/local-recovery/baconit/2.4/8.png",
+      "bytes": 61366,
+      "sha256": "7521ee971c20b8ef092ef0a9c543440ea95715b02c2d6d3d3fbf614b5783abf5"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\1.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/1.png",
+      "bytes": 111415,
+      "sha256": "a728c2c276bf4ff571574f79b6ae2c6813d0f4797434d270b294409ebc5f939e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\2.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/2.png",
+      "bytes": 223055,
+      "sha256": "58591eb10b931dfec4ce748748e39cbfbb17ad2f1517f6d0ff2e53885d50cefb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\3.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/3.png",
+      "bytes": 182815,
+      "sha256": "e0d1d4a7c916be5b58e8b2da41dc1bace78dd9c81a1b388f0c845e08dacb9172"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\4.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/4.png",
+      "bytes": 131055,
+      "sha256": "5dd5019d8afdba4a9c86a3f7d6b1e7e3db8db1440a683bfca11630884d36e8eb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\5.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/5.png",
+      "bytes": 129247,
+      "sha256": "c579eab0e38a1eab865729b44f13e532c2bef6089a2078dc2f2397bc8d8f7da1"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\6.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/6.png",
+      "bytes": 38154,
+      "sha256": "9fea6ddd2024acb4aa705f4c0711152786c6e1f440418b8261a3830e0eb16e4f"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\7.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/7.png",
+      "bytes": 99702,
+      "sha256": "47d606678012ba5d281b8fbe892426abcb1fd7614e00aa4759de43d1ed0fb72d"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\400x800\\8.png",
+      "destination": ".cache/local-recovery/baconit/2.5/400x800/8.png",
+      "bytes": 61366,
+      "sha256": "7521ee971c20b8ef092ef0a9c543440ea95715b02c2d6d3d3fbf614b5783abf5"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\1.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/1.png",
+      "bytes": 197072,
+      "sha256": "edf0b3003725d81def867939fc4f3311b17d9e2ea6c23d9ff0685c02b9776750"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\2.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/2.png",
+      "bytes": 475244,
+      "sha256": "77b02549f9661bb371af4595409ac7e124cd4d884fc1779dd45b57e982743824"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\3.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/3.png",
+      "bytes": 461857,
+      "sha256": "a93441014e2c057f1ee84a57293162e95936de6ee628749e32d11cb45b99c5b0"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\4.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/4.png",
+      "bytes": 171129,
+      "sha256": "5a58b68bf544365780a905a9d874d45b154ee54bf4389ec147d0fa3c156e44e2"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\5.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/5.png",
+      "bytes": 322722,
+      "sha256": "58ce5b3ffd6af83ca4ceca113a28ab3994580d8d87e630418add3522d3c32dc3"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\6.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/6.png",
+      "bytes": 79622,
+      "sha256": "cff223306385ec894fe7570903e7d0be964ca75c686489a227bb8f7dd991b5f5"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\7.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/7.png",
+      "bytes": 186094,
+      "sha256": "ac1d36f6a001bf31ea9b4535c857ef08f5f490f6ce06431d00dc06ac0d18db1b"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\720X1280\\8.png",
+      "destination": ".cache/local-recovery/baconit/2.5/720X1280/8.png",
+      "bytes": 128232,
+      "sha256": "95e20756a8402237be55fbb0f0f480a0d5ee9a6ab4f115fe6a69547614fa50fb"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\1.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/1.png",
+      "bytes": 216100,
+      "sha256": "18b759b7696e3efb85811371c9eff095eb0bcc031d75f6945d793547f51e9d87"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\2.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/2.png",
+      "bytes": 535483,
+      "sha256": "b09ba38dd332ce7973d11a1568d18fb3f083a1bd2c4d07e7d55f4d9126e66c7e"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\3.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/3.png",
+      "bytes": 507215,
+      "sha256": "82ceccef339a2790de714f24458963c7a7a837aeeb10202a49a055a931f66ca9"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\4.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/4.png",
+      "bytes": 175993,
+      "sha256": "a2fbb4b00b9273d36a44f04961c8a15d550ba5e8bdecd3411431061d1388ef1a"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\5.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/5.png",
+      "bytes": 352875,
+      "sha256": "4c30c7afe611011cbce1f144d85b73447e1a7914554068055c9f7c33ef18d827"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\6.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/6.png",
+      "bytes": 83792,
+      "sha256": "900ac713c63621fc3d1bb64053da8f8c3f86f8d3fa98b6b93f37ba4faa7a18db"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\7.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/7.png",
+      "bytes": 224839,
+      "sha256": "1b163fb37154da46309ea9f67f4e2c9a17f306b319bdc2d42bd4f095e1879db6"
+    },
+    {
+      "source": "D:\\Project Archive\\Projects\\Baconit\\Media\\ScreenShots\\2.5\\768X1280\\8.png",
+      "destination": ".cache/local-recovery/baconit/2.5/768X1280/8.png",
+      "bytes": 147478,
+      "sha256": "17d6c99b358e758d41cab60026f35949fa91386ee74b710457f982bae721c496"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\others.htm",
+      "destination": ".cache/local-recovery/animation-source/others.htm",
+      "bytes": 14006,
+      "sha256": "29f00f69d1ca845e508db48714a5b4d8845dde2837581115210bb555c5701bfc"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\sick_figures.htm",
+      "destination": ".cache/local-recovery/animation-source/sick_figures.htm",
+      "bytes": 14511,
+      "sha256": "d994c6c3d11bb807d0ab2afa7dc2009bdac6f2029844e953e4f646518e4c838c"
+    },
+    {
+      "source": "D:\\Website Archive\\Websites\\Backups\\Personal\\Personal\\websites\\animations\\aminations.htm",
+      "destination": ".cache/local-recovery/animation-source/aminations.htm",
+      "bytes": 14420,
+      "sha256": "d9f6428444c485a531d013994537e4054605314a8442b52ab8eebd4ce5fd9174"
+    }
+  ],
+  "derived_previews": [
+    {
+      "source": "docs/assets/early-experiments/animations/snowman-snow-fight.swf",
+      "destination": "docs/assets/early-experiments/animations/snowman-poster.jpg",
+      "method": "500x500 browser screenshot of the original SWF rendered by self-hosted Ruffle 0.7.1; no overlay, no recreated artwork",
+      "bytes": 24875,
+      "sha256": "7704008a8b6a0e7fec77ddbee5a24fc19cb09f0f231e564b38a85194cae51dd6"
+    },
+    {
+      "source": "docs/assets/early-experiments/animations/3d-stick-fight.swf",
+      "destination": "docs/assets/early-experiments/animations/fight-poster.jpg",
+      "method": "500x500 browser screenshot of the original SWF rendered by self-hosted Ruffle 0.7.1; no overlay, no recreated artwork",
+      "bytes": 18595,
+      "sha256": "07d540d9f362c30213efadde72c551549525a5d48723562b11266c1a707dc844"
+    },
+    {
+      "source": "docs/assets/early-experiments/animations/bad-day.swf",
+      "destination": "docs/assets/early-experiments/animations/bad-day-poster.jpg",
+      "method": "500x500 browser screenshot of the original SWF rendered by self-hosted Ruffle 0.7.1; no overlay, no recreated artwork",
+      "bytes": 26215,
+      "sha256": "3164af352b9df6a0a4b919b9afcd328cb0fbdc53c03f2532120805eceba4855d"
+    },
+    {
+      "source": "docs/assets/early-experiments/animations/stick-1.swf",
+      "destination": "docs/assets/early-experiments/animations/stick-1-poster.jpg",
+      "method": "500x500 browser screenshot of the original SWF rendered by self-hosted Ruffle 0.7.1; no overlay, no recreated artwork",
+      "bytes": 17253,
+      "sha256": "d07b9112a1314fdc3bf780f3cae58dff1ab20d8ef596f64169acb9dfe71fb3c1"
+    },
+    {
+      "source": "docs/assets/early-experiments/animations/stick-2.swf",
+      "destination": "docs/assets/early-experiments/animations/stick-2-poster.jpg",
+      "method": "500x500 browser screenshot of the original SWF rendered by self-hosted Ruffle 0.7.1; no overlay, no recreated artwork",
+      "bytes": 14359,
+      "sha256": "10f780f1b31398402ffb9badd20723ee9f61fc94d061ce76790906e38b60909d"
+    }
+  ]
+}

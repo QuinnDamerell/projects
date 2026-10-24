@@ -1,0 +1,70 @@
+// JavaScript Document
+
+
+$(document).ready(function(){
+	if ($.browser.safari) {
+		document.getElementById('backTile').style.marginTop = "-15px";
+		setTimeout("FlipTile()", 3000);
+	}
+	
+});
+
+var isFliped = 0;
+var firstTime = 1;
+var ImageNum = 0;
+function FlipTile()
+{
+	var tile = document.getElementById('livetile');
+	var backTile = document.getElementById('backTile');
+	var property = getTransformProperty(tile);
+	
+	if(isFliped == 0)
+	{
+		/*switch(ImageNum)
+		{ */
+			backTile.style.backgroundImage = "url(http://www.quinndamerell.com/Images/TilePic4.jpg)";
+		/*case 0:
+		  backTile.style.backgroundImage = "url(http://www.quinndamerell.com/Images/TilePic4.jpg)";
+		  break;
+		case 1:
+		  backTile.style.backgroundImage = "url(http://www.quinndamerell.com/Images/TilePic6.jpg)";
+		  break;
+		 case 2:
+		  backTile.style.backgroundImage = "url(http://www.quinndamerell.com/Images/TilePic2.jpg)";
+		  break;
+		default:
+		  backTile.style.backgroundImage = "url(http://www.quinndamerell.com/Images/TilePic4.jpg)";
+		}
+		ImageNum++;
+		if(ImageNum > 2)
+			ImageNum = 0; */
+		
+		isFliped = 1;
+		tile.style[property] = "rotateX(-180deg)";
+		tile.style.zIndex = 0;
+	}
+	else
+	{
+		isFliped = 0;	
+		tile.style[property] = "rotateX(0)";
+		tile.style.zIndex = 10;
+	}
+	
+	if(firstTime == 1)
+	{
+		firstTime = 0;
+		setInterval("FlipTile()", 8000);
+	}
+}
+
+function getTransformProperty(elm) {
+// get browser property
+    var properties = ['transform','WebkitTransform','MozTransform','msTransform','OTransform'];
+    while (p = properties.shift()) {
+		//alert(p);
+        if (typeof elm.style[p] != 'undefined') {
+            return p;
+        }
+    }
+    return false;
+}

@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:163px; top:13px; width:503px; height:94px; z-index:0"><img src="images/logo_ground_displays.jpg" border=0 width=503 height=94></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:60px; top:340px; width:150px; height:431px; z-index:1"><img src="images/fountion.jpg" border=0 width=150 height=431></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:250px; top:370px; width:200px; height:161px; z-index:2"><img src="images/fountion_s.jpg" border=0 width=200 height=161></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:110px; top:135px; width:593px; height:79px; z-index:3">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">Ground displays is a very general category. This refers to anything that stays on the ground and sparks, pops, flashes and so on. Any thing that does not shoot up in to the air and explode. Scroll down to see a little more specifically what each is.</font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:270px; top:615px; width:436px; height:182px; z-index:4">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">These are an examples of a cone fountains. These sit on the ground and emit sparks out of the top. They are very basic, mainly, just color.</font></div>
+</div></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:560px; top:1105px; width:200px; height:150px; z-index:5"><img src="images/Dancing-Butterflies_small.gif" border=0 width=200 height=150></div>
+
+<div id="image5" style="position:absolute; overflow:hidden; left:325px; top:1115px; width:200px; height:150px; z-index:6"><img src="images/foundtion.gif" border=0 width=200 height=150></div>
+
+<div id="image6" style="position:absolute; overflow:hidden; left:90px; top:1130px; width:200px; height:110px; z-index:7"><img src="images/fountion3.jpg" border=0 width=200 height=110></div>
+
+<div id="image7" style="position:absolute; overflow:hidden; left:90px; top:1410px; width:200px; height:150px; z-index:8"><img src="images/Ground-Bloom-Flower_small.gif" border=0 width=200 height=150></div>
+
+<div id="image8" style="position:absolute; overflow:hidden; left:60px; top:905px; width:249px; height:155px; z-index:9"><img src="images/foutions.jpg" border=0 width=249 height=155></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:100px; top:1055px; width:3px; height:4px; z-index:10">
+</div>
+
+<div id="text5" style="position:absolute; overflow:hidden; left:365px; top:930px; width:370px; height:176px; z-index:11">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">This are a step up from the cone fountains. They offer more color, crackles, and pops. They can do more exotic colors also. The fountains come in many sizes from little ones that last about thirty seconds. To fountains as big as the repeaters, they will last for at minimum of five minutes. </font></div>
+</div></div>
+
+<div id="text6" style="position:absolute; overflow:hidden; left:335px; top:1445px; width:406px; height:129px; z-index:12">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">The last type is the miscellanies category. This includes the little spinner, tanks, boat, and the poppers. These are fireworks that are fun to play with in the daylight.</font></div>
+</div></div>
+
+<div id="image9" style="position:absolute; overflow:hidden; left:55px; top:285px; width:700px; height:19px; z-index:13"><img src="images/divider.gif" border=0 width=700 height=19></div>
+
+<div id="image10" style="position:absolute; overflow:hidden; left:50px; top:815px; width:700px; height:19px; z-index:14"><img src="images/divider.gif" border=0 width=700 height=19></div>
+
+<div id="image11" style="position:absolute; overflow:hidden; left:60px; top:1335px; width:700px; height:19px; z-index:15"><img src="images/divider.gif" border=0 width=700 height=19></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:270px; top:220px; width:142px; height:27px; z-index:16">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Video of fountains:</font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+</div></div>
+
+<div id="text7" style="position:absolute; overflow:hidden; left:410px; top:220px; width:127px; height:27px; z-index:17">
+<a href="Http://www.thunderdomefireworks.com/videos/fountion.wmv" title="fountains"><div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">fountain.wmv</font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+<div><BR></div>
+</div></a></div>
+
+
+</body>
+</html>

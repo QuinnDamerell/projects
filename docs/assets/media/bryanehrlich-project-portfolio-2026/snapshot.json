@@ -1,0 +1,144 @@
+{
+  "url": "https://bryanehrlich.com/",
+  "title": "Bryan Ehrlich",
+  "site": "bryanehrlich.com",
+  "published": null,
+  "captured": "2026-10-18T17:11:00.376Z",
+  "restoredImages": [],
+  "youtube": [],
+  "static_restoration": {
+    "restored_utc": "2026-10-18T17:18:19.075871+00:00",
+    "expanded_panels": [
+      "experience-hook",
+      "contact-hook"
+    ],
+    "navigation": "Original section menu and inline links now point to local panel anchors.",
+    "text": "All original source panel text preserved.",
+    "layout_changes": [
+      "Panels visible without JavaScript; menu placed in normal document flow.",
+      "System text fonts retained; unused Glyphicons font definition omitted.",
+      "Cursor animation disabled; contact spacer reduced; mobile padding reduced for readability.",
+      "Print stylesheet suppresses automatic appended outbound URLs while preserving clickable links."
+    ],
+    "resources_localized": [
+      {
+        "url": "https://bryanehrlich.com/static/bg_fall_final.jpg",
+        "final_url": "https://bryanehrlich.com/static/bg_fall_final.jpg",
+        "http_status": 200,
+        "file": "images/bg_fall_final.jpg",
+        "bytes": 345566,
+        "sha256": "ddf8021f981fbf9d830b96b94eddac25331f1fabffc0039902e182825afcb586"
+      }
+    ],
+    "original_capture_files": [
+      {
+        "file": "as-captured.html",
+        "sha256": "00cc0b22bf28ac867dd70bc8ea81cd85db8c8e21a52430448d1c4608c1219c03"
+      },
+      {
+        "file": "as-captured.pdf",
+        "sha256": "5940020c12649932621a7d10503ffaa2861338036249ac31f42216f9ae501d88"
+      },
+      {
+        "file": "as-captured.png",
+        "sha256": "c1f47bbc460ee2dc83592b7f616449a69f0b9a22ce34e94a34d74980c9aa2db5"
+      }
+    ],
+    "omitted_nonessential_resources": {
+      "unused_glyphicons_font_urls": [
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot?#iefix",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf",
+        "https://bryanehrlich.com/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular"
+      ],
+      "favicon": "https://bryanehrlich.com/favicon.ico"
+    },
+    "snapshot_sha256": "dd76c67b70fad84e39af2cf4eeb20810dc491425fb3df41e8c975327e34e0318",
+    "verification": {
+      "all_original_panel_text_preserved": true,
+      "all_local_anchors_resolve": true,
+      "pdf_project_accounts_verified": [
+        "CrossTxT",
+        "Gathr",
+        "PurdueBus"
+      ],
+      "pdf_pages": 4,
+      "desktop_mobile_checks": {
+        "passed": true,
+        "checks": [
+          {
+            "viewport": 1280,
+            "width": 1280,
+            "scrollWidth": 1280,
+            "broken": [],
+            "panels": [
+              {
+                "id": "about-hook",
+                "display": "block",
+                "height": 621.0625
+              },
+              {
+                "id": "experience-hook",
+                "display": "block",
+                "height": 1208.5625
+              },
+              {
+                "id": "contact-hook",
+                "display": "block",
+                "height": 192.59375
+              }
+            ],
+            "projectText": true
+          },
+          {
+            "viewport": 390,
+            "width": 390,
+            "scrollWidth": 390,
+            "broken": [],
+            "panels": [
+              {
+                "id": "about-hook",
+                "display": "block",
+                "height": 1202.140625
+              },
+              {
+                "id": "experience-hook",
+                "display": "block",
+                "height": 2816.5625
+              },
+              {
+                "id": "contact-hook",
+                "display": "block",
+                "height": 219.984375
+              }
+            ],
+            "projectText": true
+          }
+        ],
+        "external": []
+      },
+      "sha256": {
+        "snapshot.html": "dd76c67b70fad84e39af2cf4eeb20810dc491425fb3df41e8c975327e34e0318",
+        "snapshot.png": "4ce9584652d1a8f8970a06b9f42119a1a380071e022deddfa0045525a3c429ff",
+        "snapshot.pdf": "eb0d9ae2a095b72fcfe84c4c2d396322122b962970a4dbc013fcd184154ece5e"
+      }
+    }
+  },
+  "gaps": [
+    "Original JavaScript tab behavior is replaced by a static expanded layout.",
+    "The unused Glyphicons font declaration and external favicon were omitted; original files remain referenced in as-captured.html.",
+    "Linked resume PDF and external destinations are references, not copied by this portfolio capture."
+  ],
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 2255
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated",
+    "pages": 4
+  }
+}

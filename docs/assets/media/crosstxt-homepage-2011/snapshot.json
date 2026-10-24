@@ -1,0 +1,1375 @@
+{
+  "url": "http://crosstxt.com/",
+  "title": "CrossTxT - Welcome to the Texting Revolution",
+  "site": "crosstxt.com",
+  "published": null,
+  "archive": "https://web.archive.org/web/20111028183332/http://crosstxt.com/",
+  "archived": "2011-10-28T18:33:32Z",
+  "captured": "2026-10-18T05:42:40.577Z",
+  "scope": "Homepage, including all five feature/account panels and recoverable referenced images. Linked site pages are not included.",
+  "panels": [
+    "Seamless computer to phone texting for Android devices",
+    "Full SMS inbox synchronization from phone to computer",
+    "Your messages will never be lost when they are backed up on the cloud!",
+    "We don't want our life public, security is key.",
+    "Think you're ready? Sign up for your free account now!"
+  ],
+  "changes": [
+    "Removed original scripts and event handlers.",
+    "Replaced the automatic carousel with CSS-only feature tabs; printing includes every panel.",
+    "Disabled historical login and signup forms. Removed the hidden loading indicator and favicon.",
+    "Saved recoverable homepage images and CSS backgrounds locally. Unavailable backgrounds omitted; missing illustrations use labeled placeholders and missing decorative bullets use text bullets.",
+    "Pointed external and uncopied page links at Wayback. Added archive notice, noindex, and content security policy."
+  ],
+  "source": {
+    "file": "raw/homepage.html.txt",
+    "bytes": 25790,
+    "sha256": "63a215ea4f41b50fc9bd4880b8b7e7b95bfb9edb9f26b86a60cc30e6454d4eba",
+    "headers": "raw/homepage.headers.txt"
+  },
+  "files": [
+    {
+      "file": "images/title.png",
+      "bytes": 2514,
+      "sha256": "427c5430087f10258ef0acc9b0a07cba820124047ba8d9ad92f618cd520289b7"
+    },
+    {
+      "file": "images/landing/computer_to_phone.png",
+      "bytes": 1926,
+      "sha256": "304b4123d3973c4ccade09ae2a88048ede34aabd420cbc4801a826f0db7782b5"
+    },
+    {
+      "file": "images/landing/synchronization.png",
+      "bytes": 1479,
+      "sha256": "faf3bf603035d4cd4ffaadc0c1493e0bbf83cce2f8865eaca1f965e3161399aa"
+    },
+    {
+      "file": "images/landing/lock.png",
+      "bytes": 1665,
+      "sha256": "fba8e8db03d0f4aff940e5f4e064734f07d97bfdc2587afc37238a0d2c75344a"
+    },
+    {
+      "file": "images/landing/box_edge_left.png",
+      "bytes": 580,
+      "sha256": "789edccab085d88eeaca8cf6357c226bbf1ff6450dc02fc8cbcbec03f9ccff11"
+    },
+    {
+      "file": "images/twitter.png",
+      "bytes": 661,
+      "sha256": "6e2a96b0553d0e79b91311075068131894d12abc4cd7e245d26ef9174ab56fea"
+    },
+    {
+      "file": "images/facebook.png",
+      "bytes": 407,
+      "sha256": "ea535043ab524180d71becf53da676e888a1770ed32d6039dd48dcee57c5ff6c"
+    },
+    {
+      "file": "images/background_top_bar.png",
+      "bytes": 119,
+      "sha256": "03aa42a16d8fdd176ac14f6b44015ed3af2a9a73a42f86780ac012c71f53ab89"
+    }
+  ],
+  "unavailableImages": [
+    "images/landing/create_account.png",
+    "images/landing/bullet.png",
+    "images/landing/phone_to_cloud.png",
+    "images/landing/box_edge_right.png",
+    "images/header_login_bubble.png"
+  ],
+  "recoveredAssets": {
+    "retrievedAt": "2026-10-18T05:40:25.451181+00:00",
+    "homepageTimestamp": "20111028183332",
+    "assets": [
+      {
+        "path": "images/background_top_bar.png",
+        "retrieved": true,
+        "availability": {
+          "url": "http://www.crosstxt.com/images/background_top_bar.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115060507/http://crosstxt.com/images/background_top_bar.png",
+              "timestamp": "20140115060507"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2163 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2145 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2167 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2147 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2153 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2156 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507id_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2178 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060507im_/http://crosstxt.com/images/background_top_bar.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ],
+        "bytes": 119,
+        "sourceUrl": "https://web.archive.org/web/20140115060507im_/http://crosstxt.com/images/background_top_bar.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115060507im_/http://crosstxt.com/images/background_top_bar.png",
+        "captureTimestamp": "20140115060507",
+        "mementoDatetime": "Wed, 15 Jan 2014 06:05:07 GMT",
+        "contentType": "image/png"
+      },
+      {
+        "path": "images/facebook.png",
+        "retrieved": true,
+        "bytes": 407,
+        "sourceUrl": "https://web.archive.org/web/20140115042456im_/http://crosstxt.com/images/facebook.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115042456im_/http://crosstxt.com/images/facebook.png",
+        "captureTimestamp": "20140115042456",
+        "mementoDatetime": "Wed, 15 Jan 2014 04:24:56 GMT",
+        "contentType": "image/png",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/facebook.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115042456/http://crosstxt.com/images/facebook.png",
+              "timestamp": "20140115042456"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115042456id_/http://crosstxt.com/images/facebook.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2153 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115042456id_/http://crosstxt.com/images/facebook.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2154 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115042456id_/http://crosstxt.com/images/facebook.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          },
+          {
+            "url": "https://web.archive.org/web/20140115042456im_/http://crosstxt.com/images/facebook.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/header_login_bubble.png",
+        "retrieved": false,
+        "reason": "not archived",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/header_login_bubble.png",
+          "archived_snapshots": {},
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111028183332im_/http://crosstxt.com/images/header_login_bubble.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          },
+          {
+            "url": "https://web.archive.org/web/20111028183332im_/http://crosstxt.com/images/header_login_bubble.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/landing/box_edge_left.png",
+        "retrieved": true,
+        "bytes": 580,
+        "sourceUrl": "https://web.archive.org/web/20140115060616im_/http://crosstxt.com/images/landing/box_edge_left.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115060616im_/http://crosstxt.com/images/landing/box_edge_left.png",
+        "mementoDatetime": "Wed, 15 Jan 2014 06:06:16 GMT",
+        "contentType": "image/png",
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111028183332id_/http://crosstxt.com:80/images/landing/box_edge_left.png",
+            "exitCode": 7,
+            "httpStatus": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2150 ms: Could not connect to server"
+          },
+          {
+            "url": "https://wayback.archive.org/web/20111028183332id_/http://crosstxt.com/images/landing/box_edge_left.png",
+            "exitCode": 7,
+            "httpStatus": "000",
+            "stderr": "curl: (7) Failed to connect to wayback.archive.org:443 after 2159 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111028183332id_/http://www.crosstxt.com/images/landing/box_edge_left.png",
+            "exitCode": 0,
+            "httpStatus": "200",
+            "stderr": ""
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060616im_/http://crosstxt.com/images/landing/box_edge_left.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ],
+        "captureTimestamp": "20140115060616"
+      },
+      {
+        "path": "images/landing/box_edge_right.png",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/box_edge_right.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115034443/http://crosstxt.com/images/landing/box_edge_right.png",
+              "timestamp": "20140115034443"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2166 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2151 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2160 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2169 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2176 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2162 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2153 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443id_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2157 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443im_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034443im_/http://crosstxt.com/images/landing/box_edge_right.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2149 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "images/landing/bullet.png",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/bullet.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115053851/http://crosstxt.com/images/landing/bullet.png",
+              "timestamp": "20140115053851"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2157 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2173 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2169 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2176 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851id_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2155 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851im_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115053851im_/http://crosstxt.com/images/landing/bullet.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2147 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "images/landing/computer_to_phone.png",
+        "retrieved": true,
+        "bytes": 1926,
+        "sourceUrl": "https://web.archive.org/web/20140115062335im_/http://crosstxt.com/images/landing/computer_to_phone.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115062335im_/http://crosstxt.com/images/landing/computer_to_phone.png",
+        "captureTimestamp": "20140115062335",
+        "mementoDatetime": "Wed, 15 Jan 2014 06:23:35 GMT",
+        "contentType": "image/png",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/computer_to_phone.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115062335/http://crosstxt.com/images/landing/computer_to_phone.png",
+              "timestamp": "20140115062335"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115062335id_/http://crosstxt.com/images/landing/computer_to_phone.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115062335id_/http://crosstxt.com/images/landing/computer_to_phone.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2151 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115062335id_/http://crosstxt.com/images/landing/computer_to_phone.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2155 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115062335id_/http://crosstxt.com/images/landing/computer_to_phone.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          },
+          {
+            "url": "https://web.archive.org/web/20140115062335im_/http://crosstxt.com/images/landing/computer_to_phone.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/landing/create_account.png",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/create_account.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115023050/http://crosstxt.com/images/landing/create_account.png",
+              "timestamp": "20140115023050"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2165 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2144 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2155 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2144 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2165 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050id_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 28,
+            "status": "000",
+            "stderr": "curl: (28) Failed to connect to web.archive.org:443 after 21035 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050im_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115023050im_/http://crosstxt.com/images/landing/create_account.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2149 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "images/landing/create_account_active.png",
+        "retrieved": false,
+        "reason": "not archived",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/create_account_active.png",
+          "archived_snapshots": {},
+          "timestamp": "20111028183332"
+        }
+      },
+      {
+        "path": "images/landing/lock.png",
+        "retrieved": true,
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/lock.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115034534/http://crosstxt.com/images/landing/lock.png",
+              "timestamp": "20140115034534"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2145 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2153 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2159 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2175 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2167 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2183 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2159 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534id_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2165 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534im_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2167 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115034534im_/http://crosstxt.com/images/landing/lock.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ],
+        "bytes": 1665,
+        "sourceUrl": "https://web.archive.org/web/20140115034534im_/http://crosstxt.com/images/landing/lock.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115034534im_/http://crosstxt.com/images/landing/lock.png",
+        "captureTimestamp": "20140115034534",
+        "mementoDatetime": "Wed, 15 Jan 2014 03:45:34 GMT",
+        "contentType": "image/png"
+      },
+      {
+        "path": "images/landing/phone_to_cloud.png",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/phone_to_cloud.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115060322/http://crosstxt.com/images/landing/phone_to_cloud.png",
+              "timestamp": "20140115060322"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2152 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2145 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2141 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2159 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2165 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2178 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322id_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2179 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322im_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2167 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115060322im_/http://crosstxt.com/images/landing/phone_to_cloud.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2147 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "images/landing/small-loading.gif",
+        "retrieved": true,
+        "bytes": 673,
+        "sourceUrl": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+        "effectiveUrl": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+        "captureTimestamp": "20140115024957",
+        "mementoDatetime": "Wed, 15 Jan 2014 02:49:57 GMT",
+        "contentType": "image/gif",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/small-loading.gif",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115024957/http://crosstxt.com/images/landing/small-loading.gif",
+              "timestamp": "20140115024957"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2180 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2171 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2173 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115024957id_/http://crosstxt.com/images/landing/small-loading.gif",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/landing/synchronization.png",
+        "retrieved": true,
+        "bytes": 1479,
+        "sourceUrl": "https://web.archive.org/web/20140115030230id_/http://crosstxt.com/images/landing/synchronization.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115030230id_/http://crosstxt.com/images/landing/synchronization.png",
+        "captureTimestamp": "20140115030230",
+        "mementoDatetime": "Wed, 15 Jan 2014 03:02:30 GMT",
+        "contentType": "image/png",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/landing/synchronization.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115030230/http://crosstxt.com/images/landing/synchronization.png",
+              "timestamp": "20140115030230"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115030230id_/http://crosstxt.com/images/landing/synchronization.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030230id_/http://crosstxt.com/images/landing/synchronization.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2162 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030230id_/http://crosstxt.com/images/landing/synchronization.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/title.png",
+        "retrieved": true,
+        "bytes": 2514,
+        "sourceUrl": "https://web.archive.org/web/20140115040157id_/http://crosstxt.com/images/title.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115040157id_/http://crosstxt.com/images/title.png",
+        "captureTimestamp": "20140115040157",
+        "mementoDatetime": "Wed, 15 Jan 2014 04:01:57 GMT",
+        "contentType": "image/png",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/title.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115040157/http://crosstxt.com/images/title.png",
+              "timestamp": "20140115040157"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115040157id_/http://crosstxt.com/images/title.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "images/twitter.png",
+        "retrieved": true,
+        "bytes": 661,
+        "sourceUrl": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+        "effectiveUrl": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+        "captureTimestamp": "20140115035911",
+        "mementoDatetime": "Wed, 15 Jan 2014 03:59:11 GMT",
+        "contentType": "image/png",
+        "availability": {
+          "url": "http://www.crosstxt.com/images/twitter.png",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115035911/http://crosstxt.com/images/twitter.png",
+              "timestamp": "20140115035911"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2169 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2144 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2147 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115035911id_/http://crosstxt.com/images/twitter.png",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "scripts/jquery.js",
+        "retrieved": true,
+        "bytes": 57254,
+        "sourceUrl": "https://web.archive.org/web/20140115025923id_/http://crosstxt.com/scripts/jquery.js",
+        "effectiveUrl": "https://web.archive.org/web/20140115025923id_/http://crosstxt.com/scripts/jquery.js",
+        "captureTimestamp": "20140115025923",
+        "mementoDatetime": "Wed, 15 Jan 2014 02:59:23 GMT",
+        "contentType": "application/javascript",
+        "availability": {
+          "url": "http://www.crosstxt.com/scripts/jquery.js",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115025923/http://crosstxt.com/scripts/jquery.js",
+              "timestamp": "20140115025923"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115025923id_/http://crosstxt.com/scripts/jquery.js",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "scripts/stepcarousel.js",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/scripts/stepcarousel.js",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115030517/http://crosstxt.com/scripts/stepcarousel.js",
+              "timestamp": "20140115030517"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2162 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2144 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2152 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2176 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2162 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20140115030517id_/http://crosstxt.com/scripts/stepcarousel.js",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "favicon.ico",
+        "retrieved": true,
+        "bytes": 5686,
+        "sourceUrl": "https://web.archive.org/web/20140115025613id_/http://crosstxt.com/favicon.ico",
+        "effectiveUrl": "https://web.archive.org/web/20140115025613id_/http://crosstxt.com/favicon.ico",
+        "captureTimestamp": "20140115025613",
+        "mementoDatetime": "Wed, 15 Jan 2014 02:56:13 GMT",
+        "contentType": "image/x-icon",
+        "availability": {
+          "url": "http://www.crosstxt.com/favicon.ico",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20140115025613/http://crosstxt.com/favicon.ico",
+              "timestamp": "20140115025613"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20140115025613id_/http://crosstxt.com/favicon.ico",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "faq.php",
+        "retrieved": true,
+        "bytes": 5517,
+        "sourceUrl": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+        "effectiveUrl": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+        "captureTimestamp": "20111101215346",
+        "mementoDatetime": "Tue, 01 Nov 2011 21:53:46 GMT",
+        "contentType": "text/html",
+        "availability": {
+          "url": "http://www.crosstxt.com/faq.php",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20111101215346/http://www.crosstxt.com:80/faq.php",
+              "timestamp": "20111101215346"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2165 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2149 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2178 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2149 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215346id_/http://www.crosstxt.com:80/faq.php",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "privacy.php",
+        "retrieved": true,
+        "bytes": 5302,
+        "sourceUrl": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+        "effectiveUrl": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+        "captureTimestamp": "20111114024824",
+        "mementoDatetime": "Mon, 14 Nov 2011 02:48:24 GMT",
+        "contentType": "text/html",
+        "availability": {
+          "url": "http://www.crosstxt.com/privacy.php",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20111114024824/http://www.crosstxt.com:80/privacy.php",
+              "timestamp": "20111114024824"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2163 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2172 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2142 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2149 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2161 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111114024824id_/http://www.crosstxt.com:80/privacy.php",
+            "exitCode": 0,
+            "status": "200",
+            "stderr": ""
+          }
+        ]
+      },
+      {
+        "path": "contact.php",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/contact.php",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20111101215319/http://www.crosstxt.com:80/contact.php",
+              "timestamp": "20111101215319"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2185 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2175 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2173 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2152 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2160 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2160 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215319id_/http://www.crosstxt.com:80/contact.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2170 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "tos.php",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/tos.php",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20111101215357/http://www.crosstxt.com:80/tos.php",
+              "timestamp": "20111101215357"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2177 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2159 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2143 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2157 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2169 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101215357id_/http://www.crosstxt.com:80/tos.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2150 ms: Could not connect to server"
+          }
+        ]
+      },
+      {
+        "path": "betasignup.php",
+        "retrieved": false,
+        "reason": "replay retrieval failed after retries",
+        "availability": {
+          "url": "http://www.crosstxt.com/betasignup.php",
+          "archived_snapshots": {
+            "closest": {
+              "status": "200",
+              "available": true,
+              "url": "http://web.archive.org/web/20111101203430/http://www.crosstxt.com:80/betasignup.php",
+              "timestamp": "20111101203430"
+            }
+          },
+          "timestamp": "20111028183332"
+        },
+        "attempts": [
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2158 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2148 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2194 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2182 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2164 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2160 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2179 ms: Could not connect to server"
+          },
+          {
+            "url": "https://web.archive.org/web/20111101203430id_/http://www.crosstxt.com:80/betasignup.php",
+            "exitCode": 7,
+            "status": "000",
+            "stderr": "curl: (7) Failed to connect to web.archive.org:443 after 2156 ms: Could not connect to server"
+          }
+        ]
+      }
+    ]
+  }
+}

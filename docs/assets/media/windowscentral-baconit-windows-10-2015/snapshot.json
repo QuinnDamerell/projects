@@ -1,0 +1,20 @@
+{
+  "url": "https://www.windowscentral.com/baconit-reddit-stunning-universal-windows-app",
+  "title": "Baconit for Reddit gets rewritten as a stunning universal Windows 10 app",
+  "site": "Windows Central",
+  "published": "2015-11-13T16:52:39Z",
+  "captured": "2026-10-18T04:42:17.030Z",
+  "restoredImages": [],
+  "removed": [
+    ".wcp-item-content > section:not(.content-wrapper)",
+    ".ad-unit",
+    ".dfp-leaderboard-container",
+    "[id^=slice-container-newsletterForm]",
+    "#upnext-ribbon",
+    ".bordeaux-generated-container",
+    "[class*=bordeaux-skin]",
+    ".infinite-container",
+    "#pressboard-ad-sponsorship-msg"
+  ],
+  "youtube": []
+}

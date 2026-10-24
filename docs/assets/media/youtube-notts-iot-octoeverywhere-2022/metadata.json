@@ -1,0 +1,82 @@
+{
+  "video_id": "xtUBh1TyZlQ",
+  "title": "Notts IoT - November 2022",
+  "channel": "Peter Gallagher",
+  "event_date": "2022-11-17",
+  "published": "2022-11-18",
+  "archived": "2026-10-21",
+  "archive_timezone": "America/Los_Angeles",
+  "original_url": "https://www.youtube.com/watch?v=xtUBh1TyZlQ",
+  "filename": "youtube-notts-iot-octoeverywhere-2022.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-notts-iot-octoeverywhere-2022.mp4",
+  "r2_upload_status": "Uploaded and browser-playback verified: expected public size/type, first byte-range sample matched local file, initial playback and timestamp seeking succeeded.",
+  "width": 1280,
+  "height": 720,
+  "duration_seconds": 3798.87746,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 244444417,
+  "sha256": "f9d741cf724df2960de793e90723a197a49187774e1ba0f07262ffe8f8fee2e6",
+  "source_formats": [
+    "136",
+    "140"
+  ],
+  "processing": "Original H.264 video and AAC audio merged without re-encoding; MP4 metadata moved before media for fast start.",
+  "source_metadata": "Original YouTube metadata retrieved with yt-dlp; publication November 18 and release/stream November 17, 2022.",
+  "technical_details_source": "ffprobe of downloaded MP4; beginning, middle and end sample decoded with ffmpeg.",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/xtUBh1TyZlQ/maxresdefault.jpg"
+  },
+  "segments": [
+    {
+      "anchor": "talk",
+      "seconds": 769,
+      "label": "Quinn's presentation at 12:49"
+    }
+  ],
+  "event_announcement": {
+    "url": "https://nottsiot.co.uk/quinn-damerell-enabling-octoprint-for-3d-printing-everywhere-november-17th-2022/",
+    "published": "2022-11-01",
+    "capture_metadata": "snapshot.json"
+  },
+  "r2_verification": {
+    "checked_at_utc": "2026-10-22T05:40:58.787288+00:00",
+    "head_status": 200,
+    "content_length": 244444417,
+    "content_type": "video/mp4",
+    "accept_ranges": "bytes",
+    "samples": [
+      {
+        "start": 0,
+        "end": 65535,
+        "http_status": 206,
+        "bytes": 65536,
+        "matches_local": true,
+        "sha256": "49e2145ea3f6b7846363640c38572edbedf13af1456fae3984e0fdf5d3fab90f"
+      },
+      {
+        "start": 122222208,
+        "end": 122287743,
+        "http_status": 206,
+        "bytes_received": 0,
+        "status": "Body timed out after 30 seconds on two attempts. Response advertised the correct 65536-byte range; second response was a Cloudflare cache HIT."
+      }
+    ],
+    "scope": "Public object availability, expected HEAD size/type, first 64 KiB match, browser initial playback and timestamp seeking verified. Separate curl midpoint requests returned HTTP 206 headers but timed out receiving the body. No full remote-file checksum verification was performed.",
+    "browser_playback": {
+      "verified_at_utc": "2026-10-22T05:41:37.736892+00:00",
+      "verified_by": "Parent agent browser check of the local archive page using the actual public R2 video source.",
+      "duration_seconds": 3798.87746,
+      "ready_state": 4,
+      "initial_playback": "Played from 0 to 3 seconds.",
+      "timestamp_seek": {
+        "link_seconds": 769,
+        "playing_seconds": 774.117917,
+        "ready_state": 4,
+        "media_error": null
+      }
+    }
+  }
+}

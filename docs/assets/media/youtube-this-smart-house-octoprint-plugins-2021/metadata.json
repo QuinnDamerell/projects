@@ -1,0 +1,28 @@
+{
+  "video_id": "y5x0W9mo27M",
+  "title": "My Favorite Octoprint Plugins // 14 Plug-ins To Get Started",
+  "channel": "This Smart House",
+  "channel_url": "https://www.youtube.com/@ThisSmartHouse",
+  "published": "2021-11-04",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=y5x0W9mo27M",
+  "filename": "youtube-this-smart-house-octoprint-plugins-2021.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-this-smart-house-octoprint-plugins-2021.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 1112.793107,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 217946148,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/y5x0W9mo27M/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

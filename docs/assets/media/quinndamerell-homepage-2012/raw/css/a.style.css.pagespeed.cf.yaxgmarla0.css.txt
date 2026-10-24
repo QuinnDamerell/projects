@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	background-color: #2E2E2E;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 15px;
+}
+.table_text {
+	color: #FFFFFF;
+	padding-left: 7px;
+	padding-top: 5px;
+	height: 25px;
+}
+.holder {
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.main_menu {
+	height: 35px;
+	width: 775px;
+	background-image: url(../images/navBar/nav_bar.png);
+	background-repeat: repeat-x;
+	padding-left: 5px;
+}
+.main_body {
+	width: 780px;
+	background-color: #FFFFFF;
+	clear: both;
+	padding: 0px;
+}
+.footer {
+	background-color: #111214;
+	height: 70px;
+	width: 780px;
+	color: #525252;
+	text-align: center;
+	padding-top: 30px;
+	clear: none;
+}
+.sign_in {
+	height: 19px;
+	width: 500px;
+	float: right;
+	text-align: right;
+	color: #999999;
+	background-position: bottom;
+	padding-top: 14px;
+	font-size: 15px;
+}
+
+.top_bar {
+	width: 780px;
+	height: 33px;
+	clear: both;
+}
+.top_bar_main  {
+	height: 33px;
+	background-image: url(../images/top_bar_main.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 760px;
+	clear: none;
+}
+.title_bar {
+	height: 80px;
+	width: 760px;
+	background-image: url(../images/title_back.png);
+	background-repeat: repeat-x;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.top_bar_left  {
+	height: 33px;
+	width: 10px;
+	background-image: url(../images/top_bar_left.png);
+	float: left;
+	clear: none;
+}
+.top_bar_right {
+	background-image: url(../images/top_bar_right.png);
+	float: right;
+	height: 33px;
+	width: 10px;
+	clear: none;
+}
+a.gray:link {
+	color: #999999;
+	text-decoration: none;
+	font-size: 13px;
+} 
+a.gray:visited {
+	color: #999999;
+	text-decoration: none;
+	font-size: 13px;
+} 
+.clear_float {
+	clear: both;
+}
+a.nounderline:link {
+	text-decoration: none;
+
+}
+a.nounderline:visited {
+	text-decoration: none;
+	color: #0000CC;
+
+}
+a.nounderline_foot:link {
+	text-decoration: none;
+	color: #7C7C7C;
+
+}
+a.nounderline_foot:visited {
+	text-decoration: none;
+	color: #525252;
+
+}
+.text_indent {
+	padding-top: 10px;
+	padding-left: 30px;
+}
+.table_center {
+	margin-right: auto;
+	margin-left: auto;
+	width: 750px;
+}
+.nav_bar_element{
+	font-size: 10px;
+	clear: none;
+	float: left;
+	background-position: center center;
+	text-align: center;
+	padding-top: 5px;
+	margin-top: 0px;
+	height: 30px;
+}

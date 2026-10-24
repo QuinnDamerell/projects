@@ -1,0 +1,282 @@
+{
+  "source_url": "https://manufactur3dmag.com/octoeverywhere-know-popular-octoprint-plugin/",
+  "captured": "2026-10-18T17:14:32.772Z",
+  "resource_manifest": "resource-manifest.json",
+  "format": "static website snapshot",
+  "wrapper": "docs/media/manufactur3d-octoeverywhere-profile-2022.md",
+  "notes": [
+    "Current page carries later 2023 headline wording despite the 2022 publication date.",
+    "Four source-hosted images reported generic application/octet-stream; downloaded and validated as images, with source URLs and SHA-256 recorded."
+  ],
+  "validation": {
+    "external_requests": 0,
+    "broken_images": 0,
+    "renderer": "tools/render_site_archive.mjs --paginated",
+    "source_screenshot_visually_checked": true,
+    "pdf_pages_visually_checked": true,
+    "pdf_pages": 7
+  },
+  "presentation_metadata": "snapshot.json",
+  "files": [
+    {
+      "path": "as-captured.png",
+      "bytes": 1222909,
+      "sha256": "822eb1766cd9e79d2e5315f7b3161e52d60d0b199954d1a68033ac35899e2b9c"
+    },
+    {
+      "path": "images/Abhi_blur-1.png.webp",
+      "bytes": 21080,
+      "sha256": "9d07c7523daf6a7bc5793f2a30e273f899a25bc2cdac294f6358d2a73ef53360"
+    },
+    {
+      "path": "images/Manufactur3D-Logo_2.png",
+      "bytes": 56796,
+      "sha256": "1a97cd99d72cb0ea0947bb97ba074a20c90d47361fa663fe581bed29d0e34d85"
+    },
+    {
+      "path": "images/Manufactur3D-Logo_3-1.png",
+      "bytes": 54687,
+      "sha256": "f7c013805416f22f3d61b46cf81980c19f5a5cc2d63c8627d7a8b17d752a34bc"
+    },
+    {
+      "path": "images/octoeverywhere-app-1024x367-1-2.png",
+      "bytes": 18969,
+      "sha256": "9254e057816d5e545c43adc052f5536166b1abc82208a879acec0a9046201f74"
+    },
+    {
+      "path": "images/octoeverywhere-gadget-2.jpg",
+      "bytes": 46298,
+      "sha256": "a85968e47fd523a1d80f75038effdf63eb873baa16a9031f369e1ad53b1d7d92"
+    },
+    {
+      "path": "images/octoeverywhere-homepage-1024x560-1-2.png",
+      "bytes": 47552,
+      "sha256": "198beb0a394d02244c4add0e1fdffb045c3c5c124c7ecdfc96810d30a48c15db"
+    },
+    {
+      "path": "images/octoeverywhere-homepage-2.png.webp",
+      "bytes": 11078,
+      "sha256": "1a3f1ebeadf6b43f7446e3995f33793f25d7773440d11baa86fdf83edd394abf"
+    },
+    {
+      "path": "images/octoeverywhere-notifications-1024x365-1-2.png",
+      "bytes": 15038,
+      "sha256": "a114d2236eef97a7af79c126f37783737f8be8eda32960829ea20027b993bdfd"
+    },
+    {
+      "path": "resource-manifest.json",
+      "bytes": 13175,
+      "sha256": "904d8b6b2e15ff0a9f8bbaca6335f0aa764350702f94096826ab48005e00601f"
+    },
+    {
+      "path": "resources/0a5b5a0d0db8b97134ae.woff",
+      "bytes": 10032,
+      "sha256": "0a5b5a0d0db8b97134aea9d538408031ac5240e2a6cd2732f0de329b9333d541"
+    },
+    {
+      "path": "resources/0dc9d9b75bffd07e25f7.woff2",
+      "bytes": 1568,
+      "sha256": "0dc9d9b75bffd07e25f727e8d67a39cc731e21c718b3b86267226bb4e2757813"
+    },
+    {
+      "path": "resources/19874318747181a650ed.woff2",
+      "bytes": 14044,
+      "sha256": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc"
+    },
+    {
+      "path": "resources/19bc9ab84376bb2f88eb.woff",
+      "bytes": 6364,
+      "sha256": "19bc9ab84376bb2f88eb858d4293c75dad965c70df7755d0a7f03d10080174b2"
+    },
+    {
+      "path": "resources/1ab0dd32ff247b0018a0.woff",
+      "bytes": 6748,
+      "sha256": "1ab0dd32ff247b0018a0a25640920992df92c0ceb11d0310a086de2de63d3dfa"
+    },
+    {
+      "path": "resources/28258d0621216948416a.woff2",
+      "bytes": 56800,
+      "sha256": "28258d0621216948416a859d32487ab6ad1c9effa0d08795698e70be3c917630"
+    },
+    {
+      "path": "resources/285231237ffb84663beb.woff2",
+      "bytes": 4544,
+      "sha256": "285231237ffb84663beb3eb429caf7a8cab31dd42cac05e6fd2d5b266c7904fc"
+    },
+    {
+      "path": "resources/2ad647b9159d27d27f49.woff2",
+      "bytes": 7852,
+      "sha256": "2ad647b9159d27d27f4999b30598f92e60449fb20d80803bc7b85afafbb446d5"
+    },
+    {
+      "path": "resources/2cbf615c7464f39b69b9.woff2",
+      "bytes": 7896,
+      "sha256": "2cbf615c7464f39b69b9eb27c9f423a0a2512cb150cbb9ec6714b47f316908b8"
+    },
+    {
+      "path": "resources/33f057ea61fa59781861.woff2",
+      "bytes": 4320,
+      "sha256": "33f057ea61fa597818617de3b9f66a5a3955fc1b0047e17b0f4887a975c6c732"
+    },
+    {
+      "path": "resources/36c3f8e0a1c59e1bc2fd.woff2",
+      "bytes": 4552,
+      "sha256": "36c3f8e0a1c59e1bc2fd2a9cabab5b478b488882beebb534e4bd1a8360bf845b"
+    },
+    {
+      "path": "resources/40787d0c2ff6301cb60b.woff2",
+      "bytes": 8192,
+      "sha256": "40787d0c2ff6301cb60b504b6c7a2518c5e0104e6f0f5329c14536d6ed1b884d"
+    },
+    {
+      "path": "resources/45143b4c6048d662b7d7.woff",
+      "bytes": 6200,
+      "sha256": "45143b4c6048d662b7d7fb27b67f49ac11f760357d736326eccbf13ed1786dcd"
+    },
+    {
+      "path": "resources/4b908ff7cd1059c0a54e.woff",
+      "bytes": 18324,
+      "sha256": "4b908ff7cd1059c0a54e974058b3733e02db0dc8fbca834d129302a1cb75e690"
+    },
+    {
+      "path": "resources/4de7f825469e917f1ff3.woff",
+      "bytes": 11296,
+      "sha256": "4de7f825469e917f1ff358faf9fa2b52b4bb1b2da953bd7717a9b47c0d9cb9c9"
+    },
+    {
+      "path": "resources/5bb4928d86ca19d24b2b.woff",
+      "bytes": 6764,
+      "sha256": "5bb4928d86ca19d24b2b2fd9f2cb5e8080acad32ef5d6b2f9bf1abc1d65afa38"
+    },
+    {
+      "path": "resources/5e86bae45417edeebd78.woff",
+      "bytes": 10012,
+      "sha256": "5e86bae45417edeebd782a31adccfaa811e938fe93099cbe4b7991e7d74e0847"
+    },
+    {
+      "path": "resources/64d81d2579261c073c8e.woff",
+      "bytes": 10004,
+      "sha256": "64d81d2579261c073c8e7ed0964f7b1735707ac3afc6c60a49531918e1cb128f"
+    },
+    {
+      "path": "resources/68c1619731941dd395b6.woff2",
+      "bytes": 5252,
+      "sha256": "68c1619731941dd395b6b2c1ac05d2588815758eabcd5785cf579b10e9a94d27"
+    },
+    {
+      "path": "resources/6e0f49517a291e1f6dbc.woff2",
+      "bytes": 1612,
+      "sha256": "6e0f49517a291e1f6dbcc1c40cd46cf130793baa48d9e5f93252cb95099a82ed"
+    },
+    {
+      "path": "resources/844ae7a64b3c5e34292b.woff2",
+      "bytes": 5276,
+      "sha256": "844ae7a64b3c5e34292b17b449fee6ea4c5afacb1aeb783d71008218e101072c"
+    },
+    {
+      "path": "resources/84a5f20c3e6729896755.png",
+      "bytes": 4760,
+      "sha256": "84a5f20c3e67298967556aa1d25f7fd040688b6f32e40f6a16b175dbdb2651bd"
+    },
+    {
+      "path": "resources/90b304b6fd89343de143.woff2",
+      "bytes": 8284,
+      "sha256": "90b304b6fd89343de143695a0791a3bf4aba8bbb3a59849046e21e304628bd7e"
+    },
+    {
+      "path": "resources/969fa71a32335bd8c326.woff",
+      "bytes": 6060,
+      "sha256": "969fa71a32335bd8c326fa00391d909d01498bfa2c67d0b182e859e5c079e737"
+    },
+    {
+      "path": "resources/982fbeabb101d46163cb.woff2",
+      "bytes": 1604,
+      "sha256": "982fbeabb101d46163cb1db8898559cca01871076f9518601ffc86d06a896801"
+    },
+    {
+      "path": "resources/9a428f1c2013cc26132f.woff",
+      "bytes": 2184,
+      "sha256": "9a428f1c2013cc26132f6b6de109721626683c0fe67178961de1877b5bb439cc"
+    },
+    {
+      "path": "resources/ab67a6d3a3fc134b74e9.woff2",
+      "bytes": 7872,
+      "sha256": "ab67a6d3a3fc134b74e966f10de67b1ae07c1c29fd7ebb6cb0705488f1128e22"
+    },
+    {
+      "path": "resources/b37807fe106dc58c5764.woff2",
+      "bytes": 5236,
+      "sha256": "b37807fe106dc58c57642635ae7ea172abe65b380fea7b8894615a5883b26ec5"
+    },
+    {
+      "path": "resources/b707ffc6454e54831a69.woff",
+      "bytes": 11352,
+      "sha256": "b707ffc6454e54831a69d6c7db32d427b4a2bb914153c1f850fc4f888be7c35f"
+    },
+    {
+      "path": "resources/c805ac8fd73fb95ddba7.woff",
+      "bytes": 18240,
+      "sha256": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4"
+    },
+    {
+      "path": "resources/c9e6d7467218a28ba790.woff",
+      "bytes": 2196,
+      "sha256": "c9e6d7467218a28ba790d2283edf4395259108bf85aa9aa03bd870c310f4af25"
+    },
+    {
+      "path": "resources/caefb2ca9d80515325f9.woff",
+      "bytes": 6744,
+      "sha256": "caefb2ca9d80515325f901a72b5f3a88a6cb23b603a7aa2ed25e07133214aeb3"
+    },
+    {
+      "path": "resources/d2a12c85a831e4b5db34.woff2",
+      "bytes": 14212,
+      "sha256": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71"
+    },
+    {
+      "path": "resources/d4a8e9c72113653a7360.woff2",
+      "bytes": 14160,
+      "sha256": "d4a8e9c72113653a7360ca4d1eba83420c4e1b0ca1ad3945c93592b533f48a8f"
+    },
+    {
+      "path": "resources/dc7c46d7eb269cc90650.woff2",
+      "bytes": 8276,
+      "sha256": "dc7c46d7eb269cc90650d7f70cf49aafa39a98444e6882cc84096acbc156bfcd"
+    },
+    {
+      "path": "resources/e5d35fda4759b0d63ebc.woff",
+      "bytes": 18412,
+      "sha256": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61"
+    },
+    {
+      "path": "resources/eed028eaa08fc76f336c.woff",
+      "bytes": 2176,
+      "sha256": "eed028eaa08fc76f336ca9e4c0a629f6f538d23530c49bf4411703df7d3fe723"
+    },
+    {
+      "path": "resources/f350e57f7de487eafb00.woff",
+      "bytes": 11248,
+      "sha256": "f350e57f7de487eafb00f3dfc0ba0389670f929fe3c23d7ced337d94179291ac"
+    },
+    {
+      "path": "snapshot.html",
+      "bytes": 308806,
+      "sha256": "d49938c50ca61b09599bd228fab8e38d99c9dfcaeaf45e7aa626f987c85c48da"
+    },
+    {
+      "path": "snapshot.json",
+      "bytes": 3615,
+      "sha256": "d2e0cc1d7ba625063b78449b1af56a20beaaa5c18ae366ec7c15267c86311618"
+    },
+    {
+      "path": "snapshot.pdf",
+      "bytes": 933804,
+      "sha256": "803b7c622defa2ace3e3174e739c19ba39647794c057676980e0f64982835cf3"
+    },
+    {
+      "path": "snapshot.png",
+      "bytes": 1239902,
+      "sha256": "186cf5961a1c442871abb5872438a1cbc4233408a9a20e5f368b0837f6e84636"
+    }
+  ]
+}

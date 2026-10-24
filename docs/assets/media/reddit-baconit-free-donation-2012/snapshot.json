@@ -1,0 +1,70 @@
+{
+  "url": "https://www.reddit.com/r/wp7/comments/p9opj/tgif_baconit_15_the_most_amazing_version_of/",
+  "original_urls": [
+    "https://www.reddit.com/r/wp7/comments/p9opj/comment/c3no50t/",
+    "https://www.reddit.com/r/wp7/comments/p9opj/tgif_baconit_15_the_most_amazing_version_of/"
+  ],
+  "title": "TGIF! Baconit 1.5 (the most amazing version of Baconit yet) is now live on the Windows Phone Market! Enjoy :)",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:05.893508+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1328299797,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 68,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 68,
+  "recorded_comment_count": 66,
+  "required_comment_ids": [
+    "c3no50t"
+  ],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [
+    "c3o57hn",
+    "c3nryrw",
+    "c3o57r5"
+  ],
+  "missing_parent_ids": [],
+  "gaps": [
+    "Recovered 68 comment records; the archived post reports 66. Counts come from different archive observations and cannot establish complete recovery.",
+    "3 recovered comment records contain deleted/removed/empty text; those placeholders are retained."
+  ],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=p9opj",
+      "fetched_utc": "2026-10-18T17:06:00.246216+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 894,
+      "sha256": "adb3228796e36b6cf7ca3bd3e14cac831457cc6bd1791882a1cc88e34beb7812",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=p9opj",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=p9opj&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:01.943415+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 43095,
+      "sha256": "f159d7cd25aef19218b83aeaa0a2f101db0faf9494347878bf24df68fc8a3fc7",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=p9opj&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "dc54cbab9760f2e12eaa0df4ebfbce024718ba44dedc1198b8b1053e4872346b"
+}

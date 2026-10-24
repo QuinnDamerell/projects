@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">OctoEverywhere</title>
+  <desc id="desc">A 3D printer with a small globe representing access from anywhere.</desc>
+  <path fill="#16161B" d="M0 0h600v400H0z"/>
+  <g transform="translate(-18 0)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="#EDEDF2" stroke-width="14" d="M380 240V128a16 16 0 0 0-16-16H236a16 16 0 0 0-16 16v140a16 16 0 0 0 16 16h108M220 158h160M300 158v23M253 257h80"/>
+    <rect x="285" y="178" width="30" height="21" rx="4" fill="#A193FF"/>
+    <path fill="#A193FF" d="M295 199h10l-5 10z"/>
+    <path stroke="#A193FF" stroke-width="9" d="M279 226h42M279 240h42"/>
+    <circle cx="386" cy="269" r="39" fill="#16161B"/>
+    <g stroke="#A193FF" stroke-width="7">
+      <circle cx="386" cy="269" r="29"/>
+      <ellipse cx="386" cy="269" rx="12" ry="29"/>
+      <path d="M357 269h58"/>
+    </g>
+  </g>
+</svg>

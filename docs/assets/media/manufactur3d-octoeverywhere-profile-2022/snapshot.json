@@ -1,0 +1,58 @@
+{
+  "url": "https://manufactur3dmag.com/octoeverywhere-know-popular-octoprint-plugin/",
+  "title": "OctoEverywhere – Know about the most popular OctoPrint Plugin (2023)",
+  "site": "Manufactur3D",
+  "published": "2022-09-21T20:00:00.000Z",
+  "captured": "2026-10-18T17:14:32.772Z",
+  "restoredImages": [
+    {
+      "original": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-homepage-1024x560-1-2.png",
+      "source": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-homepage-1024x560-1-2.png",
+      "file": "images/octoeverywhere-homepage-1024x560-1-2.png",
+      "sha256": "198beb0a394d02244c4add0e1fdffb045c3c5c124c7ecdfc96810d30a48c15db",
+      "reported_content_type": "application/octet-stream",
+      "note": "Downloaded from the publisher image host; validated as a PNG or JPEG, then supplied explicitly to the snapshot tool because generic content-type prevented automatic saving."
+    },
+    {
+      "original": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-app-1024x367-1-2.png",
+      "source": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-app-1024x367-1-2.png",
+      "file": "images/octoeverywhere-app-1024x367-1-2.png",
+      "sha256": "9254e057816d5e545c43adc052f5536166b1abc82208a879acec0a9046201f74",
+      "reported_content_type": "application/octet-stream",
+      "note": "Downloaded from the publisher image host; validated as a PNG or JPEG, then supplied explicitly to the snapshot tool because generic content-type prevented automatic saving."
+    },
+    {
+      "original": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-notifications-1024x365-1-2.png",
+      "source": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-notifications-1024x365-1-2.png",
+      "file": "images/octoeverywhere-notifications-1024x365-1-2.png",
+      "sha256": "a114d2236eef97a7af79c126f37783737f8be8eda32960829ea20027b993bdfd",
+      "reported_content_type": "application/octet-stream",
+      "note": "Downloaded from the publisher image host; validated as a PNG or JPEG, then supplied explicitly to the snapshot tool because generic content-type prevented automatic saving."
+    },
+    {
+      "original": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-gadget-2.jpg",
+      "source": "https://storage.ghost.io/c/ad/bd/adbd5c21-553a-40ae-842c-a669d1507204/content/images/2026/07/octoeverywhere-gadget-2.jpg",
+      "file": "images/octoeverywhere-gadget-2.jpg",
+      "sha256": "a85968e47fd523a1d80f75038effdf63eb873baa16a9031f369e1ad53b1d7d92",
+      "reported_content_type": "application/octet-stream",
+      "note": "Downloaded from the publisher image host; validated as a PNG or JPEG, then supplied explicitly to the snapshot tool because generic content-type prevented automatic saving."
+    }
+  ],
+  "removed": [
+    ".section-read-next"
+  ],
+  "youtube": [],
+  "automaticResources": "Local or data URLs only; see resource-manifest.json",
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 5809
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  },
+  "presentationAdjustments": [
+    "Corrected the default restoration banner to name the actual image source: the publisher image host, not the Internet Archive."
+  ]
+}

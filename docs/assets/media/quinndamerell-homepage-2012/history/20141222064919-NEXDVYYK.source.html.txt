@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setSiteSpeedSampleRate',100]);</script>
+<!-- new -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<title>Quinn Damerell.com - Live. Laugh. Code.</title>
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+<META NAME="keywords" CONTENT="Quinn, Damerell, Quinn Damerell, Windows Phone, Android, Baconit, Liquid Physics, Purdue">
+<META NAME="description" CONTENT="Purdue Student, Windows Phone Developer, Android Developer, and Future Microsoft Employee on Windows Phone">
+<META NAME="Author" CONTENT="Quinn@QuinnDamerell.com">
+<META name="distribution" content="one of several">
+<link rel="SHORTCUT ICON" href="http://www.quinndamerell.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="http://www.quinndamerell.com/A.style.css.pagespeed.cf.8KPx1swibJ.css"/>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function(){if($.browser.safari){document.getElementById('backTile').style.marginTop="-15px";setTimeout("FlipTile()",3000);}});var isFliped=0;var firstTime=1;var ImageNum=0;function FlipTile()
+{var tile=document.getElementById('livetile');var backTile=document.getElementById('backTile');var property=getTransformProperty(tile);if(isFliped==0)
+{backTile.style.backgroundImage="url(http://www.quinndamerell.com/Images/TilePic4.jpg)";isFliped=1;tile.style[property]="rotateX(-180deg)";tile.style.zIndex=0;}
+else
+{isFliped=0;tile.style[property]="rotateX(0)";tile.style.zIndex=10;}
+if(firstTime==1)
+{firstTime=0;setInterval("FlipTile()",8000);}}
+function getTransformProperty(elm){var properties=['transform','WebkitTransform','MozTransform','msTransform','OTransform'];while(p=properties.shift()){if(typeof elm.style[p]!='undefined'){return p;}}
+return false;}
+//]]></script>
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-28975617-1']);_gaq.push(['_setDomainName','.quinndamerell.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+</head>
+<body class="gradient">
+<div id="body_col">
+<div id="header" class="container">
+<div id="transformers-rule">
+<div class="LiveTile MainTile">
+<div class="card" id="livetile">
+<div class="face front">
+<span>Quinn Damerell</span>
+</div>
+<div class="face back" id="backTile">
+<span>Test</span>
+</div>
+</div>
+</div>
+</div>
+<a href="https://live.xbox.com/en-US/Profile?gamertag=Mr Quinninator" target="_blank"><div id="avatar"><img src="http://avatar.xboxlive.com/avatar/Mr Quinninator/avatar-body.png" border="0"/></div></a>
+<div id="nav_bar">
+<ul class="nav_elements">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About Me</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="contact.php">Contact Me</a></li>
+</ul>
+</div>
+</div>
+<div id="content" class="container" style="min-height:600px">
+<div id="main" class="grid-24">
+<div class="grid-6">
+<a href="http://www.quinndamerell.com/Baconit/" id="slot-a" class="tile" onclick="GridClick();">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="http://www.quinndamerell.com/Images/Index/235x176xBaconit.png.pagespeed.ic.rJtxNQ1JS6.jpg" width="235" height="176" alt="" border="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/PurdueBus/" id="slot-b" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"> <img src="http://www.quinndamerell.com/Images/Index/235x176xPurdueBus.png.pagespeed.ic.E3hj-AyllX.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6">
+<a href="http://www.windowsphone.com/s?appid=5b4643d0-df36-4ebc-a0ce-b8729ac34d36" id="slot-c" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xNextBus.png.pagespeed.ic.K0QDwH6PTO.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/PurdueMenu/" id="slot-d" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xPurdueMenu.png.pagespeed.ic._60b1fJns7.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6">
+<a href="http://www.quinndamerell.com/ThinkingOfYou/" id="slot-f" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xThinkingOfYou.png.pagespeed.ic.r6Y3F7Dpci.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.quinndamerell.com/CrossTxT/" id="slot-e" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xCrossTxT.png.pagespeed.ic.0WWYLD0tl7.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+<div class="grid-6 last">
+<a href="http://www.quinndamerell.com/LiquidPhysics/" id="slot-g" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xLiquidPhysics.png.pagespeed.ic.WrKA5SvHI6.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+<a href="http://www.windowsphone.com/s?appid=37ce9ea8-0c67-48b6-bd2a-ab055855eb49" id="slot-h" class="tile">
+<div style="display: block; height: 132px; background-color: #158CC4;"><img src="http://www.quinndamerell.com/Images/Index/235x176xNinjaCam.png.pagespeed.ic.NF-Go7vLNy.jpg" width="235" height="176" alt="" BORDER="0"/></div>
+<span class="caption"></span>
+</a>
+</div>
+</div>
+<div id="bottom_nav">
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="portfolio.html">Recent Projects</a></h3>
+<p>Interested in my recent projects for Windows Phone or Andriod? Look here for more.</p>
+</div>
+</div>
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="about.html">Learn About Me</a></h3>
+<p>I'm a developer at Microsoft on the Windows Phone platform and I love to code.</p>
+</div>
+</div>
+<div class="grid-6">
+<div class="text">
+<h3><a class="SiteLink" href="contact.php">Contact Me</a></h3>
+<p>Want more information on one of my projects or simply want to chat? You can contact me <a class="SiteLink" href="http://www.quinndamerell.com/contact.html">here</a>!</p>
+</div>
+</div>
+<div class="grid-6 last">
+<div class="text">
+<h3>Follow Me</h3>
+<p>You can find me on many social network sites: <a class="SiteLink" href="http://www.twitter.com/QuinnDamerell">Twitter</a>, <a class="SiteLink" href="http://www.linkedin.com/in/quinndamerell">LinkedIn</a>, <a class="SiteLink" href="http://www.facebook.com/QuinnDamerell">Facebook</a>, <a class="SiteLink" href="http://steamcommunity.com/profiles/76561197984522794">Steam</a>, and <a class="SiteLink" href="http://www.reddit.com/user/quinbd/">reddit</a>!</p>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" class="container">
+</div>
+</div>
+</body>
+</html>

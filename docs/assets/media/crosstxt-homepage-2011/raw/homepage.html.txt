@@ -1,0 +1,735 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Quinn Damerell">
+<meta name="email" content="support@crosstxt.com">
+<meta name="Language" content="EN">
+<meta name="Distribution" content="Global">
+<meta name="Rating" content="General">
+<meta name="description" content="CrossTxT will change the way you text. Send and receive text messages from your computer with any Android powered phone. CrossTxT is simple, easy, secure, and free.">
+<meta name="keywords" content="CrossTxT, Computer to phone texting, texting revolution, android texting solution, android keyboard, free sms, android sms backup, android text backup, android secure">
+<title>CrossTxT - Welcome to the Texting Revolution</title>
+<link rel="shortcut icon" href="http://www.crosstxt.com/favicon.ico" type="image/x-icon"/><link rel="icon" href="http://www.crosstxt.com/favicon.ico" type="image/x-icon"/>
+
+<style type="text/css">
+<!--
+html,
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+.header_right {
+	float: right;
+	width: 492px;
+	clear: right;
+}
+.header_right_bubble {
+	width: 467px;
+	background-image: url(images/header_login_bubble.png);
+	height: 70px;
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	padding-top: 5px;
+}
+.background_top_bar {
+	background-repeat: repeat-x;
+	position: absolute;
+	width: 100%;
+	height: 77px;
+	z-index: -1;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-image: url(images/background_top_bar.png);
+}
+.top_header {
+	width: 100%;
+	clear: both;
+}
+.header_left {
+	width: 40%;
+	float: left;
+}
+.header_right_remember_me {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	float: left;
+	padding-left: 3px;
+}
+.header_right_remember_me_text {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	padding-top: 1px;
+	float: left;
+	clear: none;
+}
+.header_right_forgot_pass {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	float: left;
+	padding-left: 6px;
+}
+
+.header_logo {
+	padding-top: 20px;
+}
+.header_logo_text {
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 3px;
+}
+.footer {
+	text-align: center;
+	width: 900px;
+	padding-top: 0px;
+	font-size: 15px;
+	clear: both;
+	position: relative;
+	top: -810px;
+}
+.container {
+	width: 906px;
+	margin-right: auto;
+	margin-left: auto;
+	z-index: 1;
+	font-family: Arial, Helvetica, sans-serif;
+	height:625px;
+	overflow:hidden;
+}
+.container_body {
+	height: 50px;
+	width: 900px;
+	clear: both;
+	padding-top: 20px;
+}
+.container_body_headers {
+	float: left;
+	width: 180px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 16px;
+}
+.container_body_headers_image {
+	float: left;
+	width: 180px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-bottom: 4px;
+	font-size: 16px;
+}
+.body_top_line {
+	background-color: #BCD0FE;
+	height: 2px;
+	width: 900px;
+}
+.body_bottom_line {
+	background-color: #BCD0FE;
+	height: 2px;
+	width: 900px;
+	clear: both;
+}
+.body_footer_line {
+	background-color: #BCD0FE;
+	height: 2px;
+	width: 900px;
+}
+
+
+.body_main_content {
+	height: 400px;
+	width: 900px;
+}
+.container_body_headers_underline {
+	width: 130px;
+	background-color: #94B7FE;
+	height: 2px;
+	margin-right: auto;
+	margin-left: auto;
+	display: none;
+}
+.our_panel {
+	height: 400px;
+	width: 900px;
+}
+a.nounderline:link {
+	text-decoration: none;
+
+}
+a.nounderline:visited {
+	text-decoration: none;
+	color: #0000CC;
+}
+a.nounderline_black:link {
+	text-decoration: none;
+	color: #000;
+}
+a.nounderline_black:visited {
+	text-decoration: none;
+	color: #000;
+}
+
+.stepcarousel{
+	position: relative; /*leave this value alone*/
+	overflow: scroll; /*leave this value alone*/
+	width: 900px; /*Width of Carousel Viewer itself*/
+	height: 400px;
+	background-repeat: repeat-y;
+}
+.carousel_image_left {
+	height: 400px;
+	width: 68px;
+	position: relative;
+	top: -400px;
+}
+.carousel_image_right {
+	height: 400px;
+	width: 68px;
+	position: relative;
+	top: -800px;
+	left: 832px;
+}
+.stepcarousel .belt{
+position: absolute; /*leave this value alone*/
+left: 0;
+top: 0;
+}
+.stepcarousel .panel{
+	float: left; /*leave this value alone*/
+	overflow: hidden; /*clip content that go outside dimensions of holding panel DIV*/
+	margin: 0px; /*margin around each panel*/
+	width: 900px;
+	height: 400px;
+}
+div.yel
+{
+background-color:yellow;
+}
+.panel_ca_main {
+	height: 350px;
+	width: 755px;
+	padding-top: 55px;
+	padding-left: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.panel_ca_title {
+	color: #06F;
+	font-size: 24px;
+}
+.panel_ca_fields {
+	padding-left: 30px;
+	padding-top: 10px;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.panel_ca_button {
+	padding-top: 7px;
+}
+.panel_ca_beta_what {
+	float: left;
+	padding-top: 5px;
+	font-size: 14px;
+	padding-left: 2px;
+}
+.panel_is_main {
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 55px;
+	width: 755px;
+}
+.panel_is_header_holder {
+}
+.panel_is_header_image {
+	float: left;
+	padding-top: 15px;
+	padding-right: 15px;
+	height: 200px;
+}
+.panel_st_header_image {
+	float: left;
+	padding-top: 25px;
+	padding-right: 15px;
+	height: 100px;
+}
+.panel_st_bullet_holder {
+	padding-left: 165px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #7493FF;
+	padding-top: 5px;
+}
+.panel_is_header_title {
+	color: #06F;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	padding-bottom: 4px;
+}
+.panel_is_header_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #7493FF;
+}
+.footer_text {
+	padding-top: 20px;
+}
+.header_right_field {
+	padding-left: 4px;
+}
+.panel_cs_header_image {
+	float: left;
+	padding-right: 15px;
+	height: 200px;
+}
+.speical_note{
+	background-color:#009F00;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #005E00;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+-->
+</style>
+
+<script type="text/javascript">
+window.onload=function()
+{
+	//for carousel
+	stepcarousel.stepTo('mygallery', 1);	
+var deftxt='Email Address';
+var password='Password';
+var def=document.getElementById('email');
+var pas=document.getElementById('password');
+def.onfocus = function()
+{this.value=(this.value==deftxt)?'':this.value;}
+def.onblur= function()
+{if(this.value=='')	{this.value=deftxt;}
+else this.value;}
+def.focus();
+def.blur();
+
+pas.onfocus = function()
+{this.value=(this.value==password)?'':this.value;
+if(this.value==''){this.type="password";}}
+pas.onblur= function()
+{if(this.value=='')	{this.value=password;}}
+pas.focus();
+pas.blur();
+
+setCurrentActiveHeader();
+}
+
+//code for hover overs
+var setHeader = 1;
+var headerSizes = [0,134,164,130,142];
+function setCurrentActiveHeader(){
+	for (var i=1; i < 6; i++) {
+		if(i == setHeader){
+			activateHeader(i);	
+		}
+		else{
+			disactivateHeader(i);
+		}		
+	}
+}
+function activateHeader(number){
+	if(number == 5){
+		var image=document.getElementById('create_account_image');
+		image.src="images/landing/create_account_active.png";
+		return
+	}
+	var header_under=document.getElementById('header'+number+'_underline');
+	header_under.style.display='block';
+	header_under.style.width=headerSizes[number]+'px';
+}
+function disactivateHeader(number){
+	if(number == setHeader)
+		return;
+	if(number == 5){
+		var image=document.getElementById('create_account_image');
+		image.src="images/landing/create_account.png";
+		return
+	}
+	var header1_under=document.getElementById('header'+number+'_underline');
+	header1_under.style.display='none';
+}
+</script>
+<!--Make sure page contains valid doctype at the very top!-->
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<script type="text/javascript" src="scripts/stepcarousel.js">
+/***********************************************
+* Step Carousel Viewer script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+</script>
+
+<script type="text/javascript">
+
+stepcarousel.setup({
+	galleryid: 'mygallery', //id of carousel DIV
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+		autostep: {enable:true, moveby:1, pause:5000},	
+	panelbehavior: {speed:800, wraparound:true, wrapbehavior:'slide', persist:true},
+	defaultbuttons: {enable: false, moveby: 1, leftnav: ['', -5, 80], rightnav: ['', -20, 80]},
+	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
+	contenttype: ['inline'] //content setting ['inline'] or ['ajax', 'path_to_external_file']
+})
+
+</script>
+
+<script type="text/javascript">
+var userGood = false;
+var passGood = false;
+var passConfirmed = false;
+var betaGood = false;
+var xmlhttp;
+function validateUser(ingoreZero)
+{
+	if (xmlhttp)
+	{
+		xmlhttp.abort();
+	}
+	var unameBox = document.getElementById('userNameText');
+	var nameText = unameBox.value;
+	xmlhttp = new XMLHttpRequest();
+	var myDiv = document.getElementById('userNameText');
+	var loadingPic = document.getElementById('loading');
+	xmlhttp.onreadystatechange=function()
+	{
+		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			var response = xmlhttp.responseText;
+			loadingPic.style.visibility="hidden";
+			if (response.indexOf("success") === 0)
+			{
+				//alert(response);
+				myDiv.style.background="white";
+				userGood = true;
+			}
+			else
+			{
+				//alert(response);
+				myDiv.style.background="#FFD5D5";
+			}
+		}
+	}
+	if (ingoreZero != 1 && nameText.length < 1)
+	{
+		myDiv.style.background="white";
+		return;
+	}
+	loadingPic.style.visibility="visible";
+	xmlhttp.open("GET","/preauth.php?uname=" + nameText,true);
+	xmlhttp.send();
+}
+function validatePass(ingoreZero)
+{
+	passGood = false;
+	var myDiv = document.getElementById('passwordText');
+	var message = document.getElementById('passmessage');
+	var passTxt = document.getElementById('passwordText');
+	if (passTxt.value.length >= 8)
+	{
+		message.innerHTML="";
+		myDiv.style.background="white";
+		passGood = true;
+	}
+	else if (ingoreZero != 1 &&  passTxt.value.length === 0)
+	{
+		message.innerHTML="";
+		myDiv.style.background="white";
+	}
+	else
+	{
+		message.innerHTML=" Password must be at least 8 characters";
+		myDiv.style.background="#FFD5D5";
+	}
+	validateConfirm(0);
+}
+
+function validateConfirm(ingoreZero)
+{
+	passConfirmed = false;
+	var myDiv = document.getElementById('passwordConfirm');
+	var message = document.getElementById('confirmmessage');
+	var passTxt = document.getElementById('passwordText');
+	var passConfTxt = document.getElementById('passwordConfirm');
+	if (passTxt.value === passConfTxt.value && !(passConfTxt.value.length === 0))
+	{
+		message.innerHTML="";
+		myDiv.style.background="white";
+		passConfirmed = true;
+	}
+	else if (ingoreZero != 1 &&  passConfTxt.value.length === 0)
+	{
+		message.innerHTML="";
+		myDiv.style.background="white";
+	}
+	else
+	{
+		message.innerHTML=" Passwords do not match";
+		myDiv.style.background="#FFD5D5";
+	}
+}
+
+function validateBetaKey(ingoreZero)
+{
+	betaGood = false;
+	var betaKeyBox = document.getElementById('betaKey');
+	if (betaKeyBox.value.length >= 14) //TODO FIX THIS
+	{
+		betaKeyBox.style.background="white";
+		betaGood = true;
+	}
+	else if (ingoreZero != 1 &&  betaKeyBox.value.length === 0)
+	{
+		betaKeyBox.style.background="white";
+	}
+	else
+	{
+		betaKeyBox.style.background="#FFD5D5";
+	}
+}
+
+function validateform(){
+	validateUser(1);
+	validatePass(1);
+	validateConfirm(1);
+	validateBetaKey(1);
+	
+	if (passGood && passConfirmed && betaGood){
+	   return true;
+	}
+	else
+	   return false;
+}
+
+</script>
+
+</head>
+
+<body>
+<div class="background_top_bar"> </div>
+<!-- <div class="speical_note">Service Note: We are currently upgrading servers to increase our capacity. CrossTxT may be unstable for the next few days until this process is complete. <a href="http://twitter.com/crosstxt" class="nounderline"><img src="images/twitter.png" alt="Twitter" width="18" height="18" border="0" align="absmiddle" /></a></div> -->
+<div class="container">
+  <div class="top_header">
+    <div class="header_left">
+      <div class="header_logo"><img src="images/title.png" width="271" height="47" alt="CrossTxT" /></div>
+      <div class="header_logo_text">Welcome to the texting revolution</div>
+    </div>
+    <div class="header_right">
+      <div class="header_right_bubble">
+        <form action="https://www.crosstxt.com/loginauth.php" method="post">
+          <table width="100%" border="0" cellpadding="0">
+            <tr>
+              <td width="11%">Login:</td>
+              <td width="26%"><div class="header_right_field">
+                <input name="email" id="email" type="text" size="20" />
+              </div></td>
+              <td width="26%"><div class="header_right_field">
+                <input name="password" id="password" type="password" size="20"/>
+              </div></td>
+              <td width="37%"><input type="submit" class="sign_in_box_button_text" value="Sign In" /></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td><div class="header_right_remember_me">
+                <input type="checkbox" name="remember" value="1"/>
+              </div>
+                <div class="header_right_remember_me_text"> Remember me </div></td>
+              <td><div class="header_right_forgot_pass"> <a href="http://www.crosstxt.com/forgotPassword.php" class="nounderline">Forgot Password</a></div></td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="container_body">
+    <div class="body_top_line"></div>
+    <div id="header1" class="container_body_headers"><a onmouseover="activateHeader(1)" onmouseout="disactivateHeader(1)" href="javascript:stepcarousel.stepTo('mygallery', 1)" class="nounderline_black">Seamless Texting</a><br />
+      <div class="container_body_headers_underline" id="header1_underline"></div>
+    </div>
+    <div class="container_body_headers"><a  onmouseover="activateHeader(2)" onmouseout="disactivateHeader(2)" href="javascript:stepcarousel.stepTo('mygallery', 2)" class="nounderline_black">Inbox Synchronization</a><br />
+      <div class="container_body_headers_underline" id="header2_underline"></div>
+    </div>
+    <div class="container_body_headers"> <a onmouseover="activateHeader(3)" onmouseout="disactivateHeader(3)" href="javascript:stepcarousel.stepTo('mygallery', 3)" class="nounderline_black">Full SMS Backup</a><br />
+      <div class="container_body_headers_underline" id="header3_underline"></div>
+    </div>
+    <div class="container_body_headers"> <a onmouseover="activateHeader(4)" onmouseout="disactivateHeader(4)" href="javascript:stepcarousel.stepTo('mygallery', 4)" class="nounderline_black">Complete Security</a><br />
+      <div class="container_body_headers_underline" id="header4_underline"></div>
+    </div>
+    <div class="container_body_headers_image"> <a onmouseover="activateHeader(5)" onmouseout="disactivateHeader(5)" href="javascript:stepcarousel.stepTo('mygallery', 5)"> <img id="create_account_image" src="images/landing/create_account.png" alt="Create Account" width="142" height="38" border="0" /></a></div>
+    <div class="body_bottom_line"></div>
+    <div class="body_main_content">
+      <div id="mygallery" class="stepcarousel">
+        <div class="belt">
+          <div class="panel">
+            <div class="panel_is_main">
+              <div class="panel_is_headerHolder">
+                <div class="panel_st_header_image"><img src="images/landing/computer_to_phone.png" width="111" height="50" alt="Synchronization" /></div>
+                <div class="panel_is_header_title">Seamless computer to phone texting for Android devices</div>
+                <div class="panel_is_header_text">Texting should be simple. Why struggle to use a keyboard designed for mobile devices when you’re not on the move? Your full size keyboard loves you, love it back.</div>
+                <div class="panel_st_bullet_holder">
+                  <table width="100%" border="0">
+                    <tr>
+                      <td width="12px"><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td><span class="panel_is_header_text">Easy as instant messaging from your computer</span></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>No more clumsy touch screen keyboards</td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>No need to turn on or find your phone to check for messages</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel_is_main">
+              <div class="panel_is_headerHolder">
+                <div class="panel_is_header_image"><img src="images/landing/synchronization.png" width="81" height="82" alt="Synchronization" /></div>
+                <div class="panel_is_header_title">Full SMS inbox synchronization from phone to computer</div>
+                <div class="panel_is_header_text">With other texting solutions you will inevitably be switching back and forth from your computer to your phone, losing the context of your conversations. With CrossTxT all of your messages - whether they be sent from your computer, or from your phone - are instantly synchronized.</div>
+                <div class="panel_st_bullet_holder">
+                  <table width="100%" border="0">
+                    <tr>
+                      <td width="12px"><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td><span class="panel_is_header_text">Many devices, one inbox. The way it should be.</span></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>Complete and realtime text message synchronization</td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>Messages sent from your phone or computer are instantly synchronized.</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel_is_main">
+              <div class="panel_is_headerHolder">
+                <div class="panel_is_header_image"><img src="images/landing/phone_to_cloud.png" width="104" height="80" alt="Synchronization" /></div>
+                <div class="panel_is_header_title">Your messages will never be lost when they are backed up on the cloud!</div>
+                <div class="panel_is_header_text">Like all electronic devices, phones are not perfect and can die without warning. Using CrossTxT, your text messages will not be lost.</div>
+                <div class="panel_st_bullet_holder">
+                  <table width="100%" border="0">
+                    <tr>
+                      <td width="12px"><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td><span class="panel_is_header_text">The control is in your hands: No, some, or full backup</span></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>Full Privacy: We will never share any of your data</td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>Delete all of your data from CrossTxT, anytime you wish</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel_is_main">
+              <div class="panel_is_headerHolder">
+                <div class="panel_cs_header_image"><img src="images/landing/lock.png" width="81" height="82" alt="Synchronization" /></div>
+                <div class="panel_is_header_title">We don't want our life public, security is key.</div>
+                <div class="panel_is_header_text">CrossTxT strives to keep all of your personal information safe and secure. All contacts and text messages are encrypted with AES-128 and can only be unlocked using your personal password. This means that nobody but you can read your messages!</div>
+                <div class="panel_st_bullet_holder">
+                  <table width="100%" border="0">
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td><span class="panel_is_header_text">Always secure SSL connection to server with CrossTxT Gold</span></td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>All contacts and text messages encrypted with AES-128</td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>Only your personal password can unlock your messages</td>
+                    </tr>
+                    <tr>
+                      <td><img src="images/landing/bullet.png" width="12" height="12" alt="Bullet" /></td>
+                      <td>We will never share your information to anyone</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel_ca_main">
+              <div class="panel_ca_title"> Think you're ready? Sign up for your free account now! </div>
+              <div class="panel_ca_fields">
+                <form action="auth.php" method="post">
+                  <table width="649" border="0">
+                    <tr>
+                      <td width="142" height="32">Email:</td>
+                      <td width="497"><input name="userNameText" type="text" id="userNameText" onchange="validateUser()" size="23" />
+                        <img id="loading" src="images/landing/small-loading.gif" style="visibility:hidden"/></td>
+                    </tr>
+                    <tr>
+                      <td height="32">Password:</td>
+                      <td><input id="passwordText" type="password" name="password" onkeyup="validatePass()" size="23"/>
+                        <a id="passmessage"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="32">Confirm Password:</td>
+                      <td><input id="passwordConfirm" type="password" name="passwordconfirm" onkeyup="validateConfirm(0)" size="23"/>
+                        <a id="confirmmessage"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="32">Beta Key:</td>
+                      <td><input id="betaKey" style="float:left" type="text" name="betaKey" onkeyup="validateBetaKey()" size="23" />
+                        <div class="panel_ca_beta_what"><a class="nounderline" href="http://www.crosstxt.com/betasignup.php">Sign up for the beta</a></div></td>
+                    </tr>
+                  </table>
+                  <div class="panel_ca_button">
+                    <input id="submitbutton" type="submit" onclick="return validateform();"  value="Create Account" />
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel_image_left"> <img src="images/landing/box_edge_left.png" width="68" height="400" /></div>
+    <div class="carousel_image_right"> <img src="images/landing/box_edge_right.png" width="68" height="400" /></div>
+    <div class="footer">
+      <div class="body_footer_line"></div>
+      <div class="footer_text"> <a href="http://www.crosstxt.com" class="nounderline">Home</a> - <strong><a href="http://www.crosstxt.com/betasignup.php" class="nounderline">Beta Sign Up</a></strong> - <a href="http://www.crosstxt.com/faq.php" class="nounderline">FAQ</a> - <a href="http://www.crosstxt.com/privacy.php" class="nounderline">Privacy</a> - <a href="http://www.crosstxt.com/contact.php" class="nounderline">Contact</a> - <a href="http://www.crosstxt.com/tos.php" class="nounderline">Terms of Service</a> - <a href="http://twitter.com/crosstxt" class="nounderline"><img src="images/twitter.png" alt="Twitter" width="18" height="18" border="0" align="absmiddle" />  Twitter </a> - <a href="https://www.facebook.com/pages/CrossTxT/183794891645062" class="nounderline"><img src="images/facebook.png" width="18" height="18" alt="Facebook" border="0" align="absmiddle"/> Facebook</a>- ©2011<a href="http://www.lozingo.com" class="nounderline"> Lozingo Software</a></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

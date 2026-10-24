@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/octoprint/comments/k3b892/looking_for_beta_testers_octoeverywhere_access/",
+  "original_urls": [
+    "https://www.reddit.com/r/octoprint/comments/k3b892/looking_for_beta_testers_octoeverywhere_access/"
+  ],
+  "title": "Looking For Beta Testers - OctoEverywhere access your printer from anywhere for free!",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.144772+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1606663918,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 21,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 21,
+  "recorded_comment_count": 21,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=k3b892",
+      "fetched_utc": "2026-10-18T17:06:41.674872+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 4664,
+      "sha256": "151b6a4b9c0bdfdaafdef4c228259318f7796ccf9e7ce7c52398a5093750893a",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=k3b892",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=k3b892&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:43.816704+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 30895,
+      "sha256": "15455e24d18d012842602b578b556df8eb14f61a459b6eeae0661981d7c6817b",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=k3b892&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "b81eb752f6babc90f76c73b605026e4a2a16c74128d0bd83baf08d8e5ad09826"
+}

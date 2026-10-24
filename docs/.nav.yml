@@ -1,0 +1,52 @@
+nav:
+  - All Projects: index.md
+  - Career: career/index.md
+  - Media:
+    - Highlights: media/index.md
+    - Homeway and Quinn's story: media/youtube-domotica-facil-homeway-comparison-2025.md
+    - All About Bambu interview: media/allaboutbambu-octoeverywhere-2025.md
+    - The Infill Podcast: media/youtube-next-layer-octoeverywhere-2023.md
+    - Notts IoT technical talk: media/youtube-notts-iot-octoeverywhere-2022.md
+    - Hanselminutes interview: media/hanselminutes-octoeverywhere-2022.md
+    - Mixer FTL in official OBS: media/outerhaven-mixer-obs-2017.md
+    - Baconit on Xbox One: media/windowscentral-baconit-xbox-hands-on-2016.md
+    - Baconit's Windows 10 rewrite: media/windowscentral-baconit-windows-10-2015.md
+    - Glow: media/hackster-glow-2015.md
+    - Baconit's April Fools prank: media/phonearena-baconit-april-fools-2013.md
+    - Starting at Microsoft: media/microsoft-student-blog-2012.md
+    - App developer bringing home the Baconit: media/windows-blog-baconit-2012.md
+    - Thinking of You: media/windowscentral-thinking-of-you-2012.md
+    - From apps to Microsoft: media/microsoft-student-blog-guest-post-2012.md
+    - WinSource interview: media/winsource-baconit-2012.md
+    - The Verge profile: media/theverge-windows-phone-students-2012.md
+    - Big App on Campus: media/windows-phone-blog-big-app-on-campus-2012.md
+    - CrossTxT review and developer Q&A: media/androidpolice-crosstxt-review-2011.md
+    - Time capsules:
+      - QuinnDamerell.com in 2012: media/quinndamerell-homepage-2012.md
+      - QuinnDamerell.com in 2011: media/quinndamerell-homepage-2011.md
+  - Plot: plot.md
+  - Homeway: homeway.md
+  - OctoEverywhere: octoeverywhere.md
+  - Baconit: baconit.md
+  - CrossTxT: crosstxt.md
+  - Prism: prism.md
+  - Glow: glow.md
+  - Kokka Koro: kokka-koro.md
+  - Q World: qworld.md
+  - Mixer Karl: mixer-karl.md
+  - MixTok: mix-tok.md
+  - Loyalty: loyalty.md
+  - Thinking of You: thinking-of-you.md
+  - Crack the Whip: crack-the-whip.md
+  - Instemote: instemote.md
+  - Liquid Physics Wallpaper: liquid-physics-wallpaper.md
+  - Next Bus: next-bus.md
+  - Purdue Bus: purdue-bus.md
+  - Purdue Menu: purdue-menu.md
+  - TxTBack: txtback.md
+  - Reddit Time Machine: reddit-time-machine.md
+  - Gathr: gathr.md
+  - Ninja Cam: ninja-cam.md
+  - Zune Playlist Shuffler: zune-playlist-shuffler.md
+  - PicGen: picgen.md
+  - Early Experiments & School Projects: early-experiments.md

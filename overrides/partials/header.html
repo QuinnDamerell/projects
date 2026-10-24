@@ -1,0 +1,60 @@
+{#-
+  Based on Zensical's partials/header.html. Adds the Archive, Career, Media, and About links and a
+  GitHub button, and moves the palette toggle after search to match the site design.
+-#}
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header') }}">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="{{ lang.t('nav') }}">
+      {% set icon = config.theme.icon.menu or "material/menu" %}
+      {% include ".icons/" ~ icon ~ ".svg" %}
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            {{ config.site_name }}
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            {% if page.meta and page.meta.title %}
+              {{ page.meta.title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="qd-header-links">
+      <a class="qd-header-link" href="{{ nav.homepage.url | url }}#collection">Projects</a>
+      <a class="qd-header-link" href="{{ 'career/' | url }}"{% if page and page.url and page.url[:7] == 'career/' %} aria-current="page"{% endif %}>Career</a>
+      <a class="qd-header-link" href="{{ 'media/' | url }}"{% if page and page.url and page.url[:6] == 'media/' %} aria-current="page"{% endif %}>Media</a>
+      <a class="qd-header-link" href="https://quinn.space">About me</a>
+    </div>
+    {% if "search" in config.plugins %}
+      {% set search = config.plugins["search"] | attr("config") %}
+      {% if search.enabled %}
+        <label class="md-header__button md-icon" for="__search" aria-label="{{ lang.t('search') }}">
+          {% set icon = config.theme.icon.search or "material/magnify" %}
+          {% include ".icons/" ~ icon ~ ".svg" %}
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+    {% endif %}
+    <a class="md-header__button md-icon" href="https://github.com/QuinnDamerell" title="Quinn Damerell on GitHub" aria-label="Quinn Damerell on GitHub">
+      {% include ".icons/fontawesome/brands/github.svg" %}
+    </a>
+    {% if config.theme.palette %}
+      {% if not config.theme.palette is mapping %}
+        {% include "partials/palette.html" %}
+      {% endif %}
+    {% endif %}
+    {% if not config.theme.palette is mapping %}
+      {% include "partials/javascripts/palette.html" %}
+    {% endif %}
+  </nav>
+</header>

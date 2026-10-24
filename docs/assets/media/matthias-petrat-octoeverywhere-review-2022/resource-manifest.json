@@ -1,0 +1,1215 @@
+{
+  "localized_at": "2026-10-18T17:17:44.022785+00:00",
+  "method": "Saved source font and background/icon image bytes in deduplicated local resource files; unavailable automatic images receive explicit text placeholders. No article prose changed.",
+  "resources": [
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/wayl-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 2004,
+      "sha256": "eb96c7de7690788d209261ddf5da41d57fdbed7f81ad2c982be51a98a364b881",
+      "local_path": "resources/eb96c7de7690788d2092.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v3-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1582,
+      "sha256": "276d22800e500e98f6171561963b0f23842484f426bd469c0297ee000e9e5262",
+      "local_path": "resources/276d22800e500e98f617.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v5-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3912,
+      "sha256": "5ec16faaa8d02b30d965d71fa249c5d7dc285f252eab774300301d6438b811c5",
+      "local_path": "resources/5ec16faaa8d02b30d965.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 7891,
+      "sha256": "c9ec113ba15243c2409562dc659e19fa653cd1079fe843d332f82a982a9ae46b",
+      "local_path": "resources/c9ec113ba15243c24095.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 380,
+      "sha256": "69ccc7f5aec3f63276f890ea559450ce611968906acda70fe711ef30c6e23443",
+      "local_path": "resources/69ccc7f5aec3f63276f8.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 9429,
+      "sha256": "9bcef4313799b20ad0b1bbd5b0bc6fc97cdbe624bd7f61b86aecd124a7fee7fc",
+      "local_path": "resources/9bcef4313799b20ad0b1.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-check-premium.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 587,
+      "sha256": "09ab189ffda4f9d99f3827cfd74d410b9ebcafabf8bd9fcd94dbafd43c493bfc",
+      "local_path": "resources/09ab189ffda4f9d99f38.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/microsoftstore-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 351,
+      "sha256": "836998668d6b479138bdba7e1057b663bd141fd4d63f067d81742629a28a37f3",
+      "local_path": "resources/836998668d6b479138bd.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3283,
+      "sha256": "bb7279205dfeaebf17c0906d3a846869cc418c998dfd0f107caea41c4c5e51ef",
+      "local_path": "resources/bb7279205dfeaebf17c0.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/edgeaddons-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1019,
+      "sha256": "2e9211eb47b17c56400ad6b88d83a6bdf193e20f3c5395611d0486d2d4320056",
+      "local_path": "resources/2e9211eb47b17c56400a.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2604,
+      "sha256": "c05a32617f02c845a2772fd1e6b8c9a51a8c73606827591e35dfa132c8a56269",
+      "local_path": "resources/c05a32617f02c845a277.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/2026/08/cropped-cropped-Favicon-Shop-2026-192x192.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 114776,
+      "sha256": "6b12904232d5c831a9093c95b22ed03a2dfd4235a0c270dd03aa75ebb62f5a61",
+      "local_path": "resources/6b12904232d5c831a909.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1059,
+      "sha256": "7ace41efd464cf6240b3d6686e8398f4f8ec2d2c58a770afd45e9cd1187959c4",
+      "local_path": "resources/7ace41efd464cf6240b3.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/dist/css/img/stars/wayl-inverted-active.svg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/dist/css/img/stars/wayl-inverted-active.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v3.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1582,
+      "sha256": "cdae6b1e2ddb146dff4023ba4ce8f78873c0f619316d9cce2dc61f6c3e5f1f3b",
+      "local_path": "resources/cdae6b1e2ddb146dff40.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v1.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1092,
+      "sha256": "5fa283304dfc8e087bbb61921272fb0173b19ebea8c1200a19556c00d9e06660",
+      "local_path": "resources/5fa283304dfc8e087bbb.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 50216,
+      "sha256": "186836b74ceac07b2764c07c0379420e3014efb30fe918461c235e0ef6cbc4a2",
+      "local_path": "resources/186836b74ceac07b2764.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2967,
+      "sha256": "84a209758a74392371b3a66a5726d0f3471b53bb9c444c1e962c0d2b4b3b63a7",
+      "local_path": "resources/84a209758a74392371b3.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/borlabs-cookie/1/cb-instagram-main.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 19433,
+      "sha256": "a2f4dc49dd5f1e33b3bc680ab04843fbde8b987fcd732c199836de7f63c7ec78",
+      "local_path": "resources/a2f4dc49dd5f1e33b3bc.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 424,
+      "sha256": "c2e6e588b0552b0e3eaf35379f52b2559b05e5136b281053da6182baf2ecca85",
+      "local_path": "resources/c2e6e588b0552b0e3eaf.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/snapcraft.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 760,
+      "sha256": "fd7819592a1f2e795513b8e8cd33c482f5e4992306a7fe45c164d403326c4eab",
+      "local_path": "resources/fd7819592a1f2e795513.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/2026/08/cropped-cropped-Favicon-Shop-2026-180x180.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 103872,
+      "sha256": "8be9e794567ea54e92b632672db1c266f7190ff39721f2f29cefbf1e0d0076f6",
+      "local_path": "resources/8be9e794567ea54e92b6.png"
+    },
+    {
+      "url": "https://matthias-petrat.com.de/wp-content/plugins/wp-appbox/buttons/appbox.btn.png",
+      "status": "unavailable",
+      "error": "HTTPSConnectionPool(host='matthias-petrat.com.de', port=443): Max retries exceeded with url: /wp-content/plugins/wp-appbox/buttons/appbox.btn.png (Caused by NameResolutionError(\"HTTPSConnection(host='matthias-petrat.com.de', port=443): Failed to resolve 'matthias-petrat.com.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace-small.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v6-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1041,
+      "sha256": "a246e435af647687dcb4901f910f3e2c717a5d715b4600ede9aa71331ef3f39f",
+      "local_path": "resources/a246e435af647687dcb4.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 305,
+      "sha256": "d2cd526b9dc36a8cffae998f98859f898fd7dad9978064bfa31293cb05718882",
+      "local_path": "resources/d2cd526b9dc36a8cffae.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 51912,
+      "sha256": "a093b888254afd7deb8e37cccfd434e7d06ed47d22cfed9621631d80e1e81554",
+      "local_path": "resources/a093b888254afd7deb8e.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1543,
+      "sha256": "5071271f59ce3988ef10c97d1f24849fbcde28f6180a5774fae7d4dc96a3c5cb",
+      "local_path": "resources/5071271f59ce3988ef10.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/fdroid.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3028,
+      "sha256": "c4aa511ac096689945c8074ab97ad8891d731f3057853242c5f4f4813c8f877a",
+      "local_path": "resources/c4aa511ac096689945c8.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 393,
+      "sha256": "ca180c0ec52b3c56ed6c368a2b820df4a93b10f284f142f4b422db6201b1b9ed",
+      "local_path": "resources/ca180c0ec52b3c56ed6c.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1543,
+      "sha256": "5071271f59ce3988ef10c97d1f24849fbcde28f6180a5774fae7d4dc96a3c5cb",
+      "local_path": "resources/5071271f59ce3988ef10.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 21332,
+      "sha256": "08ea4cf0a7c61077656395aa7dc728a6d184ee4bdae03a1bc34c17ee97e8f31c",
+      "local_path": "resources/08ea4cf0a7c610776563.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/borlabs-cookie/1/cb-facebook-main.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 9188,
+      "sha256": "f84cb9961b534ff2611b1053b137b1672aab974abc715e76db902509850305d1",
+      "local_path": "resources/f84cb9961b534ff2611b.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 7891,
+      "sha256": "c9ec113ba15243c2409562dc659e19fa653cd1079fe843d332f82a982a9ae46b",
+      "local_path": "resources/c9ec113ba15243c24095.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v1-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1092,
+      "sha256": "aec40db6693c7e2c0b9da28b6607a75cabd6985a3c35062fd311fdb48462bdf8",
+      "local_path": "resources/aec40db6693c7e2c0b9d.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-yes.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 337,
+      "sha256": "c73ae08422af7c9b34e1b5cd5a8a499b8fa1724b0a72e0b72f2ab8baa722b8cb",
+      "local_path": "resources/c73ae08422af7c9b34e1.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore-small@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore-small@2x.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam-small.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1196,
+      "sha256": "45af494fd5abf9e330c6cbd37b9bd87314f7ef48ef816aa3ddf008172f025f14",
+      "local_path": "resources/45af494fd5abf9e330c6.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/snapcraft@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1399,
+      "sha256": "864ae572edec974401c6c09a23b1878e5daaa211d4648636d0bb2bb8e64e51af",
+      "local_path": "resources/864ae572edec974401c6.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 4313,
+      "sha256": "17c38a0f413cc01d12fe15efec215892bdecc0e6bc648abb699e4d66ae428e37",
+      "local_path": "resources/17c38a0f413cc01d12fe.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 54944,
+      "sha256": "f2d92a95ae369af994faeba39e2f987974e7cb1f3f3a984e6538d535f1ff9e9b",
+      "local_path": "resources/f2d92a95ae369af994fa.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-globe.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 9062,
+      "sha256": "28583acf8ddd77c9bf724076a6f3a6f28e1e19cb7d4d9dd8a333e1d1db39037e",
+      "local_path": "resources/28583acf8ddd77c9bf72.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonalexa@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2836,
+      "sha256": "fda9fe8ce70e58c3390bd9ae2b68290d98380382b6a14e1090c249c3533ea5fb",
+      "local_path": "resources/fda9fe8ce70e58c3390b.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 393,
+      "sha256": "ca180c0ec52b3c56ed6c368a2b820df4a93b10f284f142f4b422db6201b1b9ed",
+      "local_path": "resources/ca180c0ec52b3c56ed6c.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5224,
+      "sha256": "3e88598950b3a0f38e0f02989720c6f01112701012a06afcb1250bd9ec2bf321",
+      "local_path": "resources/3e88598950b3a0f38e0f.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore@2x.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/fdroid@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 6711,
+      "sha256": "f3bae3d29fffda1447645805bca84b892526356006672e0e48845b08876ab3ec",
+      "local_path": "resources/f3bae3d29fffda144764.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 940,
+      "sha256": "c8da453a96e81e278989fc496172591bd5be3a32076dac1b461d64a796322ad7",
+      "local_path": "resources/c8da453a96e81e278989.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 22920,
+      "sha256": "90e5211e2fa04327726f93c19dc01dffebc18d8def23931848be1213dc826ac3",
+      "local_path": "resources/90e5211e2fa04327726f.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames-small.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3357,
+      "sha256": "d5bb341a7a80b68dd904ba1846f453d8cf3f041a6643276e07ac42070d187f62",
+      "local_path": "resources/d5bb341a7a80b68dd904.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore-small@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore-small@2x.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites@2x.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 832,
+      "sha256": "763a29359b8917fa426cac206056475ac158036009248e560260ad10781ac4f6",
+      "local_path": "resources/763a29359b8917fa426c.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 569,
+      "sha256": "320c92143acafd24d88df61a4bb197252cb0b5dc866b2c9b2f546e7b5fc1bd37",
+      "local_path": "resources/320c92143acafd24d88d.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore-small.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 16920,
+      "sha256": "7abb700b280437b795e68b3a85a1dcbfdf04bb815555762033ade4f7894f2554",
+      "local_path": "resources/7abb700b280437b795e6.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-monochrome.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2481,
+      "sha256": "f4097e6b1fa4e527a3ebddb380d144392a690b5396bf7688e99a91c2eb7fbf55",
+      "local_path": "resources/f4097e6b1fa4e527a3eb.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 380,
+      "sha256": "69ccc7f5aec3f63276f890ea559450ce611968906acda70fe711ef30c6e23443",
+      "local_path": "resources/69ccc7f5aec3f63276f8.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace@2x.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 431,
+      "sha256": "f39a5483aa420bb18590b8d6a383b188580202eddabfdb298d923c2a2d1025a2",
+      "local_path": "resources/f39a5483aa420bb18590.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 32016,
+      "sha256": "9dbf8ed5c11ef7e7e80a08cb18d7f7e0e93eea2f77345ee8a73d6e08e122c36e",
+      "local_path": "resources/9dbf8ed5c11ef7e7e80a.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 424,
+      "sha256": "c2e6e588b0552b0e3eaf35379f52b2559b05e5136b281053da6182baf2ecca85",
+      "local_path": "resources/c2e6e588b0552b0e3eaf.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4844,
+      "sha256": "23db8c30fcaf25e39a14a799e776804c7fd541ff0663189db7bb652d15129a73",
+      "local_path": "resources/23db8c30fcaf25e39a14.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1059,
+      "sha256": "7ace41efd464cf6240b3d6686e8398f4f8ec2d2c58a770afd45e9cd1187959c4",
+      "local_path": "resources/7ace41efd464cf6240b3.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 431,
+      "sha256": "f39a5483aa420bb18590b8d6a383b188580202eddabfdb298d923c2a2d1025a2",
+      "local_path": "resources/f39a5483aa420bb18590.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 56528,
+      "sha256": "b011091d0c5f7c3c5139a40f3120b157f6c4b587164ff66e66a2bccd58a5a91f",
+      "local_path": "resources/b011091d0c5f7c3c5139.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2116,
+      "sha256": "560f5090c0ca7d4756d26d6605b816aac479613ddc16cee18397e4849d445d33",
+      "local_path": "resources/560f5090c0ca7d4756d2.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5473,
+      "sha256": "3911027a0ae85ef5c455eb4da84fd65ac2fc0415c0bd2abd2bde4a16a6aa51f4",
+      "local_path": "resources/3911027a0ae85ef5c455.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1094,
+      "sha256": "ed60da4f8d69d513b9cd692f2c5e1f97c7b84a9688230415d6407183a9c4b26e",
+      "local_path": "resources/ed60da4f8d69d513b9cd.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 48320,
+      "sha256": "d8e4fe0452aa2076429a9bb5d8757d00a994dd95986cf950e9a1a371b9a072a0",
+      "local_path": "resources/d8e4fe0452aa2076429a.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 305,
+      "sha256": "d2cd526b9dc36a8cffae998f98859f898fd7dad9978064bfa31293cb05718882",
+      "local_path": "resources/d2cd526b9dc36a8cffae.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2967,
+      "sha256": "84a209758a74392371b3a66a5726d0f3471b53bb9c444c1e962c0d2b4b3b63a7",
+      "local_path": "resources/84a209758a74392371b3.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/fdroid-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 419,
+      "sha256": "f499939a5567f5dac1a7df9b7fad947c089122d7a7592d76968e6badd140eff2",
+      "local_path": "resources/f499939a5567f5dac1a7.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 4313,
+      "sha256": "17c38a0f413cc01d12fe15efec215892bdecc0e6bc648abb699e4d66ae428e37",
+      "local_path": "resources/17c38a0f413cc01d12fe.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 26588,
+      "sha256": "2809606237a64bd9c1461e727f369ddfd77a350e4900fffe64e8bfe16a2b3454",
+      "local_path": "resources/2809606237a64bd9c146.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3357,
+      "sha256": "d5bb341a7a80b68dd904ba1846f453d8cf3f041a6643276e07ac42070d187f62",
+      "local_path": "resources/d5bb341a7a80b68dd904.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1021,
+      "sha256": "ffcd89a8837d4a9e110b398cf00113040525f27896f336f1672ddead08aaa578",
+      "local_path": "resources/ffcd89a8837d4a9e110b.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/fdroid-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 977,
+      "sha256": "9804230d75b510c37c403a33269d6eb57555b25f40cd95636c7f13661c1f39ca",
+      "local_path": "resources/9804230d75b510c37c40.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-colorful.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 6252,
+      "sha256": "bf15fa9b53c554a7547d78df3f7895c0364d787b4634acc13c3b119861e74e01",
+      "local_path": "resources/bf15fa9b53c554a7547d.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2604,
+      "sha256": "c05a32617f02c845a2772fd1e6b8c9a51a8c73606827591e35dfa132c8a56269",
+      "local_path": "resources/c05a32617f02c845a277.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore@2x.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace-small@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxmarketplace-small@2x.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 26596,
+      "sha256": "8f80f993e523f2e6c2d097552740fd26331658da23ffad31d26edcdd3aeec370",
+      "local_path": "resources/8f80f993e523f2e6c2d0.woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 16496,
+      "sha256": "cc762462ea67b7815649ea3cc005699e3b95b3244b59eb2ce2d22e3ad33497c2",
+      "local_path": "resources/cc762462ea67b7815649.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/microsoftstore.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2128,
+      "sha256": "2294f7e027ea084c8e47a714ec97e87a5e68daa1ddb149e3e8d9c51e33375c3f",
+      "local_path": "resources/2294f7e027ea084c8e47.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 35156,
+      "sha256": "d5bab8e28732fe3d10dcef4f77b9c248605bbb2a87d289a2539251ceafab536a",
+      "local_path": "resources/d5bab8e28732fe3d10dc.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1754,
+      "sha256": "728065a518ab76a9ae2cf9b93f04d3368f635cde88dc8708f351c50e3717f47a",
+      "local_path": "resources/728065a518ab76a9ae2c.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/appstore-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 569,
+      "sha256": "320c92143acafd24d88df61a4bb197252cb0b5dc866b2c9b2f546e7b5fc1bd37",
+      "local_path": "resources/320c92143acafd24d88d.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v5.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3914,
+      "sha256": "73d66104eab3e7350b7ed3936b318fa83f951c5627d1efa898303ca5f23fb394",
+      "local_path": "resources/73d66104eab3e7350b7e.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-colorful@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3445,
+      "sha256": "8f925d9fd90943f0032e31ac7b34619802f3e2a9098a2af1885a9c0c11c49afd",
+      "local_path": "resources/8f925d9fd90943f0032e.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/dist/css/img/stars/wayl-inverted.svg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/dist/css/img/stars/wayl-inverted.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonalexa.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1340,
+      "sha256": "3c6ed6ae3cda78463570bb3f437423404f6b291649d08ab0ab7cee09037e901d",
+      "local_path": "resources/3c6ed6ae3cda78463570.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/microsoftstore-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 723,
+      "sha256": "c238df6477b337d2526179378d47387e87419ee8ae325bca2b2f7097ed917322",
+      "local_path": "resources/c238df6477b337d25261.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v4-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1238,
+      "sha256": "b8bc1de246520bee4a8eb82d5c0284b1e20645d31d54cd80fd4150cb35c1cd6d",
+      "local_path": "resources/b8bc1de246520bee4a8e.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5224,
+      "sha256": "3e88598950b3a0f38e0f02989720c6f01112701012a06afcb1250bd9ec2bf321",
+      "local_path": "resources/3e88598950b3a0f38e0f.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 49268,
+      "sha256": "95dd03b930aca04ab393f625101f7367e3abc83b3b09e6074de1fc081ba6fd1c",
+      "local_path": "resources/95dd03b930aca04ab393.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-amazon-white.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1102,
+      "sha256": "47e4ce83c71efe4388ea8fcec4ff289f760724cc52bafb5faaf616ffbddb279c",
+      "local_path": "resources/47e4ce83c71efe4388ea.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 449,
+      "sha256": "1388c6872ec71aac1621464939288b55411f4d91e57f9304fe3e3e122d5a7eca",
+      "local_path": "resources/1388c6872ec71aac1621.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 37752,
+      "sha256": "a6fa0e8ac2a665c121a19c2e2434fb286e3afdef7b9288739a73c7cb6849108c",
+      "local_path": "resources/a6fa0e8ac2a665c121a1.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam-small@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam-small@2x.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 441,
+      "sha256": "04926b8dc78da2907f33fc43922c52cf6369399f4f1e8aee0652b0713f3d1a2a",
+      "local_path": "resources/04926b8dc78da2907f33.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v4.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1238,
+      "sha256": "df102719be55e70849d698380cebb7da7ce3836445e4830a9ac4423ce35a0d15",
+      "local_path": "resources/df102719be55e70849d6.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-cart-white.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 537,
+      "sha256": "777d9706bd1a3628e45e2653d144627329e0d9de94e51e0382b5417cd4227378",
+      "local_path": "resources/777d9706bd1a3628e45e.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-monochrome@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 11012,
+      "sha256": "4c5bfabaa56531eb2bd5e543c77c92b2f89e5952cb788d36052b00befd0f84a9",
+      "local_path": "resources/4c5bfabaa56531eb2bd5.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 17212,
+      "sha256": "7a79d808ca680f3d672a68aa28098ad9ca9d4a93ae24a04b4b00c07f4ab67d40",
+      "local_path": "resources/7a79d808ca680f3d672a.woff2"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2215,
+      "sha256": "13dee7507f62675a6381e5f5592e8ce8cfb34852ae5a49e2bda3d7cfa56135ea",
+      "local_path": "resources/13dee7507f62675a6381.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/chromewebstore.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3283,
+      "sha256": "bb7279205dfeaebf17c0906d3a846869cc418c998dfd0f107caea41c4c5e51ef",
+      "local_path": "resources/bb7279205dfeaebf17c0.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/snapcraft-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 587,
+      "sha256": "20f88f7dbac4935144ed485573048f7f65d7af8a1d377c2eb798aa51b69e8de8",
+      "local_path": "resources/20f88f7dbac4935144ed.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v7-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3001,
+      "sha256": "24161027f52d9813b70c42a660d1634dd9fdb286f79ad8e15d187e541f5b2a39",
+      "local_path": "resources/24161027f52d9813b70c.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-amazon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 2529,
+      "sha256": "21717d30abdf005a08a09686697a987809340393ced83cf9a632c76eb6f950c1",
+      "local_path": "resources/21717d30abdf005a08a0.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames-small@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames-small@2x.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-monochrome@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 11012,
+      "sha256": "4c5bfabaa56531eb2bd5e543c77c92b2f89e5952cb788d36052b00befd0f84a9",
+      "local_path": "resources/4c5bfabaa56531eb2bd5.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/edge-extensions-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/edge-extensions-small.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1094,
+      "sha256": "ed60da4f8d69d513b9cd692f2c5e1f97c7b84a9688230415d6407183a9c4b26e",
+      "local_path": "resources/ed60da4f8d69d513b9cd.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v2.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 15554,
+      "sha256": "717212e6ee6ca732830c1b60abaa460bd7b448e2b712bf219a6d8762cbe77535",
+      "local_path": "resources/717212e6ee6ca732830c.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames@2x.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-amazon-logo.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2790,
+      "sha256": "933fb6e022e0b8864782ed8c14b37e01ee0c18cb9e9a94bd86e633ee7a2fa9db",
+      "local_path": "resources/933fb6e022e0b8864782.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/buttons/appbox.btn.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/buttons/appbox.btn.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/edgeaddons@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 6885,
+      "sha256": "7deabb789508cbc10161b8ce8ce0f70f350520836a2963a3ed1d5abac6fbe6d6",
+      "local_path": "resources/7deabb789508cbc10161.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/snapcraft-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 334,
+      "sha256": "33c803b0fa031125eb7682e69ce62ebb1936dc041b8d60d0ca136ec8911a5b5b",
+      "local_path": "resources/33c803b0fa031125eb76.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/wayl.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 2004,
+      "sha256": "afe415c207688bccaabbf1a4f1d5bee2be4c2b6f6caf514c9092baa8b8820dd0",
+      "local_path": "resources/afe415c207688bccaabb.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1754,
+      "sha256": "728065a518ab76a9ae2cf9b93f04d3368f635cde88dc8708f351c50e3717f47a",
+      "local_path": "resources/728065a518ab76a9ae2c.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5473,
+      "sha256": "3911027a0ae85ef5c455eb4da84fd65ac2fc0415c0bd2abd2bde4a16a6aa51f4",
+      "local_path": "resources/3911027a0ae85ef5c455.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v7.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 3001,
+      "sha256": "c85b7779f0c30f46d400c7cd515d4e1477bddbe61c107cf2d58663d48ed36818",
+      "local_path": "resources/c85b7779f0c30f46d400.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 26368,
+      "sha256": "be7296389be234abc22997275b6b7d056a0e6ff9d6e7dd63cfe7d3232aac9dac",
+      "local_path": "resources/be7296389be234abc229.woff2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 17880,
+      "sha256": "0d3c34da39df0aa6b82347b45364e9e95fcece8029b5d9e7325bcef4e56234f1",
+      "local_path": "resources/0d3c34da39df0aa6b823.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2215,
+      "sha256": "13dee7507f62675a6381e5f5592e8ce8cfb34852ae5a49e2bda3d7cfa56135ea",
+      "local_path": "resources/13dee7507f62675a6381.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 940,
+      "sha256": "c8da453a96e81e278989fc496172591bd5be3a32076dac1b461d64a796322ad7",
+      "local_path": "resources/c8da453a96e81e278989.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/windowsstore.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1196,
+      "sha256": "45af494fd5abf9e330c6cbd37b9bd87314f7ef48ef816aa3ddf008172f025f14",
+      "local_path": "resources/45af494fd5abf9e330c6.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/googleplay-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 832,
+      "sha256": "763a29359b8917fa426cac206056475ac158036009248e560260ad10781ac4f6",
+      "local_path": "resources/763a29359b8917fa426c.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-amazon-black.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1090,
+      "sha256": "827b05a77a96cb0f4d70779bf8e40af946ac2d91f7b940930d8c06cc8263b03f",
+      "local_path": "resources/827b05a77a96cb0f4d70.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 9429,
+      "sha256": "9bcef4313799b20ad0b1bbd5b0bc6fc97cdbe624bd7f61b86aecd124a7fee7fc",
+      "local_path": "resources/9bcef4313799b20ad0b1.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore-small.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore-small.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3592,
+      "sha256": "0ae8c4b28652933f48620ef7480060baff8b42505a5cd4c3da4d28c222c46334",
+      "local_path": "resources/0ae8c4b28652933f4862.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/wordpress-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 449,
+      "sha256": "1388c6872ec71aac1621464939288b55411f4d91e57f9304fe3e3e122d5a7eca",
+      "local_path": "resources/1388c6872ec71aac1621.png"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+      "status": "saved_local",
+      "mime_type": "font/woff2",
+      "bytes": 4504,
+      "sha256": "197ef1e4874d6f8f59bcb8f303029b7fd40aebd7a23aa96c1b649b3faea5d57c",
+      "local_path": "resources/197ef1e4874d6f8f59bc.woff2"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/borlabs-cookie/1/TikTok-22-main.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5812,
+      "sha256": "273bb6f6615adae6c0a32022ba5c52fbecb35b70f403f53a9e6103a72fc98d84",
+      "local_path": "resources/273bb6f6615adae6c0a3.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/macappstore.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/stars-sprites-monochrome.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2481,
+      "sha256": "f4097e6b1fa4e527a3ebddb380d144392a690b5396bf7688e99a91c2eb7fbf55",
+      "local_path": "resources/f4097e6b1fa4e527a3eb.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/goodoldgames.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/microsoftstore@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 4987,
+      "sha256": "a98a77bcc259b4995d480c37fa4efcc448864523721e7b8e4b69855384aaffd2",
+      "local_path": "resources/a98a77bcc259b4995d48.png"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonapps-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 1021,
+      "sha256": "ffcd89a8837d4a9e110b398cf00113040525f27896f336f1672ddead08aaa578",
+      "local_path": "resources/ffcd89a8837d4a9e110b.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/operaaddons.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 2116,
+      "sha256": "560f5090c0ca7d4756d26d6605b816aac479613ddc16cee18397e4849d445d33",
+      "local_path": "resources/560f5090c0ca7d4756d2.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/uploads/2026/08/cropped-cropped-Favicon-Shop-2026-32x32.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 5052,
+      "sha256": "e98354bdc126d0a96999387243532a11b185c171190fcc8b955eec5a095e2c02",
+      "local_path": "resources/e98354bdc126d0a96999.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-cart-black.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 525,
+      "sha256": "bc0fefee2a079504332404e345a34d07deb6cde64dfe9becee4fff7a12e748ce",
+      "local_path": "resources/bc0fefee2a0795043324.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v6.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 1044,
+      "sha256": "a1e9138d2506f5209b5ab63289866abfaa771fa161772a767970c0352c59000d",
+      "local_path": "resources/a1e9138d2506f5209b5a.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 441,
+      "sha256": "04926b8dc78da2907f33fc43922c52cf6369399f4f1e8aee0652b0713f3d1a2a",
+      "local_path": "resources/04926b8dc78da2907f33.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/icon-no.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 430,
+      "sha256": "9c0c741b080c8f8e4a20f78dab96ca78d64dc7619cff54770452dead8b1ee770",
+      "local_path": "resources/9c0c741b080c8f8e4a20.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/stars/v2-active.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 15554,
+      "sha256": "77fb9fb42e5ca1801314b281ccc3f88cb728c0c9a8b354842fdacbab6bce83fa",
+      "local_path": "resources/77fb9fb42e5ca1801314.svg"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/firefoxaddon.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3592,
+      "sha256": "0ae8c4b28652933f48620ef7480060baff8b42505a5cd4c3da4d28c222c46334",
+      "local_path": "resources/0ae8c4b28652933f4862.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonalexa-small.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 291,
+      "sha256": "9077b711355f6988352edc10eb0224a2393a6395d51031097a15fe82f7289498",
+      "local_path": "resources/9077b711355f6988352e.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/amazonalexa-small@2x.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 628,
+      "sha256": "80f55f0cf2b3a499c107aa46b148ac66d00f2babfe96ad3d3f322a5f35042d5c",
+      "local_path": "resources/80f55f0cf2b3a499c107.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/edgeaddons.png",
+      "status": "saved_local",
+      "mime_type": "image/png",
+      "bytes": 3004,
+      "sha256": "2c2689245e2c50de811086e1e0a105bc67f3bfa83c00f46f6e6282ab991c4004",
+      "local_path": "resources/2c2689245e2c50de8110.png"
+    },
+    {
+      "url": "https://www.matthias-petrat.com/wp-content/plugins/aawp/assets/img/block-icon.svg",
+      "status": "saved_local",
+      "mime_type": "image/svg+xml",
+      "bytes": 920,
+      "sha256": "15a761e1ec48e7679bc65275fd4b46ed44e143934d95283dbcf26bf35a3050fd",
+      "local_path": "resources/15a761e1ec48e7679bc6.svg"
+    },
+    {
+      "url": "https://matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam@2x.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: https://www.matthias-petrat.com/wp-content/plugins/wp-appbox/img/steam@2x.png"
+    }
+  ],
+  "missing_images": [],
+  "disabled_unresolved_css_imports": []
+}

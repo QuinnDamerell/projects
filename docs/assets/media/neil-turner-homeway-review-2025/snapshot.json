@@ -1,0 +1,23 @@
+{
+  "url": "https://neilturner.me.uk/2025/02/23/homeway-easy-remote-access-to-home-assistant/",
+  "title": "Homeway - easy remote access to Home Assistant - Neil Turner's Blog",
+  "site": "Neil Turner's Blog",
+  "published": "2025-02-23T10:00:00+00:00",
+  "captured": "2026-10-18T17:12:30.475Z",
+  "restoredImages": [],
+  "removed": [
+    "#right-sidebar",
+    ".toolbelt-related-posts"
+  ],
+  "youtube": [],
+  "automaticResources": "Local or data URLs only; see resource-manifest.json",
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 4086
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  }
+}

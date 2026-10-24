@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="image1" style="position:absolute; overflow:hidden; left:252px; top:9px; width:260px; height:81px; z-index:0"><img src="images/logo_rockets.jpg" border=0 width=260 height=81></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:386px; top:476px; width:276px; height:141px; z-index:1"><img src="images/rocket.gif" border=0 width=276 height=141></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:110px; top:476px; width:149px; height:142px; z-index:2"><img src="images/rockets1.gif" border=0 width=149 height=142></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:106px; top:169px; width:158px; height:264px; z-index:3"><img src="images/rockets2.gif" border=0 width=158 height=264></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:315px; top:210px; width:433px; height:152px; z-index:4">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">The rockets, they are simple as can be. These are the old school and some new school types of rockets. They are all basically just the kind that you stick in a tube, light the fuse on the rocket, step back, and the rocket shoots up in to the air and explodes. Rockets come in a lot of different types, some go up in the air and pop. But then you can get some bigger ones that will go up in to the air and explode in to color.</font></div>
+</div></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:298px; top:685px; width:121px; height:75px; z-index:5">
+<div class="wpmd">
+<div>Rockets</div>
+<div><BR></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:400px; top:360px; width:142px; height:27px; z-index:6">
+<div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Video of Rockets:</font></div>
+<div><font class="ws12" color="#FFFFFF"><BR></font></div>
+</div></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:540px; top:360px; width:127px; height:27px; z-index:7">
+<a href="Http://www.thunderdomefireworks.com/videos/rocket.wmv" title="fountains"><div class="wpmd">
+<div><font class="ws12" color="#FFFFFF">Rockets.wmv</font></div>
+<div><BR></div>
+</div></a></div>
+
+
+</body>
+</html>

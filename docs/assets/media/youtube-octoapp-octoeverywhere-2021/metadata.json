@@ -1,0 +1,28 @@
+{
+  "video_id": "kvSLAsBHL00",
+  "title": "OctoApp Tutorials: Remote access with OctoEverywhere",
+  "channel": "Crys' Livingroom Workbench",
+  "channel_url": "https://www.youtube.com/@livingroomworkbench",
+  "published": "2021-09-19",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=kvSLAsBHL00",
+  "filename": "youtube-octoapp-octoeverywhere-2021.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-octoapp-octoeverywhere-2021.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 432.819955,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 32799733,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/kvSLAsBHL00/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

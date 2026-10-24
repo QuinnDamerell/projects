@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/Purdue/comments/jm1bs/android_app_for_dining_court_menus_the_original/",
+  "original_urls": [
+    "https://www.reddit.com/r/Purdue/comments/jm1bs/"
+  ],
+  "title": "Android app for dining court menus - The Original App",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:06.152005+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1313616789,
+  "post_archive_observed_utc": null,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 2,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 2,
+  "recorded_comment_count": 2,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=jm1bs",
+      "fetched_utc": "2026-10-18T17:06:45.658252+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 865,
+      "sha256": "53837e456e5e3de1b981563fbe3caab3751c52efabc69dfdbfcd36d8b76d83c0",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=jm1bs",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=jm1bs&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:47.533078+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 1094,
+      "sha256": "97aa304560729a5dce6929badf6b5118d5174add93eb6dbc52f248092c9211d7",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=jm1bs&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "4cfe2c2826d29b02fe48cf01895cb4fff5286f5e62931e33beae62b6683ed1df"
+}

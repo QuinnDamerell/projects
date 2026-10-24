@@ -1,0 +1,28 @@
+{
+  "url": "https://fricklr.com/en/is-homeway-io-a-cheaper-alternative-to-nabu-casa-when-it-comes-to-home-assistant/",
+  "title": "Is Homeway.io a cheaper alternative to Nabu Casa when it comes to Home Assistant?",
+  "site": "fricklr",
+  "published": "2025-05-06T00:00:00+02:00",
+  "captured": "2026-10-18T17:08:34.945Z",
+  "restoredImages": [],
+  "removed": [
+    ".amazon-product-box",
+    ".sidebar-smart-pick",
+    "#newsletter-popup",
+    ".fricklr-graph"
+  ],
+  "youtube": [],
+  "automaticResources": "Local or data URLs only; see resource-manifest.json",
+  "screenshot": {
+    "file": "snapshot.png",
+    "width": 1280,
+    "height": 7224
+  },
+  "pdf": {
+    "file": "snapshot.pdf",
+    "layout": "A4 paginated"
+  },
+  "presentationAdjustments": [
+    "Print-only adjustments keep headings, links, glossary terms, code, and emphasized text legible against the source dark background, hide the repeated fixed navigation bar, and suppress duplicated URL suffixes. Screen appearance, source prose, and images are unchanged."
+  ]
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker V2">
+
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = 'images/navBar/homeStandard.png'
+     homeR.src = 'images/navBar/homeRoll.png'
+	 aboutS.src = 'images/navBar/aboutMeStandard.png'
+     aboutR.src = 'images/navBar/aboutMeRoll.png'
+	 projectsS.src = 'images/navBar/projectsStandard.png'
+     projectsR.src = 'images/navBar/projectsRoll.png'
+	 websitesS.src = 'images/navBar/websitesStandard.png'
+     websitesR.src = 'images/navBar/websitesRoll.png'
+	 picturesS.src = 'images/navBar/picturesStandard.png'
+     picturesR.src = 'images/navBar/picturesRoll.png'
+	 videosS.src = 'images/navBar/videosStandard.png'
+     videosR.src = 'images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+
+<body bgColor="#000000">
+
+<div id="text1" style="position:absolute; overflow:hidden; left:473px; top:134px; width:412px; height:26px; z-index:0">
+<div class="wpmd">
+<div>Sparklers</div>
+</div></div>
+
+<div id="image1" style="position:absolute; overflow:hidden; left:240px; top:26px; width:313px; height:93px; z-index:1"><img src="images/logo_sparklers.jpg" border=0 width=313 height=93></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:42px; top:199px; width:200px; height:138px; z-index:2"><img src="images/sparklers.jpg" border=0 width=200 height=138></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:447px; top:440px; width:261px; height:174px; z-index:3"><img src="images/sparklers1.jpg" border=0 width=261 height=174></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:93px; top:439px; width:233px; height:175px; z-index:4"><img src="images/sparklers2.jpg" border=0 width=233 height=175></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:288px; top:230px; width:492px; height:117px; z-index:5">
+<div class="wpmd">
+<div><font color="#FFFFFF"></font><font class="ws12" color="#FFFFFF"> &nbsp; &nbsp; &nbsp; &nbsp;</font><font class="ws12" color="#FFFFFF">A sparkler is the simplest form of a firework. They still succeeded to amuse everyone though, just because of the number of different ways they can be used. They can be made to make pattern and shapes, while emitting small sparks. They come in a verity of color and lengths.</font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:288px; top:645px; width:195px; height:62px; z-index:6">
+<div class="wpmd">
+<div>f</div>
+</div></div>
+
+
+</body>
+</html>

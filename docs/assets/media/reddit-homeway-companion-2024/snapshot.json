@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/homeassistant/comments/1b0x4x8/companion_app_question/",
+  "original_urls": [
+    "https://www.reddit.com/r/homeassistant/comments/1b0x4x8/companion_app_question/"
+  ],
+  "title": "Companion app question",
+  "site": "Reddit via Arctic Shift",
+  "captured": "2026-10-18T17:14:05.972770+00:00",
+  "format": "reconstructed static transcript",
+  "post_recovered": true,
+  "post_created_utc": 1708991933,
+  "post_archive_observed_utc": 1708991946,
+  "api_coverage": {
+    "tree_record_limit": 25000,
+    "tree_start_breadth": 1000,
+    "tree_start_depth": 1000,
+    "tree_comment_count": 15,
+    "tree_limit_reached": false,
+    "advertised_collapsed_comment_ids": [],
+    "unrecovered_collapsed_comment_ids": [],
+    "pagination_note": "The tree API returns nested records and collapsed IDs rather than page cursors. Every advertised collapsed ID and missing ancestor is queried individually. A separate comments search supplements empty or numerically short trees. All specifically cited IDs are checked independently; differing record observations prevent an assertion of completeness."
+  },
+  "comment_count": 15,
+  "recorded_comment_count": 15,
+  "required_comment_ids": [],
+  "missing_required_comment_ids": [],
+  "placeholder_comment_ids": [],
+  "missing_parent_ids": [],
+  "gaps": [],
+  "requests": [
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1b0x4x8",
+      "fetched_utc": "2026-10-18T17:06:15.864218+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 4085,
+      "sha256": "6ff99547feeea965ab91cd97c1d189b039d829b0ecf48f7daf81e4f467ea5af0",
+      "raw_file": "raw/post.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1b0x4x8",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    },
+    {
+      "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1b0x4x8&limit=25000&start_breadth=1000&start_depth=1000",
+      "fetched_utc": "2026-10-18T17:06:17.947586+00:00",
+      "http_status": "200",
+      "curl_exit": 0,
+      "attempt": 1,
+      "bytes": 36515,
+      "sha256": "6963b188c634ef875a511e1b0c36f6c46fa3be882e5badef58c13226da6e3f9f",
+      "raw_file": "raw/comments-tree.json",
+      "valid_archive_json": true,
+      "final_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1b0x4x8&limit=25000&start_breadth=1000&start_depth=1000",
+      "final_url_evidence": "Single retained HTTP response with no redirect Location header."
+    }
+  ],
+  "source_api_documentation": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+  "snapshot_sha256": "aa3d31aae769011fef6b5a1ab96cb45c82cf13f9bcbbcd116dceb62494c3afa0"
+}

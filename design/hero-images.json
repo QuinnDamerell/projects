@@ -1,0 +1,132 @@
+{
+  "created": "2026-10-14",
+  "note": "Active hero artwork is authored SVG. Previous generated concepts and captured imagery are retained for reference; real screenshots appear within project articles.",
+  "researchSources": [
+    {
+      "project": "Homeway",
+      "url": "https://homeway.io/",
+      "features": [
+        "Home Assistant remote access",
+        "Sage AI voice control",
+        "Remote MCP",
+        "WebRTC camera streaming"
+      ]
+    },
+    {
+      "project": "OctoEverywhere",
+      "url": "https://octoeverywhere.com/",
+      "features": [
+        "Remote 3D printer access",
+        "Gadget AI failure detection",
+        "Live webcam streams",
+        "Print notifications"
+      ]
+    },
+    {
+      "project": "Baconit",
+      "url": "https://github.com/QuinnDamerell/Baconit",
+      "features": [
+        "Reddit for Windows Phone and Windows 10",
+        "Flip View",
+        "BaconSync",
+        "Universal Markdown"
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "docs/assets/heroes/homeway-website.webp",
+      "source": "https://homeway.io/",
+      "type": "Browser capture of public homepage",
+      "captured": "2026-10-14"
+    },
+    {
+      "file": "docs/assets/heroes/octoeverywhere-website.webp",
+      "source": "https://octoeverywhere.com/",
+      "type": "Browser capture of public homepage",
+      "captured": "2026-10-14"
+    },
+    {
+      "file": "docs/assets/baconit/3.0/3.png",
+      "source": "Existing project archive",
+      "type": "Original Baconit 3.0 phone screenshot"
+    }
+  ],
+  "archivedGeneratedConcepts": [
+    {
+      "slug": "homeway",
+      "file": "docs/assets/heroes/homeway-hero.webp",
+      "cardFile": "docs/assets/heroes/homeway-card.webp",
+      "prompt": "Create one polished editorial hero illustration for a software maker's portfolio. Wide landscape 3:2 composition, 1536x1024. A tactile, beautifully art-directed miniature/product still life rendered with physically believable materials, soft studio lighting, fine subtle texture, and crisp edges. Dark aubergine backdrop and floor (#21152f), gentle lavender rim light, restrained color highlights. Thoughtful and welcoming, not cyberpunk or corporate stock art. The scene must read clearly in a small website card. Keep the entire main subject in the central 85% of the frame with breathing room. No headlines, captions, watermarks, floating UI panels, decorative clouds, or extraneous icons.\nSubject: Homeway, cloud tools for Home Assistant that connect a smart home to remote access and natural voice control. Show a charming architectural cutaway of one compact modern home: warm amber living-room lights, a comfortable sofa, a small plant, a wall thermostat, and a discreet smart speaker with a subtle cyan listening light. An upright smartphone just outside the house displays a simple text-free home-control interface with room/light symbols, a temperature dial, and a short voice waveform. A single thin understated cyan light path links phone to house, suggesting remote connection. Make the home the clear focus, realistic wood and frosted glass, no people. The overall image should say 'your home, connected from anywhere', cozy human-scale technology."
+    },
+    {
+      "slug": "octoeverywhere",
+      "file": "docs/assets/heroes/octoeverywhere-hero.webp",
+      "cardFile": "docs/assets/heroes/octoeverywhere-card.webp",
+      "prompt": "Create one polished editorial hero illustration for a software maker's portfolio. Wide landscape 3:2 composition, 1536x1024. A tactile, beautifully art-directed miniature/product still life rendered with physically believable materials, soft studio lighting, fine subtle texture, and crisp edges. Dark aubergine backdrop and floor (#21152f), gentle lavender rim light, restrained color highlights. Thoughtful and welcoming, not cyberpunk or corporate stock art. The scene must read clearly in a small website card. Keep the entire main subject in the central 85% of the frame with breathing room. No headlines, captions, watermarks, floating UI panels, decorative clouds, or extraneous icons.\nSubject: OctoEverywhere connects makers remotely to their 3D printers, with live camera views and AI print-failure monitoring. Show a compact open-frame desktop FDM 3D printer actively printing a small teal spiral vase, with real visible layer lines, a sensible gantry, print head directly above the vase, and a tidy filament spool. Beside it, an upright smartphone shows a matching live view of this exact printer and teal vase with a simple progress bar and tiny green healthy-status dot, no readable text. A small webcam attached to the printer looks toward the print bed. Clearly physically plausible hardware. Make the printer the main focus. Warm workbench materials and subtle cyan/green machine accents against the aubergine studio backdrop. No human, no logos, no sci-fi robot, no spaghetti failure."
+    },
+    {
+      "slug": "baconit",
+      "file": "docs/assets/heroes/baconit-hero.webp",
+      "cardFile": "docs/assets/heroes/baconit-card.webp",
+      "prompt": "Create one polished editorial hero illustration for a software maker's portfolio. Wide landscape 3:2 composition, 1536x1024. A tactile, beautifully art-directed miniature/product still life rendered with physically believable materials, soft studio lighting, fine subtle texture, and crisp edges. Dark aubergine backdrop and floor (#21152f), gentle lavender rim light, restrained color highlights. Thoughtful and welcoming, not cyberpunk or corporate stock art. The scene must read clearly in a small website card. Keep the entire main subject in the central 85% of the frame with breathing room. No headlines, captions, watermarks, floating UI panels, decorative clouds, or extraneous icons.\nSubject: Baconit, the much-loved historical Reddit client for Windows Phone and Windows 10. Image 1 is a genuine archived screenshot of Baconit's Flip View, provided as a screen-content reference, not an image to redesign. Create a nostalgic but premium still life of a cyan polycarbonate Lumia-era Windows Phone standing upright, front angled only slightly so its screen is visible. Place the provided genuine Baconit screenshot on the phone screen, preserving its dark post header, blue vote/comment accents, large Giant's Causeway photograph, and black space. Keep the screenshot's original structure and content rather than inventing a modern app. Beside and behind the phone is a slim dark Windows-era tablet with subdued Reddit-style split-pane browsing, less prominent and slightly out of focus. Period-appropriate devices, tactile matte materials, deep plum studio setting and restrained cyan light. No extra floating cards, no unrelated objects, no Reddit mascot, no food/bacon imagery, no headline. This is an illustrative device scene; an exact original screenshot will accompany it separately on the website.",
+      "reference": "docs/assets/baconit/3.0/3.png"
+    }
+  ],
+  "activePresentation": {
+    "background": "#28262e",
+    "artworkBackground": "#36323e",
+    "foreground": "#eee8f3",
+    "accent": "#baa6d0",
+    "method": "Authored SVG geometry, no image generation",
+    "direction": "Simple centered icons, consistent round strokes, warm-white and lavender on a flat gray-purple field.",
+    "images": [
+      {
+        "project": "Homeway",
+        "file": "docs/assets/heroes/homeway-icon.svg",
+        "concept": "House with a wireless signal"
+      },
+      {
+        "project": "OctoEverywhere",
+        "file": "docs/assets/heroes/octoeverywhere-icon.svg",
+        "concept": "3D printer and globe"
+      },
+      {
+        "project": "Baconit",
+        "file": "docs/assets/heroes/baconit-icon.svg",
+        "concept": "Three diagonal flowing stripes based on the original Baconit mark",
+        "reference": "docs/assets/baconit/logo-new.jpg"
+      }
+    ],
+    "supportingCaptures": [
+      {
+        "project": "Homeway",
+        "file": "docs/assets/heroes/homeway-website.webp",
+        "source": "https://homeway.io/",
+        "type": "Original browser capture",
+        "date": "October 2026"
+      },
+      {
+        "project": "OctoEverywhere",
+        "file": "docs/assets/heroes/octoeverywhere-dashboard.webp",
+        "source": "https://blog.octoeverywhere.com/obico-vs-octoeverywhere-which-is-best-in-2023-for-you/",
+        "originalImage": "https://i0.wp.com/blog.octoeverywhere.com/wp-content/uploads/2023/02/yioqNETUEH-Uniform-Xoni.png?resize=1024%2C878&ssl=1",
+        "type": "Authentic dashboard screenshot",
+        "date": "2023"
+      },
+      {
+        "project": "Baconit",
+        "file": "docs/assets/heroes/baconit-desktop.webp",
+        "sourceFile": "docs/assets/baconit/4.0/4.png",
+        "type": "Original Windows 10 app screenshot"
+      },
+      {
+        "project": "Baconit",
+        "file": "docs/assets/heroes/baconit-flip-view.webp",
+        "sourceFile": "docs/assets/baconit/3.0/3.png",
+        "type": "Original Windows Phone screenshot, resized for thumbnail delivery"
+      }
+    ]
+  },
+  "originalConceptsGeneratedWith": "Built-in ImageGen"
+}

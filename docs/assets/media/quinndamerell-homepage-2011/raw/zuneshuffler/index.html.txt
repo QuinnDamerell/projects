@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME="keywords" CONTENT="Zune Playlist, playlist, shuffler, how can i, zune porblem, zune playlist shuffler, zune shuffle playlist,shuffle,manual">
+<META NAME="description" CONTENT="Zune Playlist Shuffler is a simple program that allows you to shuffle any manually created playlist in the Zune software.">
+<META NAME="Author" CONTENT="quinbd@gmail.com">
+<META name="distribution" content="one of several"> 
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="../Scripts/prototype.js"></script>
+<script type="text/javascript" src="../Scripts/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="../Scripts/lightbox.js"></script>
+<script type="text/javascript" src="../Scripts/effects.js"></script>
+<script type="text/javascript" src="../Scripts/builder.js"></script>
+<link rel="stylesheet" href="../css/lightbox.css" type="text/css" media="screen" />
+<style type="text/css">
+<!--
+.main_left {
+	width: 560px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.text_left {
+	float: right;
+	width: 198px;
+	background-color: #DBDBDB;
+	height: 600px;
+	overflow: hidden;
+}
+.bar_left {
+	float: left;
+	width: 2px;
+	background-color: #BBBBBB;
+	height: 600px;
+	overflow: hidden;
+}
+.links {
+	background-image: url(../images/stripe.png);
+	margin: 8px;
+	padding: 5px;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.links_header {
+	font-size: 20px;
+}
+.links_sites {
+	line-height: 25px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_right {
+	float: right;
+	width: 200px;
+	background-color: #F1F1F1;
+	text-align: left;
+}
+.welcome {
+	font-size: 25px;
+	color: #003A7F;
+}
+a.white:link {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.white:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+a.page_links:link {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+a.page_links:visited {
+	color: #003A95;
+	text-decoration: none;
+	font-size: 17px;
+}
+.downlaodlink {
+	font-size: 16px;
+	padding-left: 15px;
+	padding-right: 20px;
+}
+-->
+</style>
+<link rel="shortcut icon" href="../favicon.ico" />
+<title>Zune Playlist Shuffler - QuinnDamerell.com</title>
+<style type="text/css">
+<!--
+.style6 {
+	color: #003A7F;
+	font-size: 18px;
+	font-weight: bold;
+}
+.pad {
+	padding-left: 25px;
+}
+-->
+</style>
+<script language="Javascript">
+if (document.images) {
+     homeS = new Image
+     homeR = new Image
+	 aboutS = new Image
+	 aboutR = new Image
+	 projectsS = new Image
+	 projectsR = new Image
+	 websitesS = new Image
+	 websitesR = new Image
+	 picturesS = new Image
+	 picturesR = new Image
+	 videosS = new Image
+	 videosR = new Image
+     homeS.src = '../images/navBar/homeStandard.png'
+     homeR.src = '../images/navBar/homeRoll.png'
+	 aboutS.src = '../images/navBar/aboutMeStandard.png'
+     aboutR.src = '../images/navBar/aboutMeRoll.png'
+	 projectsS.src = '../images/navBar/projectsStandard.png'
+     projectsR.src = '../images/navBar/projectsRoll.png'
+	 websitesS.src = '../images/navBar/websitesStandard.png'
+     websitesR.src = '../images/navBar/websitesRoll.png'
+	 picturesS.src = '../images/navBar/picturesStandard.png'
+     picturesR.src = '../images/navBar/picturesRoll.png'
+	 videosS.src = '../images/navBar/videosStandard.png'
+     videosR.src = '../images/navBar/videoRoll.png'
+ }
+//-->
+</script>
+</head>
+
+<body>
+<div class="holder"><div class="top_bar">
+  <div class="top_bar_left"></div>
+  <div class="top_bar_main">
+      <div class="sign_in"> 
+         <a class='gray' href='signin.php'>Sign In or Register</a>      </div>
+    </div>    
+    <div class="top_bar_right"></div>
+  </div>
+  
+  <div class="title_bar"><img src="../images/title_pic.png" alt="QuinnDamerell.com" width="449" height="60" /></div>
+  
+  <div class="main_menu">
+    <div class="nav_bar_element"><center><a href="../index.php" onmouseover="document.home.src=homeR.src" onmouseout="document.home.src=homeS.src"><img src="../images/navBar/homeStandard.png" name="home" width="73" height="24" border=0></a>
+    </center></div>
+   <div class="nav_bar_element"><center><a href="../about_me.php" onmouseover="document.about.src=aboutR.src" onmouseout="document.about.src=aboutS.src"><img src="../images/navBar/aboutMeStandard.png" name="about" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../projects.php" onmouseover="document.proj.src=projectsR.src" onmouseout="document.proj.src=projectsS.src"><img src="../images/navBar/projectsStandard.png" name="proj" width="99" height="24" border=0 /></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../websites.php" onmouseover="document.web.src=websitesR.src" onmouseout="document.web.src=websitesS.src"><img src="../images/navBar/websitesStandard.png" name="web" width="94" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../pictures.php" onmouseover="document.pic.src=picturesR.src" onmouseout="document.pic.src=picturesS.src"><img src="../images/navBar/picturesStandard.png" name="pic" width="88" height="24" border=0></a>
+   </center></div>
+   <div class="nav_bar_element"><center><a href="../videos.php" onmouseover="document.vid.src=videosR.src" onmouseout="document.vid.src=videosS.src"><img src="../images/navBar/videosStandard.png" name="vid" width="88" height="24" border=0></a>
+   </center></div>
+    </div>
+  
+  <div class="main_body">    
+    <div class="main_left"><span class="welcome">Zune Playlist Shuffler</span></div>
+    <div class="pad">
+  
+      <div class="downlaodlink">
+        <p>Microsoft's Zune Player has its upsides and down sides.  Normally the Zune player will not allow you to  shuffle non automatically generated playlists.  But don’t fear! I made this simple java  program to do just that! Simply download and run this program and you too can  be a shuffle manic! Just choose the playlist from the list of playlist and  click shuffle, it’s really that simple!</p>
+      </div>
+      <p class="style6">Screenshot</p>
+      <div class="downlaodlink"><a rel="lightbox[sample]" title="A sample window" href="zuneplaylist.png"><img src="zuneplaylist_thumb.png" alt="PicGen" width="231" height="166" border="0" /></a></div>
+      <p><span class="style6">Download<br />
+        </span></p>
+      <div class="downlaodlink"><a href="Zune Playlist Shuffler 1.3.jar">Zune Playlist Shuffler 1.3.jar</a> - Java Executable   18.3KB</div>
+      <p><span class="style6">How To Use</span>
+      <div class="downlaodlink">
+        <p>Download and double click to run. I recommend you close Zune  player if it is open, it will do some weird things as the programs fight for file  control. Simply select the playlist in the window, and click shuffle. If the  playlist you want to shuffle is not in the window, select Add Directory and guide it to the playlist's directory.</p>
+</div>
+<p><span class="style6">Note: Java is Required to Use this Program</span><div class="downlaodlink">
+        <p>JRE or Java Runtime Environment is required to use this  program. Java is a widely used programing language that requires additional  downloads to work in windows. Please follow the <a href="http://www.java.com/en/download/manual.jsp">link</a> and select the version you  need. For most users, it will be first program under the Windows heading.</p>
+<p> <a href="http://www.java.com/en/download/manual.jsp">http://www.java.com/en/download/manual.jsp</a></p>
+ </div>
+
+<br />
+          </div>
+  </div>
+  
+  <div class="footer">
+    Copyright 2010 <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a> Designed By <a href="mailto: Quinn@quinndamerell.com" class="nounderline_foot">Quinn Damerell</a><br />
+    Last Updated 
+      <!-- #BeginDate format:fcAm1a -->Thursday, June 3, 2010 7:32 PM<!-- #EndDate -->    
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3382986-2");
+pageTracker._trackPageview();
+</script></body>
+</html>

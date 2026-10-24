@@ -1,0 +1,75 @@
+# Cloudflare Pages copies this file to the deployment root.
+# Keep Cache-Control rules disjoint: matching header values are combined.
+# HTML, search data, and archive source files retain Pages' revalidation default.
+
+# Zensical's generated bundles have content hashes in their filenames.
+# Keep unversioned custom CSS/JS outside these directories.
+/assets/stylesheets/*.min.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/javascripts/*.min.js
+  Cache-Control: public, max-age=31536000, immutable
+
+# These files change in place as the site is edited.
+/stylesheets/*
+  Cache-Control: public, no-cache
+
+/javascripts/*
+  Cache-Control: public, no-cache
+
+# Binary assets can be reused for a week. They are not immutable:
+# use a new filename when a replacement must appear immediately.
+/assets/*.png
+  Cache-Control: public, max-age=604800
+
+/assets/*.jpg
+  Cache-Control: public, max-age=604800
+
+/assets/*.jpeg
+  Cache-Control: public, max-age=604800
+
+/assets/*.webp
+  Cache-Control: public, max-age=604800
+
+/assets/*.avif
+  Cache-Control: public, max-age=604800
+
+/assets/*.gif
+  Cache-Control: public, max-age=604800
+
+/assets/*.svg
+  Cache-Control: public, max-age=604800
+
+/assets/*.ico
+  Cache-Control: public, max-age=604800
+
+/favicon.ico
+  Cache-Control: public, max-age=604800
+
+/assets/*.woff2
+  Cache-Control: public, max-age=604800
+
+/assets/*.woff
+  Cache-Control: public, max-age=604800
+
+/assets/*.ttf
+  Cache-Control: public, max-age=604800
+
+/assets/*.pdf
+  Cache-Control: public, max-age=604800
+
+/assets/*.zip
+  Cache-Control: public, max-age=604800
+
+/assets/*.mp3
+  Cache-Control: public, max-age=604800
+
+/assets/*.wav
+  Cache-Control: public, max-age=604800
+
+/assets/*.swf
+  Cache-Control: public, max-age=604800
+
+# Self-hosted emulator releases are pinned by directory; upgrade into a new path.
+/assets/vendor/ruffle/0.7.1/*
+  Cache-Control: public, max-age=31536000, immutable

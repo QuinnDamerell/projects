@@ -1,0 +1,28 @@
+{
+  "video_id": "Ehq43rbr3C8",
+  "title": "OctoEverywhere - Access Octoprint from anywhere - Chris's Basement",
+  "channel": "Chris Riley",
+  "channel_url": "https://www.youtube.com/@ChrisRiley",
+  "published": "2021-03-24",
+  "archived": "2026-10-18",
+  "original_url": "https://www.youtube.com/watch?v=Ehq43rbr3C8",
+  "filename": "youtube-chris-riley-octoeverywhere-2021.mp4",
+  "r2_url": "https://projects-storage.quinn.space/youtube-chris-riley-octoeverywhere-2021.mp4",
+  "r2_upload_status": "Pending user upload; public playback not yet verified",
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 970.895964,
+  "video_codec": "h264",
+  "audio_codecs": [
+    "aac"
+  ],
+  "bytes": 51412890,
+  "technical_details_source": "ffprobe of the downloaded MP4",
+  "summary_source": "Existing project-page research notes and original YouTube metadata",
+  "poster": {
+    "source": "https://i.ytimg.com/vi/Ehq43rbr3C8/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "segments": []
+}

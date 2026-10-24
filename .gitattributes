@@ -1,0 +1,35 @@
+# Binary media is stored with Git LFS so the repository stays small. Cloudflare Pages pulls
+# the LFS files when it clones the repo; tools/check_lfs.py fails the build if it ever doesn't.
+# See dev-docs/site.md#git-lfs. Pages still rejects any single file over 25 MB, so large
+# videos go to R2 (tools/upload_r2.py) rather than here.
+# Images
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.avif filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+# Documents, audio, video, and archives
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+# Media archive snapshots: generated, self-contained HTML copies of up to a few MB each
+docs/assets/media/**/snapshot.html filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.woff filter=lfs diff=lfs merge=lfs -text
+*.woff2 filter=lfs diff=lfs merge=lfs -text
+*.eot filter=lfs diff=lfs merge=lfs -text
+# Complete archives have byte hashes and matching ZIPs; preserve captured line endings.
+docs/assets/media/quinndamerell-homepage-2011/** -text
+docs/assets/media/quinndamerell-homepage-2012/** -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.swf filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.class filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
